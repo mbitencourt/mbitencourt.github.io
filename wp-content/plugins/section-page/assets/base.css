@@ -1,0 +1,14 @@
+.owc-section-page {
+  overflow: hidden;
+  border-bottom: 1px solid #ccc;
+}
+.owc-section-page .owc-sp-open {
+  overflow: hidden;
+  cursor: pointer;
+}
+.owc-section-page .owc-sp-open .owc-sp-toggle-arrow {
+  vertical-align: bottom;
+}
+.owc-section-page .owc-sp-content {
+  display: none;
+}
