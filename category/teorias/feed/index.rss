@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>teorias &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/category/teorias/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Wed, 10 May 2023 17:28:38 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>teorias &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Guia de Referência para Modelagem de Processos e Regras de Decisão</title>
+		<link>https://mauriciobitencourt.com/teorias/guia-de-referencia-para-modelagem-de-processos-e-regras-de-decisao/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 20 Sep 2021 13:24:48 +0000</pubDate>
+				<category><![CDATA[teorias]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[guia]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2469</guid>
+
+					<description><![CDATA[Compartilho a nova versão da Guia de Referência para modelar processos e regras de decisão com os standards BPMN 2.0 e DMN 1.3. Clique aqui para baixar o PDF da nova versão da guia. Acesse aqui a versão anterior com os standards BPMN 2.0, CMMN 1.1 e DMN 1.1 Saiba mais sobre as novas edições [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Compartilho a nova versão da Guia de Referência para modelar processos e regras de decisão com os standards BPMN 2.0 e DMN 1.3.</p>
+
+
+
+<p><a href="https://mauriciobitencourt.com/wp-content/uploads/2021/09/guia-referencia-bpmn20-dmn13-mauricio-bitencourt-v2021-09-20.pdf" target="_blank" rel="noreferrer noopener">Clique aqui para baixar o PDF da nova versão da guia.</a></p>
+
+
+
+<span id="more-2469"></span>
+
+
+
+<p><a href="https://mauriciobitencourt.com/teorias/guia-de-referencia-bpmn-cmmn-dmn">Acesse aqui a versão anterior com os standards BPMN 2.0, CMMN 1.1 e DMN 1.1</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://www.roadmap.com.br/inscricoes" target="_blank">Saiba mais sobre as novas edições dos cursos da Roadmap. </a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Guia de Referência para Modelar Processos, Casos e Decisões em BPMN, CMMN e DMN</title>
+		<link>https://mauriciobitencourt.com/teorias/guia-de-referencia-bpmn-cmmn-dmn/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2017 17:08:44 +0000</pubDate>
+				<category><![CDATA[teorias]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[guia]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=891</guid>
+
+					<description><![CDATA[Criei uma guia de referência para modelar processos com BPMN 2.0, casos com CMMN 1.1 e decisões com DMN 1.1 em português para distribuição grátis. Acesse aqui o arquivo PDF para você imprimir como guia em folha tamanho A3 ou como poster em folha tamanho A0. Veja aqui o post no LinkedIn. O lançamento desta guia aconteceu [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Criei uma guia de referência para modelar processos com BPMN 2.0, casos com CMMN 1.1 e decisões com DMN 1.1 em português para distribuição grátis.</p>
+<p><span id="more-891"></span></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/04/guia-referencia-poster-bpmn20-cmmn11-dmn11-mauricio-bitencourt.pdf">Acesse aqui o arquivo PDF para você imprimir como guia em folha tamanho A3 ou como poster em folha tamanho A0</a>.</p>
+<p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6255347474668544000/">Veja aqui o post no LinkedIn.</a></p>
+<p>O lançamento desta guia aconteceu no evento <a href="http://mauriciobitencourt.com/eventos/103o-forum-consad/">103º Fórum CONSAD</a> em Goiânia onde todas guias impressas em tamanho A3 foram distribuídas. Acompanhe os posts no <a href="https://www.linkedin.com/hp/update/6253566177126215680">LinkedIn</a> e no <a href="https://www.facebook.com/shares/view?id=10212448564672273">Facebook</a>.</p>
+<p>Conheça o <a href="http://www.projeler.com.br/treinamentos/index.jsp">Programa de Educação Corporativa da Projeler</a> com abordagem das técnicas e tecnologias relacionadas às notações BPMN, CMMN e DMN.</p>
+<p><div id="attachment_915" style="width: 710px" class="wp-caption alignnone"><a href="http://www.projeler.com.br/ec/"><img aria-describedby="caption-attachment-915" decoding="async" class="wp-image-915 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec-785x1024.png" alt="" width="700" height="913" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec-785x1024.png 785w, https://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec-230x300.png 230w, https://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec-768x1001.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec-537x700.png 537w, https://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec.png 1169w" sizes="(max-width: 700px) 100vw, 700px" /></a><p id="caption-attachment-915" class="wp-caption-text">Educação Corporativa Projeler</p></div></p>
+<p>Exemplos de ferramentas para modelagem</p>
+<table cellspacing="10">
+<tbody>
+<tr>
+<td>Ferramenta</td>
+<td>Execução</td>
+<td>BPMN</td>
+<td>CMMN</td>
+<td>DMN</td>
+</tr>
+<tr>
+<td><a href="https://camunda.org/bpmn/tool/">Camunda</a></td>
+<td>Windows, Mac e Linux</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="https://cawemo.com/">Cawemo</a></td>
+<td>Nuvem</td>
+<td>✓</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://bpmn.io/">BPMN.io</a></td>
+<td>Nuvem</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="http://www.trisotech.com/">Trisotech</a></td>
+<td>Nuvem</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="https://www.signavio.com/">Signavio</a></td>
+<td>Nuvem</td>
+<td>✓</td>
+<td></td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="https://www.bizagi.com/">Bizagi</a></td>
+<td>Windows</td>
+<td>✓</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="http://decisionsfirst.com/">DecisionFirst</a></td>
+<td>Nuvem</td>
+<td></td>
+<td></td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="https://community.tibco.com/wiki/bpm-modeling">TIBCO</a></td>
+<td></td>
+<td>✓</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="http://oracle.com/">Oracle</a></td>
+<td></td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="http://ibm.com/">IBM</a></td>
+<td></td>
+<td>✓</td>
+<td>✓ *</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://rapidgen.com/">Rapigen</a></td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://www.sparklinglogic.com/">Sparkling [logic]</a></td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="http://openrules.com/">OpenRule</a></td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://goldmansachs.github.io/jdmn/">jDMN</a></td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>(*) ODM (Semelhante a DMN, mas proprietária da IBM)</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Referencial teórico</title>
+		<link>https://mauriciobitencourt.com/teorias/referencial-teorico/</link>
+					<comments>https://mauriciobitencourt.com/teorias/referencial-teorico/#comments</comments>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 05 Mar 2015 12:11:39 +0000</pubDate>
+				<category><![CDATA[teorias]]></category>
+		<category><![CDATA[livros]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=226</guid>
+
+					<description><![CDATA[Recebo muitas solicitações para indicar referencial teórico. Este post tem o objetivo de criar uma lista com algumas fontes de informação e também desejos de compra. Foto da estante quando eu só comprava livros em papel e vivia com peso extra na mochila. Clique na imagem a seguir para ver em alta definição. Com o Kindle ficou muito mais [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Recebo muitas solicitações para indicar referencial teórico. Este post tem o objetivo de criar uma lista com algumas fontes de informação e também desejos de compra.</p>
+<p><span id="more-226"></span></p>
+<p>Foto da estante quando eu só comprava livros em papel e vivia com peso extra na mochila. Clique na imagem a seguir para ver em alta definição.</p>
+<p><a href="http://www.projeler.com.br/img/carousel/estante_livos_projeler_sem_fundo.png"><img decoding="async" loading="lazy" class="alignright wp-image-234 size-full" src="http://mauriciobitencourt.com/wp-content/uploads/2015/03/estante_livos_projeler_sem_fundo_720x240.png" alt="estante_livos_projeler_sem_fundo_720x240" width="720" height="240" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/03/estante_livos_projeler_sem_fundo_720x240.png 720w, https://mauriciobitencourt.com/wp-content/uploads/2015/03/estante_livos_projeler_sem_fundo_720x240-300x100.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2015/03/estante_livos_projeler_sem_fundo_720x240-700x233.png 700w" sizes="(max-width: 720px) 100vw, 720px" /></a></p>
+<p>Com o Kindle ficou muito mais fácil levar a biblioteca para ler no avião ou no hotel.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2015/03/kindle800.png"><img decoding="async" loading="lazy" class=" wp-image-229 size-medium alignleft" src="http://mauriciobitencourt.com/wp-content/uploads/2015/03/kindle800-209x300.png" alt="kindle800" width="209" height="300" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/03/kindle800-209x300.png 209w, https://mauriciobitencourt.com/wp-content/uploads/2015/03/kindle800-712x1024.png 712w, https://mauriciobitencourt.com/wp-content/uploads/2015/03/kindle800-487x700.png 487w, https://mauriciobitencourt.com/wp-content/uploads/2015/03/kindle800.png 800w" sizes="(max-width: 209px) 100vw, 209px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Vamos começar a lista dos meus principais influenciadores de construção de conhecimento (<em>nunca estará pronto!</em>).</p>
+<p>ABPMP.org</p>
+<ul>
+<li><a href="http://www.amazon.com.br/BPM-CBOK-V3-0-Gerenciamento-Conhecimento-ebook/dp/B00I1KWWZ2/ref=sr_1_1?ie=UTF8&amp;qid=1425561110&amp;sr=8-1&amp;keywords=cbok+portugues" target="_blank" rel="noopener">Guia para o Gerenciamento de Processos de Negócio Corpo Comum de Conhecimento ABPMP BPM CBOK® V3.0</a></li>
+</ul>
+<p>Alec Sharp</p>
+<ul>
+<li><a href="http://www.amazon.com.br/Workflow-Modeling-Improvement-Application-Development-ebook/dp/B008O5K65C/ref=sr_1_1?ie=UTF8&amp;qid=1430105144&amp;sr=8-1&amp;keywords=Workflow+Modeling%3A+Tools+for+Process+Improvement+and+Application+Development" target="_blank" rel="noopener">Workflow Modeling: Tools for Process Improvement and Application Development</a></li>
+</ul>
+<p>Augusto de Franco</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=-3bnzmykCiM" target="_blank" rel="noopener">TEDxSP 2009 &#8211; Augusto de Franco</a></li>
+<li><a href="https://www.youtube.com/watch?v=rQX3i6SWxe4" target="_blank" rel="noopener">Viver em rede e viver da rede</a></li>
+<li><a href="https://www.youtube.com/watch?v=tuPvOifsXqI" target="_blank" rel="noopener">Escola de Redes</a></li>
+</ul>
+<p>Bruno Palvarini</p>
+<ul>
+<li><a href="http://www.amazon.com.br/GEST%C3%83O-PROCESSOS-VOLTADA-PARA-RESULTADOS-ebook/dp/B00GSOG39O" target="_blank" rel="noopener">Gestão de Processos Voltada para Resultados</a></li>
+<li><a href="http://www.buzzsprout.com/13033/159739-ep-13-bruno-palvarini-a-solucao-para-complexidade-de-processos-e-problemas.mp3" target="_blank" rel="noopener">Gart Capote&#8217;s BPM Podcast ep 13 &#8211; Bruno Palvarini &amp; A Solução para Complexidade de Processos e Problemas</a></li>
+<li><a href="http://mauriciobitencourt.com/wp-content/uploads/2015/03/onze_ideias_para_uma_boa_gestao_de_processos.pdf">Onze idéias para uma boa gestão de processos</a></li>
+</ul>
+<p>Clóvis de Barros Filho</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Qj6mQSdBSGI" target="_blank" rel="noopener">Sobre ter Culhão</a></li>
+<li><a href="https://www.youtube.com/watch?v=7jqWruDia0E" target="_blank" rel="noopener">The Noite</a></li>
+</ul>
+<p>Gart Capote</p>
+<ul>
+<li><a href="http://www.gartcapote.com/livros.html" target="_blank" rel="noopener">Medição de Valor de Processos para BPM</a><a href="http://mauriciobitencourt.com/wp-content/uploads/2015/03/Captura-de-Tela-2015-04-17-às-10.08.41.png"><img decoding="async" loading="lazy" class=" size-medium wp-image-358 alignright" src="http://mauriciobitencourt.com/wp-content/uploads/2015/03/Captura-de-Tela-2015-04-17-às-10.08.41-300x253.png" alt="Captura de Tela 2015-04-17 às 10.08.41" width="300" height="253" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/03/Captura-de-Tela-2015-04-17-às-10.08.41-300x253.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2015/03/Captura-de-Tela-2015-04-17-às-10.08.41-700x591.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2015/03/Captura-de-Tela-2015-04-17-às-10.08.41.png 750w" sizes="(max-width: 300px) 100vw, 300px" /></a></li>
+<li><a href="http://www.gartcapote.com/bpm-podcasts.html" target="_blank" rel="noopener">BPM Podcasts</a></li>
+<li><a href="http://www.buzzsprout.com/13033/141613-ep-11-mauricio-bitencourt-cbpp-ibpm-tecnologias-para-gestao" target="_blank" rel="noopener">ep 11 &#8211; Mauricio Bitencourt, CBPP &amp; iBPM + Tecnologias para Gestão</a></li>
+<li><span style="line-height: 1.5;"><a href="https://www.youtube.com/watch?v=hAAmJDZJ06E" target="_blank" rel="noopener">Serviços Públicos com Foco Do Cidadão</a></span></li>
+</ul>
+<p><span style="line-height: 1.5;">John P. Kotter</span></p>
+<ul>
+<li><a href="http://www.amazon.com.br/Sentido-Urg%C3%AAncia-John-O-Kotter/dp/8576842971/ref=sr_1_1?ie=UTF8&amp;qid=1438435028&amp;sr=8-1&amp;keywords=sentido+de+urgencia" target="_blank" rel="noopener">Sentido de Urgência</a></li>
+</ul>
+<p><span style="line-height: 1.5;">Leandro Jesus</span></p>
+<ul>
+<li><a href="http://www.livrariacultura.com.br/p/repensando-a-gestao-por-meio-de-processos-42233935" target="_blank" rel="noopener">Repensando a Gestão por Meio de Processos</a></li>
+<li><a href="https://www.linkedin.com/today/posts/leandrojesus" target="_blank" rel="noopener">Artigos no LinkedIn Pulse</a></li>
+<li><a href="http://www.bpmglobaltrends.com.br/revistas/" target="_blank" rel="noopener">Revista BPM Global Trends</a></li>
+</ul>
+<p>Mário Sérgio Cortella</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=3rzvOqrtWIc" target="_blank" rel="noopener">Se você não existisse, que falta faria?</a></li>
+<li><a href="https://www.youtube.com/watch?v=yzWzM-VGPAo" target="_blank" rel="noopener">Ética no cotidiano</a></li>
+<li><a href="https://www.youtube.com/channel/UCWIS30jutbS3-LZv1uldOjQ" target="_blank" rel="noopener">Canal: Horizonte Ampliado</a></li>
+</ul>
+<p>Michael Hammer</p>
+<ul>
+<li><a href="http://www.livrariacultura.com.br/p/mais-rapido-barato-e-melhor-22625817" target="_blank" rel="noopener">Mais Rápido, Barato e Melhor &#8211; Determine o Sucesso Dos Negócios Alinhando Processos Organizacionais &#8211; W. Hershman, Lisa</a></li>
+<li><a href="http://www.estantevirtual.com.br/b/michael-hammer/a-agenda/3950944044?vmnqm=0" target="_blank" rel="noopener">A Agenda , O que todos os negócios devem fazer para dominar a década</a></li>
+<li><a href="https://www.youtube.com/watch?v=J3SNxuPRxc0" target="_blank" rel="noopener">The Role of the Process Owner</a></li>
+</ul>
+<p>Michael Rosemann</p>
+<ul>
+<li><a href="http://www.bpmglobaltrends.com.br/ambidestria-em-bpm-uma-entrevista-com-michael-rosemann/">Ambidestria em BPM: uma entrevista com Michael Rosemann</a></li>
+</ul>
+<p>Paul Harmon</p>
+<ul>
+<li><a href="http://www.amazon.com.br/Business-Process-Change-Management-Professionals-ebook/dp/B00K7YXKHY/ref=sr_1_3?ie=UTF8&amp;qid=1430104895&amp;sr=8-3&amp;keywords=Business+Process+Change" target="_blank" rel="noopener">Business Process Change, Second Edition: A Guide for Business Managers and BPM and Six Sigma Professional &#8211; Paul Harmon</a></li>
+</ul>
+<p>Peter Drucker</p>
+<ul>
+<li><a href="http://www.esextante.com.br/publique/cgi/cgilua.exe/sys/start.htm?infoid=6051&amp;sid=2" target="_blank" rel="noopener">A Cabeça de Peter Drucker &#8211; Jeffrey A. Krames</a></li>
+</ul>
+<p><a href="http://www.peterfingar.com/books.html" target="_blank" rel="noopener">Peter Fingar</a></p>
+<ul>
+<li><a href="http://www.fairdene.com/" target="_blank" rel="noopener">Business Process Management (BPM): The Third Wave &#8211; Howard Smith e Peter Fingar</a></li>
+<li><a href="http://mauriciobitencourt.com/eventos/bbc2012/" target="_blank" rel="noopener">Encontro com Peter Fingar no evento Building Business Capability 2012 em Fort Lauderdale</a></li>
+<li><a href="http://www.amazon.com/Business-Process-Management-Next-Wave/dp/0929652223" target="_blank" rel="noopener">Business Process Management: The Next Wave</a></li>
+<li><a href="http://www.fairdene.com/hbr/index.html" target="_blank" rel="noopener">IT Doesn&#8217;t Matter &#8211; Business Process Do</a></li>
+</ul>
+<p><a href="https://www.linkedin.com/pub/roger-burlton/0/164/298" target="_blank" rel="noopener">Roger Burlton</a></p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ChUGecIdSLc" target="_blank" rel="noopener">About the value of the business process modeling and opportunities to transform organizations</a></li>
+<li><a href="http://www.amazon.com.br/Business-Process-Management-Profiting-ebook/dp/B001C01JFC/ref=sr_1_1?ie=UTF8&amp;qid=1430105095&amp;sr=8-1&amp;keywords=Business+Process+Management%3A+Profiting+From+Process" target="_blank" rel="noopener">Business Process Management: Profiting From Process</a></li>
+<li><a href="http://www.amazon.com.br/How-Work-Gets-Done-Management-ebook/dp/B006X99XXW/ref=sr_1_1?ie=UTF8&amp;qid=1430105117&amp;sr=8-1&amp;keywords=How+Work+Gets+Done%3A+Business+Process+Management%2C+Basics+and+Beyond+-+Artie+Mahal" target="_blank" rel="noopener">How Work Gets Done: Business Process Management, Basics and Beyond &#8211; Artie Mahal</a></li>
+</ul>
+<p>Sabrina Bittencout</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=HiIDWfvyaBc&amp;feature=share" target="_blank" rel="noopener">ESCOLA COM ASAS com Sabrina Bittencout em Diálogos 242</a></li>
+</ul>
+<p>&nbsp;</p>
+<p>Walter Longo</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=HmySW5YOVRA" target="_blank" rel="noopener">Walter Longo na Arena do Marketing Folha e ESPM</a></li>
+<li><a href="https://www.youtube.com/watch?v=Pgpk2Eo8VR4" target="_blank" rel="noopener">Fórum HSM</a></li>
+</ul>
+<p>&nbsp;</p>
+<h6>Frases</h6>
+<p><em><a href="http://mauriciobitencourt.com/wp-content/uploads/2015/03/Captura-de-Tela-2015-04-17-às-10.10.37.png"><img decoding="async" loading="lazy" class=" size-medium wp-image-360 alignleft" src="http://mauriciobitencourt.com/wp-content/uploads/2015/03/Captura-de-Tela-2015-04-17-às-10.10.37-300x258.png" alt="Captura de Tela 2015-04-17 às 10.10.37" width="300" height="258" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/03/Captura-de-Tela-2015-04-17-às-10.10.37-300x258.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2015/03/Captura-de-Tela-2015-04-17-às-10.10.37-700x603.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2015/03/Captura-de-Tela-2015-04-17-às-10.10.37.png 737w" sizes="(max-width: 300px) 100vw, 300px" /></a>&#8220;Foco é dizer não.&#8221;</em> &#8211; Steve Jobs (WWDC&#8217;97)</p>
+<p><a href="https://www.linkedin.com/nhome/updates?activity=5989031426413125632&amp;goback=&amp;trk=hb_ntf_RESHARED_YOUR_RICH_MEDIA_UPDATE" target="_blank" rel="noopener"><em>“Seu trabalho vai preencher boa parte da sua vida e a única maneira de ser verdadeiramente satisfeito é fazer o que acredita ser um ótimo trabalho. E a única maneira de fazer o ótimo trabalho é <strong>amar o que você faz</strong>.”</em> – Steve Jobs</a></p>
+<p><em>&#8220;Seu tempo é limitado, então não perca tempo vivendo a vida de outra pessoa&#8221;</em> – Steve Jobs</p>
+<p><div style="width: 135px" class="wp-caption alignright"><img decoding="async" loading="lazy" class="" src="https://upload.wikimedia.org/wikipedia/en/a/a3/W._Edwards_Deming.gif" alt="W. Edwards Deming - From Wikipedia, the free encyclopedia" width="125" height="198" /><p class="wp-caption-text">W. Edwards Deming &#8211; Wikipedia</p></div></p>
+<p><em>&#8220;In God we trust; all others must bring data.&#8221;</em> – W. Edwards Deming</p>
+<p><em>“Não se gerencia o que não se mede, não se mede o que não se define, não se define o que não se entende. Não há sucesso no que não se gerencia.”</em> – W. E. Deming</p>
+<p><em>“Mensuração é um conjunto de observações que resulta em redução de incerteza quando um resultado é expresso como uma quantidade.”</em> &#8211; Douglas Hubbard</p>
+<p><em> “As organizações competem no ambiente do século XXI, e no entanto ainda adotam práticas de gestão do século XX”</em> &#8211; Gary Hamel</p>
+<p><div style="width: 153px" class="wp-caption alignleft"><img decoding="async" loading="lazy" class="" src="https://upload.wikimedia.org/wikipedia/en/5/56/Drucker-portrait-bkt_1014.jpg" alt="Peter Drucker - Wikipedia" width="143" height="143" /><p class="wp-caption-text">Peter Drucker &#8211; Wikipedia</p></div></p>
+<p><em>“O que é nosso negócio não é determinado pelo fornecedor, mas sim pelo cidadão, aluno, paciente ou genericamente, pelo cliente. Portanto, essa questão só pode ser respondida ao olhar o negócio de fora, do ponto de vista do cliente e do mercado e, a partir disso, organizar-se para atendê-los.”</em> &#8211; Peter Drucker</p>
+<p><em>&#8220;Gerenciamento é substituir músculos por pensamentos, folclore e superstição por conhecimento, e força por cooperação.&#8221;</em> – Peter Drucker</p>
+<p>&nbsp;</p>
+<p><span style="line-height: 1.5;"><em>&#8220;A primeira regra de qualquer tecnologia utilizada em um negócio é que a automação aplicada a uma operação eficiente irá aumentar a eficiência. </em></span><span style="line-height: 1.5;"><br />
+<em>A segunda é que a automação aplicada a uma operação ineficiente vai ampliar a ineficiência&#8221;</em> &#8211; Bill Gates</span></p>
+<p>&nbsp;</p>
+<p><em>&#8220;Há apenas uma maneira de evitar críticas: não fazer, não falar e não ser nada&#8221;</em> – Aristóteles<img decoding="async" loading="lazy" class=" size-medium wp-image-357 alignright" src="http://mauriciobitencourt.com/wp-content/uploads/2015/03/Captura-de-Tela-2015-04-17-às-10.06.31-213x300.png" alt="Captura de Tela 2015-04-17 às 10.06.31" width="213" height="300" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/03/Captura-de-Tela-2015-04-17-às-10.06.31-213x300.png 213w, https://mauriciobitencourt.com/wp-content/uploads/2015/03/Captura-de-Tela-2015-04-17-às-10.06.31-727x1024.png 727w, https://mauriciobitencourt.com/wp-content/uploads/2015/03/Captura-de-Tela-2015-04-17-às-10.06.31-497x700.png 497w, https://mauriciobitencourt.com/wp-content/uploads/2015/03/Captura-de-Tela-2015-04-17-às-10.06.31.png 767w" sizes="(max-width: 213px) 100vw, 213px" /></p>
+<p><em>&#8220;Só existe um chefe: o cliente. E ele pode demitir todas as pessoas da empresa, do presidente do conselho até o faxineiro, simplesmente levando o dinheiro para gastar em outro lugar&#8221;</em> – Sam Walton</p>
+<p><em>&#8220;Os livros não mudam o mundo, quem muda o mundo são as pessoas. Os livros só mudam as pessoas.&#8221;</em> – Mário Quintana</p>
+<p><em>&#8220;Você não pode fazer o trabalho de hoje com os métodos de ontem se pretende estar no mercado amanhã.&#8221;</em> – Jack Welch</p>
+<p><em>&#8220;O conhecimento serve para encantar as pessoas, não humilhá-las.&#8221;</em>  – Mário Sérgio Cortella</p>
+<p><em>&#8220;Tudo é considerado impossível até acontecer.&#8221;</em>  – Nelson Mandela</p>
+<p><em>&#8220;Contrate o caráter. Treine as habilidades&#8221;</em> – Peter Schutz</p>
+<p><em>&#8220;Trabalhe por uma causa, e não por aplausos. Não se esforce para que sua presença seja notada, mas, sim, para que a sua ausência seja sempre sentida.&#8221;</em>  – Autor desconhecido</p>
+<p><em>&#8220;O mais importante ingrediente na fórmula do sucesso é saber como lidar com as pessoas&#8221;</em>  – Theodore Roosevelt</p>
+<p><em>“Ensinar não é transferir conhecimento, mas criar as possibilidades para a sua própria produção ou a sua construção.”</em> ― Paulo Freire</p>
+<p><em>&#8220;Quem ensina aprende ao ensinar. E quem aprende ensina ao aprender.&#8221;</em> ― Paulo Freire</p>
+<p><div style="width: 135px" class="wp-caption alignleft"><img decoding="async" loading="lazy" class="" src="https://upload.wikimedia.org/wikipedia/en/7/76/Taiichi_Ohno.jpeg" alt="Taiichi Ohno - Wikipedia" width="125" height="140" /><p class="wp-caption-text">Taiichi Ohno &#8211; Wikipedia</p></div></p>
+<p><em>“O que nós fazemos é observar a linha do tempo, do momento em que o cliente solicita um produto até o momento em que ele nos paga. E nós reduzimos essa linha do tempo retirando o que não agrega valor.”</em> – Taichi Ohno</p>
+<p><em>&#8220;No início de qualquer esforço em direção à mudança, se não houver um <a href="http://www.amazon.com.br/Sentido-Urg%C3%AAncia-John-O-Kotter/dp/8576842971/ref=sr_1_1?ie=UTF8&amp;qid=1438436119&amp;sr=8-1&amp;keywords=sentido+de+urgencia" target="_blank" rel="noopener">sentido de urgência</a> forte o suficiente e a complacência não for bastante baixa, todo o restante torna-se muito mais difícil &#8230; Com um falso sentido de urgência, a empresa tem muita energia, mas esta é movida pela ansiedade, pela raiva e pela frustração, e não por uma determinação focada em vencer &#8230; Com a falsa urgência, a ação tem consequências maléficas: pular de reunião em reunião, gerar pilhas e pilhas de relatórios, correr em círculos, tudo com orientação disfuncional que muitas vezes impede que as pessoas explorem importantes oportunidades e resolvam problemas difíceis.&#8221;</em> &#8211; John Kotter</p>
+<div>&#8220;<em>Qual é o parasita mais resistente? Uma bactéria? Um vírus? Não. Uma ideia! Resistente e altamente contagiosa. Uma vez que uma ideia se apodera da mente, é quase impossível erradicá-la. Uma ideia que é totalmente formada e compreendida, permanece.</em>” &#8211; Frase do filme A Origem (Inception), Dom Cobb (DiCaprio)</div>
+<p>&nbsp;</p>
+<div>&#8220;<em>Diga-me como me medes que te direi como me comportarei.</em>” &#8211; Eliyahu Moshe Goldratt</div>
+<p>&nbsp;</p>
+<div>“<em>A única vantagem competitiva sustentável é a capacidade de aprender mais rápido e melhor do que os concorrentes.</em>” &#8211; Peter M. Senge</div>
+<div><strong>A crise segundo Einstein</strong></div>
+<div>
+<p><div style="width: 235px" class="wp-caption alignright"><img decoding="async" loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/225px-Albert_Einstein_Head.jpg" alt="Origem: Wikipédia, a enciclopédia livre." width="225" height="300" /><p class="wp-caption-text">Albert Einstein &#8211; Wikipédia</p></div></p>
+<p><em>&#8220;Não pretendemos que as coisas mudem, se sempre fazemos o mesmo. A crise é a melhor benção que pode ocorrer com as pessoas e países, porque a crise traz progressos. A criatividade nasce da angústia, como o dia nasce da noite escura. É na crise que nascem as invenções, os descobrimentos e as grandes estratégias. Quem supera a crise, supera a si mesmo sem ficar &#8216;superado&#8217;.</em><br />
+<em>Quem atribui à crise seus fracassos e penúrias, violenta seu próprio talento e respeita mais aos problemas do que às soluções. A verdadeira crise, é a crise da incompetência. O inconveniente das pessoas e dos países é a esperança de encontrar as saídas e soluções fáceis. Sem crise não há desafios, sem desafios, a vida é uma rotina, uma lenta agonia. Sem crise não há mérito. É na crise que se aflora o melhor de cada um. Falar de crise é promovê-la, e calar-se sobre ela é exaltar o conformismo. Em vez disso, trabalhemos duro. Acabemos de uma vez com a única crise ameaçadora, que é a tragédia de não querer lutar para superá-la.&#8221; </em>&#8211; Albert Einstein</p>
+</div>
+<div></div>
+<p>&nbsp;</p>
+<h6><span style="line-height: 1.5;">Links</span></h6>
+<ul>
+<li><a href="http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/decreto/d6932.htm" target="_blank" rel="noopener">Decreto Nº 6.932, de 11/08/2009 que institui a “Carta de Serviços ao Cidadão”</a></li>
+<li><a title="http://bpmn-miwg.github.io/bpmn-miwg-tools/" href="http://bpmn-miwg.github.io/bpmn-miwg-tools/" target="_blank" rel="noopener">Lista de ferramentas de modelagem em BPMN com modelos intercambiáveis</a></li>
+<li><a href="https://www.youtube.com/watch?v=OIRZebE8O84" target="_blank" rel="noopener">Arthur C. Clarke Predicts the Internet &amp; PC</a></li>
+<li><a href="https://www.youtube.com/watch?v=hAAmJDZJ06E" target="_blank" rel="noopener">Serviços Públicos com Foco Do Cidadão</a></li>
+<li><a href="https://www.youtube.com/watch?v=F12DAS-ZNDY" target="_blank" rel="noopener">All work and all play (legendado)</a></li>
+<li><a href="https://www.youtube.com/watch?v=6KRjuuEVEZs" target="_blank" rel="noopener">A Day in the Life of a Kiva Robot</a></li>
+<li><a href="https://www.youtube.com/watch?v=zn1RvJ_Hjbg" target="_blank" rel="noopener">Ocado has gone Google</a></li>
+<li><a href="https://www.youtube.com/watch?v=dkL_ltHeJ5s" target="_blank" rel="noopener">The Intelligent, Integrated Shipping Company: JBoss Enterprise Business Rules Management System</a></li>
+<li><a href="https://www.youtube.com/watch?v=PbmotQJNr5E" target="_blank" rel="noopener">Compreenda facilmente o sistema lean</a></li>
+<li><a href="https://www.youtube.com/watch?v=c6KVeDbgRgU" target="_blank" rel="noopener">TOYOTA &#8211; Lean Manufacturing</a></li>
+<li><a href="https://www.youtube.com/watch?v=ayaO26BmkPk" target="_blank" rel="noopener">TED Simon Sinek &#8211; Como grandes líderes inspiram ação &#8211; Legendado</a></li>
+<li><a href="https://www.youtube.com/watch?v=W3gRr0T1bNs" target="_blank" rel="noopener">Trecho de Entrevista com Steve Jobs Trabalho em Equipe Legendado</a></li>
+<li><a href="https://www.youtube.com/watch?v=TMgab8m-qIQ" target="_blank" rel="noopener">Prefeitura de Porto Alegre lança sistema de Aprovação Eletrônica de Projetos</a></li>
+<li><a href="https://youtu.be/NGQAVgrpCRY" target="_blank" rel="noopener">Quanto maior o governo menor o cidadão &#8211; Dennis Prager</a></li>
+<li><a href="https://youtu.be/6XvmhE1J9PY" target="_blank" rel="noopener">President Obama asks America to learn computer science</a> (clique em legendas/CC para ler em português)</li>
+<li><a href="https://youtu.be/2yXzNlugCtg" target="_blank" rel="noopener">Jorge Paulo Lemann</a></li>
+<li><a href="https://www.youtube.com/watch?v=2K2oPPJ0joQ" target="_blank" rel="noopener">Burocracia X Crescimento</a></li>
+<li><a href="https://www.youtube.com/watch?v=RRy_73ivcms" target="_blank" rel="noopener">Formula 1 Pit Stops 1950 &amp; Today</a></li>
+<li></li>
+</ul>
+<p>Documentação técnica sobre automatização de processos, regras, eventos, agentes, planejamento de recursos e muito mais.</p>
+<ul>
+<li><a href="http://docs.jboss.org/jbpm/v6.2/userguide/" target="_blank" rel="noopener">jBPM Documentation</a></li>
+<li><a href="http://blog.athico.com/" target="_blank" rel="noopener">Drools &amp; jBPM: All things Artificial Intelligence related: Rules, Processes, Events, Agents, Planning, Ontologies and more</a></li>
+<li><a href="http://www.kiegroup.org/" target="_blank" rel="noopener">KIE Group: Open source projects for business systems automation and management.</a></li>
+<li><a href="http://www.amazon.com.br/jBPM-Developer-Guide-Mariano-Nicolas-ebook/dp/B00MUHSPS0/ref=sr_1_1?ie=UTF8&amp;qid=1427109982&amp;sr=8-1&amp;keywords=jbpm" target="_blank" rel="noopener">jBPM 6 Developer Guide [EBook Kindle] Mariano Nicolas De Maio (Autor), Mauricio Salatino (Autor), Esteban Aliverti (Autor)</a></li>
+<li><a href="http://mauriciobitencourt.com/eventos/judcon2014brazil/" target="_blank" rel="noopener">Apresentação de Estudo de Caso no JUDCon2014:Brazil</a></li>
+</ul>
+<h6>Estudos de caso</h6>
+<ul>
+<li><a href="http://mauriciobitencourt.com/cases/" target="_blank" rel="noopener">Estudos de caso apresentados em eventos BPM Day</a></li>
+<li><a href="http://exame.abril.com.br/negocios/noticias/mrv-constroi-processos-e-diminui-reclamacoes-de-clientes" target="_blank" rel="noopener">MRV constrói processos e diminui reclamações de clientes</a></li>
+</ul>
+<h6>Engajamento e motivação</h6>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=BAk5Tz5H1x0" target="_blank" rel="noopener">Steve Jobs motivation [PT-BR] &#8211; Movie Scenes</a></li>
+<li><a href="https://www.youtube.com/watch?v=817P4xu-5N8" target="_blank" rel="noopener">Cortella, como engajar pessoas nas empresas?</a></li>
+</ul>
+<h6>Exemplo de apresentações bem preparadas</h6>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=9ou608QQRq8" target="_blank" rel="noopener">Steve Jobs apresenta primeiro iPhone legendado (2007)</a></li>
+</ul>
+<h6>Gerenciamento de Decisões</h6>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=Y6sb1Eos1sI">Brigadeiros da Nice</a></li>
+<li><a href="https://www.youtube.com/watch?v=dkL_ltHeJ5s" target="_blank" rel="noopener">The Intelligent, Integrated Shipping Company: JBoss Enterprise Business Rules Management System</a></li>
+</ul>
+<h6>Planejamento de Recursos</h6>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=f4jIWbQpjdE" target="_blank" rel="noopener">Solve optimization and scheduling problems with business resource planning</a></li>
+<li><a href="https://www.youtube.com/watch?v=YBvp7h1aUwM" target="_blank" rel="noopener">Proporcionar mais inteligência aos processos para otimizar recursos e eliminar desperdícios.</a></li>
+</ul>
+<h6>Especificações</h6>
+<ul>
+<li><a href="http://www.omg.org/spec/DMN/" target="_blank" rel="noopener">Decision Model and Notation (DMN)</a></li>
+<li><a href="http://www.omg.org/spec/BPMN/" target="_blank" rel="noopener">Business Process Model And Notation (BPMN)</a></li>
+<li><a href="http://www.omg.org/spec/CMMN/" target="_blank" rel="noopener">Case Management Model And Notation (CMMN)</a></li>
+<li><a href="http://www.omg.org/spec/BPMM/" target="_blank" rel="noopener">Business Process Maturity Model (BPMM)</a></li>
+<li><a href="http://www.omg.org/spec/BMM/" target="_blank" rel="noopener">Business Motivation Model (BMM)</a></li>
+<li><a href="http://www.omg.org/spec/SBVR/">Semantics Of Business Vocabulary And Rules (SBVR)</a></li>
+</ul>
+<h6>Estruturas de Trabalho (<em>Industry Frameworks</em>)</h6>
+<ul>
+<li><a href="https://www.apqc.org/pcf" target="_blank" rel="noopener">APQC&#8217;s Process Classification Framework®(PCF)</a></li>
+<li><a href="http://www.apics.org/sites/apics-supply-chain-council/frameworks/scor" target="_blank" rel="noopener">APICS Supply Chain Council SCOR Framework</a></li>
+<li><a href="http://www.value-chain.org/#!vrm/cee5" target="_blank" rel="noopener">Value Reference Model (VRM)</a></li>
+<li><a href="https://www.tmforum.org/business-process-framework/" target="_blank" rel="noopener">Telecommunications Business Process Framework (eTOM)</a></li>
+<li><a href="http://balancedscorecard.org/Resources/About-the-Balanced-Scorecard" target="_blank" rel="noopener">Balanced Scorecard (BSC)</a></li>
+</ul>
+<p>&nbsp;</p>
+<h6>Referencial teórico para a certificação OMG Certified Expert in BPM 2<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (OCEB 2<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />) &#8211; Fundamental</h6>
+<p><a href="http://www.amazon.com.br/Business-Process-Management-Systems-Implementation-ebook/dp/B008ICFKJI/ref=sr_1_2?ie=UTF8&amp;qid=1436668126&amp;sr=8-2&amp;keywords=James+F.+Chang">[icon name=icon-tablet]</a>  <a href="https://books.google.com.br/books?id=LBtC3-rmIaIC&amp;printsec=frontcover&amp;hl=pt-BR#v=onepage&amp;q&amp;f=false">[icon name=icon-book]</a> James F. Chang. Business Process Management Systems: Strategy and Implementation</p>
+<p><a href="http://www.amazon.com.br/OCEB-Certification-Guide-Management-Fundamental-ebook/dp/B005NZ7HRG/ref=sr_1_1?ie=UTF8&amp;qid=1436668361&amp;sr=8-1&amp;keywords=OCEB+Certification+Guide-+Business+Process+Management-+Fundamental+Level">[icon name=icon-tablet]</a> <a href="https://books.google.com.br/books?id=Q3nV8qihcDAC&amp;printsec=frontcover&amp;hl=pt-BR#v=onepage&amp;q&amp;f=false">[icon name=icon-book]</a> Tim Weilkiens, Christian Weiss e Andrea Grass. OCEB Certification Guide- Business Process Management- Fundamental Level</p>
+<p><a href="http://www.amazon.com.br/MBA-Day-Top-Tier-Business-Schools-ebook/dp/B003UD7QMY/ref=sr_1_2?ie=UTF8&amp;qid=1436668617&amp;sr=8-2&amp;keywords=MBA+in+a+Day">[icon name=icon-tablet]</a> <a href="https://books.google.com.br/books?id=vfn6ID1O6IkC&amp;printsec=frontcover&amp;dq=MBA+In+A+Day:+What+You+Would+Learn+At+Top-Tier+Business+Schools+(If+You+Only+Had+The+Time!)+-+por+Steven+Stralser&amp;hl=pt-BR&amp;sa=X&amp;ei=VuahVfGRMYT9oQS67KPIAg&amp;ved=0CDAQ6AEwAA#v=onepage&amp;q=MBA%20In%20A%20Day%3A%20What%20You%20Would%20Learn%20At%20Top-Tier%20Business%20Schools%20(If%20You%20Only%20Had%20The%20Time!)%20-%20por%20Steven%20Stralser&amp;f=false">[icon name=icon-book]</a> Steven Stralser. MBA In A Day: What You Would Learn At Top-Tier Business Schools (If You Only Had The Time!)</p>
+<p><a href="http://www.amazon.com.br/Complete-Idiots-Basics-Lifestyle-Paperback-ebook/dp/B00AR1AL5G/ref=sr_1_1?ie=UTF8&amp;qid=1436668741&amp;sr=8-1&amp;keywords=The+Complete+Idiot%27s+Guide+to+MBA">[icon name=icon-tablet]</a> <a href="https://books.google.com.br/books?id=nbKAMA8r3Y4C&amp;printsec=frontcover&amp;dq=The+Complete+Idiot%27s+Guide+to+MBA+Basics+-+por+Tom+Gorman&amp;hl=pt-BR&amp;sa=X&amp;ei=eOahVe-yEtLdoATntozADw&amp;ved=0CDIQ6AEwAQ#v=onepage&amp;q=The%20Complete%20Idiot's%20Guide%20to%20MBA%20Basics%20-%20por%20Tom%20Gorman&amp;f=false">[icon name=icon-book]</a> Tom Gorman. The Complete Idiot&#8217;s Guide to MBA Basics</p>
+<p><a href="http://www.amazon.com.br/Fundamentals-Business-Process-Management-Marlon-ebook/dp/B00C0Q8LQW/ref=sr_1_1?ie=UTF8&amp;qid=1436668833&amp;sr=8-1&amp;keywords=Fundamentals+of+Business+Process+Management">[icon name=icon-tablet]</a> <a href="https://books.google.com.br/books?id=USVEAAAAQBAJ&amp;printsec=frontcover&amp;dq=Fundamentals+of+Business+Process+Management+-+por+Marlon+Dumas+e+Marcello+La+Rosa&amp;hl=pt-BR&amp;sa=X&amp;ei=pOahVea4EJLjoAS686vYCQ&amp;ved=0CCYQ6AEwAA#v=onepage&amp;q=Fundamentals%20of%20Business%20Process%20Management%20-%20por%20Marlon%20Dumas%20e%20Marcello%20La%20Rosa&amp;f=false">[icon name=icon-book]</a> Marlon Dumas e Marcello La Rosa. Fundamentals of Business Process Management</p>
+<p><a href="http://www.amazon.com/Business-Process-Management-Third-Wave/dp/0929652347/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1436669081&amp;sr=1-4&amp;keywords=peter+fingar">[icon name=icon-tablet]</a> <a href="https://books.google.com.br/books?id=I0Y7AAAACAAJ&amp;dq=Business+Process+Management:+The+Third+Wave+-+por+Howard+Smith+e+Peter+Fingar&amp;hl=pt-BR&amp;sa=X&amp;ei=0-ahVaE3l62hBJGAqvAK&amp;ved=0CCkQ6AEwAA">[icon name=icon-book]</a> Howard Smith e Peter Fingar. Business Process Management: The Third Wave</p>
+<p><a href="http://www.amazon.com.br/Method-Style-Second-Implementers-English-ebook/dp/B0076R7Y8Q/ref=sr_1_1?ie=UTF8&amp;qid=1436669156&amp;sr=8-1&amp;keywords=BPMN+Method+and+Style" target="_blank" rel="noopener">[icon name=icon-tablet]</a> <a href="https://books.google.com.br/books?id=v7VXPgAACAAJ&amp;dq=BPMN+Method+and+Style+-+por+Bruce+Silver&amp;hl=pt-BR&amp;sa=X&amp;ei=_-ahVb_kDIKJoQSmnYmIBA&amp;ved=0CCsQ6AEwAA">[icon name=icon-book]</a> Bruce Silver. BPMN Method and Style</p>
+<p><a href="http://www.amazon.com/Microguide-Process-Modeling-BPMN-2-0/dp/1463511353/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1436669255&amp;sr=1-1&amp;keywords=The+Microguide+to+Process+Modeling+in+BPMN+2.0">[icon name=icon-tablet]</a> <a href="https://books.google.com.br/books?id=UMQBfAEACAAJ&amp;dq=The+Microguide+to+Process+Modeling+in+BPMN+2.0:+How+to+Build+Great+Process,+Rule,+and+Event+Models+-+por+Rick+Geneva+e+Tom+Debevoise&amp;hl=pt-BR&amp;sa=X&amp;ei=L-ehVZXGKNTtoATjyq_oBg&amp;ved=0CB0Q6AEwAA" target="_blank" rel="noopener">[icon name=icon-book]</a> Rick Geneva e Tom Debevoise. The Microguide to Process Modeling in BPMN 2.0: How to Build Great Process, Rule, and Event Models</p>
+<p><a href="http://www.amazon.com.br/Business-Process-Management-Rigorous-Approach-ebook/dp/B004EWGHHK/ref=sr_1_sc_1?ie=UTF8&amp;qid=1436669320&amp;sr=8-1-spell&amp;keywords=Business+Process+Management%3A+A+Rigorous+Approac">[icon name=icon-tablet]</a> <a href="https://books.google.com.br/books?id=qK-d0AjuMmQC&amp;printsec=frontcover&amp;dq=Business+Process+Management:+A+Rigorous+Approach+-+por+Martyn+A.+Ould&amp;hl=pt-BR&amp;sa=X&amp;ei=ZeehVb26E9HHogSXw4LgDw&amp;ved=0CCsQ6AEwAA#v=onepage&amp;q=Business%20Process%20Management%3A%20A%20Rigorous%20Approach%20-%20por%20Martyn%20A.%20Ould&amp;f=false">[icon name=icon-book]</a> Martyn A. Ould. Business Process Management: A Rigorous Approach</p>
+<p><a href="http://www.amazon.com.br/Six-Sigma-Dummies-Craig-Gygi-ebook/dp/B009F09Z2K/ref=sr_1_1?ie=UTF8&amp;qid=1436670111&amp;sr=8-1&amp;keywords=Six+Sigma+for+Dummies">[icon name=icon-tablet]</a> <a href="https://books.google.com.br/books?id=N7D05ZcefNoC&amp;printsec=frontcover&amp;dq=Six+Sigma+For+Dummies&amp;hl=pt-BR&amp;sa=X&amp;ei=ZuihVYm2O47soATIvqLoAw&amp;ved=0CC8Q6AEwAQ#v=onepage&amp;q=Six%20Sigma%20For%20Dummies&amp;f=false" target="_blank" rel="noopener">[icon name=icon-book]</a> Craig Gygi, Neil DeCarlo, Bruce Williams e Stephen R. Covey. Six Sigma For Dummies</p>
+<p><a href="http://www.amazon.com.br/Balanced-Scorecard-Translating-Strategy-Action-ebook/dp/B000SEIJPG/ref=sr_1_1?ie=UTF8&amp;qid=1436669746&amp;sr=8-1&amp;keywords=The+Balanced+Scorecard%3A+Translating+Strategy+into+Action">[icon name=icon-tablet]</a> <a href="https://books.google.com.br/books?id=mRHC5kHXczEC&amp;printsec=frontcover&amp;dq=The+Balanced+Scorecard:+Translating+Strategy+into+Action+-+por+Robert+S.+Kaplan+e+David+P.+Norton&amp;hl=pt-BR&amp;sa=X&amp;ei=n-ihVfCyIZW3oQSop5r4BQ&amp;ved=0CCAQ6AEwAA#v=onepage&amp;q=The%20Balanced%20Scorecard%3A%20Translating%20Strategy%20into%20Action%20-%20por%20Robert%20S.%20Kaplan%20e%20David%20P.%20Norton&amp;f=false">[icon name=icon-book]</a> Robert S. Kaplan e David P. Norton. The Balanced Scorecard: Translating Strategy into Action</p>
+<p><a href="http://www.amazon.com/Say-What-You-Framework-Procedures/dp/0972903968/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1436669821&amp;sr=1-1&amp;keywords=Say+What+You+Do%3A+Building+a+Framework+of+IT+Controls%2C+Policies%2C+Standards%2C+and+Procedures">[icon name=icon-tablet]</a> <a href="https://books.google.com.br/books?id=zYtTAAAACAAJ&amp;dq=Say+What+You+Do:+Building+a+Framework+of+It+Controls,+Policies,+Standards,+and+Procedures+-+por+Dorian+J.+Cougias,+Marcelo+Halpern+e+Rebecca+Herold&amp;hl=pt-BR&amp;sa=X&amp;ei=xOihVdP2M4z9oATrorKgAg&amp;ved=0CB0Q6AEwAA">[icon name=icon-book]</a> Dorian J. Cougias, Marcelo Halpern e Rebecca Herold. Say What You Do: Building a Framework of It Controls, Policies, Standards, and Procedures</p>
+<p><a href="http://amzn.com/w/1O15WHX08I908" target="_blank" rel="noopener">Acesse aqui a Wish List no site da Amazon</a></p>
+<h6>Referencial teórico para a certificação OMG Certified Expert in BPM 2<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (OCEB 2<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />) &#8211; Business Intermediate</h6>
+<ul>
+<li><a href="http://www.ibm.com/developerworks/bpm/bpmjournal/1308_col_schume/1308_schume.html" target="_blank" rel="noopener">BPM and Lean &#8212; a powerful combination for process improvement</a></li>
+<li><a href="http://www.amazon.com.br/Real-Life-BPMN-2nd-Automate-Processes-ebook/dp/B00QNJ9M42/ref=sr_1_fkmr0_1?ie=UTF8&amp;qid=1436672023&amp;sr=8-1-fkmr0&amp;keywords=Real-Life+BPMN%3A+Using+BPMN+2.0+to+Analyze%2C+Improve%2C+and+Automate+Processes+in+Your+Compan">Real-Life BPMN (2nd Edition): Using BPMN 2.0 to Analyze, Improve, and Automate Processes in Your Company</a></li>
+<li><a href="http://www.amazon.com.br/Business-Process-Change-Management-Professionals-ebook/dp/B00K7YXKHY/ref=sr_1_4?ie=UTF8&amp;qid=1436672067&amp;sr=8-4&amp;keywords=Business+Process+Change">Business Process Change: A Business Process Management Guide for Managers and Process Professionals</a></li>
+<li><a href="http://www.amazon.com.br/Business-Modeling-Practical-Guide-Realizing-ebook/dp/B002ZJSVN2/ref=sr_1_1?ie=UTF8&amp;qid=1436672118&amp;sr=8-1&amp;keywords=Business+Modeling%3A+A+Practical+Guide+to+Realizing+Business+Value">Business Modeling: A Practical Guide to Realizing Business Value</a></li>
+<li><a href="http://www.amazon.com/Business-Rule-Concepts-Getting-Knowledge/dp/0941049043/ref=sr_1_1?ie=UTF8&amp;qid=1436672209&amp;sr=8-1&amp;keywords=Business+Rule+Concepts%3A+Getting+to+the+Point+of+Knowledge">Business Rule Concepts: Getting to the Point of Knowledge</a></li>
+<li><a href="http://www.amazon.com/Business-Process-Management-Rules-Approach/dp/1419673688/ref=sr_1_1?ie=UTF8&amp;qid=1436672253&amp;sr=8-1&amp;keywords=Business+Process+Management+with+a+Business+Rules+Approach" target="_blank" rel="noopener">Business Process Management with a Business Rules Approach: Implementing The Service Oriented Architecture</a></li>
+<li><a href="http://www.amazon.com.br/Change-Management-People-Side-English-ebook/dp/B00EO81JGS/ref=sr_1_1?ie=UTF8&amp;qid=1436672302&amp;sr=8-1&amp;keywords=Change+Management%3A+The+People+Side+of+Change">Change Management: The People Side of Change</a></li>
+</ul>
+<p><a href="http://mauriciobitencourt.com/cursos/certificacao-profissional-em-bpm/">Acesse aqui para mais informações sobre Certificação Profissional em BPM.</a></p>
+<p>&nbsp;</p>
+<h6>Estratégia &amp; Transformação</h6>
+<ul>
+<li><a href="http://www.theguardian.com/books/2015/jul/17/postcapitalism-end-of-capitalism-begun" target="_blank" rel="noopener">The end of capitalism has begun</a></li>
+<li><a href="http://gizmodo.uol.com.br/com-a-mao-de-obra-robotizada-quais-sao-os-trabalhos-que-deixarao-de-ser-dos-humanos/" target="_blank" rel="noopener">Com a mão de obra robotizada, quais são os trabalhos que deixarão de ser dos humanos?</a></li>
+<li><a href="http://hbrbr.com.br/gestao-de-pessoas-nao-e-com-o-rh/" target="_blank" rel="noopener">A gestão das pessoas não é com o RH!</a></li>
+<li><a href="https://www.lojasegmento.com.br/produtos/?conheca_seu_novo_funcionario&amp;idproduto=4105&amp;action=info" target="_blank" rel="noopener">Conheça seu novo funcionário: Como gerir a colaboração homem-máquina</a></li>
+</ul>
+<div></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mauriciobitencourt.com/teorias/referencial-teorico/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		<enclosure url="http://www.buzzsprout.com/13033/159739-ep-13-bruno-palvarini-a-solucao-para-complexidade-de-processos-e-problemas.mp3" length="0" type="audio/mpeg" />
+
+			</item>
+	</channel>
+</rss>

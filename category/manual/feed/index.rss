@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>manual &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/category/manual/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Thu, 25 Mar 2021 12:51:32 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>manual &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nota Técnica Camunda &#8211; Gestão</title>
+		<link>https://mauriciobitencourt.com/manual/nota-tecnica-camunda-gestao/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2020 01:54:48 +0000</pubDate>
+				<category><![CDATA[manual]]></category>
+		<category><![CDATA[BAM]]></category>
+		<category><![CDATA[BPMS]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[Optimize]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2018</guid>
+
+					<description><![CDATA[Elaborei esta nota técnica sobre o Camunda BPM com o intuito de classificar o atendimento de requisitos de gestão orientada por dados de processos e regras de decisões automatizados com base na versão 7.13 do Camunda BPM e Optimize 3.0. Veja também:Nota Técnica Camunda – Desenvolvimento e OperaçõesNota Técnica Camunda – Modelagem Gestão Camunda Optimize [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Elaborei esta nota técnica sobre o Camunda BPM com o intuito de classificar o atendimento de requisitos de gestão orientada por dados de processos e regras de decisões automatizados com base na versão 7.13 do Camunda BPM e Optimize 3.0.</p>
+
+
+
+<p>Veja também:<br><a href="https://mauriciobitencourt.com/manual/nota-tecnica-camunda-devops/">Nota Técnica Camunda – Desenvolvimento e Operações</a><br><a href="https://mauriciobitencourt.com/manual/nota-tecnica-camunda-modelagem/">Nota Técnica Camunda – Modelagem</a></p>
+
+
+
+<span id="more-2018"></span>
+
+
+
+<h2 class="wp-block-heading">Gestão</h2>
+
+
+
+<h3 class="wp-block-heading">Camunda Optimize</h3>
+
+
+
+<p>O Camunda Optimize é um módulo analítico que captura todos os dados históricos de execução de processos e decisões para o monitoramento de atividades de negócios (BAM), relatórios, alertas e análises.</p>
+
+
+
+<h4 class="wp-block-heading">Monitoramento de Atividades de Negócio (BAM &#8211; Business Activity Monitoring)</h4>
+
+
+
+<p>O Camunda Optimize oferece suporte à melhoria contínua de processos e  tabelas de decisão, fornecendo transparência em seus fluxos de trabalho e regras de negócio automatizadas. Relatórios e painéis de negócios, bem como alertas, ajudam a identificar gargalos do processo e melhorar seu desempenho geral.</p>
+
+
+
+<h4 class="wp-block-heading">Relatórios</h4>
+
+
+
+<p>Com o Optimize, as partes interessadas da sua empresa podem criar e personalizar facilmente relatórios perspicazes.</p>
+
+
+
+<p>Por exemplo, eles podem exibir o número de instâncias do processo agrupadas por dias, a duração das instâncias do processo por hora.</p>
+
+
+
+<p>Os relatórios podem ser compartilhados com outras pessoas, mesmo que elas não tenham um login de usuário para o Optimize. E você pode incorporar um relatório em outros sites, como o Atlassian Confluence, para fornecer informações atualizadas às partes interessadas.</p>
+
+
+
+<p>Você também pode exportar os dados do relatório como arquivos CSV para abri-los em ferramentas como o Microsoft Excel.</p>
+
+
+
+<h4 class="wp-block-heading">Filtros Poderosos</h4>
+
+
+
+<p>Você pode filtrar convenientemente as instâncias de processo e avaliações de decisão que deseja incluir em seus relatórios.</p>
+
+
+
+<p>Por exemplo, você pode examinar especificamente instâncias de processo que:</p>
+
+
+
+<ul><li>estão em execução no momento, foram concluídas ou (não) canceladas.</li><li>iniciado ou finalizado em um intervalo de tempo definido, seja absoluto ou relativo, como nos últimos 7 dias ou 24 horas.</li><li>demorou mais do que um tempo de ciclo específico para concluir, o que permite identificar baixo desempenho.</li><li>contém variáveis com valores específicos que você pode selecionar convenientemente no campo de filtro.</li><li>consistem em etapas específicas que foram executadas para que você concentre seu relatório em determinadas variantes de processo.</li></ul>
+
+
+
+<h4 class="wp-block-heading">Painéis de Gerenciamento (Dashboards)</h4>
+
+
+
+<p>Organize seus relatórios em painéis para fornecer uma visão geral rápida. Se desejar, você pode até adicionar relatórios externos ao seu painel. Você pode criar quantos painéis desejar para compartilhar facilmente as informações corretas com diferentes partes interessadas.</p>
+
+
+
+<p>Como os relatórios, os painéis podem ser compartilhados com outras pessoas, mesmo que elas não tenham um login de usuário para o Optimize. E você pode incorporar um painel em outros sites, como o Atlassian Confluence, para fornecer informações atualizadas às partes interessadas.</p>
+
+
+
+<h4 class="wp-block-heading">Alertas</h4>
+
+
+
+<p>Os alertas são configurados com base em relatórios para informar as partes interessadas imediatamente quando determinados limites forem atingidos.</p>
+
+
+
+<p>Por exemplo, você pode definir um relatório que conte o número de instâncias do processo que foram iniciadas nas últimas 24 horas, mas que ainda não foram concluídas. Em seguida, você pode definir um alerta que verificará a cada minuto se esse número está acima de um limite definido, digamos 100 instâncias. Nesse caso, o alerta acionará um e-mail para o destinatário especificado, lembrando-o potencialmente em intervalos definidos e enviando uma notificação de correção assim que o número cair abaixo do limite definido.</p>
+
+
+
+<h4 class="wp-block-heading">Análise de Variantes de Processo</h4>
+
+
+
+<p>Como certas variantes do seu processo afetam os resultados dos negócios, é possível descobrir com a análise de ramificação selecionando um evento final do processo e um gateway de processo. </p>
+
+
+
+<p>O Optimize mostrará a probabilidade estatística de alcançar o respectivo evento final ao obter uma ramificação de gateway específica.</p>
+
+
+
+<h4 class="wp-block-heading">Referências:</h4>
+
+
+
+<p><a href="https://camunda.com/products/camunda-platform/optimize/">Camunda Optimize</a></p>
+
+
+
+<p></p>
+
+
+
+<p><a href="https://www.roadmap.com.br/om">Operações e Monitoramento da Execução de Processos Automatizados</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nota Técnica Camunda &#8211; Desenvolvimento e Operações</title>
+		<link>https://mauriciobitencourt.com/manual/nota-tecnica-camunda-devops/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2020 01:21:34 +0000</pubDate>
+				<category><![CDATA[manual]]></category>
+		<category><![CDATA[BPMS]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2009</guid>
+
+					<description><![CDATA[Elaborei esta nota técnica sobre o Camunda BPM com o intuito de classificar o atendimento de requisitos de desenvolvimento, instalação e operação do BPMS com base na versão 7.13 do Camunda BPM. Veja também:Nota Técnica Camunda &#8211; ModelagemNota Técnica Camunda – Desenvolvimento e Operações Desenvolvimento Formulários A plataforma Camunda BPM tem boa flexibilidade para desenvolver [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Elaborei esta nota técnica sobre o Camunda BPM com o intuito de classificar o atendimento de requisitos de desenvolvimento, instalação e operação do BPMS com base na versão 7.13 do Camunda BPM.</p>
+
+
+
+<p>Veja também:<br><a href="https://mauriciobitencourt.com/manual/nota-tecnica-camunda-modelagem">Nota Técnica Camunda &#8211; Modelagem</a><br><a href="https://mauriciobitencourt.com/manual/nota-tecnica-camunda-devops/">Nota Técnica Camunda – Desenvolvimento e Operações</a></p>
+
+
+
+<span id="more-2009"></span>
+
+
+
+<h2 class="wp-block-heading">Desenvolvimento</h2>
+
+
+
+<h3 class="wp-block-heading">Formulários</h3>
+
+
+
+<p>A plataforma Camunda BPM tem boa flexibilidade para desenvolver formulários de diversas formas:</p>
+
+
+
+<ol type="a"><li>Formulários de tarefa incorporados (Embedded Task Forms:): são formulários de tarefa baseados em HTML, exibidos incorporados na Lista de Tarefas (Tasklist). Você poderá construir os formulários arrastando e soltando (Drag &amp; Drop) componentes com o <a rel="noreferrer noopener" href="https://bootsnipp.com/forms" target="_blank">Bootsnip Form Builder</a> ou outro de sua preferência, por exemplo.</li><li>Formulários de tarefas gerados (Generated Task Forms): como formulários de tarefas incorporados, mas gerados a partir de metadados XML do diagrama BPMN 2.0;</li><li>Formulários de tarefas externas (External Task Forms): o usuário é direcionado para outro aplicativo para concluir a tarefa;</li><li>Formulários de tarefas genéricos (Generic Task Forms): se não houver um formulário de tarefas, um formulário genérico será exibido para editar as variáveis do processo;</li><li>Kit de desenvolvimento (Forms SDK): formulários em HTML5 com bibliotecas JavaScript;</li><li>Qualquer estrutura de trabalho (<em>Framework</em>): utilizando a API REST da Camunda, você poderá criar a <a rel="noreferrer noopener" href="https://blog.camunda.com/post/2018/02/custom-tasklist-examples/" target="_blank">própria lista de trabalho utilizando React ou Angular</a>, por exemplo.</li><li>Desenhar formulários arrastando (Drag &amp; Drop) componentes com o Bootsnip Form Builder para serem inforporados </li></ol>
+
+
+
+<p>A API da Camunda é vasta e muito bem documentada. A seguir algumas referências da documentação e fontes de exemplo:</p>
+
+
+
+<ol type="a"><li><a rel="noreferrer noopener" href="https://docs.camunda.org/manual/latest/reference/rest/" target="_blank">REST API Reference</a></li><li><a rel="noreferrer noopener" href="https://forum.camunda.org/" target="_blank">Camunda BPM Forum</a></li><li><a rel="noreferrer noopener" href="https://camunda.com/best-practices/_/" target="_blank">Camunda Best Practices</a> </li><li><a rel="noreferrer noopener" href="https://blog.camunda.com/" target="_blank">Camunda Team Blog</a> </li><li><a href="https://stackoverflow.com/questions/tagged/camunda" target="_blank" rel="noreferrer noopener">Stack Overflow</a> </li></ol>
+
+
+
+<h3 class="wp-block-heading">Ambiente do Usuário</h3>
+
+
+
+<p>Os usuários finais podem utilizar a aplicação Camunda Tasklist para organizar e trabalhar nas <a href="https://docs.camunda.org/manual/7.13/reference/bpmn20/tasks/user-task/" target="_blank" rel="noreferrer noopener">Tarefas de Usuário de BPMN</a> e <a href="https://docs.camunda.org/manual/7.13/reference/cmmn11/tasks/human-task/" target="_blank" rel="noreferrer noopener">Tarefas Humanas com Bloqueio de CMNN</a>. </p>
+
+
+
+<p>O <a href="https://docs.camunda.org/manual/7.13/webapps/tasklist/" target="_blank" rel="noreferrer noopener">Camunda Tasklist</a> é uma aplicação 100% web e responsiva para dispositivos e tamanhos de tela variados.</p>
+
+
+
+<p>Durante a execução do processo, o Camunda Engine criará tarefas com base no modelo BPMN ou CMMN predefinido. O mecanismo atribui essas tarefas aos usuários finais, conforme definido no modelo. Quando os usuários finais clicam em uma tarefa na Camunda Tasklist, eles verão um formulário de tarefa que exibe informações e solicita que eles insiram dados. Depois de concluir o trabalho no formulário da tarefa, ele é concluído clicando em um botão, solicitando que o motor de processos do Camunda continue a execução do modelo.</p>
+
+
+
+<p>Dentre as principais características do Tasklist, podemos destacar:</p>
+
+
+
+<ol type="a"><li>Criação de <a rel="noreferrer noopener" href="https://docs.camunda.org/manual/7.13/webapps/tasklist/filters/" target="_blank">filtros de tarefas</a> por várias chaves, usuários, grupos, prazos e variáveis. Estes <a href="https://docs.camunda.org/manual/7.13/webapps/tasklist/filters/" target="_blank" rel="noreferrer noopener">filtros</a> podem ter cores distintas e permissões para usuários e grupos.</li><li><a rel="noreferrer noopener" href="https://docs.camunda.org/manual/7.13/webapps/tasklist/working-with-tasklist/" target="_blank">Pesquisa e ordenação de tarefas</a> por vários critérios.</li><li>Abas para apresentação do formulário, histórico de apropriação da tarefa, gráfico do processo com o contexto da tarefa e descrição da instrução de trabalho.</li><li><a href="https://docs.camunda.org/manual/7.13/webapps/tasklist/working-with-tasklist/" target="_blank" rel="noreferrer noopener">Datas de acompanhamento, prazo de vencimento, grupos e usuários</a> podem ser atribuídos por usuários.</li></ol>
+
+
+
+<p>Além da aplicação Camunda Tasklist, a API REST ou classes Java poderão ser utilizadas para construir uma aplicação Web ou aplicativos desktop e mobile.</p>
+
+
+
+<h3 class="wp-block-heading">Integrações</h3>
+
+
+
+<p>O motor de processo do Camunda BPM suporta duas maneiras de executar tarefas de serviço:</p>
+
+
+
+<ol type="a"><li><strong>Tarefas de Serviço Intern</strong>o: Chamada síncrona de código implantado junto com um aplicativo de processo;</li><li><strong>Tarefas Externas</strong>: fornecendo uma unidade de trabalho em uma lista que pode ser pesquisada pelos task workers.</li></ol>
+
+
+
+<h4 class="wp-block-heading">Tarefas de Serviço Interno</h4>
+
+
+
+<p>O <a href="https://docs.camunda.org/manual/7.13/reference/connect/" target="_blank" rel="noreferrer noopener">Camunda Connect</a> fornece uma API simples para conectar serviços <a href="https://docs.camunda.org/manual/7.13/user-guide/process-engine/delegation-code/" target="_blank" rel="noreferrer noopener">Java Delegate</a>,&nbsp; <a href="https://docs.camunda.org/manual/7.13/reference/connect/http-connector/" target="_blank" rel="noreferrer noopener">HTTP REST</a> e <a href="https://docs.camunda.org/manual/7.13/reference/connect/soap-connector/" target="_blank" rel="noreferrer noopener">SOAP Webservices</a>. Dentre as principais vantagens das tarefas de serviço internas, podemos destacar:</p>
+
+
+
+<ol type="a"><li>Abordagem simples e intuitiva de integração requisição/resposta;</li><li>Fácil de configurar e de implementar resiliência ao processo automatizado;</li><li>Composição o serviço síncrono</li></ol>
+
+
+
+<h4 class="wp-block-heading">Tarefas Externas</h4>
+
+
+
+<p>As tarefas externas (<a href="https://docs.camunda.org/manual/7.13/user-guide/process-engine/external-tasks/" target="_blank" rel="noreferrer noopener">External Tasks</a>) funcionam de uma maneira que o mecanismo de processo publica uma unidade de trabalho (tópico) para um outro componente de software externo trabalhador (<em>task worker</em>) buscar a tarefa, concluir ou assinalar caminho de exceção. Dentre as principais vantagens das tarefas externas, podemos destacar:</p>
+
+
+
+<ol type="a"><li>Os Task Workers (ou seja, os Serviços) são dissociados do Workflow Engine e podem ser desenvolvidos e dimensionados independentemente;</li><li>Os Task Workers podem ser executados atrás de firewalls (por exemplo, o motor de fluxo de trabalho na nuvem pública e o Task Worker on-premise);</li><li>Os Task Workers podem agrupar o trabalho com base em sua disponibilidade e capacidade;</li><li>Tarefas de longa duração são fáceis de implementar.</li><li>Permitem integração de aplicações com robô de software que imita as ações humanas em sistemas (<em>RPA Robot Process Automation</em>).</li></ol>
+
+
+
+<p>A seguir uma gravação da participação no encontro <a rel="noreferrer noopener" href="https://mauriciobitencourt.com/meetup/arqti-poa/" target="_blank">Implementando transações distribuídas em arquiteturas de microsserviços: um confronto entre orquestração e coreografia </a>do Meetup do 8º Encontro do Arquitetura de TI POA que demonstra as diferenças entre as duas formas de integração do motor de processos.</p>
+
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/f2j1qYAkJ1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+
+
+<h2 class="wp-block-heading">Instalação</h2>
+
+
+
+<p>Estão relacionados aqui os requisitos de infraestrutura e administração necessários para a implantação e manutenção dos ambientes produtivo e não produtivo, garantindo também a sua disponibilidade, tais como a verificação da infraestrutura de hardware e software necessária para o funcionamento da ferramenta, assim como as funcionalidades para a administração do produto, estrutura de atendimento e de suporte que o fabricante disponibiliza.</p>
+
+
+
+<p>Plataformas suportadas pelo Camunda BPM 7.13 conforme documentação <a rel="noreferrer noopener" href="https://docs.camunda.org/manual/7.13/introduction/supported-environments/" target="_blank">Supported Environments</a> instalado em servidor de aplicações ou com servidor de aplicações embutido.</p>
+
+
+
+<h3 class="wp-block-heading">Servidor de Aplicações</h3>
+
+
+
+<h4 class="wp-block-heading">Instalado em Servidor de Aplicações</h4>
+
+
+
+<p>Servidor de aplicação para rodar o motor de fluxo de trabalho (<em>workflow</em>) e decisões juntamente com as aplicações Cockpit, Tasklist e Admin:</p>
+
+
+
+<ol><li>Apache Tomcat</li><li>JBoss EAP</li><li>Wildfly Application Server</li><li>IBM WebSphere Application Server</li><li>Oracle WebLogic Server</li></ol>
+
+
+
+<h4 class="wp-block-heading">Com Servidor de Aplicações Embutido</h4>
+
+
+
+<p>O Camunda Run é uma distribuição empacotada sem a necessidade de servidor de aplicações juntamente com as aplicações Cockpit, Tasklist e Admin:</p>
+
+
+
+<ol><li><a href="https://docs.camunda.org/get-started/spring-boot/" target="_blank" rel="noreferrer noopener">Camunda Spring Boot Starter com Tomcat embutido</a></li><li><a href="https://docs.camunda.org/manual/latest/user-guide/camunda-bpm-run/" target="_blank" rel="noreferrer noopener">Camunda Run</a></li><li><a href="https://docs.camunda.org/manual/develop/installation/docker/#start-camunda-bpm-run-using-docker" target="_blank" rel="noreferrer noopener">Camunda Run via Docker</a></li></ol>
+
+
+
+<h2 class="wp-block-heading">Banco de Dados de Persistência</h2>
+
+
+
+<ol><li>MySQL</li><li>MariaDB</li><li>Oracle</li><li>IBM DB2</li><li>PostgreSQL</li><li>Amazon Aurora PostgreSQL</li><li>Microsoft SQL Server</li><li>H2 (não recomendado para ambiente de produção)</li></ol>
+
+
+
+<h3 class="wp-block-heading">Navegadores</h3>
+
+
+
+<ol><li>Google Chrome</li><li>Mozilla Firefox</li><li>Microsoft Edge</li></ol>
+
+
+
+<h3 class="wp-block-heading">Java e Java Runtime</h3>
+
+
+
+<ul><li>Java (8 a 14)</li><li>Oracle JDK (8 a 14)</li><li>IBM JDK 8</li><li>OpenJDK (8 a 14)</li></ul>
+
+
+
+<h3 class="wp-block-heading">Camunda Modeler</h3>
+
+
+
+<ul><li>Windows 7 / 10</li><li>Mac OS X 10</li><li>Linux (Ubuntu, Fedora e Debian)</li></ul>
+
+
+
+<h2 class="wp-block-heading">Operação</h2>
+
+
+
+<h3 class="wp-block-heading">Cockpit</h3>
+
+
+
+<p>Com o <a href="https://docs.camunda.org/manual/7.13/webapps/cockpit/" target="_blank" rel="noreferrer noopener">Camunda Cockpit</a>, você pode monitorar os fluxos de trabalho e as decisões na produção para descobrir, analisar e resolver problemas técnicos.</p>
+
+
+
+<h4 class="wp-block-heading">Descobrir Problemas</h4>
+
+
+
+<p>O Cockpit fornece um <a rel="noreferrer noopener" href="https://docs.camunda.org/manual/7.13/webapps/cockpit/dashboard/" target="_blank">painel de execução</a> de modelos de <a rel="noreferrer noopener" href="https://docs.camunda.org/manual/7.13/webapps/cockpit/bpmn/" target="_blank">processo BPMN</a>, <a href="https://docs.camunda.org/manual/7.13/webapps/cockpit/dmn/" target="_blank" rel="noreferrer noopener">decisões em DMN</a> ou <a href="https://docs.camunda.org/manual/7.13/webapps/cockpit/cmmn/" target="_blank" rel="noreferrer noopener">casos em CMMN</a>, permitindo ver rapidamente o que está acontecendo e encontrar instâncias específicas com base em diferentes critérios.</p>
+
+
+
+<p>Incidentes técnicos são destacados. Você pode inspecioná-los para entender a causa raiz. Exemplos típicos de incidentes são:</p>
+
+
+
+<ul><li>Uma tarefa no fluxo de trabalho tentou chamar um serviço de API, mas recebeu um tempo limite ou a API respondeu com uma mensagem de erro técnico ou com dados corrompidos.</li><li>Uma expressão técnica em um fluxo condicional (ramificação do gateway), um atributo de evento ou similar falhou devido à falta de dados.</li><li>Um código Java executado que foi chamado de uma Tarefa de Serviço lançou uma exceção.</li><li>Um evento de erro do BPMN foi lançado dentro de um subprocesso.</li></ul>
+
+
+
+<h4 class="wp-block-heading">Analisar Problemas</h4>
+
+
+
+<p>Para obter um entendimento completo de um problema técnico, geralmente é necessário inspecionar o fluxo de execução do processo que ocorreu antes da ocorrência do erro. Por exemplo, uma expressão técnica em um gateway pode ter falhado 5 etapas antes desse gateway, uma variável foi preenchida com um valor errado devido a um erro de design em uma tabela de decisão da DMN que foi chamada a partir de uma tarefa de regra de negócios do BPMN.</p>
+
+
+
+<p>Com o Cockpit, você pode descobrir rapidamente esse erro inspecionando</p>
+
+
+
+<ul><li>Verificar o log de auditoria do BPMN, <a rel="noreferrer noopener" href="https://docs.camunda.org/manual/7.13/webapps/cockpit/bpmn/process-instance-modification/" target="_blank">histórico detalhado das etapas executadas</a> e gráficos de <a rel="noreferrer noopener" href="https://docs.camunda.org/manual/7.13/webapps/cockpit/bpmn/process-history-views/#heatmap" target="_blank">mapa de calor (Heatmap)</a> do processo.</li><li>Analisar maneira como as <a rel="noreferrer noopener" href="https://docs.camunda.org/manual/7.13/webapps/cockpit/bpmn/process-instance-view/#add-variables" target="_blank">variáveis ​​de processo</a> foram alteradas durante essas etapas</li><li>Inspecionar as execuções <a href="https://docs.camunda.org/manual/7.13/webapps/cockpit/dmn/decision-instance-view/" target="_blank" rel="noreferrer noopener">históricas da tabela de decisão</a> para ver quais regras foram aplicadas na execução específica desse processo.</li></ul>
+
+
+
+<h4 class="wp-block-heading">Resolver Problemas</h4>
+
+
+
+<p>Depois de entender o problema, você pode:</p>
+
+
+
+<ul><li><a href="https://docs.camunda.org/manual/7.13/webapps/cockpit/bpmn/suspension/" target="_blank" rel="noreferrer noopener">Suspender o processo</a> para impedir uma execução adicional enquanto você corrige a causa raiz;</li><li>Adicionar, editar ou excluir variáveis ​​de processo;</li><li><a href="https://docs.camunda.org/manual/7.13/webapps/cockpit/bpmn/process-instance-modification/" target="_blank" rel="noreferrer noopener">Modificar o status atual de uma ou várias instâncias do processo</a>, por exemplo mover o estado de execução para uma etapa diferente;</li><li><a href="https://docs.camunda.org/manual/7.13/webapps/cockpit/bpmn/process-instance-migration/" target="_blank" rel="noreferrer noopener">Migrar uma ou várias instâncias de processo</a> para uma versão mais recente do modelo de processo;</li><li><a href="https://docs.camunda.org/manual/7.13/webapps/cockpit/dmn/live-editing/" target="_blank" rel="noreferrer noopener">Alterar a lógica da tabela de decisão</a> diretamente no Cockpit;</li><li>Cancelar uma ou várias instâncias do processo;</li><li>Tentar novamente a execução de uma ou várias instâncias do processo.</li></ul>
+
+
+
+<h3 class="wp-block-heading">Admin</h3>
+
+
+
+<h4 class="wp-block-heading">Gerenciamento de Usuários e LDAP</h4>
+
+
+
+<p>Os administradores usam a aplicação Admin para <a href="https://docs.camunda.org/manual/7.13/webapps/admin/user-management/" target="_blank" rel="noreferrer noopener">gerenciar seus usuários</a>, organizá-los em <a href="https://docs.camunda.org/manual/7.13/webapps/admin/group-management/" target="_blank" rel="noreferrer noopener">grupos</a> e <a href="https://docs.camunda.org/manual/7.13/webapps/admin/authorization-management/" target="_blank" rel="noreferrer noopener">conceder permissões</a>. Camunda desacopla a identificação de usuários de sua autorização para executar determinadas ações.</p>
+
+
+
+<p>Para concluir a identificação, você pode usar o <a rel="noreferrer noopener" href="https://docs.camunda.org/manual/7.7/user-guide/process-engine/identity-service/#the-database-identity-service" target="_blank">sistema de gerenciamento de usuários que acompanha o Camunda</a> ou o sistema de gerenciamento de usuários existente que pode ser integrado ao <a href="https://docs.camunda.org/manual/7.13/user-guide/process-engine/identity-service/#the-ldap-identity-service" target="_blank" rel="noreferrer noopener">Camunda via LDAP (ou Microsoft AD Active Directory)</a>. Depois que um usuário se identifica (por exemplo, enviou a tela de login em um aplicativo da Web Camunda), o Camunda os autoriza com base nas permissões definidas no <a href="https://docs.camunda.org/manual/7.13/webapps/admin/" target="_blank" rel="noreferrer noopener">Camunda Admin</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nota Técnica Camunda &#8211; Modelagem</title>
+		<link>https://mauriciobitencourt.com/manual/nota-tecnica-camunda-modelagem/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2020 22:57:53 +0000</pubDate>
+				<category><![CDATA[manual]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[BPMS]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[cawemo]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[ibpms]]></category>
+		<category><![CDATA[Modeler]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=1983</guid>
+
+					<description><![CDATA[Elaborei esta nota técnica sobre o Camunda BPM com o intuito de classificar o atendimento de requisitos para mapeamento e modelagem de processos, casos e decisões com base nas versões Cawemo 1.2 e Camunda Modeler 4.0. Veja também:Nota Técnica Camunda – Desenvolvimento e OperaçõesNota Técnica Camunda &#8211; Gestão Modelagem de Processos O Camunda BPM tem [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Elaborei esta nota técnica sobre o Camunda BPM com o intuito de classificar o atendimento de requisitos para mapeamento e modelagem de processos, casos e decisões com base nas versões Cawemo 1.2 e Camunda Modeler 4.0.</p>
+
+
+
+<p>Veja também:<br><a href="https://mauriciobitencourt.com/manual/nota-tecnica-camunda-devops/">Nota Técnica Camunda – Desenvolvimento e Operações</a><br><a href="https://mauriciobitencourt.com/manual/nota-tecnica-camunda-gestao">Nota Técnica Camunda &#8211; Gestão</a></p>
+
+
+
+<span id="more-1983"></span>
+
+
+
+<h2 class="wp-block-heading">Modelagem de Processos</h2>
+
+
+
+<p>O Camunda BPM tem suporte a grande maioria dos elementos da notação e modelo BPMN 2.0, tanto para modelagem quanto para execução. Os elementos da BPMN cobertos pelo Camunda BPM estão representados em laranja nas imagens as seguir ou em <a rel="noreferrer noopener" href="https://docs.camunda.org/manual/latest/reference/bpmn20/" target="_blank">BPMN 2.0 Implementation Reference</a>.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="745" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-745x1024.png" alt="" class="wp-image-2001" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-745x1024.png 745w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-218x300.png 218w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-768x1055.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-1118x1536.png 1118w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-1490x2048.png 1490w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-509x700.png 509w" sizes="(max-width: 745px) 100vw, 745px" /><figcaption><a href="https://docs.camunda.org/manual/7.13/reference/bpmn20/" target="_blank" rel="noreferrer noopener">BPMN 2.0 Implementation Reference &#8211; Parte 1/2</a></figcaption></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="795" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-795x1024.png" alt="" class="wp-image-2002" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-795x1024.png 795w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-233x300.png 233w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-768x989.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-1192x1536.png 1192w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-1590x2048.png 1590w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-543x700.png 543w" sizes="(max-width: 795px) 100vw, 795px" /><figcaption><a href="https://docs.camunda.org/manual/7.13/reference/bpmn20/#events" target="_blank" rel="noreferrer noopener">BPMN 2.0 Implementation Reference &#8211; Parte 2/2</a></figcaption></figure></div>
+
+
+
+<p>Duas ferramentas para a modelagem de processos na notação e modelo BPMN poderão ser usadas:</p>
+
+
+
+<h3 class="wp-block-heading">Cawemo</h3>
+
+
+
+<p>Plataforma de modelagem colaborativa, fácil de usar, permitindo que várias pessoas de Áreas de Negócio trabalhem juntas especificar diagramas (nível descritivo) e mapas (nível analítico) de processo em BPMN e posteriormente repassar aos desenvolvedores implantarem modelos (nível executável) de processos na ferramenta Camunda Modeler.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="523" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-1024x523.png" alt="" class="wp-image-1999" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-1024x523.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-300x153.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-768x393.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-1536x785.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-2048x1047.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-700x358.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Dentre as principais características, podemos destacar:</p>
+
+
+
+<p>Modelar processos BPMN de forma colaborativa. </p>
+
+
+
+<p>Criar diagramas de processo BPMN com todas as partes interessadas envolvidas para especificar o fluxo de trabalho que deve ser automatizado. Busca o alinhamento entre analistas de negócios, gerentes de projeto e pessoas de TI para implementar o processo correto para:</p>
+
+
+
+<ol type="a"><li>Anexar descrições de especificação e links aos nós do diagrama;</li><li>Comentar com todos os membros da equipe dentro do diagrama;</li><li>Incorporar diagramas nas páginas HTML (por exemplo, Confluence) para compartilhar documentação diretamente da renderização dos diagramas com atualização automática de versões;</li><li>Exportar diagramas como arquivos XML do BPMN 2.0 padrão para ser importado na ferramenta Camunda Modeler ou outras ferramentas que suportem este mesmo Standard de BPM.</li></ol>
+
+
+
+<p>Via plugins para o motor de processos e as ferramentas de modelagem integrar com os demais componentes do Camunda BPM:</p>
+
+
+
+<ol type="a"><li>Sincronizar todos os processos implantados dos seus motores Camunda com o Cawemo;</li><li>Sincronizar o estado de desenvolvimento mais recente através do Camunda Modeler;</li><li>Ramificar a versão de produção mais recente para elaborar a próxima iteração;</li><li>Conectar todos os diagramas sincronizados do mesmo processo para ver sua evolução.</li></ol>
+
+
+
+<p>Acompanhar as alterações dos diagramas:</p>
+
+
+
+<ol type="a"><li>Versionamento completo do histórico do diagrama</li><li>Possibilidade de comparar as alterações de um fluxo de trabalho com a atual identificando as diferenças entre as versões é destacada com cores distintas.</li><li>Ao criar um marco manualmente ou sempre que um novo processo implementado é sincronizado, uma nova versão é adicionada ao histórico.</li></ol>
+
+
+
+<h4 class="wp-block-heading">Versão Enterprise Edition</h4>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="923" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-1024x923.png" alt="" class="wp-image-2005" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-1024x923.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-300x271.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-768x693.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-1536x1385.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-2048x1847.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-700x631.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://camunda.com/products/cawemo/" target="_blank" rel="noreferrer noopener">Diferenças entre a versão gratuita e a paga.</a></figcaption></figure></div>
+
+
+
+<p>A seguir algumas funcionalidades extras da versão Enterprise Edition:</p>
+
+
+
+<p><a href="https://docs.camunda.org/cawemo/latest/technical-guide/installation/" target="_blank" rel="noreferrer noopener">Instalação On-Premise</a> para rodar nos seus servidores atrás do seu firewal ou em nuvem privada com gerenciamento próprio.</p>
+
+
+
+<h2 class="wp-block-heading">Camunda Modeler</h2>
+
+
+
+<p>O Camunda Modeler é uma ferramenta instalada no computador para modelar fluxos de trabalho na notação BPMN, decisões com base em regras de negócio com a notação DMN e casos dinâmicos em CMMN. </p>
+
+
+
+<p>As distribuições estão disponíveis para instalação e operação nos sistemas operacionais <strong>Windows</strong>, <strong>MacOS</strong> e <strong>Linux</strong>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="719" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-1024x719.png" alt="" class="wp-image-1988" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-1024x719.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-300x211.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-768x539.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-1536x1078.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-2048x1438.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-700x491.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Download do Camunda Modeler &#8211; <a href="https://camunda.com/download/modeler/" target="_blank" rel="noreferrer noopener">https://camunda.com/download/modeler/</a></figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">Design de fluxos de trabalho e decisões</h4>
+
+
+
+<p>O Camunda Modeler suporta os standards de BPM (BPMN-CMMN-DMN triple crown) nas versões BPMN 2.0, CMMN 1.1 e DMN 1.3 (FEEL 1.2 <em>Friendly Enough Expression Language</em>), incluindo lógica de decisão das regras de negócio em tabelas de decisão (<em>decision tables</em>) e diagramas de requisitos de decisão (DRD <em>Decision Requirement Diagram</em>).</p>
+
+
+
+<h4 class="wp-block-heading">Criar modelos executáveis</h4>
+
+
+
+<p>Além da modelagem visual, o Camunda Modeler permite editar todas as propriedades necessárias para a execução técnica. Como o Camunda Modeler trabalha diretamente nos arquivos XML BPMN, CMMN e DMN, os desenvolvedores podem combiná-lo facilmente com a sua ferramenta de IDE preferida (por exemplo, Eclipse, Netbeans, IntelliJ).</p>
+
+
+
+<p>Os arquivos XML criados podem ser implementados na Plataforma Camunda e executados pelos mecanismos BPMN, CMMN e DMN (motores de execução de processos, casos e decisões).</p>
+
+
+
+<h4 class="wp-block-heading">Modelos de Elemento</h4>
+
+
+
+<p>Os Modelos de Elemento (<em>Element Templates</em>) permitem criar configurações predefinidas em arquivos JSON para que os usuários trabalhem com um painel de propriedades customizado.</p>
+
+
+
+<p>Por exemplo, você pode configurar uma &#8220;Tarefa de e-mail&#8221; que sempre solicitará o endereço de email do remetente, o endereço do destinatário, um assunto e um corpo. Uma vez implementada, essa tarefa será executada com base em uma lógica de execução predefinida, por exemplo, em Java. Isso permite que você forneça um ambiente de baixo código personalizado para criar e alterar fluxos de trabalho em sua organização.</p>
+
+
+
+<h4 class="wp-block-heading">Plugins Adicionais</h4>
+
+
+
+<p>Com os plugins é possível alterar sua aparência da ferramenta de modelagem, adicionar novas entradas de menu ou estender as ferramentas de modelagem para os standards BPMN, CMMN e DMN.</p>
+
+
+
+<p>Adicionar um plugin é tão fácil quanto colocar os arquivos no respectivo diretório. Simulação de processo, pré-visualização de formulários, renomear nomes técnicos dos elementos, são alguns dos exemplos de plugins já existentes. Muitos outros plugins são desenvolvidos pelos usuários da ferramenta e compartilhados abertamente no GitHub.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="268" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins-1024x268.png" alt="" class="wp-image-1992" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins-1024x268.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins-300x78.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins-768x201.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins-700x183.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins.png 1484w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Exemplos de Plugins no Camunda Modeler</figcaption></figure>
+
+
+
+<p>A seguir um vídeo com exemplos de simulação de processos de negócio modelados na notação BPMN 2.0 utilizando o plugin Camunda Modeler Token Simulation. Mais informações no post <a href="https://mauriciobitencourt.com/teoria/simulacao-de-processo-com-bpmn/" target="_blank" rel="noreferrer noopener">Simulação de processo com BPMN</a>.</p>
+
+
+<p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/9WLiPHVZwSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+
+
+<p>Principais Plugins para o Camunda Moder:</p>
+
+
+
+<p><a href="https://github.com/camunda-consulting/code/tree/master/snippets/camunda-modeler-plugins/bpmn-js-plugin-rename-technical-ids#camunda-modeler---rename-technical-ids" target="_blank" rel="noreferrer noopener">Camunda Modeler &#8211; Rename Technical IDs</a></p>
+
+
+
+<p><a href="https://github.com/camunda-consulting/code/tree/master/snippets/camunda-modeler-plugins/camunda-modeler-plugin-usertask-generatedform-preview#camunda-modeler-plugin---usertask-generated-form-preview-and-embedded-form-generator">UserTask Generated Form Preview and Embedded Form Generator</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://github.com/bpmn-io/bpmn-js-token-simulation-plugin#token-simulation-for-the-camunda-modeler" target="_blank">Token Simulation for the Camunda Modeler</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://github.com/camunda/camunda-modeler-linter-plugin#camunda-modeler-linter-plugin" target="_blank">BPMN Linter &#8211; Model Validator</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://github.com/viadee/camunda-modeler-tooltip-plugin#camunda-modeler-tooltip-plugin" target="_blank">Camunda Modeler Tooltip Plugin</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://github.com/bpmn-io/camunda-transaction-boundaries#camunda-transaction-boundaries" target="_blank">Camunda Transaction Boundaries</a></p>
+
+
+
+<p><a href="https://docs.camunda.org/cawemo/latest/technical-guide/integrations/modeler/" target="_blank" rel="noreferrer noopener">Cloud Connect</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Como instalar a plataforma Camunda BPM com a tradução para o Português Brasileiro</title>
+		<link>https://mauriciobitencourt.com/manual/plataforma-camunda-bpm-pt-br/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 30 Apr 2018 02:07:37 +0000</pubDate>
+				<category><![CDATA[manual]]></category>
+		<category><![CDATA[BPMS]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1203</guid>
+
+					<description><![CDATA[Depois de muito trabalho e vários contribuidores no GitHub, já é possível utilizar a plataforma Camunda BPM completamente em português brasileiro. A seguir os passos para instalar e rodar com a tradução: Baixar o Camunda BPM Platform Acesse Download Camunda em Community Platform / Preview Release para ter acesso a mais nova release da versão 7.9 Clique em Download [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Depois de muito trabalho e vários contribuidores no GitHub, já é possível utilizar a plataforma Camunda BPM completamente em português brasileiro.</p>
+<p><span id="more-1203"></span></p>
+<p>A seguir os passos para instalar e rodar com a tradução:</p>
+<h5>Baixar o Camunda BPM Platform</h5>
+<p>Acesse <a href="https://camunda.com/download/">Download Camunda</a> em Community Platform / Preview Release para ter acesso a mais nova release da versão 7.9</p>
+<p>Clique em Download do <a href="https://camunda.org/release/camunda-bpm/tomcat/7.9/camunda-bpm-tomcat-7.9.0-alpha3.zip">ZIP</a> ou <a href="https://camunda.org/release/camunda-bpm/tomcat/7.9/camunda-bpm-tomcat-7.9.0-alpha3.tar.gz">TAR </a>da distribuição em Apache Tomcat.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-bpm-platform-community-edition-download.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1210 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-bpm-platform-community-edition-download-1024x945.png" alt="" width="700" height="646" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-bpm-platform-community-edition-download-1024x945.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-bpm-platform-community-edition-download-300x277.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-bpm-platform-community-edition-download-768x709.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-bpm-platform-community-edition-download-700x646.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-bpm-platform-community-edition-download.png 1317w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Descompacte o arquivo .zip ou .tar</p>
+<h5>Baixar e instalar os arquivos de tradução do GitHub</h5>
+<p>1. Acesse o repositório de taduções em <a href="https://github.com/camunda/camunda-webapp-translations">https://github.com/camunda/camunda-webapp-translations</a></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-webapp-translations.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1211 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-webapp-translations-1024x713.png" alt="" width="700" height="487" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-webapp-translations-1024x713.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-webapp-translations-300x209.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-webapp-translations-768x535.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-webapp-translations-700x487.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-webapp-translations.png 1317w" sizes="(max-width: 700px) 100vw, 700px" /><br />
+</a></p>
+<p>2. Baixe o arquivo zip clicando no botão verde &#8220;Clone or download&#8221; ou <a href="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-webapp-translations-pt-br.zip">clique aqui</a>.</p>
+<p>3. Descompacte o arquivo camunda-webapp-translations-master.zip</p>
+<p>4. Copie os arquivos pt-BR.json da tradução baixado do GitHub para cada pasta correspondente do servidor, conforme imagem a seguir:</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/04/Captura-de-Tela-2018-05-01-às-15.13.08.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1241 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/04/Captura-de-Tela-2018-05-01-às-15.13.08-659x1024.png" alt="" width="659" height="1024" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/04/Captura-de-Tela-2018-05-01-às-15.13.08-659x1024.png 659w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/Captura-de-Tela-2018-05-01-às-15.13.08-193x300.png 193w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/Captura-de-Tela-2018-05-01-às-15.13.08-451x700.png 451w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/Captura-de-Tela-2018-05-01-às-15.13.08.png 709w" sizes="(max-width: 659px) 100vw, 659px" /></a></p>
+<p>Neste exemplo, considere CAMUNDA_HOME=<span class="s1">/Applications/camunda-bpm-ee-tomcat-7.9.0-alpha3-ee</span></p>
+<p>5. Altere os arquivos config.js das pastas conforme a imagem abaixo:</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-config.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1221 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-config-677x1024.png" alt="" width="677" height="1024" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-config-677x1024.png 677w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-config-198x300.png 198w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-config-768x1161.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-config-463x700.png 463w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-config.png 791w" sizes="(max-width: 677px) 100vw, 677px" /></a></p>
+<p>Use o editor de sua preferência e altere o arquivo ${CAMUNDA_HOME}<span class="s1">/server/apache-tomcat-9.0.5/webapps/camunda/app/<strong>admin</strong>/scripts/</span><span class="s1">config.js</span></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-admin-config-js.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1222 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-admin-config-js-1024x564.png" alt="" width="700" height="386" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-admin-config-js-1024x564.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-admin-config-js-300x165.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-admin-config-js-768x423.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-admin-config-js-700x386.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-admin-config-js.png 1605w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Altere o arquivo ${CAMUNDA_HOME}<span class="s1">/server/apache-tomcat-9.0.5/webapps/camunda/app/</span><strong><span class="s1">cockpit</span></strong><span class="s1">/scripts/</span><span class="s1">config.js</span></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-cockpit-config-js.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1223 size-full" src="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-cockpit-config-js.png" alt="" width="1605" height="884" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-cockpit-config-js.png 1605w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-cockpit-config-js-300x165.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-cockpit-config-js-768x423.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-cockpit-config-js-1024x564.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-cockpit-config-js-700x386.png 700w" sizes="(max-width: 1605px) 100vw, 1605px" /></a></p>
+<p>Altere o arquivo ${CAMUNDA_HOME}<span class="s1">/server/apache-tomcat-9.0.5/webapps/camunda/app/<strong>tasklist</strong>/scripts/</span><span class="s1">config.js </span></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-tasklist-config-js.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1224 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-tasklist-config-js-1024x564.png" alt="" width="700" height="386" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-tasklist-config-js-1024x564.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-tasklist-config-js-300x165.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-tasklist-config-js-768x423.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-tasklist-config-js-700x386.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-tasklist-config-js.png 1605w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>6. Altere os arquivos index.html das pastas a seguir:</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-pastas-index-html.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1226 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-pastas-index-html-616x1024.png" alt="" width="616" height="1024" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-pastas-index-html-616x1024.png 616w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-pastas-index-html-180x300.png 180w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-pastas-index-html-768x1277.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-pastas-index-html-421x700.png 421w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-pastas-index-html.png 791w" sizes="(max-width: 616px) 100vw, 616px" /></a></p>
+<p>Para cada arquivo index.html altere a linha de código a seguir para forçar o navegador utilizar &#8220;pt-BR&#8221; como linguagem padrão:</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-altere-index-html.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1227 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-altere-index-html-1024x564.png" alt="" width="700" height="386" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-altere-index-html-1024x564.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-altere-index-html-300x165.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-altere-index-html-768x423.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-altere-index-html-700x386.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-altere-index-html.png 1605w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>7. Use o terminal de sua preferência e inicie o servidor em rodando start-camunda.bat para Windows ou start-camunda.sh para Linux e MacOS:</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/04/Captura-de-Tela-2018-05-01-às-15.09.39.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1240 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/04/Captura-de-Tela-2018-05-01-às-15.09.39-1024x363.png" alt="" width="700" height="248" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/04/Captura-de-Tela-2018-05-01-às-15.09.39-1024x363.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/Captura-de-Tela-2018-05-01-às-15.09.39-300x106.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/Captura-de-Tela-2018-05-01-às-15.09.39-768x272.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/Captura-de-Tela-2018-05-01-às-15.09.39-700x248.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>8. Limpe o cache do seu navegador e acesse <a href="http://localhost:8080/camunda/">http://localhost:8080/camunda/</a> com o usuário &#8216;demo&#8217; / senha &#8216;demo&#8217; e verifique os resultados:</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-login.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1228 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-login-1024x636.png" alt="" width="700" height="435" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-login-1024x636.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-login-300x186.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-login-768x477.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-login-700x435.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-login.png 1336w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<h5>Resultados</h5>
+<h6>Camunda Admin</h6>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-admin-pt-br.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1229 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-admin-pt-br-1024x651.png" alt="" width="700" height="445" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-admin-pt-br-1024x651.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-admin-pt-br-300x191.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-admin-pt-br-768x488.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-admin-pt-br-700x445.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-admin-pt-br.png 1315w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<h6>Camunda Cockpit</h6>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-cockpit-pt-br.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1230 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-cockpit-pt-br-1024x636.png" alt="" width="700" height="435" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-cockpit-pt-br-1024x636.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-cockpit-pt-br-300x186.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-cockpit-pt-br-768x477.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-cockpit-pt-br-700x435.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-cockpit-pt-br.png 1336w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<h6>Camunda Tasklist</h6>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-tasklist-pt-br.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1231 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-tasklist-pt-br-1024x636.png" alt="" width="700" height="435" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-tasklist-pt-br-1024x636.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-tasklist-pt-br-300x186.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-tasklist-pt-br-768x477.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-tasklist-pt-br-700x435.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2018/04/camunda-tasklist-pt-br.png 1336w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<h5>Mais informações</h5>
+<p>Acesse <a href="https://blog.camunda.com/post/2014/12/internationalization-in-camunda-bpm/">Internationalization in the Camunda BPM Tasklist</a> e <a href="https://docs.camunda.org/manual/7.8/webapps/tasklist/configuration/">Configuration</a> para mais informações em inglês sobre como instalar os arquivos de tradução no Camunda BPM Platform.</p>
+<p>Em breve, mais vídeos sobre como ir da modelagem à execução de fluxos de trabalho e decisões com exercícios práticos na Plataforma Camunda BPM.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

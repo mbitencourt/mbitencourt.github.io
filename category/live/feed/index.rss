@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>live &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/category/live/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Fri, 28 Oct 2022 17:47:02 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>live &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Os Desafios na Automação de Processos &#8211; AMA (Ask Me Anything)</title>
+		<link>https://mauriciobitencourt.com/live/os-desafios-na-automacao-de-processos-ama-ask-me-anything/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 20 Oct 2022 17:40:00 +0000</pubDate>
+				<category><![CDATA[live]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2746</guid>
+
+					<description><![CDATA[Trocar experiências sobre orquestração de processos de negócio e regras de decisão automatizadas para encontrar sinergias com as técnicas de facilitação de grupos e gestão da mudança, integrando áreas de Negócio e TI trabalhando juntas, na mesma mesa, como times ágeis para acelerar a transformação digital.]]></description>
+										<content:encoded><![CDATA[
+<p>Trocar experiências sobre orquestração de processos de negócio e regras de decisão automatizadas para encontrar sinergias com as técnicas de facilitação de grupos e gestão da mudança, integrando áreas de Negócio e TI trabalhando juntas, na mesma mesa, como times ágeis para acelerar a transformação digital.</p>
+
+
+
+<span id="more-2746"></span>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Os Desafios na Automação de Processos - AMA (Ask Me Anything)" width="700" height="394" src="https://www.youtube.com/embed/9fJuDug_iSE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

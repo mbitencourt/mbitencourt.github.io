@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>meetup &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/category/meetup/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Fri, 18 Dec 2020 12:37:30 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>meetup &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Remote Camunda Meetup #1</title>
+		<link>https://mauriciobitencourt.com/meetup/remote-camunda-meetup-1/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Tue, 19 May 2020 02:07:56 +0000</pubDate>
+				<category><![CDATA[meetup]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=1922</guid>
+
+					<description><![CDATA[Temos o prazer de anunciar o nosso terceiro encontro de usuários Camunda no Brasil no dia 9 de junho de 2020 das 10h00 às 12h00. Devido a epidemia de coronavírus, hospedaremos este encontro virtualmente, online pelo Zoom com a limitação de 500 participantes. Clique aqui para participar do grupo e garantir a sua vaga. 10h00 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Temos o prazer de anunciar o nosso terceiro encontro de usuários Camunda no Brasil no dia 9 de junho de 2020 das 10h00 às 12h00.</p>
+
+
+
+<p>Devido a epidemia de coronavírus, hospedaremos este encontro virtualmente, online pelo Zoom com a limitação de 500 participantes.</p>
+
+
+
+<span id="more-1922"></span>
+
+
+
+<p><a href="https://www.meetup.com/pt-BR/Camunda-User-Group-Brazil/events/270489452/">Clique aqui para participar do grupo e garantir a sua vaga.</a></p>
+
+
+
+<p>10h00 Abertura (em português)<br>Camunda User Group Brazil, por Maurício Bitencourt</p>
+
+
+
+<p>10h05 Boas-vindas (em inglês)<br>Camunda Brazil and Camunda COVID-19 Response Package for initiatives that are helping society tackle the pandemic por Renko Pauwels, Sales Executive Enterprise Software da Camunda</p>
+
+
+
+<p>10h15 Estudo de Caso (em português)<br>Como a MAG Seguros iniciou sua jornada para unir pessoas, processos e tecnologias da Camunda para a entrega de valor constante aos clientes com performance, escalabilidade e alta disponibilidade por Luiz Henrique Queiroz de Oliveira, Superintendente de Arquitetura Corporativa na Mongeral Aegon.</p>
+
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/fCBLDf6ysfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+
+
+<p class="has-text-align-left"><a href="https://youtu.be/fCBLDf6ysfs">Clique aqui para assistir a gravação do Camunda User Group Brazil &#8211; Remote Meetup #1 &#8211; 9 jun 2020 &#8211; Parte 1 de 2</a></p>
+
+
+
+<p>10h55 Sucesso dos Clientes (em inglês)<br>Aaron Laye, Senior Customer Success Manager da Camunda</p>
+
+
+
+<p>11h00 Sorteios (em português)<br>Distribuição de três kits de brindes via App Slido</p>
+
+
+<p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/JxWjdZqOnOI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+
+
+<p class="has-text-align-left"><a href="https://youtu.be/JxWjdZqOnOI">Clique aqui para assistir a gravação do Camunda User Group Brazil &#8211; Remote Meetup #1 &#8211; 9 jun 2020 &#8211; Sorteio</a></p>
+
+
+
+<p>11h05 Demonstração (em português)<br>Novidades do Cawemo, Camunda BPM e Optimize por Lucas Silva, Consultor Internacional na Camunda</p>
+
+
+
+<p>11h45 Comunidade de Usuários (em inglês)<br>Camunda Users World Ecosystem por Luca Celine Buchholz, Marketing Manager &amp; Community Builder da Camunda</p>
+
+
+
+<p>11h55 Conclusão (em português)<br>Anúncio dos próximos eventos e mensagens finais, por Maurício Bitencourt</p>
+
+
+<p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/CPxwSzBiGdU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+
+
+<p class="has-text-align-left"><a href="https://youtu.be/CPxwSzBiGdU">Clique aqui para assistir a gravação do Camunda User Group Brazil &#8211; Remote Meetup #1 &#8211; 9 jun 2020 &#8211; Parte 2 de 2</a></p>
+
+
+
+<p>12h00 Encerramento</p>
+
+
+
+<p>Os participantes que estiverem na videoconferência ao vivo poderão fazer perguntas diretamente aos palestrantes via chat.</p>
+
+
+
+<p>O link para acesso à videoconferência será fornecido por e-mail duas horas antes do início do evento.</p>
+
+
+
+<p>Trocamos a plataforma de videoconferência de Google Meet para o Zoom devido a grande procura pelo evento.</p>
+
+
+
+<p>No App Slido informe Nome e Sobrenome para sua identificação e eventual envio de brindes. Evite entrar como anônimo para fazer perguntas e participar do Quiz.</p>
+
+
+
+<h2 class="wp-block-heading">Fotos do evento</h2>
+
+
+
+<figure class="wp-block-gallery aligncenter columns-2 is-cropped wp-block-gallery-1 is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="1024" height="576" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-1-1024x576.png" alt="" data-id="1952" data-full-url="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-1.png" data-link="https://mauriciobitencourt.com/meetup/remote-camunda-meetup-1/attachment/remote-camunda-meetup-br-mozaic-pagina-1/" class="wp-image-1952" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-1-1024x576.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-1-300x169.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-1-768x432.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-1-1536x864.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-1-700x394.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="1024" height="576" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-2-1024x576.png" alt="" data-id="1954" data-full-url="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-2.png" data-link="https://mauriciobitencourt.com/meetup/remote-camunda-meetup-1/attachment/remote-camunda-meetup-br-mozaic-pagina-2/" class="wp-image-1954" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-2-1024x576.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-2-300x169.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-2-768x432.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-2-1536x864.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-2-700x394.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mozaic-pagina-2.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul><figcaption class="blocks-gallery-caption">Mosaico dos Participantes</figcaption></figure>
+
+
+
+<figure class="wp-block-gallery aligncenter columns-2 is-cropped wp-block-gallery-3 is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="1024" height="712" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-paula-1024x712.png" alt="" data-id="1956" data-full-url="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-paula.png" data-link="https://mauriciobitencourt.com/meetup/remote-camunda-meetup-1/attachment/remote-camunda-meetup-br-paula/" class="wp-image-1956" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-paula-1024x712.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-paula-300x208.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-paula-768x534.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-paula-1536x1067.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-paula-2048x1423.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-paula-700x486.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="1024" height="640" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mag-architecture-1024x640.jpeg" alt="" data-id="1957" data-full-url="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mag-architecture.jpeg" data-link="https://mauriciobitencourt.com/meetup/remote-camunda-meetup-1/attachment/remote-camunda-meetup-br-mag-architecture/" class="wp-image-1957" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mag-architecture-1024x640.jpeg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mag-architecture-300x188.jpeg 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mag-architecture-768x480.jpeg 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mag-architecture-700x438.jpeg 700w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-mag-architecture.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul><figcaption class="blocks-gallery-caption">Estudo de Caso do Grupo Mongeral Aegon &#8211; MAG</figcaption></figure>
+
+
+
+<figure class="wp-block-gallery aligncenter columns-2 is-cropped wp-block-gallery-5 is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="1024" height="538" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas-microservices-1024x538.png" alt="" data-id="1958" data-full-url="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas-microservices.png" data-link="https://mauriciobitencourt.com/meetup/remote-camunda-meetup-1/attachment/remote-camunda-meetup-br-lucas-microservices/" class="wp-image-1958" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas-microservices-1024x538.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas-microservices-300x158.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas-microservices-768x403.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas-microservices-1536x807.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas-microservices-2048x1075.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas-microservices-700x368.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="1024" height="548" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas-1024x548.png" alt="" data-id="1959" data-full-url="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas.png" data-link="https://mauriciobitencourt.com/meetup/remote-camunda-meetup-1/attachment/remote-camunda-meetup-br-lucas/" class="wp-image-1959" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas-1024x548.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas-300x161.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas-768x411.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas-1536x822.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas-2048x1097.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-lucas-700x375.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul><figcaption class="blocks-gallery-caption">Novidades do Camunda BPM e Optimize por Lucas Silva</figcaption></figure>
+
+
+
+<figure class="wp-block-gallery aligncenter columns-2 is-cropped wp-block-gallery-7 is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="1024" height="548" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-aaron-1024x548.png" alt="" data-id="1960" data-full-url="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-aaron.png" data-link="https://mauriciobitencourt.com/meetup/remote-camunda-meetup-1/attachment/remote-camunda-meetup-br-aaron/" class="wp-image-1960" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-aaron-1024x548.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-aaron-300x161.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-aaron-768x411.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-aaron-1536x822.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-aaron-2048x1097.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-aaron-700x375.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="1024" height="548" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-luca-1024x548.png" alt="" data-id="1961" data-full-url="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-luca.png" data-link="https://mauriciobitencourt.com/meetup/remote-camunda-meetup-1/attachment/remote-camunda-meetup-br-luca/" class="wp-image-1961" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-luca-1024x548.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-luca-300x161.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-luca-768x411.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-luca-1536x822.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-luca-2048x1097.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-luca-700x375.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li></ul><figcaption class="blocks-gallery-caption">Aaron Laye e Luca Celine Buchholz</figcaption></figure>
+
+
+
+<figure class="wp-block-gallery aligncenter columns-2 is-cropped wp-block-gallery-9 is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="1024" height="576" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-quiz-winners-1-1024x576.png" alt="" data-id="1962" data-full-url="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-quiz-winners-1.png" data-link="https://mauriciobitencourt.com/meetup/remote-camunda-meetup-1/attachment/remote-camunda-meetup-br-quiz-winners-1/" class="wp-image-1962" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-quiz-winners-1-1024x576.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-quiz-winners-1-300x169.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-quiz-winners-1-768x432.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-quiz-winners-1-1536x864.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-quiz-winners-1-700x394.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-quiz-winners-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="791" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-members-791x1024.png" alt="" data-id="1963" data-full-url="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-members.png" data-link="https://mauriciobitencourt.com/meetup/remote-camunda-meetup-1/attachment/remote-camunda-meetup-br-members/" class="wp-image-1963" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-members-791x1024.png 791w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-members-232x300.png 232w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-members-768x995.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-members-1186x1536.png 1186w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-members-1581x2048.png 1581w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-members-541x700.png 541w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/remote-camunda-meetup-br-members.png 2020w" sizes="(max-width: 791px) 100vw, 791px" /></figure></li></ul><figcaption class="blocks-gallery-caption">Vencedores do Camunda Quiz &#8211; Total de Membros e Participantes</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Redes Sociais</h2>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6676188815427690496" height="763" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe></p>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6668285519857807360" height="345" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe></p>
+
+
+
+<h2 class="wp-block-heading">Apresentações em PDF</h2>
+
+
+<p><iframe loading="lazy" src="//www.slideshare.net/slideshow/embed_code/key/1IgSxsqvfCglgF" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen=""> </iframe> </p>
+<div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/mauricio.bitencourt/remote-camunda-meetup-1-9jun2020" title="Remote Camunda Meetup #1 - 9/Jun/2020" target="_blank" rel="noopener noreferrer">Remote Camunda Meetup #1 &#8211; 9/Jun/2020</a> </strong><br />from <strong><a href="https://www.slideshare.net/mauricio.bitencourt" target="_blank" rel="noopener noreferrer">Mauricio Bitencourt, CBPP</a></strong> </div>
+
+
+
+<p class="has-text-align-center"><code><a href="https://mauriciobitencourt.com/wp-content/uploads/2020/06/Remote-Camunda-Meetup-1-9_Jun.pdf" target="_blank" rel="noreferrer noopener">Clique aqui para acessar a apresentação em PDF.</a></code></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="547" src="https://mauriciobitencourt.com/wp-content/uploads/2020/12/2020-06-09-15_20_50-CamundaUserGroupBrazil-Meetup-1024x547.png" alt="" class="wp-image-2261" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/12/2020-06-09-15_20_50-CamundaUserGroupBrazil-Meetup-1024x547.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/2020-06-09-15_20_50-CamundaUserGroupBrazil-Meetup-300x160.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/2020-06-09-15_20_50-CamundaUserGroupBrazil-Meetup-768x410.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/2020-06-09-15_20_50-CamundaUserGroupBrazil-Meetup-1536x821.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/2020-06-09-15_20_50-CamundaUserGroupBrazil-Meetup-700x374.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/2020-06-09-15_20_50-CamundaUserGroupBrazil-Meetup.png 1898w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Perspectiva da reunião remota a partir da Camunda em Berlim</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Implementando transações distribuídas em arquiteturas de microsserviços: um confronto entre orquestração e coreografia.</title>
+		<link>https://mauriciobitencourt.com/meetup/arqti-poa/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 29 Oct 2018 01:03:12 +0000</pubDate>
+				<category><![CDATA[meetup]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1494</guid>
+
+					<description><![CDATA[No dia 29 de outubro participarei do Meetup do 8º Encontro do Arquitetura de TI POA, uma comunidade de Arquitetos de TI que tem como objetivo conectar pessoas que enfrentam os mesmos desafios profissionais e ajudar a viabilizar a troca de conhecimentos e o compartilhamento de conteúdo de forma totalmente gratuita. O tema deste&#160;8º encontro: [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>No dia 29 de outubro participarei do Meetup do 8º Encontro do Arquitetura de TI POA, uma comunidade de Arquitetos de TI que tem como objetivo conectar pessoas que enfrentam os mesmos desafios profissionais e ajudar a viabilizar a troca de conhecimentos e o compartilhamento de conteúdo de forma totalmente gratuita.</p>
+<p><span id="more-1494"></span>O tema deste&nbsp;8º encontro:</p>
+<p>Implementando transações distribuídas em arquiteturas de microsserviços: um confronto entre orquestração e coreografia.</p>
+<p>Minha palestra:</p>
+<p>Integração contínua na automação de fluxos de trabalho, decisões e orquestração de microsserviços.</p>
+<p><a href="http://mauriciobitencourt.com/pdf/2018-10-02-meetup-arqti-mauricio-bitencourt.pdf">Clique aqui para fazer o download dos slides.</a></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/10/600_475682717.jpeg.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1496 size-full" src="http://mauriciobitencourt.com/wp-content/uploads/2018/10/600_475682717.jpeg.png" alt="" width="600" height="335" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/10/600_475682717.jpeg.png 600w, https://mauriciobitencourt.com/wp-content/uploads/2018/10/600_475682717.jpeg-300x168.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p>&nbsp;<br />
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/f2j1qYAkJ1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p>&nbsp;</p>
+<p><a href="https://youtu.be/f2j1qYAkJ1c">Clique aqui para acessar o vídeo no YouTube em&nbsp;https://youtu.be/f2j1qYAkJ1c</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

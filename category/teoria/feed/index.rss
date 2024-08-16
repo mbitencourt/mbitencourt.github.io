@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>teoria &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/category/teoria/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Tue, 19 Sep 2017 00:27:18 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>teoria &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Simulação de processo com BPMN</title>
+		<link>https://mauriciobitencourt.com/teoria/simulacao-de-processo-com-bpmn/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Wed, 13 Sep 2017 22:57:45 +0000</pubDate>
+				<category><![CDATA[teoria]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[Modeler]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1028</guid>
+
+					<description><![CDATA[Este post tem instruções de instalação da ferramenta de modelagem e o plugin de simulação. Adicionei e um vídeo com um exemplo de simulação de processo de negócio modelado em BPMN 2.0. Utilizarei uma versão muito recente do plugin que servirá para uma demonstração didática do comportamento dos elementos. Para simulações mais complexas e obtenção [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Este post tem instruções de instalação da ferramenta de modelagem e o plugin de simulação. Adicionei e um <a href="https://youtu.be/9WLiPHVZwSE">vídeo</a> com um exemplo de simulação de processo de negócio modelado em BPMN 2.0.</p>
+<p><span id="more-1028"></span>Utilizarei uma versão muito recente do plugin que servirá para uma demonstração didática do comportamento dos elementos.</p>
+<p>Para simulações mais complexas e obtenção de indicadores de tempo, custo, qualidade e capacidade, será necessário rodar o processo (TO-RUN) em ambiente de testes para analisar indicadores de execução das instâncias.</p>
+<p>Recentemente, foi liberado um novo plugin no Github para a simulação de processos na ferramenta Camunda Modeler. A seguir os passos para a instalação e um vídeo de demontração.</p>
+<h6>Instalar o Camunda Modeler</h6>
+<p>Acesse <a href="https://camunda.org/bpmn/tool/">https://camunda.org/bpmn/tool/</a> e selecione a sua plataforma entre Windows, Linux e Mac para baixar.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-17.50.11.png"><img decoding="async" loading="lazy" class="aligncenter wp-image-1032 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-17.50.11-1024x744.png" alt="" width="700" height="509" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-17.50.11-1024x744.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-17.50.11-300x218.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-17.50.11-768x558.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-17.50.11-700x508.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-17.50.11.png 1322w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Descompacte o arquivo ZIP na pasta de instalação desejada.Instalar o plugin</p>
+<h6>Instalar o plugin na ferramenta</h6>
+<p>Acesse <a href="https://github.com/philippfromme/bpmn-js-token-simulation-plugin">https://github.com/philippfromme/bpmn-js-token-simulation-plugin</a> e clique em &#8220;Clone or download&#8221; para baixar o arquivo .ZIP do plugin</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-17-às-14.21.15.png"><img decoding="async" loading="lazy" class="aligncenter wp-image-1051 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-17-às-14.21.15-1024x886.png" alt="" width="700" height="606" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-17-às-14.21.15-1024x886.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-17-às-14.21.15-300x259.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-17-às-14.21.15-768x664.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-17-às-14.21.15-700x605.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Descompacte o arquivo ZIP do plugin.</p>
+<p>Se você estiver usando Windows, copie a pasta do plugin baixado para a pasta plugins onde o Camunda Modeler foi instalado.</p>
+<p>Se você estiver usando MacOS, copie a pasta do plugin baixado para a pasta /Users/{user_name}/Library/Application Support/camunda-modeler/plugins conforme imagem do Finder a seguir:</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-17.57.42.png"><img decoding="async" loading="lazy" class="aligncenter wp-image-1034 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-17.57.42-1024x440.png" alt="" width="700" height="301" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-17.57.42-1024x440.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-17.57.42-300x129.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-17.57.42-768x330.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-17.57.42-700x301.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-17.57.42.png 1473w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Agora é só rodar o Camunda Modeler com duplo clique no icone.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-18.03.00.png"><img decoding="async" loading="lazy" class="aligncenter wp-image-1035 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-18.03.00-1024x478.png" alt="" width="700" height="327" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-18.03.00-1024x478.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-18.03.00-300x140.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-18.03.00-768x358.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-18.03.00-700x327.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-18.03.00.png 1372w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Quando você criar um novo processo de negócio em BPMN 2.0 aparecerá o botão &#8220;Token Simulation&#8221; na parte superior esquerda do modelo.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-19.48.47.png"><img decoding="async" loading="lazy" class="aligncenter wp-image-1047 size-full" src="http://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-19.48.47.png" alt="" width="352" height="247" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-19.48.47.png 352w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/Captura-de-Tela-2017-09-13-às-19.48.47-300x211.png 300w" sizes="(max-width: 352px) 100vw, 352px" /></a></p>
+<p>Pronto. Você já pode simular processos. Leve em consideração que até o momento somente alguns elementos poderão ser simulados. Piscinas e rais, por exemplo, ainda não são suportadas, mas estão no roadmap das próximas liberações.</p>
+<h6>Processo de exemplo</h6>
+<p>É um processo bem simples que demonstra a comercialização de um produto impresso em 3D. O pedido poderá já ter a configuração de um produto pronto ou de um projeto de impressão que poderá necessitar ajustes. Ao final do processo o produto é embalado e encaminhado ao cliente.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/09/simulacao-de-processo.jpeg"><img decoding="async" loading="lazy" class="aligncenter wp-image-1043 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/09/simulacao-de-processo-1024x303.jpeg" alt="" width="700" height="207" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/09/simulacao-de-processo-1024x303.jpeg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/simulacao-de-processo-300x89.jpeg 300w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/simulacao-de-processo-768x227.jpeg 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/simulacao-de-processo-700x207.jpeg 700w, https://mauriciobitencourt.com/wp-content/uploads/2017/09/simulacao-de-processo.jpeg 1391w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h6>Demonstração da simulação</h6>
+<p><iframe loading="lazy" width="700" height="394" src="https://www.youtube.com/embed/9WLiPHVZwSE?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>&nbsp;</p>
+<p>Saiba mais em <a href="http://www.projeler.com.br/mpcd/">MPCD Modelagem de Processos Casos e Decisões</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

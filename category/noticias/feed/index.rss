@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>noticias &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/category/noticias/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Fri, 11 Jun 2021 18:53:35 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>noticias &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Camunda Champions</title>
+		<link>https://mauriciobitencourt.com/noticias/camunda-champions/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 10 Jun 2021 18:10:33 +0000</pubDate>
+				<category><![CDATA[noticias]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[Champion]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2368</guid>
+
+					<description><![CDATA[Estou muito orgulhoso de ter sido aceito no Programa de Campeões da Camunda. Welcome, Camunda Champions by Luca Buchholz Nossa incrível comunidade é o que nos torna quem somos e valorizamos genuinamente cada um de seus membros. Mas existem alguns membros da comunidade que sempre vão além para ajudar os outros &#8211; compartilhando conhecimento e [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Estou muito orgulhoso de ter sido aceito no Programa de Campeões da Camunda.</p>
+
+
+
+<span id="more-2368"></span>
+
+
+<p><iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6808754911111647232" height="709" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+
+<h2 class="wp-block-heading">Welcome, Camunda Champions by Luca Buchholz</h2>
+
+
+
+<blockquote class="wp-block-quote"><p>Nossa incrível comunidade é o que nos torna quem somos e valorizamos genuinamente cada um de seus membros. Mas existem alguns membros da comunidade que sempre vão além para ajudar os outros &#8211; compartilhando conhecimento e experiência, e tornando nossa comunidade um espaço ainda mais acolhedor e inclusivo, para garantir que todos prosperem. </p><p>Em abril, lançamos o Programa Camunda Champion, para reconhecer, ampliar e recompensar o trabalho dos membros mais vocais da comunidade e tornar a interação em nossa comunidade uma experiência mais valiosa e significativa para todos. </p><p>Hoje, podemos destacar e recompensar esses membros da comunidade comprometidos e colaborativos &#8211; indivíduos que demonstram experiência no produto enquanto apoiam e contribuem ativamente para as comunidades de desenvolvedores, dando-lhes as boas-vindas ao Programa Camunda Champion. </p><p>Estamos entusiasmados em apresentar nosso primeiro grupo de Campeões da Camunda. Vindos de todo o mundo, nossos campeões serão rostos familiares para muitos de vocês. Cada um deles elevou, de muitas maneiras diferentes, a Comunidade Camunda &#8211; desde falar em eventos e liderar grupos de utilizadores, até responder a questões e contribuir para as nossas comunidades online. Convidamos você a se juntar a nós para dar os parabéns aos nossos campeões, pois eles começam seu mandato de um ano, continuando seu trabalho incrível.</p><cite><a href="https://camunda.com/blog/2021/06/welcome-camunda-champions" target="_blank" rel="noreferrer noopener">https://camunda.com/blog/2021/06/welcome-camunda-champions</a></cite></blockquote>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2021/06/1623316205270.jpeg"><img decoding="async" loading="lazy" width="800" height="418" src="https://mauriciobitencourt.com/wp-content/uploads/2021/06/1623316205270.jpeg" alt="" class="wp-image-2375" srcset="https://mauriciobitencourt.com/wp-content/uploads/2021/06/1623316205270.jpeg 800w, https://mauriciobitencourt.com/wp-content/uploads/2021/06/1623316205270-300x157.jpeg 300w, https://mauriciobitencourt.com/wp-content/uploads/2021/06/1623316205270-768x401.jpeg 768w, https://mauriciobitencourt.com/wp-content/uploads/2021/06/1623316205270-700x366.jpeg 700w" sizes="(max-width: 800px) 100vw, 800px" /></a><figcaption>Camunda Champions</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Redes Sociais</h2>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6809151255580065792" height="553" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Clientes Camunda BPM Enterprise Edition no Brasil</title>
+		<link>https://mauriciobitencourt.com/noticias/cliente-camunda-bpm-enterprise-edition-no-brasil/</link>
+					<comments>https://mauriciobitencourt.com/noticias/cliente-camunda-bpm-enterprise-edition-no-brasil/#comments</comments>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 23 Jan 2017 18:51:56 +0000</pubDate>
+				<category><![CDATA[noticias]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[Clientes no Brasil]]></category>
+		<category><![CDATA[Enterprise Edition]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=861</guid>
+
+					<description><![CDATA[É com grande satisfação que divulgo mais um cliente da Camunda na área de Serviços Financeiros, agora no Brasil. A Fundacred é uma instituição que oferece serviços de gestão facilitada de crédito educacional com mais de 40 anos de experiência na área. Por ser uma entidade sem fins lucrativos, pratica excelentes taxas, tanto para as [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>É com grande satisfação que divulgo mais um cliente da Camunda na área de <a href="https://camunda.com/customers/finance/">Serviços Financeiros</a>, <a href="https://camunda.com/bpm/references/single.php?cust=224">agora no Brasil</a>.</p>
+<p><span id="more-861"></span></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/01/fundacred-200.png"><img decoding="async" loading="lazy" class="size-full wp-image-870 alignleft" src="http://mauriciobitencourt.com/wp-content/uploads/2017/01/fundacred-200.png" alt="" width="200" height="81"></a>A Fundacred é uma instituição que oferece serviços de gestão facilitada de crédito educacional com mais de 40 anos de experiência na área. Por ser uma entidade sem fins lucrativos, pratica excelentes taxas, tanto para as instituições quanto para os alunos, com a credibilidade de seus serviços assegurada por sua história de constante evolução tecnológica.</p>
+<p>A capacitação da equipe, modelagem e a automação de processos e decisões com <a href="https://camunda.org/bpmn/tool/">Camunda Modeler</a> e a versão <a href="https://camunda.org/download/">Community Edition do Camunda BPM</a> aconteceram em 2016 com o auxílio da <a href="http://www.projeler.com.br/quemsomos_clientes_estudo_de_caso_fundacred.jsp">Projeler</a>. No início de 2017, o projeto entra em produção com o suporte, manutenção evolutiva&nbsp;e funcionalidades extras da versão <a href="https://camunda.com/bpm/enterprise/">Camunda BPM Enterprise Edition</a>.</p>
+<p>Acesse <a href="http://mauriciobitencourt.com/eventos/bpm-day-porto-alegre-2016/">BPM Day Porto Alegre 2016</a> para conhecer mais detalhes na <a href="http://www.slideshare.net/mauricio.bitencourt/transformao-digital-da-gesto-de-crdito">apresentação</a> e <a href="https://www.youtube.com/watch?v=iYYX53bzXpY">vídeo</a> do Estudo de Caso: <a href="http://www.projeler.com.br/download/estudo_de_caso_projeler_fundacred.pdf">Transformação Digital da Gestão de Crédito</a>.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/01/Captura-de-Tela-2017-01-23-às-19.01.45.png"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-882" src="http://mauriciobitencourt.com/wp-content/uploads/2017/01/Captura-de-Tela-2017-01-23-às-19.01.45-150x150.png" alt="" width="150" height="150"></a><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/01/Captura-de-Tela-2017-01-23-às-19.02.05.png"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-883" src="http://mauriciobitencourt.com/wp-content/uploads/2017/01/Captura-de-Tela-2017-01-23-às-19.02.05-150x150.png" alt="" width="150" height="150"></a><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/01/Captura-de-Tela-2017-01-23-às-19.02.28.png"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-884" src="http://mauriciobitencourt.com/wp-content/uploads/2017/01/Captura-de-Tela-2017-01-23-às-19.02.28-150x150.png" alt="" width="150" height="150"></a><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/01/camunda-references-sicredi.png"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1010" src="http://mauriciobitencourt.com/wp-content/uploads/2017/01/camunda-references-sicredi-150x150.png" alt="" width="150" height="150"></a><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/01/camunda-about-references.png"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1011" src="http://mauriciobitencourt.com/wp-content/uploads/2017/01/camunda-about-references-150x150.png" alt="" width="150" height="150"></a></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/01/camunda-case-studies-finaxis.png"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1197" src="http://mauriciobitencourt.com/wp-content/uploads/2017/01/camunda-case-studies-finaxis-150x150.png" alt="" width="150" height="150"></a></p>
+<p><a href="https://camunda.com/case-studies/santander-brazil/"><img decoding="async" loading="lazy" class="alignnone wp-image-1563 size-medium" src="http://mauriciobitencourt.com/wp-content/uploads/2019/03/camunda-case-studies-santander-brazil-300x214.png" alt="" width="300" height="214" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/03/camunda-case-studies-santander-brazil-300x214.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2019/03/camunda-case-studies-santander-brazil-768x548.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/03/camunda-case-studies-santander-brazil-1024x730.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2019/03/camunda-case-studies-santander-brazil-700x499.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2019/03/camunda-case-studies-santander-brazil.png 1122w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h6>Mais informações sobre Camunda BPM</h6>
+<p>http://mauriciobitencourt.com/tag/camunda/</p>
+<p>https://vimeo.com/camunda</p>
+<p><iframe loading="lazy" src="https://player.vimeo.com/video/84968794?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><a href="https://vimeo.com/84968794">camunda BPM (english)</a> from <a href="https://vimeo.com/camunda">camunda</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6514497227954675712" height="563" width="504" frameborder="0" allowfullscreen=""></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mauriciobitencourt.com/noticias/cliente-camunda-bpm-enterprise-edition-no-brasil/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

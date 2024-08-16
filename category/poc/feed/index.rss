@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>poc &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/category/poc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Wed, 13 May 2020 14:27:25 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>poc &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Prova de Conceito com Camunda BPM</title>
+		<link>https://mauriciobitencourt.com/eventos/prova-de-conceito-poc-com-camunda-bpm/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Tue, 12 May 2020 21:23:43 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[poc]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[PoC]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=1907</guid>
+
+					<description><![CDATA[Resumo do Resultado da Prova de Conceito (PoC) com Camunda BPM]]></description>
+										<content:encoded><![CDATA[
+<p>Compartilho vídeo com o resumo da Prova de Conceito (PoC) com Camunda BPM para a automação do processo 31.6.6 Movimentação de Pessoas e decisões com base em regras de negócio nas notações BPMN e DMN.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<span id="more-1907"></span>
+
+
+
+<p>As cinco reuniões, totalmente na modalidade teletrabalho, aconteceram na última semana de março de 2020, em conjunto com o Ministério da Economia, Planejamento, Desenvolvimento e Gestão, Ministério da Educação, Camunda, Projeler e Memora.</p>
+
+
+
+<p>Produtos usados:</p>
+
+
+
+<ul><li>Cawemo para o mapeamento e modelagem de processos colaborativa entre Áreas de Negócio e TI.</li><li>Camunda Modeler para a simulação e design de processos e decisões.</li><li>Camunda Tasklist e Cockpit para execução e orquestração de microsserviços.</li><li>Optimize para monitoramento e otimização de processos e decisões.</li></ul>
+
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/UgAjkcbk9-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.youtube.com/user/mbitencourt/videos">Acesse aqui mais vídeos no canal do YouTube.</a></p>
+
+
+
+<p class="has-text-align-center"><a href="https://mauriciobitencourt.com/wp-content/uploads/2020/05/resumo-dos-resultados-da-prova-de-conceito.pdf">Acesse aqui para o download do PDF da apresentação.</a></p>
+
+
+
+<p>Referência</p>
+
+
+
+<p>A Cadeia de Valor Integrada do Estado a partir da missão do Estado e das macrofunções estruturadoras da Administração pública, (Chaves, Nicir. 2016). &#8211; <a href="http://arquivonacional.gov.br/images/COGED/A4_CVI_CCTT_vF.pdf">http://arquivonacional.gov.br/images/COGED/A4_CVI_CCTT_vF.pdf</a></p>
+
+
+
+<p>Disclaimer</p>
+
+
+
+<ul><li>Esta prova de conceito, ou PoC (sigla do inglês, Proof of Concept) é uma aplicação prática para demonstrar a automação de processos e decisões com a tecnologia da empresa alemã Camunda. </li><li>O escopo é limitado sem a intenção de abranger o processo de ponta a ponta em todas as esferas e poderes.</li><li>As regras de negócio tiveram origem em leis e portarias reais, mas a aplicação foi hipotética (com base em suposição, duvidoso e incerto).</li><li>Os diagramas de processo e dados utilizados para a execução públicos.</li></ul>
+
+
+
+<p>Redes Sociais</p>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6666093808574361601" height="579" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe></p>
+
+
+<blockquote class="twitter-tweet">
+<p lang="pt" dir="ltr">Compartilho o vídeo com o resumo da Prova de Conceito (PoC) com Camunda BPM para a automação de processo e decisões com BPMN e DMN.<a href="https://twitter.com/hashtag/bpm?src=hash&amp;ref_src=twsrc%5Etfw">#bpm</a> <a href="https://twitter.com/hashtag/processos?src=hash&amp;ref_src=twsrc%5Etfw">#processos</a> <a href="https://twitter.com/hashtag/bpmn?src=hash&amp;ref_src=twsrc%5Etfw">#bpmn</a> <a href="https://twitter.com/hashtag/camunda?src=hash&amp;ref_src=twsrc%5Etfw">#camunda</a> <a href="https://twitter.com/hashtag/bpms?src=hash&amp;ref_src=twsrc%5Etfw">#bpms</a> <a href="https://twitter.com/hashtag/cbpp?src=hash&amp;ref_src=twsrc%5Etfw">#cbpp</a> <a href="https://twitter.com/hashtag/dmn?src=hash&amp;ref_src=twsrc%5Etfw">#dmn</a> <a href="https://twitter.com/hashtag/projeler?src=hash&amp;ref_src=twsrc%5Etfw">#projeler</a> <a href="https://twitter.com/hashtag/memora?src=hash&amp;ref_src=twsrc%5Etfw">#memora</a> <a href="https://twitter.com/hashtag/mec?src=hash&amp;ref_src=twsrc%5Etfw">#mec</a> <a href="https://t.co/XhxEOvrOXR">https://t.co/XhxEOvrOXR</a></p>
+<p>— Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/1260328182852587524?ref_src=twsrc%5Etfw">May 12, 2020</a></p></blockquote>
+<p> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

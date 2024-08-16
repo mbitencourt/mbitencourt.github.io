@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>webinar &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/category/webinar/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Wed, 27 May 2020 21:11:44 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>webinar &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Panorama Global de BPM</title>
+		<link>https://mauriciobitencourt.com/webinar/panorama-global-de-bpm/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Wed, 27 May 2020 02:53:58 +0000</pubDate>
+				<category><![CDATA[webinar]]></category>
+		<category><![CDATA[ABPMP]]></category>
+		<category><![CDATA[Transformação]]></category>
+		<category><![CDATA[Transformação Digital]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=1936</guid>
+
+					<description><![CDATA[Compartilho a gravação do Webinar: Transformação de Processos &#8211; Panorama Global promovido pela ABPMP. A gravação do webinar está disponível no canal da ABPMP no YouTube em https://www.youtube.com/watch?v=9ogpI93Glek Referências A seguir alguns links mencionados no webinar: https://pm4py.fit.fraunhofer.de/ https://www.youtube.com/user/mbitencourt/videos https://mauriciobitencourt.com/tag/meetup/ Redes Sociais]]></description>
+										<content:encoded><![CDATA[
+<p>Compartilho a gravação do Webinar: Transformação de Processos &#8211; Panorama Global promovido pela ABPMP.</p>
+
+
+
+<span id="more-1936"></span>
+
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/C8lQa4nD-Zk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+
+
+<p>A gravação do webinar está disponível no canal da ABPMP no YouTube em <a href="https://www.youtube.com/watch?v=9ogpI93Glek" target="_blank" rel="noreferrer noopener">https://www.youtube.com/watch?v=9ogpI93Glek</a></p>
+
+
+
+<h4 class="wp-block-heading">Referências</h4>
+
+
+
+<p>A seguir alguns links mencionados no webinar:</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-maur-iacute-cio-bitencourt"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="arKhk9DE2f"><a href="https://mauriciobitencourt.com/eventos/bpm-day-paraiba-2018/">BPM Day Paraíba 2018</a></blockquote><iframe title="&#8220;BPM Day Paraíba 2018&#8221; &#8212; Maur&iacute;cio Bitencourt" class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://mauriciobitencourt.com/eventos/bpm-day-paraiba-2018/embed/#?secret=arKhk9DE2f" data-secret="arKhk9DE2f" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p><a href="https://pm4py.fit.fraunhofer.de/">https://pm4py.fit.fraunhofer.de/</a></p>
+
+
+
+<p><a href="https://www.youtube.com/user/mbitencourt/videos">https://www.youtube.com/user/mbitencourt/videos</a></p>
+
+
+
+<p><a href="https://mauriciobitencourt.com/tag/meetup/">https://mauriciobitencourt.com/tag/meetup/</a></p>
+
+
+
+<h4 class="wp-block-heading">Redes Sociais</h4>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6671033747170754560" height="741" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Edição 10 do Curso de BPM</title>
+		<link>https://mauriciobitencourt.com/cursos/curso-bpm-ed10/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Sun, 17 Jul 2016 19:48:06 +0000</pubDate>
+				<category><![CDATA[cursos]]></category>
+		<category><![CDATA[webinar]]></category>
+		<category><![CDATA[ABPMP]]></category>
+		<category><![CDATA[BPM]]></category>
+		<category><![CDATA[BPM CBOK]]></category>
+		<category><![CDATA[CBPA]]></category>
+		<category><![CDATA[CBPP]]></category>
+		<category><![CDATA[EAD]]></category>
+		<category><![CDATA[OCEB]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=668</guid>
+
+					<description><![CDATA[A partir do dia 09 de agosto ministrarei aulas em mais uma edição do Curso de Gerenciamento de Processos de Negócio (BPM) e Preparação para os Exames de Certificação Profissional CBPP®, CBPA® e OCEB 2™. O curso fornece uma visão abrangente e integrada das áreas de conhecimento do ABPMP BPM CBOK V3.0® e nos padrões e referências bibliográficas definidas [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>A partir do dia 09 de agosto ministrarei aulas em mais uma edição do Curso de Gerenciamento de Processos de Negócio (BPM) e Preparação para os Exames de Certificação Profissional CBPP®, CBPA® e OCEB 2<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />.</p>
+<p>O curso fornece uma visão abrangente e integrada das áreas de conhecimento do ABPMP BPM CBOK V3.0® e nos padrões e referências bibliográficas definidas para OMG Certified Expert in BPM 2<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" />.<br />
+<span id="more-668"></span></p>
+<h3>Educação a Distância</h3>
+<ul>
+<li>44 horas-aula distribuídas em 11 disciplinas</li>
+<li>No seu computador ou tablet, onde e quando você quiser</li>
+<li>Aulas ao vivo pela internet nas terças e quintas das 19h30 às 21h30</li>
+<li>Gravações das aulas, conteúdo e simulados disponíveis por 12 meses</li>
+<li>Simulados com questões similares aos exames de certificação</li>
+<li>Novas turmas e conteúdo atualizado em cada semestre</li>
+</ul>
+<h3>10ª edição</h3>
+<ul>
+<li>Ao Vivo de 09 de Agosto a 20 de Outubro</li>
+<li>Recupere as aulas a partir das gravações (EAD sob demanda)</li>
+<li>Obtenha acesso agora ao conteúdo da 9ª edição</li>
+</ul>
+<p style="text-align: center;"><a href="http://www.projeler.com.br/bpm#demonstracao">Solicite aqui uma aula demonstrativa</a></p>
+<blockquote><p>Desenvolva os conhecimentos e habilidades necessários para ser um profissional de BPM com técnicas inovadoras para uso imediato na sua organização.</p></blockquote>
+<h3>Certificações CBPP®, CBPA® e OCEB 2<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></h3>
+<ul>
+<li>Solicitada para vagas em empresas, concursos e licitações</li>
+<li>Endossada por várias organizações públicas e privadas</li>
+<li>Demonstra conhecimento nivelado nas áreas de conhecimento</li>
+<li>Reflete a atualização periódica e desenvolvimento profissional</li>
+<li>Comprova conhecimento e habilidades para participar de projetos</li>
+</ul>
+<h6>Obtenha acesso ao conteúdo e pratique simulados a partir de agora</h6>
+<p>O profissional de BPM tem uma carreira estimulante e valiosa, que potencializa o trabalho de equipes multidisciplinares, transforma organizações, repensa serviços e constrói novas formas de geração de valor para os clientes e a sociedade.</p>
+<p>Aproveite essa excelente oportunidade de participar de um dos mais completos e bem sucedidos cursos de formação de profissionais de processo via web.</p>
+<p>As aulas são ao vivo para permitir o máximo de interação com o instrutor e demais participantes.</p>
+<p>Durante 12 meses você poderá, a qualquer momento, refazer simulados, recuperar ou revisar o conteúdo em PDF e assistir as gravações das aulas.</p>
+<p>Todo conteúdo programático do curso tem base no BPM CBOK® V3.0, padrões BPMN 2.0, BMM e BPMM e nas referências bibliográficas definidas para OMG Certified Expert in BPM 2<img src="https://s.w.org/images/core/emoji/14.0.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Inscrições e mais informações em <a href="http://www.projeler.com.br/bpm">www.projeler.com.br/bpm</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
