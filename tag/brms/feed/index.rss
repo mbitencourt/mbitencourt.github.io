@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BRMS &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/brms/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Wed, 01 Apr 2015 11:58:18 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>BRMS &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Apresentação de Estudo de Caso no JUDCon2014:Brazil</title>
+		<link>https://mauriciobitencourt.com/eventos/judcon2014brazil/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 29 Sep 2014 20:15:37 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[Automatização de Processos]]></category>
+		<category><![CDATA[BAM]]></category>
+		<category><![CDATA[BPMS]]></category>
+		<category><![CDATA[BRMS]]></category>
+		<category><![CDATA[Drools]]></category>
+		<category><![CDATA[Estudo de Caso]]></category>
+		<category><![CDATA[jBPM]]></category>
+		<category><![CDATA[Motor de Regras]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=38</guid>
+
+					<description><![CDATA[No dia 26 de setembro apresentei o estudo de caso &#8220;Recruitment process and rules automation with jBPM and Drools&#8221; na conferência de desenvolvedores JBoss JUDCon2014:Brazil em São Paulo. &#160; A apresentação foi uma adaptação autorizada do estudo de caso &#8220;Transformação dos Processos de Gestão de Pessoas na PAC Administradora de Crédito” apresentado pela Diretora Administrativa [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>No dia 26 de setembro apresentei o estudo de caso &#8220;Recruitment process and rules automation with jBPM and Drools&#8221; na conferência de desenvolvedores JBoss JUDCon2014:Brazil em São Paulo.</p>
+<p><span id="more-38"></span></p>
+<div>
+<div><img decoding="async" loading="lazy" class="alignright wp-image-39 size-thumbnail" src="http://mauriciobitencourt.com/wp-content/uploads/2014/11/judcon2014brazil_cto-150x150.jpg" alt="judcon2014brazil_cto" width="150" height="150" srcset="https://mauriciobitencourt.com/wp-content/uploads/2014/11/judcon2014brazil_cto-150x150.jpg 150w, https://mauriciobitencourt.com/wp-content/uploads/2014/11/judcon2014brazil_cto-250x250.jpg 250w" sizes="(max-width: 150px) 100vw, 150px" /></div>
+<div>
+<p>&nbsp;</p>
+<p>A apresentação foi uma adaptação autorizada do estudo de caso &#8220;<a href="http://www.projeler.com.br/quemsomos_clientes_estudo_de_caso_paconline.jsp">Transformação dos Processos de Gestão de Pessoas na PAC Administradora de Crédito</a>” apresentado pela Diretora Administrativa / Financeiro Marcia Terezinha Hupfer, a Gerente de RH Michelle Pitrez e a Psicóloga Analista de Recrutamento e Seleção Paula Melo na 41ª edição nacional do evento <a title="Fotos e apresentações do BPM Day Porto Alegre 2014" href="http://mauriciobitencourt.com/eventos/bpmdayportoalegre2014/">BPM Day da ABPMP, dia 06 de maio de 2014 no Salão de Convenções do Centro de Eventos da FIERGS em Porto Alegre</a>.</p>
+</div>
+<div>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_mauricio_bitencourt.jpg"><img decoding="async" loading="lazy" class="alignleft wp-image-43 size-thumbnail" src="http://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_mauricio_bitencourt-150x150.jpg" alt="judcon2014brazil_mauricio_bitencourt" width="150" height="150" srcset="https://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_mauricio_bitencourt-150x150.jpg 150w, https://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_mauricio_bitencourt-250x250.jpg 250w" sizes="(max-width: 150px) 100vw, 150px" /></a>Com enfoque mais técnico, destaquei as técnicas e tecnologias BPMS utilizadas para a automação do processo de negócio e os benefícios que a organização está colhendo.</p>
+</div>
+<div>
+<p>A automação de processos e regras de negócios foi totalmente desenvolvido a partir do navegador web <i>(thanks <a href="http://www.kiegroup.org/">UberFire</a> team)</i> com a plataforma <a href="http://www.kiegroup.org/">KIE &#8211; Knowledge is Everything</a> com os componentes <a href="http://www.jbpm.org/">JBPM</a> para o motor de processos e ciclo de vida do processo, <a href="http://www.drools.org/">Drools</a> para a modelagem de decisões e automação de regras de negócio, painéis de BAM implementados com <a href="http://www.dashbuilder.org/">Dashbuilder</a>.</p>
+</div>
+<div>
+<p>Por que KIE Knowledge is Everything?</p>
+</div>
+</div>
+<ol>
+<li>BPM Suite integrado e acessado via navegador sem necessidade de instalação na máquina local</li>
+<li>Ciclo de vida completo dos ativos de conhecimento do desenho, simulação, implementação, execução, monitoramento e planejamento de recursos</li>
+<li>Professional Open Source <i>“sem pegadinhas”</i>. Outras opções necessitam de módulos extras com custo a parte, tais como, integração com LDAP/AD, BAM, BRE, conectores, &#8230;</li>
+<li>Possibilidade de aquisição de plataforma corporativa com escalabilidade, alta disponibilidade, base de conhecimento, manutenção evolutiva, suporte técnico com níveis de serviço (SLA) e atendimento local</li>
+<li>Opções On Premise ou Public/Private/Community PaaS com o OpenShift</li>
+<li>A visão da plataforma ruma para um iBPMS (<i>intelligent BPM</i>) que, em breve, estará nos quadrantes do Gartner</li>
+<li>Comunidade ativa e incentivada pelo fornecedor que garante colaboração, fóruns, documentação e evolução da plataforma</li>
+</ol>
+<p><center><iframe loading="lazy" src="https://www.slideshare.net/slideshow/embed_code/39749447" width="480" height="310" frameborder="0" marginwidth="0" marginheight="0" data-blogger-escaped-allowfullscreen="" data-blogger-escaped-scrolling="no"></iframe></center></p>
+<div>
+<p><strong><a title="Recruitment Process and Rules Automation with jBPM and Drools" href="https://pt.slideshare.net/mbitencourt/mauricio-bitencourt-recruitmentprocessandrulesautomationwithjbpmanddrools" data-blogger-escaped-target="_blank">Recruitment Process and Rules Automation with jBPM and Drools</a> </strong>from <strong><a href="https://www.slideshare.net/mbitencourt" data-blogger-escaped-target="_blank">Mauricio Bitencourt</a></strong></p>
+</div>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_country_manager.jpg"><img decoding="async" loading="lazy" class="alignleft wp-image-45 size-thumbnail" src="http://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_country_manager-150x150.jpg" alt="judcon2014brazil_country_manager" width="150" height="150" srcset="https://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_country_manager-150x150.jpg 150w, https://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_country_manager-250x250.jpg 250w" sizes="(max-width: 150px) 100vw, 150px" /></a></p>
+<p>A parte da tarde foi aberta por Gilson Magalhães, Country Manager da Red Hat no Brasil, onde reforçou a importância da comunidade de desenvolvimento na história e no futuro da Red Hat. Este post é uma forma de atender o pedido do Gilson Magalhães para que a comunidade, cada vez mais, divulgue o evento e contribua para um público cada vez maior.</p>
+<p>Dentre as várias apresentações, foram apresentadas as novas funcionalidades das plataformas e também a visão do roadmap disponíveis para a comunidade e também via produtos da Red Hat.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_porcelli.jpg"><img decoding="async" loading="lazy" class="alignright wp-image-46 size-thumbnail" src="http://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_porcelli-150x150.jpg" alt="judcon2014brazil_porcelli" width="150" height="150" srcset="https://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_porcelli-150x150.jpg 150w, https://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_porcelli-250x250.jpg 250w" sizes="(max-width: 150px) 100vw, 150px" /></a></p>
+<p>Destaque para a apresentação Alexandre Porcelli, engenheiro do time KIE (Drools &amp; jBPM) na Red Hat e um dos fundadores do UberFire, plataforma pelos componentes de Middleware da Red Hat para ferramentas de desenvolvimento e consoles de administração em navegadores web. Foram apresentadas diversas novas funcionalidades para as próximas versões a partir da 6.2, tais como, novos plugins para integração com JavaScript atualmente e novas linguagens dentro da plataforma de desenvolvimento e distribuição de regras de negócio automatizadas em pacotes jar e distribuição em diversos servidores e outras plataformas.</p>
+<div>
+<p class="separator"><a href="http://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_fabiano_franz.jpg"><img decoding="async" loading="lazy" class="alignleft size-thumbnail wp-image-47" src="http://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_fabiano_franz-150x150.jpg" alt="judcon2014brazil_fabiano_franz" width="150" height="150" srcset="https://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_fabiano_franz-150x150.jpg 150w, https://mauriciobitencourt.com/wp-content/uploads/2014/09/judcon2014brazil_fabiano_franz-250x250.jpg 250w" sizes="(max-width: 150px) 100vw, 150px" /></a></p>
+<p>Fabiano Franz, Senior Software Engineer &#8211; Red Hat OpenShift na palestra ALL THINGS OPENSHIFT, apresentou a plataforma como serviço (PaaS) da Red Hat onde é extremamente simples instalar um novo cartucho, BPM Suite por exemplo, e começar a desenvolver em menos de 10 minutos. Distribuir para produção rapidamente também é muito fácil e escalável já na versão atual, a 2.0. Fabiano apresentou muitas outras novidades da versão 3.0, tais como, a possibilidade de instalação On Premise do OpenShift dentro da sua organização.</p>
+<p>See you next edition!</p>
+</div>
+<p>Leia mais:</p>
+<p><a href="https://www.jboss.org/events/JUDCon/2014/brazil/speakers.html#recruitment">Table of Speakers and Sessions</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

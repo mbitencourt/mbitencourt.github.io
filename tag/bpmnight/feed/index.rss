@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BPMNight &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/bpmnight/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Tue, 01 Dec 2020 14:27:37 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>BPMNight &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>BPMNight Rio de Janeiro</title>
+		<link>https://mauriciobitencourt.com/eventos/bpmnight-rio-de-janeiro/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Tue, 01 Dec 2020 12:54:17 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[BPMNight]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2240</guid>
+
+					<description><![CDATA[BPM e Transformação para negócios inovadores - Maurício Bitencourt
+
+A cada dia que passa a incorporação de novas tecnologias é uma constante dentro das organizações. Nesta palestra serão discutidas as principais tecnologias que hoje apoiam ou transformam os processos de negócio, assim como seus benefícios na execução e gestão de processos de negócio.]]></description>
+										<content:encoded><![CDATA[
+<p>Compartilho a minha participação no BPMNight, evento remoto organizado pela ABPMP regional Rio de Janeiro que aconteceu no dia 26 novembro de 2020.</p>
+
+
+
+<span id="more-2240"></span>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="BPM e transformação digital para negócios inovadores - Maurício Bitencourt no BPMNight + after" width="700" height="394" src="https://www.youtube.com/embed/G6NuLjWUV2U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>BPM e transformação digital para negócios inovadores &#8211; Maurício Bitencourt no BPMNight</figcaption></figure>
+
+
+
+<h5 class="wp-block-heading">A seguir as referências mencionadas no bate-papo.</h5>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6737853442313736192" height="669" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6735935015420481537" height="650" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.roadmap.com.br/pd"><img decoding="async" loading="lazy" width="665" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2020/12/process-design-1-665x1024.png" alt="" class="wp-image-2250" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/12/process-design-1-665x1024.png 665w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/process-design-1-195x300.png 195w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/process-design-1-768x1182.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/process-design-1-998x1536.png 998w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/process-design-1-455x700.png 455w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/process-design-1.png 1156w" sizes="(max-width: 665px) 100vw, 665px" /></a></figure>
+
+
+
+<div class="wp-block-file"><a href="https://mauriciobitencourt.com/wp-content/uploads/2020/12/roadmap-manifesto.pdf">PDF do Manifesto Roadmap</a><a href="https://mauriciobitencourt.com/wp-content/uploads/2020/12/roadmap-manifesto.pdf" class="wp-block-file__button" download>Baixar</a></div>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.roadmap.com.br/ma"><img decoding="async" loading="lazy" width="398" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2020/12/manifesto-roadmap-398x1024.png" alt="" class="wp-image-2252" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/12/manifesto-roadmap-398x1024.png 398w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/manifesto-roadmap-117x300.png 117w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/manifesto-roadmap-768x1977.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/manifesto-roadmap-597x1536.png 597w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/manifesto-roadmap-796x2048.png 796w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/manifesto-roadmap-272x700.png 272w, https://mauriciobitencourt.com/wp-content/uploads/2020/12/manifesto-roadmap.png 1372w" sizes="(max-width: 398px) 100vw, 398px" /></a></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

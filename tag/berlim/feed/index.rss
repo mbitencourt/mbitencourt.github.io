@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Berlim &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/berlim/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Mon, 15 Jan 2018 12:27:07 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>Berlim &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Treinamento em Berlim</title>
+		<link>https://mauriciobitencourt.com/eventos/treinamento-em-berlim/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2016 18:36:18 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[Berlim]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[DRD]]></category>
+		<category><![CDATA[Viagens]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=811</guid>
+
+					<description><![CDATA[Estive por duas semanas na sede da Camunda em Berlim para reuniões sobre a parceria e treinamento oficial na solução de BPM para obter a certificação. Foram dias fantásticos para conhecer os fundadores da empresa, pessoal de marketing, engenharia, consultoria e suporte técnico. O treinamento aconteceu dias antes do lançamento da nova versão semestral do [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Estive por duas semanas na sede da <a href="https://camunda.com/about/directions/">Camunda</a> em Berlim para reuniões sobre a <a href="http://mauriciobitencourt.com/eventos/projeler-firma-parceria-com-a-alema-camunda/">parceria</a> e treinamento oficial na solução de BPM para obter a certificação.</p>
+<p>Foram dias fantásticos para conhecer os fundadores da empresa, pessoal de marketing, engenharia, consultoria e suporte técnico.</p>
+<p><span id="more-811"></span></p>
+<p>O treinamento aconteceu dias antes do lançamento da nova versão semestral do Camunda BPM 7.6 e pude ter acesso às novidades e ao roadmap futuro da solução. Se hoje a solução já está a frente, principalmente no que diz respeito a modelagem e execução com BPMN, CMMN e DMN, informo que muito mais está para chegar nas próximas versões &#8211; &#8220;<em>Beautiful Business Process Management Made in Berlin</em>&#8221;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Our team is killing it @IIRgmbh conference in Vienna on day 2 &#8211; stop by and have a chat! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/HDvGIIylOe">pic.twitter.com/HDvGIIylOe</a></p>
+<p>&mdash; Camunda BPM (@CamundaBPM) <a href="https://twitter.com/CamundaBPM/status/801694175976689664?ref_src=twsrc%5Etfw">November 24, 2016</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<p>A seguir o primeiro resultado de execução de serviços dos exercícios do treinamento.</p>
+<blockquote class="twitter-tweet" data-lang="pt">
+<p dir="ltr" lang="und">I did it! Cheers Maurício Bitencourt</p>
+<p>— camunda demo (@camunda_demo) <a href="https://twitter.com/camunda_demo/status/800724206698819584">21 de novembro de 2016</a></p></blockquote>
+<h3></h3>
+<p>Estas foram as edições internacionais do curso básico e avançado. Nos intervalos pude trocar experiências com vários clientes do Camunda Enterprise Edition oriundos da Alemanha, Rússia e Estônia e também jogar um ping pong para descontrair.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161117_165426733.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-826" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161117_165426733.jpg" alt="img_20161117_165426733" width="5248" height="2952" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161117_165426733.jpg 5248w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161117_165426733-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161117_165426733-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161117_165426733-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161117_165426733-700x394.jpg 700w" sizes="(max-width: 5248px) 100vw, 5248px" /></a></p>
+<p>Pude também jogar um game totalmente feito em JavaScript onde você acerta elementos em BPMN para ganhar pontos.</p>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105735240.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-839" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105735240.jpg" alt="img_20161122_105735240" width="5248" height="2952" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105735240.jpg 5248w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105735240-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105735240-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105735240-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105735240-700x394.jpg 700w" sizes="(max-width: 5248px) 100vw, 5248px" /></a></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105522529.jpeg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-840" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105522529.jpeg" alt="img_20161122_105522529" width="1500" height="2667" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105522529.jpeg 1500w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105522529-169x300.jpeg 169w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105522529-768x1366.jpeg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105522529-576x1024.jpeg 576w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105522529-394x700.jpeg 394w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>&nbsp;</p>
+<h3>Novidades da nova versão do BPMS</h3>
+<p>Agora na versão 1.5 do <a href="https://camunda.org/release/camunda-modeler/nightly/">Camunda Modeler</a> é possível modelar diagramas de requisito de decisão (DRD &#8211; Decision Requirements Diagrams) e executar no servidor<a href="https://camunda.org/roadmap/"> Camunda BPM a partir da versão 7.6.</a> Esta funcionalidade é incrível porque resolve boa parte da complexidade das decisões e tornam os processos menos complexos, com menos workflow de pessoa para pessoa e com mais inteligência embarcada &#8211; Transformação Digital!</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/camunda-traininc.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-816" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/camunda-traininc.jpg" alt="camunda-traininc" width="2048" height="1152" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/camunda-traininc.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/camunda-traininc-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/camunda-traininc-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/camunda-traininc-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/camunda-traininc-700x394.jpg 700w" sizes="(max-width: 2048px) 100vw, 2048px" /></a></p>
+<h3>CMMN is awesome!</h3>
+<p>Agora pude compreender melhor como modelar e automatizar casos dinâmicos para processos menos estruturados!</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/961357812624571286-account_id2.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-824" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/961357812624571286-account_id2.jpg" alt="961357812624571286-account_id2" width="2048" height="1152" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/961357812624571286-account_id2.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/961357812624571286-account_id2-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/961357812624571286-account_id2-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/961357812624571286-account_id2-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/961357812624571286-account_id2-700x394.jpg 700w" sizes="(max-width: 2048px) 100vw, 2048px" /></a></p>
+<p>Agradeço ao <a href="https://www.linkedin.com/in/jakob-freund-a3a7a33/pt">Jakob Freund</a>, <a href="https://de.linkedin.com/in/andreas-stange-86a42026/pt">Andreas Stange</a> e <a href="https://de.linkedin.com/in/ingo-richtsmeier-1009551/pt">Ingo Richtsmeier</a> pela recepção calorosa e o compartilhamento de conhecimento direto da fonte.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_150256438.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-827" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_150256438.jpg" alt="img_20161125_150256438" width="5248" height="2952" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_150256438.jpg 5248w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_150256438-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_150256438-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_150256438-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_150256438-700x394.jpg 700w" sizes="(max-width: 5248px) 100vw, 5248px" /></a></p>
+<p>&nbsp;</p>
+<h4>Hora de curtir a cidade</h4>
+<p>Depois de cinco dias intensos de treinamento em inglês é chegada a hora de gastar sola de sapato e curtir com a família os principais pontos turísticos de Berlim.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_152153982.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-825" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_152153982.jpg" alt="img_20161127_152153982" width="2952" height="5248" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_152153982.jpg 2952w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_152153982-169x300.jpg 169w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_152153982-768x1365.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_152153982-576x1024.jpg 576w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_152153982-394x700.jpg 394w" sizes="(max-width: 2952px) 100vw, 2952px" /></a></p>
+<p>Os semáforos para pedestres me chamaram a atenção com &#8216;homenzinhos de chapéu’, principalmente próximos aos monumentos do leste da cidade, região que, antes da reunificação, integrava a extinta a Alemanha Oriental (DDR).</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161126_112327116_HDR.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-828" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161126_112327116_HDR.jpg" alt="img_20161126_112327116_hdr" width="5248" height="2952" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161126_112327116_HDR.jpg 5248w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161126_112327116_HDR-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161126_112327116_HDR-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161126_112327116_HDR-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161126_112327116_HDR-700x394.jpg 700w" sizes="(max-width: 5248px) 100vw, 5248px" /></a></p>
+<p>O parlamento alemão (Deutscher Bundestag) foi uma das melhores visitas.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_142106179-1.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-845" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_142106179-1.jpg" alt="img_20161127_142106179" width="2952" height="5248" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_142106179-1.jpg 2952w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_142106179-1-169x300.jpg 169w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_142106179-1-768x1365.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_142106179-1-576x1024.jpg 576w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_142106179-1-394x700.jpg 394w" sizes="(max-width: 2952px) 100vw, 2952px" /></a></p>
+<p>A igreja de Gedächtniskirche foi deixada em sua forma original de destruição como uma lembrança do que foi a guerra para os alemães e para toda a Europa.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_145257804-1.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-830" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_145257804-1.jpg" alt="img_20161127_145257804" width="1440" height="2560" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_145257804-1.jpg 1440w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_145257804-1-169x300.jpg 169w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_145257804-1-768x1365.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_145257804-1-576x1024.jpg 576w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_145257804-1-394x700.jpg 394w" sizes="(max-width: 1440px) 100vw, 1440px" /></a></p>
+<p>A Siegessäule ou Coluna da Vitória serviu de cenário para a gravação do vídeo da música “<a href="https://youtu.be/gNS1jTQOnCs">Stay, Farway so Close</a>” do U2. Foi muito bom curtir este clipe na MTV por muito tempo e agora estar aqui.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_144604490.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-831" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_144604490.jpg" alt="img_20161127_144604490" width="1440" height="2560" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_144604490.jpg 1440w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_144604490-169x300.jpg 169w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_144604490-768x1365.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_144604490-576x1024.jpg 576w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_144604490-394x700.jpg 394w" sizes="(max-width: 1440px) 100vw, 1440px" /></a></p>
+<p>No <a href="http://www.computerspielemuseum.de/1210_Home.htm">Computerspielemuseum</a> pude rever com meu filho de 7 anos muitos dos microcomputadores que eu usei nas décadas de 80 e 90 para jogar e programar.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_182015008.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-832" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_182015008.jpg" alt="img_20161125_182015008" width="5248" height="2952" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_182015008.jpg 5248w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_182015008-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_182015008-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_182015008-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_182015008-700x394.jpg 700w" sizes="(max-width: 5248px) 100vw, 5248px" /></a></p>
+<p>Muro de Berlim no <a href="http://www.eastsidegallery-berlin.de/">East Side Gallery</a>, <a href="https://goo.gl/maps/4mXpz1rCwL12">Markthalle</a>, <a href="http://www.berlin.de/en/attractions-and-sights/3560109-3104052-alexanderplatz.en.html">Alexanderplatz</a>, <a href="https://tv-turm.de/en/homepage/">Berliner Fernsehturm</a>, <a href="http://www.berlin.de/en/attractions-and-sights/3560059-3104052-checkpoint-charlie.en.html">Checkpoint Charlie</a>, <a href="http://www.berlin.de/en/attractions-and-sights/3560266-3104052-brandenburg-gate.en.html">Portão de Brandemburgo</a>, <a href="http://www.berlin.de/en/attractions-and-sights/3560707-3104052-berlin-tv-tower.en.html">Torre de TV</a>, <a href="http://www.ddr-museum.de/en">Museu DDR</a>, e <a href="http://www.berlin.de/tourismus/fotos/sehenswuerdigkeiten-fotos/">muito mais</a>&#8230;</p>
+<p>Berlim é uma cidade fantástica com muita história recente para conhecer ao ar livre e em várias opções de museus.</p>
+<p>Voltarei para o <a href="https://network.camunda.org/meetings/">Camunda Community Day</a> e o <a href="https://bpmcon.de/">BPMCon 2017</a>!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
