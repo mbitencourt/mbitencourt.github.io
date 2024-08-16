@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CMMN &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/cmmn/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Wed, 10 May 2023 17:28:38 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>CMMN &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nota Técnica Camunda &#8211; Modelagem</title>
+		<link>https://mauriciobitencourt.com/manual/nota-tecnica-camunda-modelagem/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2020 22:57:53 +0000</pubDate>
+				<category><![CDATA[manual]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[BPMS]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[cawemo]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[ibpms]]></category>
+		<category><![CDATA[Modeler]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=1983</guid>
+
+					<description><![CDATA[Elaborei esta nota técnica sobre o Camunda BPM com o intuito de classificar o atendimento de requisitos para mapeamento e modelagem de processos, casos e decisões com base nas versões Cawemo 1.2 e Camunda Modeler 4.0. Veja também:Nota Técnica Camunda – Desenvolvimento e OperaçõesNota Técnica Camunda &#8211; Gestão Modelagem de Processos O Camunda BPM tem [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Elaborei esta nota técnica sobre o Camunda BPM com o intuito de classificar o atendimento de requisitos para mapeamento e modelagem de processos, casos e decisões com base nas versões Cawemo 1.2 e Camunda Modeler 4.0.</p>
+
+
+
+<p>Veja também:<br><a href="https://mauriciobitencourt.com/manual/nota-tecnica-camunda-devops/">Nota Técnica Camunda – Desenvolvimento e Operações</a><br><a href="https://mauriciobitencourt.com/manual/nota-tecnica-camunda-gestao">Nota Técnica Camunda &#8211; Gestão</a></p>
+
+
+
+<span id="more-1983"></span>
+
+
+
+<h2 class="wp-block-heading">Modelagem de Processos</h2>
+
+
+
+<p>O Camunda BPM tem suporte a grande maioria dos elementos da notação e modelo BPMN 2.0, tanto para modelagem quanto para execução. Os elementos da BPMN cobertos pelo Camunda BPM estão representados em laranja nas imagens as seguir ou em <a rel="noreferrer noopener" href="https://docs.camunda.org/manual/latest/reference/bpmn20/" target="_blank">BPMN 2.0 Implementation Reference</a>.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" width="745" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-745x1024.png" alt="" class="wp-image-2001" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-745x1024.png 745w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-218x300.png 218w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-768x1055.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-1118x1536.png 1118w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-1490x2048.png 1490w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-509x700.png 509w" sizes="(max-width: 745px) 100vw, 745px" /><figcaption><a href="https://docs.camunda.org/manual/7.13/reference/bpmn20/" target="_blank" rel="noreferrer noopener">BPMN 2.0 Implementation Reference &#8211; Parte 1/2</a></figcaption></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="795" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-795x1024.png" alt="" class="wp-image-2002" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-795x1024.png 795w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-233x300.png 233w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-768x989.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-1192x1536.png 1192w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-1590x2048.png 1590w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-543x700.png 543w" sizes="(max-width: 795px) 100vw, 795px" /><figcaption><a href="https://docs.camunda.org/manual/7.13/reference/bpmn20/#events" target="_blank" rel="noreferrer noopener">BPMN 2.0 Implementation Reference &#8211; Parte 2/2</a></figcaption></figure></div>
+
+
+
+<p>Duas ferramentas para a modelagem de processos na notação e modelo BPMN poderão ser usadas:</p>
+
+
+
+<h3 class="wp-block-heading">Cawemo</h3>
+
+
+
+<p>Plataforma de modelagem colaborativa, fácil de usar, permitindo que várias pessoas de Áreas de Negócio trabalhem juntas especificar diagramas (nível descritivo) e mapas (nível analítico) de processo em BPMN e posteriormente repassar aos desenvolvedores implantarem modelos (nível executável) de processos na ferramenta Camunda Modeler.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="523" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-1024x523.png" alt="" class="wp-image-1999" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-1024x523.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-300x153.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-768x393.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-1536x785.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-2048x1047.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-700x358.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Dentre as principais características, podemos destacar:</p>
+
+
+
+<p>Modelar processos BPMN de forma colaborativa. </p>
+
+
+
+<p>Criar diagramas de processo BPMN com todas as partes interessadas envolvidas para especificar o fluxo de trabalho que deve ser automatizado. Busca o alinhamento entre analistas de negócios, gerentes de projeto e pessoas de TI para implementar o processo correto para:</p>
+
+
+
+<ol type="a"><li>Anexar descrições de especificação e links aos nós do diagrama;</li><li>Comentar com todos os membros da equipe dentro do diagrama;</li><li>Incorporar diagramas nas páginas HTML (por exemplo, Confluence) para compartilhar documentação diretamente da renderização dos diagramas com atualização automática de versões;</li><li>Exportar diagramas como arquivos XML do BPMN 2.0 padrão para ser importado na ferramenta Camunda Modeler ou outras ferramentas que suportem este mesmo Standard de BPM.</li></ol>
+
+
+
+<p>Via plugins para o motor de processos e as ferramentas de modelagem integrar com os demais componentes do Camunda BPM:</p>
+
+
+
+<ol type="a"><li>Sincronizar todos os processos implantados dos seus motores Camunda com o Cawemo;</li><li>Sincronizar o estado de desenvolvimento mais recente através do Camunda Modeler;</li><li>Ramificar a versão de produção mais recente para elaborar a próxima iteração;</li><li>Conectar todos os diagramas sincronizados do mesmo processo para ver sua evolução.</li></ol>
+
+
+
+<p>Acompanhar as alterações dos diagramas:</p>
+
+
+
+<ol type="a"><li>Versionamento completo do histórico do diagrama</li><li>Possibilidade de comparar as alterações de um fluxo de trabalho com a atual identificando as diferenças entre as versões é destacada com cores distintas.</li><li>Ao criar um marco manualmente ou sempre que um novo processo implementado é sincronizado, uma nova versão é adicionada ao histórico.</li></ol>
+
+
+
+<h4 class="wp-block-heading">Versão Enterprise Edition</h4>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="923" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-1024x923.png" alt="" class="wp-image-2005" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-1024x923.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-300x271.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-768x693.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-1536x1385.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-2048x1847.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-700x631.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://camunda.com/products/cawemo/" target="_blank" rel="noreferrer noopener">Diferenças entre a versão gratuita e a paga.</a></figcaption></figure></div>
+
+
+
+<p>A seguir algumas funcionalidades extras da versão Enterprise Edition:</p>
+
+
+
+<p><a href="https://docs.camunda.org/cawemo/latest/technical-guide/installation/" target="_blank" rel="noreferrer noopener">Instalação On-Premise</a> para rodar nos seus servidores atrás do seu firewal ou em nuvem privada com gerenciamento próprio.</p>
+
+
+
+<h2 class="wp-block-heading">Camunda Modeler</h2>
+
+
+
+<p>O Camunda Modeler é uma ferramenta instalada no computador para modelar fluxos de trabalho na notação BPMN, decisões com base em regras de negócio com a notação DMN e casos dinâmicos em CMMN. </p>
+
+
+
+<p>As distribuições estão disponíveis para instalação e operação nos sistemas operacionais <strong>Windows</strong>, <strong>MacOS</strong> e <strong>Linux</strong>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="719" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-1024x719.png" alt="" class="wp-image-1988" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-1024x719.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-300x211.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-768x539.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-1536x1078.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-2048x1438.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-700x491.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Download do Camunda Modeler &#8211; <a href="https://camunda.com/download/modeler/" target="_blank" rel="noreferrer noopener">https://camunda.com/download/modeler/</a></figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">Design de fluxos de trabalho e decisões</h4>
+
+
+
+<p>O Camunda Modeler suporta os standards de BPM (BPMN-CMMN-DMN triple crown) nas versões BPMN 2.0, CMMN 1.1 e DMN 1.3 (FEEL 1.2 <em>Friendly Enough Expression Language</em>), incluindo lógica de decisão das regras de negócio em tabelas de decisão (<em>decision tables</em>) e diagramas de requisitos de decisão (DRD <em>Decision Requirement Diagram</em>).</p>
+
+
+
+<h4 class="wp-block-heading">Criar modelos executáveis</h4>
+
+
+
+<p>Além da modelagem visual, o Camunda Modeler permite editar todas as propriedades necessárias para a execução técnica. Como o Camunda Modeler trabalha diretamente nos arquivos XML BPMN, CMMN e DMN, os desenvolvedores podem combiná-lo facilmente com a sua ferramenta de IDE preferida (por exemplo, Eclipse, Netbeans, IntelliJ).</p>
+
+
+
+<p>Os arquivos XML criados podem ser implementados na Plataforma Camunda e executados pelos mecanismos BPMN, CMMN e DMN (motores de execução de processos, casos e decisões).</p>
+
+
+
+<h4 class="wp-block-heading">Modelos de Elemento</h4>
+
+
+
+<p>Os Modelos de Elemento (<em>Element Templates</em>) permitem criar configurações predefinidas em arquivos JSON para que os usuários trabalhem com um painel de propriedades customizado.</p>
+
+
+
+<p>Por exemplo, você pode configurar uma &#8220;Tarefa de e-mail&#8221; que sempre solicitará o endereço de email do remetente, o endereço do destinatário, um assunto e um corpo. Uma vez implementada, essa tarefa será executada com base em uma lógica de execução predefinida, por exemplo, em Java. Isso permite que você forneça um ambiente de baixo código personalizado para criar e alterar fluxos de trabalho em sua organização.</p>
+
+
+
+<h4 class="wp-block-heading">Plugins Adicionais</h4>
+
+
+
+<p>Com os plugins é possível alterar sua aparência da ferramenta de modelagem, adicionar novas entradas de menu ou estender as ferramentas de modelagem para os standards BPMN, CMMN e DMN.</p>
+
+
+
+<p>Adicionar um plugin é tão fácil quanto colocar os arquivos no respectivo diretório. Simulação de processo, pré-visualização de formulários, renomear nomes técnicos dos elementos, são alguns dos exemplos de plugins já existentes. Muitos outros plugins são desenvolvidos pelos usuários da ferramenta e compartilhados abertamente no GitHub.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="268" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins-1024x268.png" alt="" class="wp-image-1992" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins-1024x268.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins-300x78.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins-768x201.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins-700x183.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins.png 1484w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Exemplos de Plugins no Camunda Modeler</figcaption></figure>
+
+
+
+<p>A seguir um vídeo com exemplos de simulação de processos de negócio modelados na notação BPMN 2.0 utilizando o plugin Camunda Modeler Token Simulation. Mais informações no post <a href="https://mauriciobitencourt.com/teoria/simulacao-de-processo-com-bpmn/" target="_blank" rel="noreferrer noopener">Simulação de processo com BPMN</a>.</p>
+
+
+<p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/9WLiPHVZwSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+
+
+<p>Principais Plugins para o Camunda Moder:</p>
+
+
+
+<p><a href="https://github.com/camunda-consulting/code/tree/master/snippets/camunda-modeler-plugins/bpmn-js-plugin-rename-technical-ids#camunda-modeler---rename-technical-ids" target="_blank" rel="noreferrer noopener">Camunda Modeler &#8211; Rename Technical IDs</a></p>
+
+
+
+<p><a href="https://github.com/camunda-consulting/code/tree/master/snippets/camunda-modeler-plugins/camunda-modeler-plugin-usertask-generatedform-preview#camunda-modeler-plugin---usertask-generated-form-preview-and-embedded-form-generator">UserTask Generated Form Preview and Embedded Form Generator</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://github.com/bpmn-io/bpmn-js-token-simulation-plugin#token-simulation-for-the-camunda-modeler" target="_blank">Token Simulation for the Camunda Modeler</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://github.com/camunda/camunda-modeler-linter-plugin#camunda-modeler-linter-plugin" target="_blank">BPMN Linter &#8211; Model Validator</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://github.com/viadee/camunda-modeler-tooltip-plugin#camunda-modeler-tooltip-plugin" target="_blank">Camunda Modeler Tooltip Plugin</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://github.com/bpmn-io/camunda-transaction-boundaries#camunda-transaction-boundaries" target="_blank">Camunda Transaction Boundaries</a></p>
+
+
+
+<p><a href="https://docs.camunda.org/cawemo/latest/technical-guide/integrations/modeler/" target="_blank" rel="noreferrer noopener">Cloud Connect</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hands-On-Workshop para Modelar » Simular » Executar » Otimizar Processos, Casos e Decisões</title>
+		<link>https://mauriciobitencourt.com/workshop/da-modelagem-a-execucao/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 27 Sep 2018 02:43:17 +0000</pubDate>
+				<category><![CDATA[workshop]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1477</guid>
+
+					<description><![CDATA[Objetivo Demonstrar como ir da modelagem à execução de processos, casos e decisões, sempre utilizando a prática durante a apresentação de teoria. Em cada módulo com duração de 8 horas em um único dia, o condutor orientará e resolverá dúvidas para estimular a participação e a dinâmica dos envolvidos. Público Profissionais de Áreas de Negócio [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h6>Objetivo</h6>
+<p>Demonstrar como ir da modelagem à execução de processos, casos e decisões, sempre utilizando a prática durante a apresentação de teoria.</p>
+<p>Em cada módulo com duração de 8 horas em um único dia, o condutor orientará e resolverá dúvidas para estimular a participação e a dinâmica dos envolvidos.</p>
+<p><span id="more-1477"></span></p>
+<h6>Público</h6>
+<p>Profissionais de Áreas de Negócio e de TI envolvidos na melhoria e transformação de processos de negócio, casos adaptativos e decisões com base em regras de negócio.</p>
+<p>Product Owners, UX Designers, Scrum Masters, Release Train Engineers, Analistas de Negócios, Processos e/ou Requisitos, Gerentes de Projeto, Testadores, Desenvolvedores e demais profissionais que trabalhem com a criação de produtos digitais.</p>
+<p>Equipes ágeis na cultura DevOps que desejam integração e distribuição contínua (CI/CD), utilizando frameworks de preferência com os standards de BPM e tecnologias Open Source para aumentar significativamente a produtividade de desenvolvimento e operação.</p>
+<p>Sem pré-requisitos. Não será necessário o conhecimento prévio de uma linguagem de programação, notação ou ferramenta.</p>
+<h6>Por que fazer?</h6>
+<p>Aprenda a construir processos de negócio mais inteligentes e eficazes, integrados a casos e ao modelo de decisão com o uso de técnicas e tecnologias atuais no Camunda Community Platform.</p>
+<h6>Como</h6>
+<p>Você realmente aprenderá praticando os exercícios e tutoriais no seu notebook.</p>
+<p>Ao final dos workshops você estará apto para inovar na sua organização com fluxos de trabalho em formulários eletrônicos, casos, decisões automatizadas e informações integradas a microserviços.</p>
+<h6>Instrutor</h6>
+<p>Maurício Bitencourt, certificado CBPP Red Seal, especialista em integração contínua de processos, casos e decisões automatizados, com foco no fluxo de valor para reduzir a fragmentação organizacional e criar novas experiências relevantes na jornada e nos momentos da vida dos clientes.</p>
+<h6>Investimento</h6>
+<p>R$ 990,00 para cada módulo de 8 horas.</p>
+<h6>Formas de Pagamento</h6>
+<p>Cartão de Crédito em até 3x de R$ 330,00 via <a href="http://www.projeler.com.br/workshop/index.jsp#inscricoes">PayPal</a> ou em 12x via plataforma <a href="https://www.sympla.com.br/workshop-pratico-modelar--simular--executar--otimizar-processos-casos-e-decisoes__463693">Sympla</a>.</p>
+<p>A vista via depósito em conta corrente: BB, Ag 3537-8, Conta 15.386-9 CNPJ 08.044.990/0001-71.</p>
+<p>Nota de Empenho ou Autorização de Fornecimento &#8211; utilize a ficha de inscrição do <a href="http://www.projeler.com.br/pdf/projeler-folder-wmap-wmac-wmad.pdf">folder em PDF</a>.</p>
+<h6>Carga horária</h6>
+<p>Cada módulo do workshop terá carga horária de 8 horas das 9h00 às 18h00.</p>
+<h6>Você receberá</h6>
+<p>Oito horas de capacitação teórica e prática; material para anotações; conteúdo em meio digital na língua portuguesa; acesso a internet para baixar o software Open Source; guia de referência para modelar processos, casos e decisões com BPMN, CMMN e DMN; certificado.</p>
+<h6>Benefícios</h6>
+<p>Com o uso da automação de decisões você poderá obter maior <strong>velocidade, escalabilidade, confiabilidade</strong> dos serviços na entrega de valor aos clientes.</p>
+<p>Com base nos dados mais detalhados de execução dos processos, você poderá habilitar um monitoramento poderoso com capacidades analíticas em tempo real e identificar novos pontos de melhoria dos <strong>processos digitizados</strong>.</p>
+<p>Com o conhecimento adquirido neste workshop, você poderá <strong>substituir progressivamente práticas ultrapassadas</strong>, por exemplo, trâmites manuais em papel e e-mails, controles em planilhas, sistemas obsoletos e atrasos por decisões que não necessitam de julgamento.</p>
+<p>Com a modelagem e a execução de casos adaptativos, você poderá descrever, capturar e automatizar o que os <strong>trabalhadores do conhecimento</strong> realizam.</p>
+<p>Comprovamos que o mapeamento, modelagem, análise e design de processos, casos e decisões é cada vez melhor a medida que se conhece mais sobre a <strong>execução na prática</strong>.</p>
+<p>Conheça o <strong>potencial dos standards de BPM e tecnologias de automação</strong> para aproveitar componentes existentes que aumentam significativamente a produtividade de desenvolvimento e operação.</p>
+<p>Agilidade para obter <strong>software em funcionamento</strong>, documentação de negócio e cenários de testes.</p>
+<p>A modelagem e automação de decisões com base em regras de negócio é perfeita para produzir escalabilidade e precisão de ato administrativo <strong>vinculado</strong> sem julgamento, por outro lado, a modelagem e automação de casos adaptativos são mais apropriados para ato administrativo <strong>discricionário</strong> que permite análise subjetiva através da valoração dos fatos, produzindo uma base de comportamentos e padrões ricos para o estabelecimento de novos processos e decisões.</p>
+<p>Iniciativas de documentação de processos, na maioria dos casos, levam a paralisia por análise, em vez disso, utilize os conhecimentos práticos em <strong>DevOps</strong> destes workshops para estabilizar os processos, criar um pipeline de projetos em com <strong>integração contínua (CI)</strong> e <strong>entrega contínua (CD)</strong> de processos, casos e decisões automatizados e obter o feedback loop de novas idéias de produto, alinhando estratétégias e necessidades dos clientes.</p>
+<p>O gerenciamento de decisões permite criar <strong>uma única fonte de verdade</strong> da organização, habilita a transformação digital, simplifica o fluxo de valor, cria contexto para implementar o aprendizado de máquina (ML) e endereça de forma disruptiva a substituição tarefas humanas dos processos.</p>
+<h6>Observações</h6>
+<p>Cada participante deverá trazer o seu próprio computador para praticar os exercícios.</p>
+<h6>Informações e Inscrições</h6>
+<p><a href="http://www.projeler.com.br/workshop/">www.projeler.com.br/workshop/</a></p>
+<p><a href="https://www.sympla.com.br/projeler">www.sympla.com.br/projeler</a></p>
+<p><a href="http://www.projeler.com.br/pdf/projeler-folder-hands-on-workshop.pdf">Folder em PDF</a></p>
+<h6>Opinião de quem já participou</h6>
+<blockquote>
+<p>Achei o conteúdo bastante abrangente e rico. O material com excelente nível de detalhamento e, sobretudo, a parte prática extremamente esclarecedora.</p>
+</blockquote>
+<p><em>Flávia Silva Azevedo, Administradora do SEI! &#8211; Sistema Eletrônico de Informações na Secretaria de Administração na ESMPU Escola Superior do Ministério Público da União &#8211; Participante da edição de Brasília do Workshop Prático para Modelar, Simular, Executar e Otimizar Processos, Casos e Decisões nos dias 02, 03 e 04 de outubro de 2018.</em></p>
+<blockquote>
+<p>Como o nome sugere o workshop prático entrega o que promete, pois ao final do dia sempre temos um modelo executando construído por você.</p>
+</blockquote>
+<p><em>Rodrigo dos Santos Gomes, Product Owner do Projeto Maestro na Petrobras &#8211; Participante da edição de Brasília do Workshop Prático para Modelar, Simular, Executar e Otimizar Processos, Casos e Decisões nos dias 02, 03 e 04 de outubro de 2018.</em></p>
+<blockquote>
+<p>O workshop entrega conhecimento detalhado e valioso para o desenvolvimento rápido de soluções de automação de processos em modelos executáveis na plataforma de BPM da Camunda.</p>
+</blockquote>
+<p>Aldinei Bastos, Analista de Sistemas na Petrobras &#8211; Participante da edição de Porto Alegre do Workshop Prático para Modelar, Simular, Executar e Otimizar Processos, Casos e Decisões nos dias 18, 19 e 20 de dezembro de 2018.</p>
+<blockquote>
+<p>Participei deste Workshop Prático na edição de Porto Alegre, em Dezembro do ano passado. Didática incrível e controle total sobre o conteúdo proposto. Investimento super bem feito, obrigado Maurício!</p>
+</blockquote>
+<p>Roger Gomes, Analista de BI na Fundacred, via <a href="https://www.linkedin.com/feed/update/urn:li:activity:6506217971990437888?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6506217971990437888%2C6514193698086014976%29">LinkedIn</a> &#8211; Participante da edição de Porto Alegre do Workshop Prático para Modelar, Simular, Executar e Otimizar Processos, Casos e Decisões nos dias 18, 19 e 20 de dezembro de 2018.</p>
+<blockquote>
+<p>Excelente treinamento. O nível de conhecimento do instrutor é altíssimo, o que nos deu motivação e segurança para prosseguir. A ferramenta possui alto valor agregado e tem aplicabilidade clara em diversos processos de negócio da Companhia. Sensacional! Com certeza, um dos melhores treinamentos que eu já fiz. O Maurício é um profissional extremamente gabaritado, experiente e didático. Recomendo a todos os entusiastas de BPM e da ferramenta Camunda.</p>
+</blockquote>
+<p>Alexandre Ramos, Product Owner na Mongeral Aegon &#8211; Participante da edição presencial fechada no Rio de Janeiro em agosto de 2019.</p>
+<p> </p>
+<p>Redes Sociais</p>
+<p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6506217971990437888">LinkedIn</a></p>
+<h6>Fotos de outras edições</h6>
+
+
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="768" height="1024" src="http://mauriciobitencourt.com/wp-content/uploads/2019/03/IMG_20181218_161009-768x1024.jpg" alt="" class="wp-image-1551" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/03/IMG_20181218_161009-768x1024.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/03/IMG_20181218_161009-225x300.jpg 225w, https://mauriciobitencourt.com/wp-content/uploads/2019/03/IMG_20181218_161009-525x700.jpg 525w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Edição do Workshop em Porto Alegre &#8211; Dezembro de 2018</figcaption></figure>
+
+
+
+<p>Vídeo sobre a ferramenta utilizada</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" width="700" height="394" src="https://www.youtube.com/embed/9WLiPHVZwSE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Exemplo de Simulação de Processo com BPMN no Camunda Modeler</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Melhores serviços com a modelagem e a automação de decisões</title>
+		<link>https://mauriciobitencourt.com/eventos/conferencia-nacional-da-abpmp-2018/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Tue, 22 May 2018 23:11:11 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[ABPMP]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Carta de Serviços]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[Modelagem de Decisões]]></category>
+		<category><![CDATA[Serviços Públicos]]></category>
+		<category><![CDATA[UX]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1377</guid>
+
+					<description><![CDATA[No dia 28 de maio ministrei o workshop Melhores serviços com a modelagem e a automação de decisões na Conferência Nacional da ABPMP 2018 em Brasília, DF. 09h40 às 10h30 Como as decisões podem ser facilmente modeladas e automatizadas com DMN para construir fluxos de trabalho mais simples, ágeis e inovadores. 10h50 às 12h00 Veja [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>No dia 28 de maio ministrei o workshop <strong>Melhores serviços com a modelagem e a automação de decisões</strong> na Conferência Nacional da ABPMP 2018 em Brasília, DF.</p>
+<p>09h40 às 10h30</p>
+<p style="padding-left: 30px;">Como as decisões podem ser facilmente modeladas e automatizadas com DMN para construir fluxos de trabalho mais simples, ágeis e inovadores.</p>
+<p>10h50 às 12h00</p>
+<p style="padding-left: 30px;">Veja exemplos práticos para assegurar o cumprimento de regulação e, ao mesmo tempo, obter processos e decisões mais inteligentes com melhores experiências digitais aos usuários.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2019/10/melhores-servicos-com-a-modelagem-e-a-automacao-de-decisoes-keynote.pdf">Baixe aqui os slides em PDF  do workshop &#8220;Melhores serviços com a modelagem e a automação de decisões&#8221;</a> por Maurício Bitencourt na Conferência Nacional da ABPMP sobre Governança e Gestão Pública em Brasília.</p>
+<p><span id="more-1377"></span></p>
+<p><iframe loading="lazy" style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/l10jAiYJo6LQOX" width="640" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></p>
+<div style="margin-bottom: 5px;"><strong> <a title="Melhores serviços com a modelagem e a automação de decisões" href="//www.slideshare.net/mauricio.bitencourt/melhores-servios-com-a-modelagem-e-a-automao-de-decises" target="_blank" rel="noopener noreferrer">Melhores serviços com a modelagem e a automação de decisões</a> </strong> por <strong><a href="https://www.slideshare.net/mauricio.bitencourt" target="_blank" rel="noopener noreferrer">Mauricio Bitencourt, CBPP</a></strong></div>
+<h5>Próximas edições dos workshops</h5>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/projeler-workshop-campanha-retina.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1474 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/projeler-workshop-campanha-retina-798x1024.png" alt="" width="700" height="898" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/projeler-workshop-campanha-retina-798x1024.png 798w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/projeler-workshop-campanha-retina-234x300.png 234w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/projeler-workshop-campanha-retina-768x985.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/projeler-workshop-campanha-retina-546x700.png 546w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/projeler-workshop-campanha-retina.png 1540w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Mais informações e inscrições em <a href="http://www.projeler.com.br/workshop/">www.projeler.com.br/workshop/</a></p>
+<h5>Compartilhamento nas redes sociais</h5>
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:6406826757680361472" width="504" height="542" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<blockquote class="twitter-tweet" data-lang="pt">
+<p dir="ltr" lang="pt">09h40 workshop aberto: Melhores serviços com a modelagem e a automação de decisões, sala Lab2 do ISC-TCU Brasília <a href="https://t.co/pdnHUBAKaj">https://t.co/pdnHUBAKaj</a></p>
+<p>— Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/1001061131333636096?ref_src=twsrc%5Etfw">28 de maio de 2018</a></p></blockquote>
+<h5>Conferência Nacional da ABPMP 2018</h5>
+<p>Acesse <a href="https://www.eventbrite.com.br/e/conferencia-nacional-da-abpmp-2018-edicao-brasilia-tickets-46010789510">aqui a agenda e o formulário de inscrições no Eventbrite</a>.</p>
+<p>A ABPMP Brasil convida todos para o Conferência Nacional da ABPMP 2018. Venha debater com a gestão por processos pode contribuir com os desafios de produtividade, controle e inovação de empresas privadas e organizações públicas no Brasil.</p>
+<p>Vamos trazer os principais praticantes de BPM do Brasil para trocar experiências e construir juntos as novas fronteiras de BPM. Será uma excelente oportunidade para estar em contato com o que há de mais avançado em BPM no Brasil e fazer networking com profissionais de vários segmentos de negócio.</p>
+<h5>Fotos do evento</h5>
+<p><div id="attachment_1401" style="width: 710px" class="wp-caption alignnone"><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_111313.jpg"><img aria-describedby="caption-attachment-1401" decoding="async" loading="lazy" class="wp-image-1401 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_111313-768x1024.jpg" alt="" width="700" height="933" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_111313-768x1024.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_111313-225x300.jpg 225w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_111313-525x700.jpg 525w" sizes="(max-width: 700px) 100vw, 700px" /></a><p id="caption-attachment-1401" class="wp-caption-text">Workshop: Melhores serviços com a modelagem e a automação de decisões por Maurício Bitencourt</p></div></p>
+<p><div id="attachment_1402" style="width: 710px" class="wp-caption alignnone"><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_090656.jpg"><img aria-describedby="caption-attachment-1402" decoding="async" loading="lazy" class="wp-image-1402 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_090656-1024x768.jpg" alt="" width="700" height="525" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_090656-1024x768.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_090656-300x225.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_090656-768x576.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_090656-700x525.jpg 700w" sizes="(max-width: 700px) 100vw, 700px" /></a><p id="caption-attachment-1402" class="wp-caption-text">Abertura do evento Por: Ivan de Vargas Lopes Jr, Presidente da ABPMP Brasil</p></div></p>
+<p><div id="attachment_1403" style="width: 710px" class="wp-caption alignnone"><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_092611.jpg"><img aria-describedby="caption-attachment-1403" decoding="async" loading="lazy" class="wp-image-1403 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_092611-1024x768.jpg" alt="" width="700" height="525" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_092611-1024x768.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_092611-300x225.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_092611-768x576.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_092611-700x525.jpg 700w" sizes="(max-width: 700px) 100vw, 700px" /></a><p id="caption-attachment-1403" class="wp-caption-text">Palestra de abertura: Governança e gestão Pública: os desafios das macrofunções dos Estado. Por: Nicir Maria Gomes Chaves</p></div></p>
+<p><div id="attachment_1404" style="width: 710px" class="wp-caption alignnone"><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_121552.jpg"><img aria-describedby="caption-attachment-1404" decoding="async" loading="lazy" class="wp-image-1404 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_121552-1024x768.jpg" alt="" width="700" height="525" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_121552-1024x768.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_121552-300x225.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_121552-768x576.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/IMG_20180528_121552-700x525.jpg 700w" sizes="(max-width: 700px) 100vw, 700px" /></a><p id="caption-attachment-1404" class="wp-caption-text">Debate: BPM e Governança Digital com Márcia Martins de Araújo do Tribunal de Contas da União (TCU), Luiz Carlos Miyadaira Ribeiro Junior do Ministério do Planejamento, Desenvolvimento e Gestão (MPDG) e Leonardo Gomes Miranda do Ministério da Agricultura, Pecuária e Abastecimento (MAPA)</p></div></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>TDC 2017 Porto Alegre</title>
+		<link>https://mauriciobitencourt.com/eventos/tdc-2017-porto-alegre/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 16 Nov 2017 12:23:04 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[Modelagem de Casos]]></category>
+		<category><![CDATA[Modelagem de Decisões]]></category>
+		<category><![CDATA[Modelagem de Processos]]></category>
+		<category><![CDATA[Porto Alegre]]></category>
+		<category><![CDATA[Projeler]]></category>
+		<category><![CDATA[TDC]]></category>
+		<category><![CDATA[Transformação Digital]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1092</guid>
+
+					<description><![CDATA[Estive na edição de Porto Alegre do TDC The Developer&#8217;s Conference juntamente com Andreas Stange, Felix Müller e Stephan Aina vindos da sede da Camunda em Berlim. No estade da Camunda pudemos demonstrar ao vivo os produtos Cawemo para modelagem colaborativa na nuvem, o Camunda BPM 7.8 para automatizar workflows e decisões e a nova [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Estive na edição de Porto Alegre do <a href="http://www.thedevconf.com.br/tdc/2017/index.html">TDC The Developer&#8217;s Conference</a> juntamente com <a href="https://www.linkedin.com/in/andreas-stange-86a42026/">Andreas Stange</a>, <a href="https://www.linkedin.com/in/felix-m%C3%BCller-67866645/">Felix Müller</a> e <a href="https://www.linkedin.com/in/stephanaina/">Stephan Aina</a> vindos da sede da <a href="https://camunda.com/about/about-us/">Camunda</a> em Berlim.</p>
+<p><span id="more-1092"></span></p>
+<p>No estade da Camunda pudemos demonstrar ao vivo os produtos <a href="https://cawemo.com/">Cawemo</a> para modelagem colaborativa na nuvem, o <a href="https://vimeo.com/245696691">Camunda BPM 7.8</a> para automatizar <a href="https://camunda.com/products/bpmn-engine/">workflows</a> e <a href="https://camunda.com/products/dmn-engine/">decisões</a> e a nova versão do <a href="https://vimeo.com/226307880">Optimize</a> para analisar e otimizar processos a parir de dados das instancias executadas.</p>
+<p>Foi uma satisfação palestrar nas trilhas Transformação Digital, Análise de Negócios e Microserviços.</p>
+<h3>Transformação Digital de Processos, Casos e Decisões</h3>
+<p>Por Maurício Bitencourt</p>
+<h6>Resumo</h6>
+<p>A digitalização aumentou a velocidade dos negócios e o Gerenciamento de Processos e Decisões (BPM/BDM) estão no centro desta mudança de era, exigindo novas habilidades focadas no potencial dos indivíduos para a entrega contínua de ideias em software.<br />
+Demonstrarei novos paradigmas de desenvolvimento para endereçar a abrangência e a complexidade crescentes de sistemas não estáticos.<br />
+Serão abordadas arquiteturas, técnicas e tecnologias para ir da modelagem à execução de processos (BPMN), casos (CMMN) e decisões com base em regras de negócio (DMN) em software Open Source para ir além da especialização em determinadas partes para uma abordagem de melhoria e transformação do negócio de ponta a ponta.</p>
+<p>TAG: Digital Transformation of Processes, Cases and Decisions</p>
+<h6>Slides</h6>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-2017-porto-alegre-mauricio-bitencourt-trilha-transformacao-digital-email.pdf">Clique aqui para baixar os slides desta apresentação em PDF.</a></p>
+<p><iframe loading="lazy" src="https://www.slideshare.net/slideshow/embed_code/key/g45PS3wuBb4zQ6" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+<p>&nbsp;</p>
+<h3>Da Modelagem à Execução de Processos, Casos e Decisões com BPMN, CMMN e DMN</h3>
+<p>Por Maurício Bitencourt</p>
+<h6>Resumo</h6>
+<p>Na tríade de modelos e notações de BPM com BPMN, CMMN e DMN, utiliza-se muito de elementos gráficos, proporcionando mais inovação na entrega contínua de software com base em processos, casos e decisões, a partir de modelos mais simples, inteligentes, ágeis e inovadores.<br />
+Serão apresentadas técnicas e tecnologias abertas para a criação de modelos claros e objetivos, ricos em elementos gráficos e que permitam acelerar a criação e a implementação.<br />
+Demonstraremos processos, casos e decisões como ativos de conhecimento distintos e integrados, que permitem um aumento de comunicação, colaboração e transparência através de todo o ciclo de vida de aplicação.</p>
+<p>TAG: From modeling to the execution of the business process, dynamic case, and decisions based on business rules.</p>
+<h6>Slides</h6>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-2017-porto-alegre-mauricio-bitencourt-trilha-analise-de-negocios-email.pdf">Clique aqui para baixar os slides desta apresentação em PDF.</a></p>
+<p><iframe loading="lazy" src="https://www.slideshare.net/slideshow/embed_code/key/2frpdMf5AwVdeF" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+<p>&nbsp;</p>
+<h3>Orchestration of Microservices</h3>
+<p>Por Felix Müller</p>
+<h6>Resumo</h6>
+<p>How can you create an end-to-end business process using a bunch of decoupled microservices? How can you bring visibility to such workflow? How can you support long-running processes by not losing the advantages of decoupling and stateless? Within this talk, I want to answer all of these questions by using the open source workflow engine Camunda BPM in live coding examples with Spring Boot and Docker. Let&#8217;s orchestrate some microservices together!</p>
+<p>&nbsp;</p>
+<p>Mensagens nas redes sociais</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">I&#39;m looking forward to meeting the Camunda guys at TDC in Brazil. Warm passionate people with fantastic ambition for digital transformation. <a href="https://t.co/gksRjz5JUi">https://t.co/gksRjz5JUi</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/927575103596089346?ref_src=twsrc%5Etfw">November 6, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Visit us at Camunda&#39;s booth at UniRitter in Porto Alegre, Brazil <a href="https://t.co/Hlz1ZjoEK2">https://t.co/Hlz1ZjoEK2</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/928240469733183488?ref_src=twsrc%5Etfw">November 8, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="pt" dir="ltr">Compartilho a minha apresentação no TDC 2017 Porto Alegre &#8211; Transformação Digital de Processos, Casos e Decisões <a href="https://t.co/NEch0txGtn">https://t.co/NEch0txGtn</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/928652779287187456?ref_src=twsrc%5Etfw">November 9, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="pt" dir="ltr">Apresentação no TDC 2017 Porto Alegre Da Modelagem à Execução de Processos, Casos e Decisões com BPMN, CMMN e DMN. <a href="https://t.co/0vnKh06XVt">https://t.co/0vnKh06XVt</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/928650625172365314?ref_src=twsrc%5Etfw">November 9, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Excellent talk about Orchestration of Microservices <a href="https://t.co/Pt1GCbMNEP">https://t.co/Pt1GCbMNEP</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/929047278949629957?ref_src=twsrc%5Etfw">November 10, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="pt" dir="ltr"><a href="https://twitter.com/felixlmueller?ref_src=twsrc%5Etfw">@felixlmueller</a> drinking chimarrão at <a href="https://twitter.com/TheDevConf?ref_src=twsrc%5Etfw">@TheDevConf</a> Porto Alegre <a href="https://t.co/1Al1Fh4L77">pic.twitter.com/1Al1Fh4L77</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/929395060734603264?ref_src=twsrc%5Etfw">November 11, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<h6>Fotos</h6>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23405864_1612468302146875_9201605140165486732_o.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1101" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23405864_1612468302146875_9201605140165486732_o-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23467440_1612522235474815_6432151480864864140_o.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1102" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23467440_1612522235474815_6432151480864864140_o-150x150.jpg" alt="" width="150" height="150" /></a>  <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_141116785.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1105" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_141116785-150x150.jpg" alt="" width="150" height="150" /></a>  <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_143548620-2.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1106" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_143548620-2-150x150.jpg" alt="" width="150" height="150" /></a></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09.jpeg"><img decoding="async" loading="lazy" class="alignnone wp-image-1148 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-1024x576.jpeg" alt="" width="700" height="394" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-1024x576.jpeg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-300x169.jpeg 300w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-768x432.jpeg 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-700x394.jpeg 700w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09.jpeg 1280w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23659636_1622468871146818_4910652465680822182_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1152" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23659636_1622468871146818_4910652465680822182_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23754887_1622468634480175_1601398265486504848_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1153" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23754887_1622468634480175_1601398265486504848_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755048_1622468814480157_3129718196897981955_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1154" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755048_1622468814480157_3129718196897981955_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755210_1622476374479401_6353956654853572672_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1155" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755210_1622476374479401_6353956654853572672_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843594_1622476534479385_3147728402139287586_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1156" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843594_1622476534479385_3147728402139287586_n-150x150.jpg" alt="" width="150" height="150" /></a><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843418_1622458484481190_3602575137496733380_n-1.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1157" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843418_1622458484481190_3602575137496733380_n-1-150x150.jpg" alt="" width="150" height="150" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Mais fotos na <a href="https://www.facebook.com/TheDevelopersConference/photos/">página do TDC no Facebook</a></p>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook.jpeg"><img decoding="async" loading="lazy" class="alignnone wp-image-1108 size-full" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook.jpeg" alt="" width="720" height="1280" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook.jpeg 720w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook-169x300.jpeg 169w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook-576x1024.jpeg 576w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook-394x700.jpeg 394w" sizes="(max-width: 720px) 100vw, 720px" /></a></p>
+<p>&nbsp;</p>
+<p>A seguir alguns links para as gravações das palestras na Trilha Stadium:</p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-2/?rdst_srcid=997745">Sprints de Experimentação: um framework para a quarta revolução industrial &#8211; Paulo Caroli</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-10/?rdst_srcid=1004866">Produtividade Ninja no Android Studio &#8211; Ramon Ribeiro Rabello</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-11/?rdst_srcid=1002011">Demystifying Cloud Foundry: What, How and Why &#8211; Lucas Rosa Cruz Reginato</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-12/?rdst_srcid=1002004">Quando é lançar antes? &#8211; Daniel Wildt</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-13/?rdst_srcid=1001977">Review, demo e apresentações, o que de fato importa para o seu produto? &#8211; Guilherme Motta</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-1/">Lições aprendidas no código fonte do Roslyn &#8211; Elemar Rodrigues Severo Junior</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-3/?rdst_srcid=995903">Utilizando Golang para minerar moedas como o Bitcoin &#8211; Felipe Teixeira</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-4/">Infraestrutura imutável com mobykit (Moby, Linuxkit e Infrakit) &#8211; Wellington Figueira da Silva</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-5/">Acessibilidade no iOS &#8211; Gabriel Oliva</a></p>
+<p><a href="https://www.eventials.com/Globalcode/events/tdconline-porto-alegre-2017-stadium/?rdst_srcid=987319">E muito mais&#8230;</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Transformação Digital de Serviços e as Rupturas do Desperdício, do Obsoleto e do Improdutivo</title>
+		<link>https://mauriciobitencourt.com/eventos/tramites-en-linea/</link>
+					<comments>https://mauriciobitencourt.com/eventos/tramites-en-linea/#comments</comments>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 21 Sep 2017 23:18:57 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[BPM]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[Montevideo]]></category>
+		<category><![CDATA[Uruguai]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1020</guid>
+
+					<description><![CDATA[Compartilho o meu contato com projetos de BPM com propósito realmente transformador para clientes de serviços públicos e privados. A primeira vez que eu ouvi falar sobre o projeto uruguaio “trámites en línea”, que numa tradução livre quer dizer “tramitação online”, foi em novembro de 2016 na palestra do Coordenador-geral de Inovação Tecnológica da Secretaria [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Compartilho o meu contato com projetos de BPM com propósito realmente transformador para clientes de serviços públicos e privados.</p>
+<p><span id="more-1020"></span></p>
+<p>A primeira vez que eu ouvi falar sobre o projeto uruguaio <em>“trámites en línea”</em>, que numa tradução livre quer dizer “tramitação online”, foi em novembro de 2016 na <a href="https://youtu.be/BdLvDwiYWtg?t=26m25s">palestra do Coordenador-geral de Inovação Tecnológica da Secretaria de Gestão do Ministério do Planejamento</a> no <a href="http://mauriciobitencourt.com/eventos/i-ciclo-palestras-cases-sc/">I Ciclo de Palestras e Cases sobre Inovação e Eficiência na Gestão Pública</a> em Florianópolis realizado pelo Escritório de Processos do Estado de Santa Catarina. Desde essa apresentação, eu fiquei com uma curiosidade imensa de conhecer este projeto. Quando eu recebi o convite para palestrar em Montevideo, aceitei de imediato com a expectativa de ter a oportunidade de conhecer o projeto tão alinhado com um dos principais conceitos de BPM que eu tenho empregado em menor escala: a entrega plena de valor dos processos ponta a ponta, desenhados “de fora para dentro” (<em>outside in</em>) a partir da perspectiva do cliente, com medições indicadores compartilhados mais adequados para a gestão horizontal (visão lógica), que cruzam várias estruturas verticais, tais como, funções, departamentos e outras organizações (visão física).</p>
+<h6>Processos ponta a ponta digitais para os cidadãos uruguaios</h6>
+<p>Estive em Montevideo para palestrar no evento <em>“<a href="http://mauriciobitencourt.com/wp-content/uploads/2017/09/convite-evento-montevideo.png">Transformación Digital con Automatización de Procesos</a>”</em> que contou com a presença de uma qualificada plateia composta por empresas públicas e privadas do Uruguai.</p>
+<p>A compreensão da minha apresentação <em>“<a href="https://pt.slideshare.net/mauricio.bitencourt/transformacin-digital-de-procesos-casos-y-decisiones">Transformación Digital de Procesos, Casos y Decisiones</a>”</em> foi facilitada, pois contei com o auxílio de slides traduzidos para o Espanhol (muito obrigado Juan Pablo). Gostei da tradução do termo <em>“processo macarrônico”</em> para <em>“processo entreverado”</em> no slide que demonstra a modelagem de um fluxograma com muitas raias e diversos retrabalhos representados por setas para todos os lados. Em geral, este slide causa um certo impacto na plateia, me auxilia a quebrar paradigmas e exemplifica um processo com fluxo contínuo, com o <em>“caminho feliz”</em> sem raias para evidenciar a entrega de valor separado de caminhos de exceção e cancelamentos.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/09/estudo_de_caso_projeler_fundacred_a4-duas-paginas_ES.pdf">Casos de sucesso com a disciplina gerencial, técnicas e tecnologias de BPM.</a></p>
+<p>No final da manhã, ainda dentro da programação do evento, realizei um <em>“manos en la massa”</em> ao vivo de um ciclo completo para modelar, simular, automatizar e otimizar processos, casos e decisões com os standards BPMN, CMMN e DMN, utilizando as ferramentas Open Source da Camunda para distribuir novas versões de projetos, executar tarefas nas filas de trabalho, orquestrar microserviços e monitorar instâncias de processos em execução. Demonstrei também, recursos incríveis e essenciais para ir do desenvolvimento à operação (DevOps) em um BPMS com grandes volumes de processos digitais, tais como, alteração de regras de negócio diretamente no servidor, reposicionamento e migração em lote de instâncias de processos em execução para novas versões a partir de interfaces de gerenciamento.</p>
+<p>Demonstrei como entrelaçamento de vários processos formam um processo ponta a ponta, fundamental para endereçar serviços aos clientes que vão do evento numa ponta mais extrema do início ao resultado direto para o cliente numa outra ponta mais extrema no final. Emitir passaportes é um bom exemplo de processo para exemplificar serviços públicos a partir de uma carta de serviços ao cidadão. Este mesmo conceito também pode ser usado para um processo de atendimento de clientes numa empresa pública ou privada, onde vários setores são orquestrados na horizontal até satisfazer uma dúvida, reclamação, sugestão, assistência técnica, por exemplo.</p>
+<p>Na parte da tarde, a convite da Gerente do Programa, visitei a AGESIC, agência que coordena o projeto <em>trámites en línea</em> iniciado em março de 2015. Diante da equipe, assisti uma apresentação sobre o projeto que tem a meta disponibilizar todos os serviços aos cidadãos uruguaios de forma eletrônica até o ano de 2020. Trocamos algumas ideias sobre mapeamento, modelagem e automação de processos e decisões, fundamentais para a tramitação automática de grandes volumes de regras de negócio orientadas a dados sem a necessidade de interação humana para dar direcionamentos às instancias de processos.</p>
+<p>Por enquanto o foco do projeto não está na automatização do todas as atividades e tarefas dos processos para orquestrar diversas funções em diferentes órgãos da administração pública. Atualmente, mais de 230 trâmites de ponta a ponta já possuem formulários eletrônicos com autenticação unificada dos cidadãos e assinatura eletrônica para iniciar a instância de processo juntamente com uma agenda para controlar prazo para a entrega do resultado ao cidadão na outra ponta.</p>
+<h6>Melhoria e transformação de processos</h6>
+<p>A abordagem de BPM adotada, por enquanto, é o Redesenho Transacional que não questiona a estrutura do processo, identifica problemas e resolve de forma incremental as disfunções, gargalos, ineficiências, desperdícios e demais técnicas da área de conhecimento Análise de Processo do BPM CBOK, por exemplo. A partir da visão do processo ponta a ponta (percepção natural do cidadão de fora para dentro) e a <a href="https://www.youtube.com/watch?v=x0neORjzfWQ&amp;feature=youtu.be&amp;t=2m37s">construção de uma cadeia de valor ao redor dos eventos da vida do cidadão</a>, será muito provável que o projeto partirá para o Redesenho Transformacional para questionar a existência estrutural do processo e propor mudanças mais radicais e inovadoras, principalmente, em relação ao legado de estruturas dos órgãos que foram constituídos no século XX antes da influência de técnicas de gestão para o pensamento enxuto e fluxo contínuo, tais como, o Lean e o Mapeamento do Fluxo de Valor (VSM).</p>
+<h6>Mais rápido, barato e melhor</h6>
+<p>O projeto tem a meta de automatizar 100% (aprox. 1.600) dos processos ponta a ponta da Carta de Serviços ao Cidadão até 2020. Dentre os principais resultados esperados, podemos destacar: uma maior satisfação dos clientes dos serviços (beneficiários) dos serviços, eliminação de desperdícios, diminuição do tempo de tramitação, escalabilidade, redução de deslocamentos dos cidadãos e, principalmente, fazer mais com menos.</p>
+<p>Retornei do Uruguai com um aprendizado prático de como conduzir um projeto de Gerenciamento de Processos de Negócio ou BPM Business Process Management com o propósito de transformar digitalmente uma nação e melhorar os serviços para os seus cidadãos. Conforme a palestra que assisti de 2016 em Santa Catarina, assim como este caso do Uruguai, estruturas de trabalho <a href="https://www.apqc.org/pcf">APQC Process Classification Framework</a>, <a href="https://www.gov.uk/">GOV.UK</a>, <a href="https://e-estonia.com/">e-Estonia.com</a> e muitos outros, podemos usá-los como benchmark e boas práticas para influenciar e adaptar às dimensões continentais do Brasil, transformando digitalmente os serviços públicos com a disciplina gerencial de BPM, suas técnicas e tecnologias.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/09/IMG_20170901_161913679-1.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1072" src="http://mauriciobitencourt.com/wp-content/uploads/2017/09/IMG_20170901_161913679-1-150x150.jpg" alt="" width="150" height="150" /> . </a><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/09/IMG_20170901_140227249.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1073" src="http://mauriciobitencourt.com/wp-content/uploads/2017/09/IMG_20170901_140227249-150x150.jpg" alt="" width="150" height="150" /></a> . <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/09/IMG_20170901_140208064.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1074" src="http://mauriciobitencourt.com/wp-content/uploads/2017/09/IMG_20170901_140208064-150x150.jpg" alt="" width="150" height="150" /></a> . <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/09/IMG_20170901_140158842_BURST001.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1075" src="http://mauriciobitencourt.com/wp-content/uploads/2017/09/IMG_20170901_140158842_BURST001-150x150.jpg" alt="" width="150" height="150" /></a></p>
+<p>Foi uma satisfação conhecer o time da AGESIC. Muito obrigado pelo carinho e o compartilhamento de conhecimento. Vocês estão de parabéns pela iniciativa!</p>
+<p>Referências:</p>
+<p><a href="http://www.planejamento.gov.br/pensei">http://www.planejamento.gov.br/pensei</a></p>
+<p><a href="http://tramites.gub.uy/">http://tramites.gub.uy/</a></p>
+<p><a href="https://e-estonia.com/">https://e-estonia.com/</a></p>
+<p><a href="https://www.gov.uk/">https://www.gov.uk/</a></p>
+<p><a href="https://goo.gl/gZXgMV">https://goo.gl/gZXgMV</a></p>
+<p>BPM Social | Partes <a href="https://www.youtube.com/watch?v=K6aAe0PcvHU">01</a>, <a href="https://www.youtube.com/watch?v=x0neORjzfWQ">02</a>, <a href="https://www.youtube.com/watch?v=_jRA-MVSIZY">03</a> e <a href="https://www.youtube.com/watch?v=diH9ea4WVoY">04</a> &#8211; Tradução e legendas por Gart Capote</p>
+<p>&nbsp;</p>
+<p>Artigo também publicado no <a href="https://www.linkedin.com/pulse/transforma%C3%A7%C3%A3o-digital-de-servi%C3%A7os-e-rupturas-do-bitencourt-cbpp/">LinkedIn Pulse</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mauriciobitencourt.com/eventos/tramites-en-linea/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>BPM Podcasts: iBPM + Tecnologias para Gestão</title>
+		<link>https://mauriciobitencourt.com/podcast/ibpm-tecnologias-para-gestao/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 20 Apr 2017 11:47:00 +0000</pubDate>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[BPMS]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[ibpms]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=929</guid>
+
+					<description><![CDATA[Em dezembro de 2013 encontrei com o meu grande amigo Gart Capote para gravar um episódio do BPM Podcasts. Fiz questão que este primeiro podcast fosse um bate papo da mesma forma que os encontros sobre BPM, filosofia, tecnologia, e muitos outros assuntos que já tivemos. A entrevista aconteceu num hotel em São Paulo momentos antes da reunião [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Em dezembro de 2013 encontrei com o meu grande amigo Gart Capote para gravar um episódio do BPM Podcasts. Fiz questão que este primeiro podcast fosse um bate papo da mesma forma que os encontros sobre BPM, filosofia, tecnologia, e muitos outros assuntos que já tivemos. A entrevista aconteceu num hotel em São Paulo momentos antes da reunião anual do Comitê Executivo da ABPMP Brasil que marcou a divisão da sua trajetória.</p>
+<p><span id="more-929"></span>Muitos dos assuntos tratados neste podcast já são práticas comuns em grandes bancos no Brasil há mais de dez anos, por outro lado, empresas estão aplicando agora para fazer a Transformação Digital, outras estão a caminho e algumas infelizmente, não terão tempo de aplicar e serão engolidas pela falta de agilidade para mudar em tempo.</p>
+<p>Alguns dos conceitos tratados em 2013 neste podcast se consolidaram hoje: regras de negócio agora tem uma disciplina gerencial para decisões do negócio e a notação <a href="http://mauriciobitencourt.com/tag/dmn/">DMN</a> como padrão aberto para modelagem e execução de decisões; gerenciamento de casos dinâmicos já tem uma notação <a href="http://mauriciobitencourt.com/tag/cmmn/">CMMN</a> para modelagem e execução de casos; cientistas de dados estão cada vez trabalhando em conjunto com os analistas de processos para aliar ferramentas de análise e bacos de dados NoSQL para armazenar grandes volumes de dados (sem excluir ou alterar) para rodar o transacional e o analítico em conjunto com os processos, casos e decisões automatizados. Tudo isso, estamos vivendo nos projetos com BPMS hoje com tecnologias de custo muito baixo como o <a href="http://mauriciobitencourt.com/tag/camunda/">Camunda</a>, BPMN.io, AlasticSerarch, Kibana, Apache Hadoop, linguagem R e muito mais!</p>
+<p>No link a seguir você poderá assistir o podcast no SoundCloud no seu computador, tablet ou smartphone:</p>
+<p><iframe loading="lazy" width="700" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F318458318&#038;show_artwork=true&#038;maxwidth=700&#038;maxheight=1000&#038;dnt=1"></iframe></p>
+<p>Ou no iTunes</p>
+<p>https://itunes.apple.com/br/podcast/gart-capotes-bpm-podcast/id673750954?mt=2</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>A seguir a transcrição do podcast (com gírias) <a href="http://www.projeler.com.br/quemsomos_noticias_2014.jsp#20140108">publicada no site da Projeler no início de 2014</a>.</p>
+<section id="20140108">
+<h2>Transcrição do áudio da entrevista de Gart Capote e Maurício Bitencourt no episódio 11 do BPM Podcasts</h2>
+<p><small><img decoding="async" loading="lazy" title="img webinar" src="http://www.projeler.com.br/img/icones/icon_6859_150x120.png" width="150" height="120" align="right" border="0" />Gart Capote // quarta-feira, 08/01/2014<br />
+<a href="http://www.buzzsprout.com/13033/131458-ep-10-medicao-de-valor-de-processos-para-bpm.mp3"><i class="icon-play-circle"></i> BPM Podcasts &#8211; Episódio 11 &#8211; Maurício Bitencourt &amp; iBPM + Tecnologias para Gestão (34:51)</a><br />
+Neste episódio entrevista com Maurício Bitencourt, diretor da PROJEELR que fala sobre iBPM e as tecnologias mais modernas disponíveis para a Gestão. Imperdível!</small></p>
+<p><b>Apresentadora:</b> Gart Capote BPM Podcast. Seja bem-vindo.</p>
+<p><b>Gart Capote:</b> Olá pessoal, tudo bem? Aqui é Gart Capote. Sejam bem-vindos a mais um BPM Podcast. Hoje o programa está um pouco diferente é uma gravação minha com Maurício Bitencourt. Um grande amigo e um grande especialista em tecnologia relacionada a gestão. Nós fizemos está entrevista em um hotel em São Paulo, ainda em dezembro de 2013. Por ser um ambiente fora do estúdio de gravação, normalmente, onde eu faço as minhas gravações, as minhas participações no Podcast e onde a gente edita o trabalho enviado pelos outros colegas, os outros convidados. Vocês vão perceber que existe uma variação de som, variações características de um ambiente onde a gente não tem tanto controle quanto o estúdio, mas isso não é o mais importante. O importante é o conteúdo, aproveitem bastante essa entrevista, é divertida, é informativa, principalmente, e eu espero muito que vocês aproveite este material que foi feito com muito cuidado e carinho para vocês. Um bom episódio para todo mundo, vamos começar!</p>
+<div><a href="http://www.projeler.com.br/quemsomos_noticias_2014.jsp#bpm_podcasts_ep11" data-toggle="modal"><img decoding="async" src="http://www.projeler.com.br/img/noticias/gart_capote_bpm_podcasts.png" width="260" align="left" /></a></div>
+<p><b>Gart Capote:</b> Maurício antes de começar, as nossas perguntas, e dar andamento a entrevista eu gostaria que você explicasse um pouco, para o pessoal, como foi que você começou nesta história de BPM, de automatização, automação de processos, etc? Porque muitos acham, ainda, que BPM é uma coisa muito recente. Que tem aí 1, 2, 3, 4 anos, no máximo, de existência. Conta um pouquinhos, pra gente, como é que você entrou, que no final das contas, essa sua trajetória na tecnologia de BPM, de gestão, vai traduzir para nossos ouvintes um pouco da trajetória de BPM e todas as tecnologias que tem aí disponíveis.</p>
+<p><b>Maurício Bitencourt:</b> Legal Gart! BPM realmente como disciplina gerencial foi <span style="text-decoration: line-through;"> 2006 </span> 2008. Quando tu mandou aquele e-mail para varias pessoas no Brasil. Fez uma reunião virtual, nós ainda nem nos conhecemos, eu te conhecia por uma pessoa de um blog. E teu contato com o CBOK e a ABPMP realmente, pra mim, foi uma mudança profissional fantástica. Parabéns pela iniciativa que você teve. Muita coisa foi feita e muita coisa será feita ainda e parabéns pela iniciativa do podcast, porque a gente sabe que tem muita gente que ouve o teu podcast e faz a prova de certificação, e faz viagens de carro e ouvindo o Podcast. Para nós é muito gratificante isso, né? A gente poder contribuir com a disciplina gerencial. Então acho que <span style="text-decoration: line-through;"> 2006 </span> 2008 realmente foi quando a gente teve aquela primeira reunião, eu estava em Brasília. Me lembro que esta época corri para o hotel porque era 7 horas essa reunião e foi muito bacana. Mas com tecnologia relacionada a isso desde a década de 90 eu trabalhei com Workflow. Aquele screen workstation, os clássicos workflows. Trabalhei, também, muito com Business Intelligence. Nessa época aí eu consegui ser contaminado pelo BPM e trabalhei muito com projetos de Business Inteligence, painéis de gerenciamento, mas era uma ideia olhando no retrovisor&#8221;. Sistemas transacionais separados dos sistemas de decisão. Ou você acessava o sistema de ERP, ou você acessava o sistema de decisão. Juntar estes dados, que muitas vezes as pessoas utilizavam estes ERPs para lançar o trabalho em lote no final do dia, não era o que estava acontecendo no processo naquele momento, não é? O pessoal juntava a papelada toda para lançar no sistema, né? Depois a gente juntava estes dados todos fazia Data Cleaning. Limpava dados, olha só, ainda tem muita coisa que se faz de higienização de dados nas, ainda, nas organizações. Aí limpava aqueles dados para poder dados higienizados para transformar em informação, esta limpeza toda. Parece absurdo hoje, mas ainda é muito real. Existe isso nas empresas hoje. E o BPM demonstrou para mim, primeiro, a possibilidade de obter melhores métricas coletadas diretamente da execução dos processos. Só que naquela época nenhuma empresa pensava muito nessa ideia de Lean e de Ponta a Ponta, de VSM, de Fluxo de Valor. Então isso me mostrou uma forma mais fácil de coletar diretamente dados que realmente aconteciam naquele momento para trazer isso para painéis mais próximos do tempo real, os painéis de BAM. Então nessa época eu conheci notação BPMN, fui pra fora, fiz alguns treinamentos nisso aí. E percebi que BPM era muito mais que fluxogramas, né? E me envolvi bastante com capacitação de gente na notação BPMN que é a técnica e utilizando a tecnologia, mas isso se completou mesmo quando a gente começou se envolver com a ABPMP e o compedium do CBOK foi uma coisa fantástica que foi feito, pra mim principalmente, na disciplina. Então eu acho que nós estamos aí na versão 3.0 do CBOK tem muito a evoluir ainda. Praticamente BPM é um guarda-chuva de tudo que a gente tem no mundo da vida pessoal e empresarial também. Porque todo mundo é impactado de alguma forma com produtos e serviços melhores, através dos processos.</p>
+<p><b>Gart Capote:</b> Você começou bem no início, já com o workflow, viu o nascimento do BPM como tecnologia, ainda, falando de BPEL, viu BPMN nascendo, trabalhava, na época, com workflow, viu BPM se tornar uma disciplina estruturada e difundida pela ABPMP Internacional, o nascimento do CBOK, hoje o 3.0 e etc. Uma evolução grandiosa desde uma disciplina e a tecnologia acompanhando. Mas não é essa a ideia de a gente conversar aqui sobre BPMS e somente a parte muito automatizavel dos processos, mas principalmente o que a tecnologia tem de novo, a ideia da inteligência aliada a tecnologia ou a tecnologia apoiando as tomadas de decisão mais inteligentes, mais ágeis. Como é que você tem visto essa mudança e as novidades que a gente tem no mercado internacional, você que acabou de retornar de um treinamento, uma imersão de 5 dias em Londres, justamente nesse assunto? O que a gente pode esperar para o próximo ano e para o futuro breve de novidades nesse campo?</p>
+<p><b>Maurício Bitencourt:</b> Em março de 2012 eu tive acesso aquele paper do Gartner que falava sobre operações e inteligência nos negócios, o IBO. E lá falava que era o próximo passo de BPM. Isso mexe com a gente, porque o que é realmente esse &#8220;i do intelligence, do IBO ou do iBPMS. Primeira coisa que eu imaginei é que isso é um acrônimo de marketing que vai se criar um novo produto em cima disto ou uma categoria de produto. Aí eu fui a Fort Lauderdale no Building Business Capability porque eu vi que estava no roteiro do evento palestras do Gartner junto. Ai eu, olha eu tenho que ir lá para ver o que a Janelle Hill escreveu aí e está falando sobre isto. E lá eu pude ter uma ideia melhor sobre isso e surgiro no prefácio 2 , do capítulo 2 do CBOK tem um texto da Janelle Hill que escreve sobre isso. Como que o BPM vai trabalhar ir além dessa redução de custo aumento, de eficiência. Na minha percepção é uma visão simplista e muito interna, focada na redução de custo, e no resultado de curto prazo. Com foco no último número, na última linha do balanço, fazer resultado no curto prazo é muito fácil nas organizações, mas fazer transformações sustentáveis no longo prazo com aderência é a parte mais difícil. Mas o que é esse &#8220;i&#8221; de Intelligence? Isso ai esta dando uma direção nova para o negócio de fazer que o próprio negócio seja mais ajustado as mudanças e a dinâmica do mercado e o que os cliente estão querendo. Clientes mais inteligentes e melhor informados, também, não aceitando qualquer produto e serviço, né? Então esse &#8220;i&#8221; de Inteligente ou Intelligence ele tem uma característica de colocar essa inteligência em tempo real. Não ser aquela coisa separada do transacional que depois você vai em um painel de gerencialmente extrai as informações e toma decisões com base naquilo que aconteceu. Você transforma a organização, e processo tem tudo a ver com isso, de trazer mais inteligência naquele momento que esta acontecendo. Isso é uma coisa que você fala muito Gart , que eu acho muito legal, que é o contexto. Temos que contextualizar a informação naquele mesmo momento e isso é um fator que a gente chama de analítico e o transacional junto para capacitar as pessoas a tomar melhores decisões e mais rápidas dentro daquele contexto do trabalho para proporcionar uma operação em tempo real, com muito mais consistência.</p>
+<p><b>Gart Capote:</b> Vou fazer uma outra pergunta em cima disso. Vamos traduzir isso para dois tipo de profissionais que ouvem o nosso Podcast o gestor e o profissional que atua como consultor interno ou externo de uma organização. Pro gestor o que o iBPMS traz de diferente no seu acesso a informação e tomada de decisão, se você já tem um consolidado disso o mesmo para o consultor ou analista que precisam fornecer essas informações relevantes para a tomada de decisão? O que você vê de mudança prática no dia a dia para esses dois públicos?</p>
+<p><b>Maurício Bitencourt:</b> Eu vejo tudo integrado e tudo muito mais rápido. Então, umas coisas que aconteceram da vida da gente que realmente transformou a vida da gente foi o celular e internet. A gente percebe que tudo esta muito mais integrado e muito mais rápido as informações hoje a gente tem todas na mão. Então o mobile é uma coisa que acontece muito isso. Então a gente esta levando muito mais informação para as pontas. Uma informação mais estruturada, melhor. Isso vai potencializar a capacidade da pessoa na ponta, a capacidade de comunicação que ela tem, uma capacidade de negociação que ela vai ter e isso é a maior transformação que vai acontecer realmente na linha de frente, aquela que tem contato com o cliente. Porque, de alguma forma, os gestores já tem algum mecanismo instrumentalizado de acesso a informações, o que talvez não esteja muito bom é a limpeza, é a qualidade deste dado que compõe esta informação que ainda tem muito. Isso foi uma coisa que me fascinou no BPM é você conseguir coletar, de forma automática, estas informações lá na ponta e trazer um volume de informações para os gestores. Isso esta dando um problema grande de Big Data. Tu pega ai um programa, qualquer programa, que você tiver de navegação do seu celular. Ele é um grande coletor de Big Data para, digamos, o Waze para o Google e isto traz um volume enorme de informação que você pode tomar decisões. Hoje você esta muito Data Driven, você está tomando muito mais informação com base em volume grande de dados. Esse volume é muito difícil de você processar ele e eu até digo isso, não adianta você querer fazer exportação de dados para o Excel e usar a ferramenta Excel como uma ferramenta de análise de dados, porque o volume é muito grande de dados. Então a coleta vai melhorar e aí você tem que levar essa informação em cima do contexto. Eu acho que essa é a grande diferença e vai impactar em todo mundo.</p>
+<p><b>Gart Capote:</b> Você acredita que estes devices que hoje a gente utiliza no dia a dia, praticamente todo mundo, eles vão ajudar a fornecer essa melhor informação com mais qualidade em tempo real para quem precisa desta informação, as pontas principalmente?</p>
+<p><b>Maurício Bitencourt:</b> A gente está vivendo uma coisa que é&#8230; Você tem uma fusão de varias tecnologias muito mais integradas. Esta acontecendo a customerização do TI. Na verdade, a gente transformou tudo isso em commodity. Lembro que eu li aquele livro, IT doesn&#8217;t matter, 10 anos atrás. E eu lembro muito disso e isto tem aquela sigla Bring Your Own Device, Traga seu próprio dispositivo, para ter acesso em qualquer lugar com seu computador, tablet ou smartphone. Então esta tudo integrado com capacidades analíticas, redes sociais, que expandem as pontas, os escopos, do ponta a ponta. Isto, também é uma coisa que está acontecendo que é fantástica.</p>
+<p><b>Gart Capote:</b> Explica então pra gente o que é realmente essa sigla iBPMS ou iBPMS?</p>
+<p><b>Maurício Bitencourt:</b> É o termo vem do Magic Quadrant o Intelligente Business Process Suites que o Gartner, até então, tinha quadrantes do BPMS e eles criaram um novo. É um quadrante que posiciona 13 fornecedores, tem foco na agilidade e otimização em tempo real da operação do negócio, é o IBO. Eu prefiro, também, o termo do livro Inteligente BPM System que é Impact and a Opportunity foi editado pela Liana Fisher e tem vários artigos dentro e acho legal nesse livro que explica várias visões de vários autores sobre o que é este sistema inteligente de gerenciamento de processos de negocio. Eu venho trabalhando com estes conceitos a muito tempo, na década de 90 a gente tinha lá workflow, o BPMS surgiu a uns 10 anos atrás com a ideia de automação de processos e hoje o conceito tá muito mais orientado a orquestração de processos. De lá para cá isso evoluiu muito, muitas tecnologias se fundiram, ficaram integradas, não é uma tecnologia específica. A gente percebe isso pela fusão e aquisição, várias fusões e aquisições, que aconteceram entre fornecedores por que eles sentiram a necessidade de completar suas plataformas. Então 50 plataformas que tinham antes surgiram 13 agora nesse quadrante novo. Isso porque não adianta você ter só um motor que automatiza processos ou motor que automatiza workflow você tem que compor isso. Tecnologias do tipo M2M ou M to M que é Machine to Machine então são coisas que você precisa completar. Até os próprios motores de regras, eu já fiz muitos projetos que eu tinha um fornecedor de motor de processos que automatizava o processo e ele não tinha o motor de regra, agente fazia as integrações destes motores de regras em separado. Então eu tinha lá o Intalio na automação e o Drools Guvnor no gerenciamento de regras. E a gente fazia uns Frankensteins e isso a gente hoje percebe que está tudo fundindo. Então muitos conceitos de Complex Event Processing, Inteligencia Artificial coisas que estão necessitando para você colete outros tipos, não só dados, mas eventos dentro do processo, isso está se fundindo, está juntando. O iBPMS ele vai além da automação, mas trabalha orquestração, trabalha também processo não estruturados como o gerenciamento de caso e coisas que são relacionadas a isto.</p>
+<p><b>Gart Capote:</b> O público um pouco mais técnico em BPMS, especificadamente, o pessoal que entende um pouco mais de arquitetura, você poderia dizer que o iBPMS é uma mudança interna dos produtos, também, comadas de integração, regras, etc.?</p>
+<p><b>Maurício Bitencourt:</b> Sim, tudo junto. Mas aí este &#8220;i&#8221; vem de Inteligente que não é somente integrar as coisas em uma perspectiva técnica, né? Digamos você vai ter um motor de inferências dentro que você vai pegar uma serie de situações e ele vai trabalhar esta questão antes de fazer o desvio. Eu dou treinamento de BPMN desde 2006 e desde lá eu via uma coisa muito interessante quem me conhece sabe que eu gosto de olhar mais fluxo de valor e tal, mas o que muda bastante é a percepção que você tem desvios dentro do processo e estes desvios são os gateways. Eles não são decisões, as decisões aconteceram antes. Então, isto já prepara seu processo para poder utilizar um motor de inferências junto ou um motor de regras. Então, as decisões foram tomadas antes daquela &#8230; Se você tem uma regra de negócio que não tem julgamento você pode jogar isto para um motor de regras e depois você tem uma atividade humana, logo depois, que já vem pré-pronta com alguma decisão que você não conseguiria fazer. Por que você tem um volume muito grande de informações ou um volume muito grande de decisões que é humanamente impossível fazer isto. Então, esta arquitetura envolve mais inteligência esta ideia de inteligência pode parecer meio arrogante, mas é uma ideia de você realmente colocar inteligência que nem o Skynet do filme Exterminador do Futuro é uma coisa meio maluca, mas é mais ou menos assim.</p>
+<p><b>Gart Capote:</b> Fechando só um raciocínio sobre o iBPMS, quer dizer então que o BPM Inteligente é então uma conjunção de arquitetura de tecnologia, software BPMS originalmente, abastecido com uma nova camada decisória reutilizando a notação BPMN com muito mais propriedade e poder com base em regras de negócio e tudo isso em uma conjuntura mais complexa e aderente, inclusive, a velocidade na tomada de decisão que hoje em dia a gente precisa, é por aí?</p>
+<p><b>Maurício Bitencourt:</b> Sim, até você poderia me contar assim, os processos hoje não são inteligentes? Indo direto ao ponto qual é a grande transformação que vai acontecer aí? Como no Brasil a gente tem muitas coisas avançadas e pouco avançadas tudo misturado, o Brasil nos proporciona isto pra nós. A grande diferença eu acho que está não só na tecnologia, mas na transformação das pessoas. O foco está em transformar os processos para obter instrumentos de tecnologia para ajudar as pessoas em tempo real. Isto não é só tecnologia. A medida que os processo são mais inteligentes sobrará mais tempo para as pessoas e BPM é gente, BPM não é só tecnologia, o ponto fundamental é gente. Então, a medida que os processos são mais inteligentes vai sobrar mais tempo. As pessoas que tem um maior grau de conhecimento, experiência, intuição e atitude, porque não adianta ter tudo e não ter atitude para fazer diferença na organização. Então você vai ser instrumentalizado dentro do contexto do processo, isso realmente potencializa o maior ativo da organização que é o capital humano.</p>
+<p><b>Gart Capote:</b> Uma pessoa não tomar boas decisões não será uma questão apenas de incapacidade ou desconhecimento, será mau uso, inclusive, do ferramental que ela vai ter disponível.</p>
+<p><b>Maurício Bitencourt:</b> Então, você está instrumentalizando as pessoas e não adianta você instrumentalizar as pessoas só com Excel. E ontem eu tive acesso a um pessoal que estava utilizando&#8230;.Fazendo integração do processo com o sistema em uma nuvem. Aí eu comecei a entender, e tinha um colega meu junto e eu disse assim&#8230;Ele tem um pouco mais de idade que eu&#8230;Eu disse assim &#8220;Tu lembras do STM400?&#8221; ai o cara falou &#8220;Eu me lembrei isto na hora que o cara me falou isso.&#8221;. Porque eles falaram assim &#8220;É como se fosse um FTP que o sistema se integra e depois o processo pega e segue em frente.&#8221;. Então, a gente está muito distante disso em muitas organizações. É tempo real! O que mais aconteceu nos últimos anos foi fazer as coisas mais rápido, das coisas acontecerem mais rápido, serem mais rápido, não é? Isto dá uma ideia de melhoria de processo ou até inovação de processos. Ao invés de focar em diminuir o negócio, focar em reduzir custo, reduzir gente, foca em potencializar o crescimento da empresa com um diferencial, com um grande diferencial. Isso é um grande diferencial e esse diferencial está na capacidade dos trabalhadores do conhecimento, e até mesmo, processo desestruturados como a gente tem visto cada vez mais.</p>
+<p><b>Gart Capote:</b> Beleza, maravilha! Mas na prática, na modelagem de um processo, na execução de um processo, usando BPMN 2.0, 2.X. Qual é a mudança física, visual e prática deste &#8220;i&#8221; na modelagem, na execução de processos.</p>
+<p><b>Maurício Bitencourt:</b> É vai ter várias mudanças, mas acho que a mais impactante, isso a gente está falando de processo previsíveis e estruturados, que é o clássico que a gente trabalha hoje com a notação BPMN, a técnica de modelagem. O ponto principal vai ser no ponto de decisão, porque é ai que está a inteligência. Ajudar as pessoas a ter melhores decisões é assim o que faz a diferença no processo e aí que tá a ideia do &#8220;i&#8221; de inteligente. Espero que vocês não interpretem como arrogante para dizer que todos os outros processos não eram inteligentes até então. Mas este modelo de decisão também é chamado de Regra de Negócio ou Business Rules esse é o ponto mais óbvio e importante para transformar um processo em um processo mais inteligente. Isso é o mais evidente, eu até antes do Podcast eu me preparei e elenquei uns pontos aqui que eu acho muito legal. O primeiro ponto é a visibilidade, boa parte das regras de negócio nas organizações já são explicitadas, mas estão escondidas dentro de códigos das aplicações ou dentro de perguntas dos gateways em BPMN. Isto trás um problema de visibilidade porque a gente esta ali atrás daquele gateway uma pergunta e as vezes aquela pergunta é sim e não e é um negócio muito rudimentar ainda e a decisão realmente acontece antes do processo chegar ali naquele ponto. Então, qual é a solução ai neste caso? É separar a regra de negócio das aplicações e dos processo, isto é claro, para ser gerenciada como um ativo de conhecimento em separado e claro ter um ciclo de vida diferente. A regra tem um ciclo de vida diferente do processo e ela pode ser utilizada por outros processos, a mesma regra. Então, isso tem tudo a ver com o desdobramento estratégico, com as políticas da organização. Então isto vai proporcionar ganhos para se utilizar tecnologias de motores de regras, são especialistas para execução, e é este ponto que você pode integrar muitos analíticos, inteligência artificial e também motores de inferência, Big Data e muito mais. A experiência, a pessoa vai poder fazer aquele julgamento em cima do que a máquina não conseguiu fazer, este é o primeiro ponto. O segundo ponto é agilidade. Em muitos casos para alterar uma regra de negócio a gente necessita de especialista de TI e prazo para isto ser alterado. Então aquilo cai naquelas caixas de demanda, filas de demanda, aquelas coisas que a gente sabe muito bem, né? Traz um custo, traz um problema sério de agilidade. Para este caso ai a decisão mais acertada é expressar as regras de negócio em termos que as pessoas de negócio compreendam. O nome já diz regra de negócio, é da empresa, da organização. Proporcionar, também, uma visibilidade destes modelos de decisão. A notação BPMN ela não é para representação de um modelo de decisão. A gente vê aí diagramas de BPMN cheio de gateways encadeados sim, não, sim, não, sim, não binários, assim bit ligado ou desligado. Então, podemos utilizar, a coisa que eu mais gosto, tabela de decisão. Um modelo mais simples de representar uma regra, os modelos mais complexos tabela de decisão não consegue atingir, mas a boa parte dos casos ela facilita muito o entendimento. A gente faz lá, a gente começa as tabelas de decisão em Excel mesmo, coloca no PowerPoint, senta com as pessoas e verifica como faz. No meu entendimento é muito mais fácil de comunicar isso e comunicação é uma coisa&#8230;. BPMN traz muito isso uma comunicação visual e fácil de interpretar e a tabela de decisão, também dá esta comunicação visual de uma forma estruturada. Estruturar o conhecimento. O uso do BPMS e motor de regras auxiliam&#8230; No caso não BPMS o BRMS que é o Business Rules Management System então o Management vem de gestão e System é um sistema para você gerir isto. Isto auxilia para você ter um repositório de conhecimento. Criar e manutenção, criação e manutenção, por pessoas de negócio e também de TI porque o grande diferencial está aí, é fazer as pessoas de TI e negócio trabalharem juntas. E também na execução das regras de negócio que vão ser consumidas pelo processo, consumida estes é como se fosse serviço mesmo. Devemos estimular esta colaboração entre TI e as pessoas de negócio para obter essa agilidade. E o terceiro ponto a consistência. Então, é comum ter pessoas com diferentes interpretações sobre a mesma política, sobre a mesma regra. Isto é um problema sério de consistência nas organizações. Muitas regras não necessitam de interpretação, estão na norma, o que diz a norma cumpra-se estas que não tem julgamento são as mais fáceis e candidatas a você construir um modelo de decisão estruturado que permitam incrementar uma base de conhecimento na organização. Isto é garantia de conhecimento e um conhecimento que depois você pode executar. Quando você cria modelos você estrutura e quando você estrutura hoje você já pode rodar, aí a máquina faz por você. Então tratar regra de negócio como ativo da organização, assim como processo como ativo, e um repositório unificado garante a gestão do conhecimento e proporciona um maior alinhamento entre estratégia e a operação, buscando também, como resultado disso, conformidade e produtividade. Então para os processos não estruturados nos temos aí técnicas e tecnologias, também, que já evoluíram muito. Isto também pode ser utilizado, então, Adaptive Case Management ou Gerenciamento de Caso que pode ser utilizados pra um monte de &#8230; todas as organizações podem ter isso e isso envolve capacidade de analise alto índices de experiência e julgamento e colaboração que vem do capital humano da organização. Eu acho que esses são os pontos que são fundamentas para isso aí.</p>
+<p><b>Gart Capote:</b> Maurício para o pessoal não achar que nós consumimos algum tipo de droga ilícita antes de gravarmos este Podcast você não acha que essa tecnologia toda, essa história de Skynet, de Exterminador do Futuro, as máquinas se rebelando, tomando decisão. Isso não é fora da nossa realidade, ou isso já é uma realidade que ainda não foi amplamente adotada?</p>
+<p><b>Maurício Bitencourt:</b> A gente está em São Paulo aqui em um hotel, né? E a gente está gravando este Podcast antes da reunião da ABPMP, né? Eu também fiz questão, eu até te peço desculpas que eu não fiz o Podcast antes, não foi por falta de convite. Mas eu fiz questão que você um Podcast que a gente estivesse assim, entrevista junto para que a gente pudesse&#8230; Porque é tão bacana encontrar várias pessoas da ABPMP sentar em uma mesa e bater papo sobre BPM e a gente aprende muito, né? Dando aula em Boot Camp e a ABPMP é uma grande unidade que proporciona muito isso, né? A gente trocar informações e tal e aqui ós estamos usando uma capacidade da internet de fazer muito mais ainda, e eu acredito muito nisso, que é quando mais você compartilha mais você tem. E isso é real, isso é real mesmo. Então, estas técnicas e tecnologias que a gente estava falando aqui já estão disponíveis hoje para usar hoje mesmo, inclusive, sem custo com código aberto. Foi este curso que eu fiz lá fora e tem coisa que está sobe demanda na nuvem. A nuvem te traz esta coisa da elasticidade, capacidade de praticamente ilimitada, por que o que a gente esta trabalhando com Big Data, com volume enorme, e como é que vou rodar isso no meu servidor lá da empresa? Da pra rodar na nuvem sobe demanda isso, inclusive com o software sobe demanda. Então, isso esta disponível para todo mundo a custos muito baixos. O custo vai ser a curva de conhecimento, isso é capacitação, capacitação, muita capacitação. Eu falo isso várias vezes porque esse é o fator, é capacitar as pessoas, o capital humano é que faz a diferença. Agora eu fico imaginando o que a NSA tem na mão pra ver muito mais que a gente vê hoje que a gente pode aplicar nas empresas, que está disponível pra gente hoje.</p>
+<p><b>Gart Capote:</b> Aliais eu mando um abraço para eles&#8230;.</p>
+<p><b>Maurício Bitencourt:</b> Eles devem estar nos ouvindo, né? Espionando todo o trafico de telefonia e internet. Hello NSA! Muito legal. E a dificuldade do uso do iBPM ou iBPM não esta no acesso a tecnologia, mas na gestão de mudança das pessoas, na resistência a transformação e naqueles interesses ocultos que acontecem muito, né? Então, no meu entendimento a transformação disso está de fora para dentro. O cara que eu ouvi falar de outside-in foi o Gart, foi o primeiro cara que realmente falou com consistência isso e influenciou muito o CBOK e esta influenciando muito as organizações, também. Então, a transformação está na mão de todos que usam os produtos e serviços que são os clientes que vão, que são melhores informados hoje, que tem mais informação, eles são mais exigentes, são menos tolerantes a ineficiências internas das organizações, registram as insatisfações em site do tipo Reclame Aqui. A mudança dentro da organização vem de fora, ela vem pela necessidade. Então, ai ter gente que vai utilizar isso para inovação, para expansão da organização, criação de novos mercados. E vai ter gente que vai usar estes conceitos ou já esta usando, antes só as grandes empresas, as grandes consultorias, e na ABPMP a gente tem muito disso, né? Que é massificar conhecimento, eu acho que isso tem muito de legal, porque quando mais a gente massificar conhecimento melhor a gente vai ter melhores serviços, serviços públicos, melhores serviços e produtos privados, também, melhor telefonia (pelo menos), né? E outros casos também, outras empresas vão estar ligados a estratégia de sobrevivência no mercado, porque eles vão ter que utilizar destas tecnologias para poder pelo menos sobreviver. Porque o concorrente vai fazer mais que ele, mais rápido, dentro do contexto, não vai esperar rodar um report para poder depois ter uma informação. Acho que não é tão viagem assim.</p>
+<p><b>Gart Capote:</b> Maurício o pessoal que quiser, que também acredita que isso não é uma viagem insólita e sim viável, já! Neste mundo que a gente vive e quiser conhecer um pouco mais, trocar uma ideia com você, como é que ele te acha? Como é que ele faz o contato?</p>
+<p><b>Maurício Bitencourt:</b> Legal! Acho que o melhor canal para isto é o LinkedIn. É mais fácil vai lá no LinkedIn bota Maurício Bitencourt CBPP, me adiciona lá e eu por lá&#8230; eu aceito o convite e aí a gente troca ideias por lá, pelo próprio LinkedIn e é uma coisa realmente de comunidade. O canal que a gente está utilizando aqui é o canal da internet. Eu acho que tem que ser este canal aí mesmo. Então, www.linkedin/in/mbitencourt ou vai lá e procura Maurício Bitencourt CBPP. Então, da minha parte muito obrigado Gart. Olha eu acho fantástica tua iniciativa e isso&#8230;. a gente fala com várias pessoas e sabe que o pessoal esta acessando o teus Podcasts eu acho que é muito bacana, fique a vontade para a gente se aprofundar mais aí, a gente não falou sobre eventos complexos também, né? Que é uma conjunção de vários eventos e uma coisa que falto ai na nossa &#8230; Mas isso fica para uma outra hora, aí. E o pessoal que quiser colocar mais assuntos ai a gente se junta, porque é muito prazeroso sentar aqui e bater papo, né? A gente vai agora se encontrar com o Furlan e o Leandro e vai ter muito papo até a madrugada. Um abraço a todos que estão nos ouvindo, um abraço a NSA, também, que esta nos ouvindo na internet e até mais.</p>
+<p><b>Apresentadora:</b> Você ouviu BPM Podcast com Gart Capote. Visite o site e saiba mais sobre o mundo da gestão por processos em gartcapote.com. Até breve.</p>
+</section>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="http://www.buzzsprout.com/13033/131458-ep-10-medicao-de-valor-de-processos-para-bpm.mp3" length="2065" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>103º Fórum CONSAD</title>
+		<link>https://mauriciobitencourt.com/eventos/103o-forum-consad/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Fri, 31 Mar 2017 14:45:12 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=903</guid>
+
+					<description><![CDATA[Estive no 103º Fórum Nacional de Secretários de Estado da Administração e II Seminário de Gestão por Processos na Administração Pública do Estado de Goiás para palestrar sobre Transformação Digital e Melhoria de Processos, Casos e Decisões. O evento contou com a presença de Secretários de Administração e Gestão de 16 estados e mais de 300 pessoas [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Estive no 103º Fórum Nacional de Secretários de Estado da Administração e II Seminário de Gestão por Processos na Administração Pública do Estado de Goiás para palestrar sobre Transformação Digital e Melhoria de Processos, Casos e Decisões.</p>
+<p><span id="more-903"></span>O evento contou com a presença de Secretários de Administração e Gestão de 16 estados e mais de 300 pessoas para assistir as palestras do seminário, trocar experiências e ampliar networking.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/03/guia-referencia-poster-bpmn20-cmmn11-dmn11-mauricio-bitencourt-dobrada.png"><img decoding="async" loading="lazy" class="wp-image-892 size-medium alignleft" src="http://mauriciobitencourt.com/wp-content/uploads/2017/03/guia-referencia-poster-bpmn20-cmmn11-dmn11-mauricio-bitencourt-dobrada-300x127.png" alt="" width="300" height="127" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/03/guia-referencia-poster-bpmn20-cmmn11-dmn11-mauricio-bitencourt-dobrada-300x127.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2017/03/guia-referencia-poster-bpmn20-cmmn11-dmn11-mauricio-bitencourt-dobrada-768x325.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/03/guia-referencia-poster-bpmn20-cmmn11-dmn11-mauricio-bitencourt-dobrada-1024x434.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2017/03/guia-referencia-poster-bpmn20-cmmn11-dmn11-mauricio-bitencourt-dobrada-700x297.png 700w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Aproveitei o convite para o evento em Goiânia para fazer o lançamento da <a href="http://mauriciobitencourt.com/teorias/guia-de-referencia-bpmn-cmmn-dmn/">Guia de Referência para Modelar Processos, Casos e Decisões com BPMN, CMMN e DMN</a>. Foi um sucesso! Muitos downloads no site e várias solicitações de envido de cópias impressas pelos Correios.</p>
+<p>&nbsp;</p>
+<p>A seguir, compartilho minha apresentação no SlideShare.</p>
+<p><iframe src="https://www.slideshare.net/slideshow/embed_code/74074198" width="700" height="564" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><br/></p>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/06/20170330-15h00-mauricio-bitencourt-transformacao-digital-e-melhoria-de-processos-casos-e-decisoes.pdf">Clique aqui para ter acesso ao PDF da apresentação.</a></p>
+<p>&nbsp;</p>
+<p>Acesse <a href="http://www.projeler.com.br/ec/">www.projeler.com.br/ec</a> para conhecer a trilha de treinamento completa da Projeler com a cobertura de todos os conceitos apresentados.</p>
+<p>Foi muito bom poder rever grandes amigos da rede da ABPMP e conhecer mais pessoas. Parabéns a todos os organizadores, o evento teve excelente nível de conteúdo e palestrantes, com muita energia positiva e entusiasmo para transformar e melhorar os serviços para os cidadãos.</p>
+<p>Adoro Goiânia! Contem comigo para mais participações.</p>
+<p>&nbsp;</p>
+<p>Mensagens no Facebook<br />
+<iframe loading="lazy" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdenisetaquary%2Fposts%2F1312722058824657&amp;width=500" width="500" height="835" frameborder="0" scrolling="no"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Guia de Referência para Modelar Processos, Casos e Decisões em BPMN, CMMN e DMN</title>
+		<link>https://mauriciobitencourt.com/teorias/guia-de-referencia-bpmn-cmmn-dmn/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2017 17:08:44 +0000</pubDate>
+				<category><![CDATA[teorias]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[guia]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=891</guid>
+
+					<description><![CDATA[Criei uma guia de referência para modelar processos com BPMN 2.0, casos com CMMN 1.1 e decisões com DMN 1.1 em português para distribuição grátis. Acesse aqui o arquivo PDF para você imprimir como guia em folha tamanho A3 ou como poster em folha tamanho A0. Veja aqui o post no LinkedIn. O lançamento desta guia aconteceu [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Criei uma guia de referência para modelar processos com BPMN 2.0, casos com CMMN 1.1 e decisões com DMN 1.1 em português para distribuição grátis.</p>
+<p><span id="more-891"></span></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/04/guia-referencia-poster-bpmn20-cmmn11-dmn11-mauricio-bitencourt.pdf">Acesse aqui o arquivo PDF para você imprimir como guia em folha tamanho A3 ou como poster em folha tamanho A0</a>.</p>
+<p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6255347474668544000/">Veja aqui o post no LinkedIn.</a></p>
+<p>O lançamento desta guia aconteceu no evento <a href="http://mauriciobitencourt.com/eventos/103o-forum-consad/">103º Fórum CONSAD</a> em Goiânia onde todas guias impressas em tamanho A3 foram distribuídas. Acompanhe os posts no <a href="https://www.linkedin.com/hp/update/6253566177126215680">LinkedIn</a> e no <a href="https://www.facebook.com/shares/view?id=10212448564672273">Facebook</a>.</p>
+<p>Conheça o <a href="http://www.projeler.com.br/treinamentos/index.jsp">Programa de Educação Corporativa da Projeler</a> com abordagem das técnicas e tecnologias relacionadas às notações BPMN, CMMN e DMN.</p>
+<p><div id="attachment_915" style="width: 710px" class="wp-caption alignnone"><a href="http://www.projeler.com.br/ec/"><img aria-describedby="caption-attachment-915" decoding="async" loading="lazy" class="wp-image-915 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec-785x1024.png" alt="" width="700" height="913" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec-785x1024.png 785w, https://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec-230x300.png 230w, https://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec-768x1001.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec-537x700.png 537w, https://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec.png 1169w" sizes="(max-width: 700px) 100vw, 700px" /></a><p id="caption-attachment-915" class="wp-caption-text">Educação Corporativa Projeler</p></div></p>
+<p>Exemplos de ferramentas para modelagem</p>
+<table cellspacing="10">
+<tbody>
+<tr>
+<td>Ferramenta</td>
+<td>Execução</td>
+<td>BPMN</td>
+<td>CMMN</td>
+<td>DMN</td>
+</tr>
+<tr>
+<td><a href="https://camunda.org/bpmn/tool/">Camunda</a></td>
+<td>Windows, Mac e Linux</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="https://cawemo.com/">Cawemo</a></td>
+<td>Nuvem</td>
+<td>✓</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://bpmn.io/">BPMN.io</a></td>
+<td>Nuvem</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="http://www.trisotech.com/">Trisotech</a></td>
+<td>Nuvem</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="https://www.signavio.com/">Signavio</a></td>
+<td>Nuvem</td>
+<td>✓</td>
+<td></td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="https://www.bizagi.com/">Bizagi</a></td>
+<td>Windows</td>
+<td>✓</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="http://decisionsfirst.com/">DecisionFirst</a></td>
+<td>Nuvem</td>
+<td></td>
+<td></td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="https://community.tibco.com/wiki/bpm-modeling">TIBCO</a></td>
+<td></td>
+<td>✓</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="http://oracle.com/">Oracle</a></td>
+<td></td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="http://ibm.com/">IBM</a></td>
+<td></td>
+<td>✓</td>
+<td>✓ *</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://rapidgen.com/">Rapigen</a></td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://www.sparklinglogic.com/">Sparkling [logic]</a></td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="http://openrules.com/">OpenRule</a></td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://goldmansachs.github.io/jdmn/">jDMN</a></td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>(*) ODM (Semelhante a DMN, mas proprietária da IBM)</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Treinamento em Berlim</title>
+		<link>https://mauriciobitencourt.com/eventos/treinamento-em-berlim/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2016 18:36:18 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[Berlim]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[DRD]]></category>
+		<category><![CDATA[Viagens]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=811</guid>
+
+					<description><![CDATA[Estive por duas semanas na sede da Camunda em Berlim para reuniões sobre a parceria e treinamento oficial na solução de BPM para obter a certificação. Foram dias fantásticos para conhecer os fundadores da empresa, pessoal de marketing, engenharia, consultoria e suporte técnico. O treinamento aconteceu dias antes do lançamento da nova versão semestral do [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Estive por duas semanas na sede da <a href="https://camunda.com/about/directions/">Camunda</a> em Berlim para reuniões sobre a <a href="http://mauriciobitencourt.com/eventos/projeler-firma-parceria-com-a-alema-camunda/">parceria</a> e treinamento oficial na solução de BPM para obter a certificação.</p>
+<p>Foram dias fantásticos para conhecer os fundadores da empresa, pessoal de marketing, engenharia, consultoria e suporte técnico.</p>
+<p><span id="more-811"></span></p>
+<p>O treinamento aconteceu dias antes do lançamento da nova versão semestral do Camunda BPM 7.6 e pude ter acesso às novidades e ao roadmap futuro da solução. Se hoje a solução já está a frente, principalmente no que diz respeito a modelagem e execução com BPMN, CMMN e DMN, informo que muito mais está para chegar nas próximas versões &#8211; &#8220;<em>Beautiful Business Process Management Made in Berlin</em>&#8221;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Our team is killing it @IIRgmbh conference in Vienna on day 2 &#8211; stop by and have a chat! <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/HDvGIIylOe">pic.twitter.com/HDvGIIylOe</a></p>
+<p>&mdash; Camunda BPM (@CamundaBPM) <a href="https://twitter.com/CamundaBPM/status/801694175976689664?ref_src=twsrc%5Etfw">November 24, 2016</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<p>A seguir o primeiro resultado de execução de serviços dos exercícios do treinamento.</p>
+<blockquote class="twitter-tweet" data-lang="pt">
+<p dir="ltr" lang="und">I did it! Cheers Maurício Bitencourt</p>
+<p>— camunda demo (@camunda_demo) <a href="https://twitter.com/camunda_demo/status/800724206698819584">21 de novembro de 2016</a></p></blockquote>
+<h3></h3>
+<p>Estas foram as edições internacionais do curso básico e avançado. Nos intervalos pude trocar experiências com vários clientes do Camunda Enterprise Edition oriundos da Alemanha, Rússia e Estônia e também jogar um ping pong para descontrair.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161117_165426733.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-826" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161117_165426733.jpg" alt="img_20161117_165426733" width="5248" height="2952" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161117_165426733.jpg 5248w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161117_165426733-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161117_165426733-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161117_165426733-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161117_165426733-700x394.jpg 700w" sizes="(max-width: 5248px) 100vw, 5248px" /></a></p>
+<p>Pude também jogar um game totalmente feito em JavaScript onde você acerta elementos em BPMN para ganhar pontos.</p>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105735240.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-839" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105735240.jpg" alt="img_20161122_105735240" width="5248" height="2952" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105735240.jpg 5248w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105735240-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105735240-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105735240-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105735240-700x394.jpg 700w" sizes="(max-width: 5248px) 100vw, 5248px" /></a></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105522529.jpeg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-840" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105522529.jpeg" alt="img_20161122_105522529" width="1500" height="2667" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105522529.jpeg 1500w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105522529-169x300.jpeg 169w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105522529-768x1366.jpeg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105522529-576x1024.jpeg 576w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161122_105522529-394x700.jpeg 394w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>&nbsp;</p>
+<h3>Novidades da nova versão do BPMS</h3>
+<p>Agora na versão 1.5 do <a href="https://camunda.org/release/camunda-modeler/nightly/">Camunda Modeler</a> é possível modelar diagramas de requisito de decisão (DRD &#8211; Decision Requirements Diagrams) e executar no servidor<a href="https://camunda.org/roadmap/"> Camunda BPM a partir da versão 7.6.</a> Esta funcionalidade é incrível porque resolve boa parte da complexidade das decisões e tornam os processos menos complexos, com menos workflow de pessoa para pessoa e com mais inteligência embarcada &#8211; Transformação Digital!</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/camunda-traininc.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-816" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/camunda-traininc.jpg" alt="camunda-traininc" width="2048" height="1152" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/camunda-traininc.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/camunda-traininc-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/camunda-traininc-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/camunda-traininc-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/camunda-traininc-700x394.jpg 700w" sizes="(max-width: 2048px) 100vw, 2048px" /></a></p>
+<h3>CMMN is awesome!</h3>
+<p>Agora pude compreender melhor como modelar e automatizar casos dinâmicos para processos menos estruturados!</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/961357812624571286-account_id2.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-824" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/961357812624571286-account_id2.jpg" alt="961357812624571286-account_id2" width="2048" height="1152" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/961357812624571286-account_id2.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/961357812624571286-account_id2-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/961357812624571286-account_id2-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/961357812624571286-account_id2-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/961357812624571286-account_id2-700x394.jpg 700w" sizes="(max-width: 2048px) 100vw, 2048px" /></a></p>
+<p>Agradeço ao <a href="https://www.linkedin.com/in/jakob-freund-a3a7a33/pt">Jakob Freund</a>, <a href="https://de.linkedin.com/in/andreas-stange-86a42026/pt">Andreas Stange</a> e <a href="https://de.linkedin.com/in/ingo-richtsmeier-1009551/pt">Ingo Richtsmeier</a> pela recepção calorosa e o compartilhamento de conhecimento direto da fonte.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_150256438.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-827" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_150256438.jpg" alt="img_20161125_150256438" width="5248" height="2952" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_150256438.jpg 5248w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_150256438-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_150256438-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_150256438-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_150256438-700x394.jpg 700w" sizes="(max-width: 5248px) 100vw, 5248px" /></a></p>
+<p>&nbsp;</p>
+<h4>Hora de curtir a cidade</h4>
+<p>Depois de cinco dias intensos de treinamento em inglês é chegada a hora de gastar sola de sapato e curtir com a família os principais pontos turísticos de Berlim.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_152153982.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-825" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_152153982.jpg" alt="img_20161127_152153982" width="2952" height="5248" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_152153982.jpg 2952w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_152153982-169x300.jpg 169w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_152153982-768x1365.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_152153982-576x1024.jpg 576w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_152153982-394x700.jpg 394w" sizes="(max-width: 2952px) 100vw, 2952px" /></a></p>
+<p>Os semáforos para pedestres me chamaram a atenção com &#8216;homenzinhos de chapéu’, principalmente próximos aos monumentos do leste da cidade, região que, antes da reunificação, integrava a extinta a Alemanha Oriental (DDR).</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161126_112327116_HDR.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-828" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161126_112327116_HDR.jpg" alt="img_20161126_112327116_hdr" width="5248" height="2952" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161126_112327116_HDR.jpg 5248w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161126_112327116_HDR-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161126_112327116_HDR-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161126_112327116_HDR-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161126_112327116_HDR-700x394.jpg 700w" sizes="(max-width: 5248px) 100vw, 5248px" /></a></p>
+<p>O parlamento alemão (Deutscher Bundestag) foi uma das melhores visitas.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_142106179-1.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-845" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_142106179-1.jpg" alt="img_20161127_142106179" width="2952" height="5248" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_142106179-1.jpg 2952w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_142106179-1-169x300.jpg 169w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_142106179-1-768x1365.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_142106179-1-576x1024.jpg 576w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_142106179-1-394x700.jpg 394w" sizes="(max-width: 2952px) 100vw, 2952px" /></a></p>
+<p>A igreja de Gedächtniskirche foi deixada em sua forma original de destruição como uma lembrança do que foi a guerra para os alemães e para toda a Europa.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_145257804-1.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-830" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_145257804-1.jpg" alt="img_20161127_145257804" width="1440" height="2560" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_145257804-1.jpg 1440w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_145257804-1-169x300.jpg 169w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_145257804-1-768x1365.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_145257804-1-576x1024.jpg 576w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_145257804-1-394x700.jpg 394w" sizes="(max-width: 1440px) 100vw, 1440px" /></a></p>
+<p>A Siegessäule ou Coluna da Vitória serviu de cenário para a gravação do vídeo da música “<a href="https://youtu.be/gNS1jTQOnCs">Stay, Farway so Close</a>” do U2. Foi muito bom curtir este clipe na MTV por muito tempo e agora estar aqui.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_144604490.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-831" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_144604490.jpg" alt="img_20161127_144604490" width="1440" height="2560" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_144604490.jpg 1440w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_144604490-169x300.jpg 169w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_144604490-768x1365.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_144604490-576x1024.jpg 576w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161127_144604490-394x700.jpg 394w" sizes="(max-width: 1440px) 100vw, 1440px" /></a></p>
+<p>No <a href="http://www.computerspielemuseum.de/1210_Home.htm">Computerspielemuseum</a> pude rever com meu filho de 7 anos muitos dos microcomputadores que eu usei nas décadas de 80 e 90 para jogar e programar.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_182015008.jpg"><img decoding="async" loading="lazy" class="alignnone size-full wp-image-832" src="http://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_182015008.jpg" alt="img_20161125_182015008" width="5248" height="2952" srcset="https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_182015008.jpg 5248w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_182015008-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_182015008-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_182015008-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2016/11/IMG_20161125_182015008-700x394.jpg 700w" sizes="(max-width: 5248px) 100vw, 5248px" /></a></p>
+<p>Muro de Berlim no <a href="http://www.eastsidegallery-berlin.de/">East Side Gallery</a>, <a href="https://goo.gl/maps/4mXpz1rCwL12">Markthalle</a>, <a href="http://www.berlin.de/en/attractions-and-sights/3560109-3104052-alexanderplatz.en.html">Alexanderplatz</a>, <a href="https://tv-turm.de/en/homepage/">Berliner Fernsehturm</a>, <a href="http://www.berlin.de/en/attractions-and-sights/3560059-3104052-checkpoint-charlie.en.html">Checkpoint Charlie</a>, <a href="http://www.berlin.de/en/attractions-and-sights/3560266-3104052-brandenburg-gate.en.html">Portão de Brandemburgo</a>, <a href="http://www.berlin.de/en/attractions-and-sights/3560707-3104052-berlin-tv-tower.en.html">Torre de TV</a>, <a href="http://www.ddr-museum.de/en">Museu DDR</a>, e <a href="http://www.berlin.de/tourismus/fotos/sehenswuerdigkeiten-fotos/">muito mais</a>&#8230;</p>
+<p>Berlim é uma cidade fantástica com muita história recente para conhecer ao ar livre e em várias opções de museus.</p>
+<p>Voltarei para o <a href="https://network.camunda.org/meetings/">Camunda Community Day</a> e o <a href="https://bpmcon.de/">BPMCon 2017</a>!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Projeler firma parceria com a alemã Camunda</title>
+		<link>https://mauriciobitencourt.com/eventos/projeler-firma-parceria-com-a-alema-camunda/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Fri, 10 Jun 2016 20:44:11 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[BPMS]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=650</guid>
+
+					<description><![CDATA[A Projeler firmou parceria com a empresa alemã Camunda, fornecedora de plataforma BPM para modelar e automatizar processos de negócio, casos e decisões. Com o acordo, a empresa brasileira passa a ser primeira parceira da Camunda na América Latina. Classificada como System Integrator Partner, a Projeler vai oferecer consultoria no Brasil para auxiliar projetos na [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>A <a href="http://www.projeler.com.br/quemsomos_parceiros.jsp#camunda">Projeler</a> firmou parceria com a empresa alemã <a href="http://www.projeler.com.br/camunda/">Camunda</a>, fornecedora de plataforma BPM para modelar e automatizar processos de negócio, casos e decisões. Com o acordo, a empresa brasileira passa a ser primeira parceira da <a href="http://www.projeler.com.br/camunda/">Camunda</a> na América Latina. Classificada como <a href="https://camunda.com/partners/si/">System Integrator Partner</a>, a Projeler vai oferecer consultoria no Brasil para auxiliar projetos na plataforma BPM na edição <a href="https://camunda.com/bpm/enterprise/">Enterprise Edition</a>.</p>
+<p><span id="more-650"></span></p>
+<p>Camunda é uma empresa fornecedora de software BPMS com sede em Berlim na Alemanha que desenvolve o Camunda BPM, uma plataforma de código aberto para gerenciamento de processos de negócios e fluxo de trabalho <i>(workflow)</i> que permite você modelar e executar os padrões abertos de notação e modelo <a href="https://camunda.org/bpmn/tool/">BPMN 2.0</a>, <a href="https://camunda.org/cmmn/tool/">CMMN 1.1</a> e <a href="https://camunda.org/dmn/tool/">DMN 1.1</a>.</p>
+<h5>Exemplo de processo de negócio na notação BPMN 2.0</h5>
+<p><img decoding="async" src="http://www.projeler.com.br/img/screenshots/camunda_modeler_bpmn.png" width="500" /></p>
+<h5>Exemplo de caso dinâmico na notação CMMN 1.1</h5>
+<p><img decoding="async" src="http://www.projeler.com.br/img/screenshots/camunda_modeler_cmmn.png" width="500" /></p>
+<h5>Exemplo de tabela de decisão na notação DMN 1.1</h5>
+<p><img decoding="async" src="http://www.projeler.com.br/img/screenshots/camunda_modeler_dmn.png" width="500" /></p>
+<h4>Funcionalidades do Camunda BPM Enterprise Edition</h4>
+<p>A seguir, algumas das principais funcionalidades da edição Enterprise Edition, fundamentais para o sucesso de seu projeto de BPM em produção:</p>
+<ul>
+<li>Visualização gráfica de dados históricos de instâncias de processo completadas</li>
+<li>Análise de <a href="https://docs.camunda.org/manual/7.5/webapps/cockpit/bpmn/process-history-views/#heatmap">mapa de calor <i>(heatmap)</i></a> para identificar onde estão os pontos de maior atividade e possíveis gargalos do processo</li>
+<li><a href="https://docs.camunda.org/manual/7.5/webapps/cockpit/bpmn/process-instance-migration/">Migração de instâncias de processo</a> para novas versões.</li>
+<li>Ferramenta gráfica para reposicionar atividades de instâncias de processo em execução</li>
+<li>Cancelar ou realizar novas tentativas de várias instâncias de processo em lote</li>
+<li><a href="https://docs.camunda.org/manual/7.5/webapps/cockpit/dmn/live-editing/">Alterar regras de negócio em tabelas de decisão</a> diretamente na versão distribuída no servidor.</li>
+<li>Relatórios de <a href="https://docs.camunda.org/manual/7.5/webapps/cockpit/reporting/">tempo de ciclo de processo</a></li>
+<li>Integração com <a href="https://docs.camunda.org/manual/7.5/installation/full/was/">IBM WebSphere</a> e <a href="https://docs.camunda.org/manual/7.5/installation/full/wls/">Oracle WebLogic</a></li>
+<li><a href="https://camunda.com/bpm/enterprise/#support">Suporte técnico</a> com acordo de nível de serviço (SLA)</li>
+<li>Correções e manutenção evolutiva dentro da versão <i>(<a href="https://camunda.com/bpm/enterprise/#patch">patch releases</a>)</i></li>
+<li>Acesso a base de conhecimento com <a href="https://camunda.com/best-practices/">melhores práticas</a></li>
+</ul>
+<h4>Artigos em português</h4>
+<p><a href="http://www.projeler.com.br/camunda/Whitepaper_CamundavsAlternatives_PT.pdf">Camunda em comparação com alternativas</a></p>
+<h4>Agende uma demonstração</h4>
+<p><a href="http://www.projeler.com.br/camunda/#contato">Acesse aqui </a>o formulário para agendar uma demonstração.</p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550">
+<p lang="en" dir="ltr">Happy to welcome <a href="https://twitter.com/mbitencourt">@mbitencourt</a> as our new partner in Brazil &#8211; check out their offering for assisting your PoC: <a href="https://t.co/PuXdZqxyHz">https://t.co/PuXdZqxyHz</a></p>
+<p>&mdash; Camunda BPM (@CamundaBPM) <a href="https://twitter.com/CamundaBPM/status/745274254665617408">June 21, 2016</a></p></blockquote>
+<p><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2016/06/Screenshot_2016-06-21-14-38-19.png"><img decoding="async" loading="lazy" class="wp-image-661 aligncenter" src="http://mauriciobitencourt.com/wp-content/uploads/2016/06/Screenshot_2016-06-21-14-38-19.png" alt="Screenshot_2016-06-21-14-38-19" width="201" height="355" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

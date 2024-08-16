@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dashboards &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/dashboards/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Tue, 03 Feb 2015 01:28:03 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>Dashboards &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Uma transformação silenciosa dos processos está em curso nas organizações</title>
+		<link>https://mauriciobitencourt.com/eventos/uma-transformacao-silenciosa-dos-processos-esta-em-curso-nas-organizacoes/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Tue, 08 Oct 2013 19:30:36 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[BPM]]></category>
+		<category><![CDATA[Dashboards]]></category>
+		<category><![CDATA[TI]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=21</guid>
+
+					<description><![CDATA[Em 2006 quando fui para Redwood City estudar mais sobre BPMN e BPMS encontrei o Alexandre Blauth no aeroporto no mesmo caminho indo para um evento da HP em Cupertino. Para a minha surpresa, hoje pela manhã li no site Baguete Diário a notícia &#8220;Conheça a crise silenciosa da TI&#8221; e percebi que escrevi algo parecido [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">Em 2006 quando fui para Redwood City estudar mais sobre BPMN e BPMS encontrei o <a href="http://www.linkedin.com/pub/alexandre-blauth/a/744/93a">Alexandre Blauth</a> no aeroporto no mesmo caminho indo para um evento da HP em Cupertino. Para a minha surpresa, hoje pela manhã li no site Baguete Diário a notícia &#8220;<a href="http://www.baguete.com.br/noticias/07/10/2013/conheca-a-crise-silenciosa-da-ti" data-blogger-escaped-target="_blank">Conheça a crise silenciosa da TI</a>&#8221; e percebi que escrevi algo parecido no segundo post deste blog &#8220;<a href="http://dashboards.blogspot.com.br/2006/05/uma-revoluo-silenciosa-d-novo-contorno.html" data-blogger-escaped-target="_blank">Uma revolução silenciosa dá novo contorno à indústria de software</a>&#8221; naquela época quando criei para registrar as novidades da viagem.</p>
+<p style="text-align: justify;"><span id="more-21"></span></p>
+<p style="text-align: justify;">Agradeço ao <a href="http://www.amazon.com/Peter-Fingar/e/B001JS99D6/ref=ntt_athr_dp_pel_pop_2" data-blogger-escaped-target="_blank">Peter Fingar</a> e ao <a href="http://www.amazon.com/Howard-Smith/e/B00289624Y/ref=ntt_athr_dp_pel_pop_1">Howard Smith</a> por compartilhar seus conhecimentos nos livros:</p>
+<p style="text-align: justify;"><a href="http://www.amazon.com/IT-Doesnt-Matter-Business-Processes-Do/dp/0929652355" data-blogger-escaped-target="_blank">IT Doesn&#8217;t Matter-Business Processes Do</a></p>
+<p style="text-align: justify;"><a href="http://www.amazon.com/Business-Process-Management-BPM-Third/dp/0929652339/ref=la_B001JS99D6_1_4?s=books&amp;ie=UTF8&amp;qid=1381238614&amp;sr=1-4" data-blogger-escaped-target="_blank">Business Process Management (BPM): The Third Wave</a></p>
+<p style="text-align: justify;">Li estes livros naquela época e <a href="http://dashboards.blogspot.com.br/2012/11/building-business-capability-2012-em.html" data-blogger-escaped-target="_blank">pude encontrar pessoalmente o Peter Fingar </a>para agradecer esta mudança na minha vida pessoal e profissional a partir desta &#8220;mudança silenciosa&#8221;.</p>
+<p style="text-align: justify;">Concordo com o <a href="http://www.linkedin.com/pub/orlando-pavani-jr-msc-cbpp-cmc-coach/20/9a2/58">Pavani</a> que coloca a seguinte frase nos últimos slides das apresentações do nosso <a href="http://www.projeler.com.br/cbpp/">curso sobre BPM na modalidade EAD</a>:</p>
+<p style="text-align: justify;">&#8220;A mente que se abre a uma nova idéia jamais voltará ao seu tamanho original.&#8221; Albert Einstein</p>
+<p style="text-align: justify;">The <a href="http://www.amazon.com/Business-Process-Management-Next-Wave/dp/0929652223/ref=sr_1_4?s=books&amp;ie=UTF8&amp;qid=1381238915&amp;sr=1-4&amp;keywords=next+wave" data-blogger-escaped-target="_blank">Business Process Management: The Next Wave</a> is coming!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

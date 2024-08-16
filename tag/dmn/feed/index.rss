@@ -1,0 +1,1756 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DMN &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/dmn/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Wed, 10 May 2023 17:27:56 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>DMN &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Última chance para participar do curso e dominar a Hiperautomação</title>
+		<link>https://mauriciobitencourt.com/cursos/ultima-chance-para-participar-do-curso-e-dominar-a-hiperautomacao/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 09 Mar 2023 14:25:37 +0000</pubDate>
+				<category><![CDATA[cursos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[Roadmap]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2902</guid>
+
+					<description><![CDATA[Economize Tempo Reduza o tempo necessário para completar o fluxo de valor de ponta a ponta. Automatize Tarefas Tediosas Não faz mais sentido passar horas interagindo com sistemas &#8220;old school&#8221;. Aumente a Produtividade Concentre-se nas tarefas que importam para realizar valor aos clientes. Inove com a Orquestração de Processos Crie as condições para integrar filas [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<span id="more-2902"></span>
+
+
+
+<h2 class="wp-block-heading"><em>Economize Tempo</em></h2>
+
+
+
+<p>Reduza o tempo necessário para completar o fluxo de valor de ponta a ponta.</p>
+
+
+
+<h2 class="wp-block-heading"><em>Automatize Tarefas Tediosas</em></h2>
+
+
+
+<p>Não faz mais sentido passar horas interagindo com sistemas <em>&#8220;old school&#8221;</em>.</p>
+
+
+
+<h2 class="wp-block-heading"><em>Aumente a Produtividade</em></h2>
+
+
+
+<p>Concentre-se nas tarefas que importam para realizar valor aos clientes.</p>
+
+
+
+<h2 class="wp-block-heading"><em>Inove com a Orquestração de Processos</em></h2>
+
+
+
+<p>Crie as condições para integrar filas de tarefas humanas, microsserviços, RPA e IA.</p>
+
+
+
+<h3 class="wp-block-heading"><em>Inscrições</em></h3>
+
+
+
+<p><a href="https://www.roadmap.com.br/in">https://www.roadmap.com.br/in</a></p>
+
+
+
+<h3 class="wp-block-heading"><em>Sem pré-requisitos</em> </h3>
+
+
+
+<p>Não será necessário o conhecimento prévio de uma linguagem de programação, notação ou ferramenta.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p><a href="https://www.linkedin.com/posts/mbitencourt_%C3%BAltima-chance-para-participar-do-curso-e-activity-7038871386622222337-5yqY?utm_source=share&amp;utm_medium=member_desktop">https://www.linkedin.com/posts/mbitencourt_%C3%BAltima-chance-para-participar-do-curso-e-activity-7038871386622222337-5yqY?utm_source=share&amp;utm_medium=member_desktop</a></p>
+
+
+<p><iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7038864263465078784" height="1196" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7037055800321695744" height="1063" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Guia de Referência para Modelagem de Processos e Regras de Decisão</title>
+		<link>https://mauriciobitencourt.com/teorias/guia-de-referencia-para-modelagem-de-processos-e-regras-de-decisao/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 20 Sep 2021 13:24:48 +0000</pubDate>
+				<category><![CDATA[teorias]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[guia]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2469</guid>
+
+					<description><![CDATA[Compartilho a nova versão da Guia de Referência para modelar processos e regras de decisão com os standards BPMN 2.0 e DMN 1.3. Clique aqui para baixar o PDF da nova versão da guia. Acesse aqui a versão anterior com os standards BPMN 2.0, CMMN 1.1 e DMN 1.1 Saiba mais sobre as novas edições [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Compartilho a nova versão da Guia de Referência para modelar processos e regras de decisão com os standards BPMN 2.0 e DMN 1.3.</p>
+
+
+
+<p><a href="https://mauriciobitencourt.com/wp-content/uploads/2021/09/guia-referencia-bpmn20-dmn13-mauricio-bitencourt-v2021-09-20.pdf" target="_blank" rel="noreferrer noopener">Clique aqui para baixar o PDF da nova versão da guia.</a></p>
+
+
+
+<span id="more-2469"></span>
+
+
+
+<p><a href="https://mauriciobitencourt.com/teorias/guia-de-referencia-bpmn-cmmn-dmn">Acesse aqui a versão anterior com os standards BPMN 2.0, CMMN 1.1 e DMN 1.1</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://www.roadmap.com.br/inscricoes" target="_blank">Saiba mais sobre as novas edições dos cursos da Roadmap. </a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>BPMDay Lima 2020</title>
+		<link>https://mauriciobitencourt.com/eventos/bpmday-lima-2020/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2020 14:41:35 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[ABPMP]]></category>
+		<category><![CDATA[bpmday]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[Resign de Processos]]></category>
+		<category><![CDATA[Roadmap]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2229</guid>
+
+					<description><![CDATA[Foi uma satisfação participar novamente do evento BPMDay do Capítulo da ABPMP no Peru. Compartilho neste post os slides em PDF da apresentação Design Colaborativo de Processos e Regras de Decisão da apresentação remota no evento. Mensagens nas redes sociais https://www.linkedin.com/posts/mbitencourt_design-colaborativo-de-processos-e-regras-activity-6735935016158679041-FAYk https://www.linkedin.com/posts/mbitencourt_designdeprocesso-processdesign-bpmn-activity-6735635903265427456-kLlG]]></description>
+										<content:encoded><![CDATA[
+<p>Foi uma satisfação participar novamente do evento BPMDay do Capítulo da ABPMP no Peru.</p>
+
+
+
+<span id="more-2229"></span>
+
+
+
+<p></p>
+
+
+
+<p>Compartilho neste post os slides em <a href="https://mauriciobitencourt.com/wp-content/uploads/2020/11/bpmday-lima-2020-design-colaborativo-de-processos-e-regras-de-decisao.pdf" target="_blank" rel="noreferrer noopener">PDF da apresentação Design Colaborativo de Processos e Regras de Decisão</a> da apresentação remota no evento.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="575" src="https://mauriciobitencourt.com/wp-content/uploads/2020/11/bpmday-lima-2020-mauricio-bitencourt-1024x575.jpeg" alt="" class="wp-image-2232" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/11/bpmday-lima-2020-mauricio-bitencourt-1024x575.jpeg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/11/bpmday-lima-2020-mauricio-bitencourt-300x169.jpeg 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/11/bpmday-lima-2020-mauricio-bitencourt-768x431.jpeg 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/11/bpmday-lima-2020-mauricio-bitencourt-700x393.jpeg 700w, https://mauriciobitencourt.com/wp-content/uploads/2020/11/bpmday-lima-2020-mauricio-bitencourt.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Apresentação na Sala 1</figcaption></figure>
+
+
+
+<h5 class="wp-block-heading">Mensagens nas redes sociais</h5>
+
+
+
+<p><a href="https://www.linkedin.com/posts/mbitencourt_design-colaborativo-de-processos-e-regras-activity-6735935016158679041-FAYk">https://www.linkedin.com/posts/mbitencourt_design-colaborativo-de-processos-e-regras-activity-6735935016158679041-FAYk</a></p>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6735935015420481537" height="539" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+
+<p><a href="https://www.linkedin.com/posts/mbitencourt_designdeprocesso-processdesign-bpmn-activity-6735635903265427456-kLlG">https://www.linkedin.com/posts/mbitencourt_designdeprocesso-processdesign-bpmn-activity-6735635903265427456-kLlG</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Roadmap » Curso Remoto para Automatizar Processos e Regras de Decisão</title>
+		<link>https://mauriciobitencourt.com/cursos/roadmap-curso-remoto-para-automatizar-processos-e-regras-de-decisao/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Sun, 02 Aug 2020 19:13:07 +0000</pubDate>
+				<category><![CDATA[cursos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[BPMS]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[Roadmap]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2151</guid>
+
+					<description><![CDATA[A Projeler anuncia o lançamento da Roadmap, uma plataforma de conteúdos exclusivos, organizados em trilhas de aprendizagem, acessível remotamente para profissionais das áreas de Negócio e TI que precisam adquirir novos conhecimento para realizar a transformação digital agora. www.roadmap.com.br No dia 17 de agosto iniciaremos o primeiro dos três cursos na trilha de aprendizagem Projetar [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>A Projeler anuncia o lançamento da Roadmap, uma plataforma de conteúdos exclusivos, organizados em trilhas de aprendizagem, acessível remotamente para profissionais das áreas de Negócio e TI que precisam adquirir novos conhecimento para realizar a transformação digital agora.</p>
+
+
+
+<p><a href="https://www.roadmap.com.br/">www.roadmap.com.br</a></p>
+
+
+
+<span id="more-2151"></span>
+
+
+
+<p>No dia 17 de agosto iniciaremos o primeiro dos três cursos na trilha de aprendizagem Projetar » Automatizar » Otimizar, utilizando a plataforma&nbsp;<em>Camunda BPM Open Source</em>&nbsp;para você ir da modelagem à execução de processos e decisões automatizados.</p>
+
+
+
+<p>Em substituição às edições presenciais do Hands-On-Workshop, apresento uma alternativa de ensino remoto criada a partir das mudanças que já estamos enfrentando nos dias de hoje.</p>
+
+
+
+<p>Convido você para conhecer o Manifesto em <a href="https://www.roadmap.com.br/ma" target="_blank" rel="noreferrer noopener">www.roadmap.com.br/ma </a>com as nossas intenções e motivos para o aperfeiçoamento profissional e a requalificação do público-alvo.</p>
+
+
+
+<p>Como todas as edições serão on-line, o número de participantes é limitado. Aproveite as opções de parcelamento e descontos para a trilha completa.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://www.roadmap.com.br/pd"><img decoding="async" loading="lazy" width="960" height="720" src="https://mauriciobitencourt.com/wp-content/uploads/2020/08/roadmap-twitter-cards-pd.png" alt="" class="wp-image-2152" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/08/roadmap-twitter-cards-pd.png 960w, https://mauriciobitencourt.com/wp-content/uploads/2020/08/roadmap-twitter-cards-pd-300x225.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/08/roadmap-twitter-cards-pd-768x576.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/08/roadmap-twitter-cards-pd-700x525.png 700w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure></div>
+
+
+
+<p><a href="https://www.roadmap.com.br/pd">https://www.roadmap.com.br/pd</a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Design de Processos e Regras de Decisão com Modelos Executáveis</strong></h2>
+
+
+
+<h4 class="wp-block-heading">Construa processos de negócio mais inteligentes e eficazes, usando os Standards de BPM.</h4>
+
+
+
+<p>PD &#8211; PROCESS DESIGN</p>
+
+
+
+<p>Neste curso, você aprenderá técnicas poderosas para modelar graficamente processos de negócio em BPMN e regras de decisão em DMN.</p>
+
+
+
+<p>Com BPMN 2.0 (Business Process Model and Notation), você poderá representar claramente os processos de negócio de maneira completa e precisa sobre o seu estado atual ou proposto e criar uma documentação para ser utilizada como base em treinamento, comunicação, discussão, medição, análise, identificação das oportunidades de melhoria, automação e transformação do fluxo de valor.</p>
+
+
+
+<p>Com DMN 1.3 (Decision Model and Notation), você poderá transformar regras de negócio em ativos de conhecimento executáveis para construir processos de negócio mais simples, inteligentes, ágeis e inovadores.</p>
+
+
+
+<p><strong>Objetivos</strong></p>
+
+
+
+<p>Proporcionar a criação de modelos de processos claros e objetivos, ricos em elementos gráficos e que permitam acelerar a criação e a interpretação para o consenso entre os públicos técnico e de negócio.</p>
+
+
+
+<p>Esclarecer por que processos e decisões são ativos de conhecimento distintos e integrados, que permitem criar e manter atividades mais ágeis, inteligentes e eficazes com menor tempo, da implementação à operacionalização.</p>
+
+
+
+<p>Obter modelos mais detalhados do que diagramas e mapas a fim de implantar novas tecnologias aos processos, casos e decisões com base em regras de negócio.</p>
+
+
+
+<p><strong>Benefícios</strong></p>
+
+
+
+<p>Autonomia</p>
+
+
+
+<p>O uso da notação e do modelo BPMN é um standard ISO e OMG intercambiável entre ferramentas de vários fornecedores que suportam este padrão aberto. Por exemplo: exportar o diagrama do Bizagi, fazer a modelagem colaborativa do mapa no Cawemo e concluir o modelo no Camunda Modeler.</p>
+
+
+
+<p>Mão na massa</p>
+
+
+
+<p>Ao término do módulo, o participante será capaz de representar graficamente processos de negócio propostos ou existentes.</p>
+
+
+
+<p>Automação</p>
+
+
+
+<p>A obtenção de modelos mais ricos em detalhes possibilita uma sistematização facilitada, proporcionando versões da documentação do processo igual às instâncias em execução, com sincronismo, conformidade e transparência.</p>
+
+
+
+<p><strong>Conteúdo</strong></p>
+
+
+
+<p>Seg 17/08/2020</p>
+
+
+
+<p>Estudo de caso a ser desenvolvido: personas, histórias de usuário, critérios de aceitação e estimativas.</p>
+
+
+
+<p>Modelagem colaborativa de processos com a notação e modelo BPMN 2.0 no Cawemo.</p>
+
+
+
+<p>Ter 18/08/2020</p>
+
+
+
+<p>Elementos para execução (tarefas, eventos, desvios e fluxo de sequência).</p>
+
+
+
+<p>Elementos para documentação (piscinas, raias, mensagens e artefatos).</p>
+
+
+
+<p>Qua 19/08/2020</p>
+
+
+
+<p>Acionamento e captura de eventos e acionamento de exceções.</p>
+
+
+
+<p>Simulação para análise de caminho feliz, retrabalhos e cancelamentos.</p>
+
+
+
+<p>Qui 20/08/2020</p>
+
+
+
+<p>Diagramas de colaboração e chamadas entre processos.</p>
+
+
+
+<p>Boas práticas para otimizar o processo orientado por dados de execução.</p>
+
+
+
+<p>Ter 24/08/2020</p>
+
+
+
+<p>Visão geral da notação e modelo DMN 1.3 e linguagem de expressões amigáveis FEEL 1.2.</p>
+
+
+
+<p>Tutorial prático para modelagem e simulação regras de decisão em DMN com o Camunda Modeler.</p>
+
+
+
+<p>Qua 25/08/2020</p>
+
+
+
+<p>Como traduzir fatos e resultados de regras de negócio vinculadas.</p>
+
+
+
+<p>Tabela de decisão na prática: entradas, saídas, tipos de dados, expressão, variáveis.</p>
+
+
+
+<p>Qui 26/08/2020</p>
+
+
+
+<p>Expressões (comparações, intervalos e disjunções) e políticas de acerto (simples e múltipla).</p>
+
+
+
+<p>Práticas de simulação de tabela de decisão com diferentes políticas de acerto.</p>
+
+
+
+<p>Sex 27/08/2020</p>
+
+
+
+<p>Diagramas de Requisito de Decisão (DRD): decisão, entrada de dados, conhecimento de negócio, fonte de conhecimento e exigências.</p>
+
+
+
+<p>Boas práticas para otimizar decisões integradas aos processos de negócio.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://www.roadmap.com.br/pa"><img decoding="async" loading="lazy" width="960" height="720" src="https://mauriciobitencourt.com/wp-content/uploads/2020/08/roadmap-twitter-cards-pa.png" alt="" class="wp-image-2153" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/08/roadmap-twitter-cards-pa.png 960w, https://mauriciobitencourt.com/wp-content/uploads/2020/08/roadmap-twitter-cards-pa-300x225.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/08/roadmap-twitter-cards-pa-768x576.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/08/roadmap-twitter-cards-pa-700x525.png 700w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure></div>
+
+
+
+<p><a href="https://www.roadmap.com.br/pa">https://www.roadmap.com.br/pa</a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Desenvolvimento com Standards de BPM em Motores de Processos e Regras de Decisão</strong></h2>
+
+
+
+<h4 class="wp-block-heading">Obtenha a agilidade, a visibilidade e a escalabilidade necessárias para alcançar a transformação digital.</h4>
+
+
+
+<p>PA &#8211; PROCESS AUTOMATION</p>
+
+
+
+<p>Integre pessoas, processos, decisões e tecnologia BPMS para promover fluxo contínuo de criação de valor aos clientes.</p>
+
+
+
+<p>Melhore seus processos com soluções rápidas e flexíveis de gestão de processos de negócios e integração.</p>
+
+
+
+<p>Reduza o custo de desenvolvimento, conectando serviços e sistemas dentro e fora da sua organização.</p>
+
+
+
+<p>Promova a colaboração entre as áreas de negócio e TI para modelar, otimizar e implantar processos.</p>
+
+
+
+<p>Obtenha conformidade com a sincronia entre a documentação e a execução dos processos.</p>
+
+
+
+<p>Automatizar processos de negócios e obter a agilidade, visibilidade e escala necessárias para alcançar a transformação digital.</p>
+
+
+
+<p><strong>Objetivos</strong></p>
+
+
+
+<p>Melhorar seus processos com soluções rápidas e flexíveis de gestão de processos de negócios e integração.</p>
+
+
+
+<p>Reduzir o custo de desenvolvimento e implantação, conectando serviços e sistemas dentro e fora da sua empresa.</p>
+
+
+
+<p>Promover a colaboração entre as áreas de negócio e TI para modelar, otimizar e implantar fluxos de trabalho e decisões.</p>
+
+
+
+<p>Atingir a conformidade com a sincronia da documentação igual à execução dos processos em BPMN 2.0 e decisões em DMN 1.3.</p>
+
+
+
+<p><strong>Benefícios</strong></p>
+
+
+
+<p>Workflow</p>
+
+
+
+<p>Integrar pessoas, processos, decisões e tecnologias para eliminar desperdícios e trabalhos manuais.</p>
+
+
+
+<p>Exponencialidade</p>
+
+
+
+<p>Escalabilidade e controle de grandes volumes de fluxos e filas de trabalho integrados a microsserviços.</p>
+
+
+
+<p>Transformação</p>
+
+
+
+<p>Mitigar riscos com decisões operacionais automatizadas, assegurar o cumprimento de regulação e, ao mesmo, tempo obter decisões mais inteligentes para proporcionar velocidade e melhores experiências digitais aos usuários dos serviços.</p>
+
+
+
+<p>BizDevOps</p>
+
+
+
+<p>Implementar uma esteira de integração e entrega contínua (CI/CD) de fluxos de trabalho a fim de implantar mudanças ágeis e responder rapidamente a novas condições.</p>
+
+
+
+<p><strong>Conteúdo</strong></p>
+
+
+
+<p>Seg 31/08/2020</p>
+
+
+
+<p>Automatizar tarefas de usuário e formulários eletrônicos.</p>
+
+
+
+<p>Simular a execução de instâncias no motor de processo.</p>
+
+
+
+<p>Ter 01/09/2020</p>
+
+
+
+<p>Chamadas a processos síncronos e troca de dados entre instâncias.</p>
+
+
+
+<p>Prática de implementação processo para processo.</p>
+
+
+
+<p>Qua 02/09/2020</p>
+
+
+
+<p>Orquestração de microsserviços com conectores a APIs.</p>
+
+
+
+<p>Transformação de dados do processo com tarefa script e inspecionar variáveis.</p>
+
+
+
+<p>Qui 03/09/2020</p>
+
+
+
+<p>Modelagem e simulação de regras de decisão em DMN.</p>
+
+
+
+<p>Implementação de tarefa regra de negócio, integrada à tabela de decisão em DMN.</p>
+
+
+
+<p>Ter 08/09/2020</p>
+
+
+
+<p>Uso de expressões para a lógica dos desvios do processo.</p>
+
+
+
+<p>Implementação de formulários mais sofisticados nas tarefas humanas do processo.</p>
+
+
+
+<p>Qua 09/09/2020</p>
+
+
+
+<p>Acionamento e captura de eventos com e sem interrupção de fluxo.</p>
+
+
+
+<p>Modelagem e automação de casos na notação e modelo CMMN.</p>
+
+
+
+<p>Qui 10/09/2020</p>
+
+
+
+<p>Tratamento de exceções, erros e retentivas de acesso a microsserviços para a resiliência.</p>
+
+
+
+<p>Chamadas a processos assíncronos e tratamento de correlação das instâncias.</p>
+
+
+
+<p>Sex 11/09/2020</p>
+
+
+
+<p>Análise do caminho feliz do processo, exceções, retrabalhos e cancelamentos.</p>
+
+
+
+<p>Boas práticas para otimizar o processo orientado por dados de execução.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="https://www.roadmap.com.br/om"><img decoding="async" loading="lazy" width="960" height="720" src="https://mauriciobitencourt.com/wp-content/uploads/2020/08/roadmap-twitter-cards-om.png" alt="" class="wp-image-2154" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/08/roadmap-twitter-cards-om.png 960w, https://mauriciobitencourt.com/wp-content/uploads/2020/08/roadmap-twitter-cards-om-300x225.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/08/roadmap-twitter-cards-om-768x576.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/08/roadmap-twitter-cards-om-700x525.png 700w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure></div>
+
+
+
+<p><a href="https://www.roadmap.com.br/om">https://www.roadmap.com.br/om</a></p>
+
+
+
+<h2 class="wp-block-heading"><strong>Operações e Monitoramento da Execução de Processos Automatizados</strong></h2>
+
+
+
+<h4 class="wp-block-heading">Saiba como operar e monitorar fluxos de trabalho e decisões automatizadas em produção para garantir segurança, analisar e resolver problemas técnicos.</h4>
+
+
+
+<p>OM &#8211; OPERATIONS AND MONITORING</p>
+
+
+
+<p>Identifique pontos de melhorias nos processos em um monitoramento instantâneo das atividades com precisão e capacidades analíticas em tempo real.</p>
+
+
+
+<p>Analise e transforme processos mais inovadores para prover melhores serviços aos clientes com escalabilidade exponencial.</p>
+
+
+
+<p>Crie equipes mais eficientes em um modelo cultural de DevOps, que enfatiza valores como propriedade e responsabilidade. As equipes de desenvolvedores e operações colaboram de perto, compartilham muitas responsabilidades e combinam seus fluxos de trabalho. Isso reduz ineficiências e economiza tempo.</p>
+
+
+
+<p><strong>Objetivos</strong></p>
+
+
+
+<p>Promover a gestão orientada por dados para incrementar o desempenho da organização e aumentar o sucesso de projetos de transformação de processos.</p>
+
+
+
+<p>Operar e monitorar com agilidade para que você possa trazer inovações para os seus clientes mais rapidamente, adaptar-se melhor a mercados dinâmicos e tornar-se mais eficiente na geração de resultados com o modelo de DevOps.</p>
+
+
+
+<p>Obter vantagem competitiva com maior frequência e ritmo de distribuição de novas versões, inovando e melhorando produtos mais rapidamente, além de lançar novos recursos e corrigir erros para responder os desejos e necessidades dos clientes.</p>
+
+
+
+<p><strong>Benefícios</strong></p>
+
+
+
+<p>Confiabilidade</p>
+
+
+
+<p>Garanta a qualidade das atualizações de aplicativos e alterações de infraestrutura para que você possa entregar com confiança em um ritmo mais rápido sem deixar de manter uma experiência positiva para os usuários finais.</p>
+
+
+
+<p>CI/CD</p>
+
+
+
+<p>Use práticas como a integração e a entrega contínuas para testar se cada umas das alterações funciona e é segura.</p>
+
+
+
+<p>Segurança</p>
+
+
+
+<p>Opere rapidamente enquanto mantém o controle e preserva a conformidade, adotando o modelo de DevOps sem sacrificar a segurança, usando políticas de conformidade automáticas, controles minuciosos e técnicas de gerenciamento de configuração.</p>
+
+
+
+<p><strong>Conteúdo</strong></p>
+
+
+
+<p>Seg 14/09/2020</p>
+
+
+
+<p>Ambiente de execução em servidor compartilhado ou containers.<br>Infraestrutura como código (IAC): banco de dados de persistência, traduções para o idioma português e autenticação LDAP.</p>
+
+
+
+<p>Ter 15/09/2020<br>Distribuição manual de versões de processos e decisões com a utilização da aplicação Camunda Cockpit.<br>Configurações de segurança do servidor e administração de usuários, grupos e autorizações no Camunda Admin.</p>
+
+
+
+<p>Qua 16/09/2020<br>Cultura DevOps em times ágeis.<br>Controle de versão e estratégias de ramificação.</p>
+
+
+
+<p>Qui 17/09/2020<br>Integração e entrega contínuas com fluxo de trabalho automatizado para construção, teste e implantação.<br>Práticas de CI/CD.</p>
+
+
+
+<p>Seg 21/09/2020<br>Testes e carga de dados, análise de performance e técnicas de ajustes e refinamento.<br>Dados históricos de execução de instâncias de processos e decisões: limpeza e tempo permanência.</p>
+
+
+
+<p>Ter 22/09/2020<br>Como descobrir problemas: tentativas de chamadas, limites tempo, erro em APIs; falta de dados e de tratamento de exceção.<br>Como analisar problemas: log, histórico detalhado, mapa de calor (Heatmap), variáveis, inspecionar tabelas de decisão.</p>
+
+
+
+<p>Qua 23/09/2020<br>Como resolver problemas: suspender, reposicionar, migrar versões de instâncias; cancelamentos e retentativas em lote.<br>Boas práticas de modelagem para tornar processos automatizados mais resilientes.</p>
+
+
+
+<p>Qui 24/09/2020<br>Monitoramento de Atividades de Negócio (BAM Business Activity Monitoring).<br>Coleções, painéis de gerenciamento (dashboards), relatórios e alertas.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Nota Técnica Camunda &#8211; Modelagem</title>
+		<link>https://mauriciobitencourt.com/manual/nota-tecnica-camunda-modelagem/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 22 Jun 2020 22:57:53 +0000</pubDate>
+				<category><![CDATA[manual]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[BPMS]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[cawemo]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[ibpms]]></category>
+		<category><![CDATA[Modeler]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=1983</guid>
+
+					<description><![CDATA[Elaborei esta nota técnica sobre o Camunda BPM com o intuito de classificar o atendimento de requisitos para mapeamento e modelagem de processos, casos e decisões com base nas versões Cawemo 1.2 e Camunda Modeler 4.0. Veja também:Nota Técnica Camunda – Desenvolvimento e OperaçõesNota Técnica Camunda &#8211; Gestão Modelagem de Processos O Camunda BPM tem [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Elaborei esta nota técnica sobre o Camunda BPM com o intuito de classificar o atendimento de requisitos para mapeamento e modelagem de processos, casos e decisões com base nas versões Cawemo 1.2 e Camunda Modeler 4.0.</p>
+
+
+
+<p>Veja também:<br><a href="https://mauriciobitencourt.com/manual/nota-tecnica-camunda-devops/">Nota Técnica Camunda – Desenvolvimento e Operações</a><br><a href="https://mauriciobitencourt.com/manual/nota-tecnica-camunda-gestao">Nota Técnica Camunda &#8211; Gestão</a></p>
+
+
+
+<span id="more-1983"></span>
+
+
+
+<h2 class="wp-block-heading">Modelagem de Processos</h2>
+
+
+
+<p>O Camunda BPM tem suporte a grande maioria dos elementos da notação e modelo BPMN 2.0, tanto para modelagem quanto para execução. Os elementos da BPMN cobertos pelo Camunda BPM estão representados em laranja nas imagens as seguir ou em <a rel="noreferrer noopener" href="https://docs.camunda.org/manual/latest/reference/bpmn20/" target="_blank">BPMN 2.0 Implementation Reference</a>.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="745" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-745x1024.png" alt="" class="wp-image-2001" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-745x1024.png 745w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-218x300.png 218w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-768x1055.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-1118x1536.png 1118w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-1490x2048.png 1490w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20a-509x700.png 509w" sizes="(max-width: 745px) 100vw, 745px" /><figcaption><a href="https://docs.camunda.org/manual/7.13/reference/bpmn20/" target="_blank" rel="noreferrer noopener">BPMN 2.0 Implementation Reference &#8211; Parte 1/2</a></figcaption></figure></div>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="795" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-795x1024.png" alt="" class="wp-image-2002" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-795x1024.png 795w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-233x300.png 233w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-768x989.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-1192x1536.png 1192w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-1590x2048.png 1590w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/bpmn20b-543x700.png 543w" sizes="(max-width: 795px) 100vw, 795px" /><figcaption><a href="https://docs.camunda.org/manual/7.13/reference/bpmn20/#events" target="_blank" rel="noreferrer noopener">BPMN 2.0 Implementation Reference &#8211; Parte 2/2</a></figcaption></figure></div>
+
+
+
+<p>Duas ferramentas para a modelagem de processos na notação e modelo BPMN poderão ser usadas:</p>
+
+
+
+<h3 class="wp-block-heading">Cawemo</h3>
+
+
+
+<p>Plataforma de modelagem colaborativa, fácil de usar, permitindo que várias pessoas de Áreas de Negócio trabalhem juntas especificar diagramas (nível descritivo) e mapas (nível analítico) de processo em BPMN e posteriormente repassar aos desenvolvedores implantarem modelos (nível executável) de processos na ferramenta Camunda Modeler.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="523" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-1024x523.png" alt="" class="wp-image-1999" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-1024x523.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-300x153.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-768x393.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-1536x785.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-2048x1047.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-700x358.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Dentre as principais características, podemos destacar:</p>
+
+
+
+<p>Modelar processos BPMN de forma colaborativa. </p>
+
+
+
+<p>Criar diagramas de processo BPMN com todas as partes interessadas envolvidas para especificar o fluxo de trabalho que deve ser automatizado. Busca o alinhamento entre analistas de negócios, gerentes de projeto e pessoas de TI para implementar o processo correto para:</p>
+
+
+
+<ol type="a"><li>Anexar descrições de especificação e links aos nós do diagrama;</li><li>Comentar com todos os membros da equipe dentro do diagrama;</li><li>Incorporar diagramas nas páginas HTML (por exemplo, Confluence) para compartilhar documentação diretamente da renderização dos diagramas com atualização automática de versões;</li><li>Exportar diagramas como arquivos XML do BPMN 2.0 padrão para ser importado na ferramenta Camunda Modeler ou outras ferramentas que suportem este mesmo Standard de BPM.</li></ol>
+
+
+
+<p>Via plugins para o motor de processos e as ferramentas de modelagem integrar com os demais componentes do Camunda BPM:</p>
+
+
+
+<ol type="a"><li>Sincronizar todos os processos implantados dos seus motores Camunda com o Cawemo;</li><li>Sincronizar o estado de desenvolvimento mais recente através do Camunda Modeler;</li><li>Ramificar a versão de produção mais recente para elaborar a próxima iteração;</li><li>Conectar todos os diagramas sincronizados do mesmo processo para ver sua evolução.</li></ol>
+
+
+
+<p>Acompanhar as alterações dos diagramas:</p>
+
+
+
+<ol type="a"><li>Versionamento completo do histórico do diagrama</li><li>Possibilidade de comparar as alterações de um fluxo de trabalho com a atual identificando as diferenças entre as versões é destacada com cores distintas.</li><li>Ao criar um marco manualmente ou sempre que um novo processo implementado é sincronizado, uma nova versão é adicionada ao histórico.</li></ol>
+
+
+
+<h4 class="wp-block-heading">Versão Enterprise Edition</h4>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="923" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-1024x923.png" alt="" class="wp-image-2005" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-1024x923.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-300x271.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-768x693.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-1536x1385.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-2048x1847.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/cawemo-free-vs-enterprise-700x631.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption><a href="https://camunda.com/products/cawemo/" target="_blank" rel="noreferrer noopener">Diferenças entre a versão gratuita e a paga.</a></figcaption></figure></div>
+
+
+
+<p>A seguir algumas funcionalidades extras da versão Enterprise Edition:</p>
+
+
+
+<p><a href="https://docs.camunda.org/cawemo/latest/technical-guide/installation/" target="_blank" rel="noreferrer noopener">Instalação On-Premise</a> para rodar nos seus servidores atrás do seu firewal ou em nuvem privada com gerenciamento próprio.</p>
+
+
+
+<h2 class="wp-block-heading">Camunda Modeler</h2>
+
+
+
+<p>O Camunda Modeler é uma ferramenta instalada no computador para modelar fluxos de trabalho na notação BPMN, decisões com base em regras de negócio com a notação DMN e casos dinâmicos em CMMN. </p>
+
+
+
+<p>As distribuições estão disponíveis para instalação e operação nos sistemas operacionais <strong>Windows</strong>, <strong>MacOS</strong> e <strong>Linux</strong>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="719" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-1024x719.png" alt="" class="wp-image-1988" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-1024x719.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-300x211.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-768x539.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-1536x1078.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-2048x1438.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/Captura-de-Tela-2020-06-22-às-19.56.35-700x491.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Download do Camunda Modeler &#8211; <a href="https://camunda.com/download/modeler/" target="_blank" rel="noreferrer noopener">https://camunda.com/download/modeler/</a></figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">Design de fluxos de trabalho e decisões</h4>
+
+
+
+<p>O Camunda Modeler suporta os standards de BPM (BPMN-CMMN-DMN triple crown) nas versões BPMN 2.0, CMMN 1.1 e DMN 1.3 (FEEL 1.2 <em>Friendly Enough Expression Language</em>), incluindo lógica de decisão das regras de negócio em tabelas de decisão (<em>decision tables</em>) e diagramas de requisitos de decisão (DRD <em>Decision Requirement Diagram</em>).</p>
+
+
+
+<h4 class="wp-block-heading">Criar modelos executáveis</h4>
+
+
+
+<p>Além da modelagem visual, o Camunda Modeler permite editar todas as propriedades necessárias para a execução técnica. Como o Camunda Modeler trabalha diretamente nos arquivos XML BPMN, CMMN e DMN, os desenvolvedores podem combiná-lo facilmente com a sua ferramenta de IDE preferida (por exemplo, Eclipse, Netbeans, IntelliJ).</p>
+
+
+
+<p>Os arquivos XML criados podem ser implementados na Plataforma Camunda e executados pelos mecanismos BPMN, CMMN e DMN (motores de execução de processos, casos e decisões).</p>
+
+
+
+<h4 class="wp-block-heading">Modelos de Elemento</h4>
+
+
+
+<p>Os Modelos de Elemento (<em>Element Templates</em>) permitem criar configurações predefinidas em arquivos JSON para que os usuários trabalhem com um painel de propriedades customizado.</p>
+
+
+
+<p>Por exemplo, você pode configurar uma &#8220;Tarefa de e-mail&#8221; que sempre solicitará o endereço de email do remetente, o endereço do destinatário, um assunto e um corpo. Uma vez implementada, essa tarefa será executada com base em uma lógica de execução predefinida, por exemplo, em Java. Isso permite que você forneça um ambiente de baixo código personalizado para criar e alterar fluxos de trabalho em sua organização.</p>
+
+
+
+<h4 class="wp-block-heading">Plugins Adicionais</h4>
+
+
+
+<p>Com os plugins é possível alterar sua aparência da ferramenta de modelagem, adicionar novas entradas de menu ou estender as ferramentas de modelagem para os standards BPMN, CMMN e DMN.</p>
+
+
+
+<p>Adicionar um plugin é tão fácil quanto colocar os arquivos no respectivo diretório. Simulação de processo, pré-visualização de formulários, renomear nomes técnicos dos elementos, são alguns dos exemplos de plugins já existentes. Muitos outros plugins são desenvolvidos pelos usuários da ferramenta e compartilhados abertamente no GitHub.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="268" src="https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins-1024x268.png" alt="" class="wp-image-1992" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins-1024x268.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins-300x78.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins-768x201.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins-700x183.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2020/06/camunda-modeler-plugins.png 1484w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Exemplos de Plugins no Camunda Modeler</figcaption></figure>
+
+
+
+<p>A seguir um vídeo com exemplos de simulação de processos de negócio modelados na notação BPMN 2.0 utilizando o plugin Camunda Modeler Token Simulation. Mais informações no post <a href="https://mauriciobitencourt.com/teoria/simulacao-de-processo-com-bpmn/" target="_blank" rel="noreferrer noopener">Simulação de processo com BPMN</a>.</p>
+
+
+<p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/9WLiPHVZwSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+
+
+<p>Principais Plugins para o Camunda Moder:</p>
+
+
+
+<p><a href="https://github.com/camunda-consulting/code/tree/master/snippets/camunda-modeler-plugins/bpmn-js-plugin-rename-technical-ids#camunda-modeler---rename-technical-ids" target="_blank" rel="noreferrer noopener">Camunda Modeler &#8211; Rename Technical IDs</a></p>
+
+
+
+<p><a href="https://github.com/camunda-consulting/code/tree/master/snippets/camunda-modeler-plugins/camunda-modeler-plugin-usertask-generatedform-preview#camunda-modeler-plugin---usertask-generated-form-preview-and-embedded-form-generator">UserTask Generated Form Preview and Embedded Form Generator</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://github.com/bpmn-io/bpmn-js-token-simulation-plugin#token-simulation-for-the-camunda-modeler" target="_blank">Token Simulation for the Camunda Modeler</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://github.com/camunda/camunda-modeler-linter-plugin#camunda-modeler-linter-plugin" target="_blank">BPMN Linter &#8211; Model Validator</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://github.com/viadee/camunda-modeler-tooltip-plugin#camunda-modeler-tooltip-plugin" target="_blank">Camunda Modeler Tooltip Plugin</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://github.com/bpmn-io/camunda-transaction-boundaries#camunda-transaction-boundaries" target="_blank">Camunda Transaction Boundaries</a></p>
+
+
+
+<p><a href="https://docs.camunda.org/cawemo/latest/technical-guide/integrations/modeler/" target="_blank" rel="noreferrer noopener">Cloud Connect</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>BPM Talks 6ª Edição</title>
+		<link>https://mauriciobitencourt.com/eventos/bpm-talks-6a-edicao/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 21 May 2020 12:58:27 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[Automação de Decisões]]></category>
+		<category><![CDATA[Automação de Processos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=1926</guid>
+
+					<description><![CDATA[Confira a gravação da Live com o pessoal do BPM Talks sobre o panorama de BPM no Brasil e no mundo e porque usar modelos distintos para automatizar processos e decisões.]]></description>
+										<content:encoded><![CDATA[
+<p>Confira a gravação da Live com o pessoal do BPM Talks sobre o panorama de BPM no Brasil e no mundo e porque usar modelos distintos para automatizar processos e decisões.</p>
+
+
+
+<span id="more-1926"></span>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://youtu.be/rtVdJeHU8_E"><img decoding="async" loading="lazy" width="1024" height="576" src="https://mauriciobitencourt.com/wp-content/uploads/2020/05/bpm-talks-youtube-1-1024x576.png" alt="" class="wp-image-1933" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/05/bpm-talks-youtube-1-1024x576.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/05/bpm-talks-youtube-1-300x169.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/05/bpm-talks-youtube-1-768x432.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/05/bpm-talks-youtube-1-1536x864.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2020/05/bpm-talks-youtube-1-700x394.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2020/05/bpm-talks-youtube-1.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption><a href="https://youtu.be/rtVdJeHU8_E">BPM Talks 6ª Edição: &#8220;Por que usar modelos distintos para automatizar processos e decisões?&#8221;</a></figcaption></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Prova de Conceito com Camunda BPM</title>
+		<link>https://mauriciobitencourt.com/eventos/prova-de-conceito-poc-com-camunda-bpm/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Tue, 12 May 2020 21:23:43 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[poc]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[PoC]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=1907</guid>
+
+					<description><![CDATA[Resumo do Resultado da Prova de Conceito (PoC) com Camunda BPM]]></description>
+										<content:encoded><![CDATA[
+<p>Compartilho vídeo com o resumo da Prova de Conceito (PoC) com Camunda BPM para a automação do processo 31.6.6 Movimentação de Pessoas e decisões com base em regras de negócio nas notações BPMN e DMN.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<span id="more-1907"></span>
+
+
+
+<p>As cinco reuniões, totalmente na modalidade teletrabalho, aconteceram na última semana de março de 2020, em conjunto com o Ministério da Economia, Planejamento, Desenvolvimento e Gestão, Ministério da Educação, Camunda, Projeler e Memora.</p>
+
+
+
+<p>Produtos usados:</p>
+
+
+
+<ul><li>Cawemo para o mapeamento e modelagem de processos colaborativa entre Áreas de Negócio e TI.</li><li>Camunda Modeler para a simulação e design de processos e decisões.</li><li>Camunda Tasklist e Cockpit para execução e orquestração de microsserviços.</li><li>Optimize para monitoramento e otimização de processos e decisões.</li></ul>
+
+
+<p><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/UgAjkcbk9-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.youtube.com/user/mbitencourt/videos">Acesse aqui mais vídeos no canal do YouTube.</a></p>
+
+
+
+<p class="has-text-align-center"><a href="https://mauriciobitencourt.com/wp-content/uploads/2020/05/resumo-dos-resultados-da-prova-de-conceito.pdf">Acesse aqui para o download do PDF da apresentação.</a></p>
+
+
+
+<p>Referência</p>
+
+
+
+<p>A Cadeia de Valor Integrada do Estado a partir da missão do Estado e das macrofunções estruturadoras da Administração pública, (Chaves, Nicir. 2016). &#8211; <a href="http://arquivonacional.gov.br/images/COGED/A4_CVI_CCTT_vF.pdf">http://arquivonacional.gov.br/images/COGED/A4_CVI_CCTT_vF.pdf</a></p>
+
+
+
+<p>Disclaimer</p>
+
+
+
+<ul><li>Esta prova de conceito, ou PoC (sigla do inglês, Proof of Concept) é uma aplicação prática para demonstrar a automação de processos e decisões com a tecnologia da empresa alemã Camunda. </li><li>O escopo é limitado sem a intenção de abranger o processo de ponta a ponta em todas as esferas e poderes.</li><li>As regras de negócio tiveram origem em leis e portarias reais, mas a aplicação foi hipotética (com base em suposição, duvidoso e incerto).</li><li>Os diagramas de processo e dados utilizados para a execução públicos.</li></ul>
+
+
+
+<p>Redes Sociais</p>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6666093808574361601" height="579" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe></p>
+
+
+<blockquote class="twitter-tweet">
+<p lang="pt" dir="ltr">Compartilho o vídeo com o resumo da Prova de Conceito (PoC) com Camunda BPM para a automação de processo e decisões com BPMN e DMN.<a href="https://twitter.com/hashtag/bpm?src=hash&amp;ref_src=twsrc%5Etfw">#bpm</a> <a href="https://twitter.com/hashtag/processos?src=hash&amp;ref_src=twsrc%5Etfw">#processos</a> <a href="https://twitter.com/hashtag/bpmn?src=hash&amp;ref_src=twsrc%5Etfw">#bpmn</a> <a href="https://twitter.com/hashtag/camunda?src=hash&amp;ref_src=twsrc%5Etfw">#camunda</a> <a href="https://twitter.com/hashtag/bpms?src=hash&amp;ref_src=twsrc%5Etfw">#bpms</a> <a href="https://twitter.com/hashtag/cbpp?src=hash&amp;ref_src=twsrc%5Etfw">#cbpp</a> <a href="https://twitter.com/hashtag/dmn?src=hash&amp;ref_src=twsrc%5Etfw">#dmn</a> <a href="https://twitter.com/hashtag/projeler?src=hash&amp;ref_src=twsrc%5Etfw">#projeler</a> <a href="https://twitter.com/hashtag/memora?src=hash&amp;ref_src=twsrc%5Etfw">#memora</a> <a href="https://twitter.com/hashtag/mec?src=hash&amp;ref_src=twsrc%5Etfw">#mec</a> <a href="https://t.co/XhxEOvrOXR">https://t.co/XhxEOvrOXR</a></p>
+<p>— Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/1260328182852587524?ref_src=twsrc%5Etfw">May 12, 2020</a></p></blockquote>
+<p> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hands-On-Workshop</title>
+		<link>https://mauriciobitencourt.com/cursos/hands-on-workshop/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2020 13:52:16 +0000</pubDate>
+				<category><![CDATA[cursos]]></category>
+		<category><![CDATA[Automação de Decisões]]></category>
+		<category><![CDATA[Automação de Processos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Brasília]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[Hands-On-Workshop]]></category>
+		<category><![CDATA[Motor de Regras]]></category>
+		<category><![CDATA[Porto Alegre]]></category>
+		<category><![CDATA[Regras de Negócio]]></category>
+		<category><![CDATA[Rio de Janeiro]]></category>
+		<category><![CDATA[São Paulo]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=1838</guid>
+
+					<description><![CDATA[Venha colocar a mão na massa para aprender como ir da modelagem à execução com técnicas e tecnologias modernas.
+
+Workshops práticos para automatizar processos e decisões com os Standards de BPM.
+
+Colocar a mão na massa para demonstrar como ir da modelagem à execução de processos e decisões, sempre utilizando a prática durante a apresentação de teoria.
+
+Em cada módulo com duração de 16 horas em dois dias, o condutor orientará e resolverá dúvidas para estimular a participação e a dinâmica dos envolvidos.]]></description>
+										<content:encoded><![CDATA[
+<p>Ano passado pude treinar diversas pessoas em quatro edições do Hands-On-Workshop para colocar a mão na massa e aprender na prática como ir da modelagem à execução de processos e decisões com técnicas e tecnologias modernas. </p>
+
+
+
+<span id="more-1838"></span>
+
+
+
+<h3 class="has-text-align-center wp-block-heading">Seja protagonista na implementação de soluções automatizadas.</h3>
+
+
+
+<p class="has-text-align-center"><em>Com os conhecimentos compartilhados neste workshop, você poderá ir além da melhoria dos processos. A partir de uma documentação clara, fácil de entender, acessar e usar você será capaz de saltar os obstáculos técnicos tradicionais e automatizar processos e decisões com orquestração de microsserviços, aumentando a colaboração entre as áreas de Negócio e TI, melhorando a eficiência e a precisão, obtendo soluções mais eficazes e promovendo a efetividade de uma liderança de sucesso.</em></p>
+
+
+
+<p class="has-text-align-center"><a href="http://www.projeler.com.br/pdf/projeler-folder-hands-on-workshop.pdf">Clique aqui para baixar o folder em PDF com o conteúdo completo.</a></p>
+
+
+
+<p>Em 2020 teremos mais quatro edições abertas em São Paulo (23 a 26/03), Rio de Janeiro (06 a 09/07), Brasília (19 a 22/10) e Porto Alegre (07 a 10/12).</p>
+
+
+
+<p class="has-text-align-center"><a href="http://www.projeler.com.br/workshop/index.jsp">Hands-On-Workshop Modelar » Simular » Executar » Otimizar Processos e Decisões</a></p>
+
+
+
+<p>Realizei também edições na modalidade presencial fechado (in company) do Hands-On-Workshop Executivo, mais compactas e personalizadas para auxiliar Product Owners (PO) formarem squads com pessoas de Área de Negócio e TI trabalhando em conjunto com os standards de BPM e tecnologias Open Source entregarem produtos digitais com agilidade na cultura DevOps.</p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Automação de Processos e Decisões na Prática" width="700" height="394" src="https://www.youtube.com/embed/rF2vAn35GY8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption><a href="https://www.linkedin.com/feed/update/urn:li:activity:6621033867883094016/">Automação de Processos e Decisões na Prática</a></figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">O quê</h4>
+
+
+
+<p>Workshops práticos para automatizar processos e decisões com os Standards de BPM.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;<em>Achei o conteúdo bastante abrangente e rico. O material com excelente nível de detalhamento e, sobretudo, a parte prática extremamente esclarecedora.</em>&#8220;</p><cite>Flávia Silva Azevedo, Administradora do SEI! &#8211; Sistema Eletrônico de Informações na Secretaria de Administração na ESMPU Escola Superior do Ministério Público da União</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Objetivo</h4>
+
+
+
+<p>Colocar a mão na massa para demonstrar como ir da modelagem à execução de processos e decisões, sempre utilizando a prática durante a apresentação da teoria.</p>
+
+
+
+<p>Em cada módulo &#8211; com duração de 16 horas em dois dias -, o condutor orientará e resolverá dúvidas para estimular a participação e a dinâmica dos envolvidos.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;<em>Como o nome sugere, o workshop prático entrega o que promete, pois ao final do dia, sempre temos um modelo executando construído por você.</em>&#8220;</p><cite>Rodrigo dos Santos Gomes, Product Owner do Projeto Maestro na Petrobras</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Público</h4>
+
+
+
+<p>Profissionais das áreas de Negócio e de TI envolvidos na melhoria e transformação de processos de negócio, casos adaptativos e decisões com base em regras de negócio.</p>
+
+
+
+<p>Product Owners, UX Designers, Scrum Masters, Release Train Engineers, Analistas de Negócios, Processos e/ou Requisitos, Gerentes de Projeto, Testadores, Desenvolvedores e demais profissionais que trabalhem com a criação de produtos digitais.</p>
+
+
+
+<p>Equipes ágeis na cultura DevOps que desejam integração e distribuição contínua (CI/CD), utilizando frameworks, de preferência com os standards de BPM e tecnologias Open Source para aumentar significativamente a produtividade de desenvolvimento e operação.</p>
+
+
+
+<p><strong>Sem pré-requisitos para o módulo básico.</strong>&nbsp;Não será necessário o conhecimento prévio de uma linguagem de programação, notação ou ferramenta.</p>
+
+
+
+<p>Conhecimento prático essencial para adquirir novas formas de pensar a transformação digital, o aperfeiçoamento profissional e a requalificação&nbsp;<em>(IT-BPM Upskilling / Reskilling)</em>&nbsp;de profissionais das áreas de Negócio que desejam melhorar suas perspectivas de carreira, concentrando-se nas habilidades de resolução de problemas complexos com o uso de algoritmos, raciocínio computacional e pensamento sistêmico.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;<em>O workshop entrega conhecimento detalhado e valioso para o desenvolvimento rápido de soluções de automação de processos em modelos executáveis na plataforma de BPM da Camunda.</em>&#8220;</p><cite>Aldinei Bastos, Analista de Sistemas na Petrobras</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading"><strong>Por que fazer?</strong></h4>
+
+
+
+<p>Você realmente aprenderá praticando os exercícios e tutoriais no seu notebook.</p>
+
+
+
+<p>Com a abordagem&nbsp;<em>Challenge Based Learning</em>&nbsp;(aprendizado baseado em desafios) durante o Workshop, você terá a mentoria para automatizar um processo de ponta a ponta para a concessão de crédito de uma fintech hipotética.</p>
+
+
+
+<p>Ao final, você estará apto para inovar na sua organização com fluxos de trabalho em formulários eletrônicos, casos, decisões automatizadas e informações integradas a microsserviços.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;<em>Participei deste Workshop Prático na edição de Porto Alegre, em dezembro do ano passado. Didática incrível e controle total sobre o conteúdo proposto. Investimento super bem feito, obrigado Maurício!</em>&#8220;</p><cite>Roger Gomes, Analista de BI na Fundacred</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading"><strong>Instrutor</strong></h4>
+
+
+
+<p>Maurício Bitencourt, certificado CBPP Red Seal, atua em várias organizações públicas e privadas como especialista de automação de processos e decisões com foco no fluxo de valor para criar produtos digitais com novas experiências relevantes na jornada dos usuários.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Maurício é focado no valor e em soluções que otimizam os recursos das empresas. É um cara que tem energia, que compartilha conhecimento e usa sua empolgação para motivar as pessoas. Fazer o curso de BPM Hands-On da Projeler é como se abraçar no foguete do conhecimento e ser levado rapidamente aos mais altos níveis profissionais. Ter a oportunidade de compartilhar o precioso tempo da vida com esse cara é uma honra pra mim.&#8221;</p><cite>Matheus Ximenes Assis, CTO na Companhia de Trânsito e Transporte de Macapá CTMAC.</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Investimento</h4>
+
+
+
+<p><a href="https://www.paypal.com/webapps/hermes?token=1H954702SE412181D&amp;useraction=commit&amp;rm=1&amp;mfid=1578929582693_6cb62915bfa53#/checkout/multistepsignup/multistepsignupaddcard">R$ 1.980,00 para o módulo básico (16h)</a> ou <a href="https://www.paypal.com/webapps/hermes?token=7PA909518B496030H&amp;useraction=commit&amp;rm=1&amp;mfid=1578929624306_ca2e1a8e05a44#/checkout/multistepsignup/multistepsignupaddcard">R$ 3.960,00 para os módulos básico e avançado (32h)</a>.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Considero o Maurício um excelente professor e profissional! O primeiro curso que fiz com ele foi em 2008, sobre BPMN e BPMS. O segundo, foi um pouco depois, na 1ª turma da ABPMP. Senti a necessidade de me atualizar com relação a DMN e CMMN, e este Workshop Hands-On caiu como uma luva!&#8221;</p><cite>Sidney Batista Filho, Analista de Sistema no SERPRO </cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Modalidade Presencial</h4>
+
+
+
+<p><strong>São Paulo, SP</strong><br>Av. Pres. Juscelino Kubitschek, 1.455<br>23 a 25/03/2020</p>
+
+
+
+<p><strong>Rio de Janeiro, RJ</strong><br>Rua do Passeio, 38<br>06 a 09/07/2020</p>
+
+
+
+<p><strong>Brasília, DF</strong><br>SCN Q 5 &#8211; Asa Norte<br>19 a 22/10/2020</p>
+
+
+
+<p><strong>Porto Alegre, RS</strong><br>Rua Mostardeiro, 366<br>07 a 10/12/2020</p>
+
+
+
+<h4 class="wp-block-heading"><strong>Carga horária</strong></h4>
+
+
+
+<p>Cada módulo do workshop terá carga horária de 16 horas, das 08h30 às 18h00.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Excelente treinamento. O nível de conhecimento do instrutor é altíssimo, o que nos deu motivação e segurança para prosseguir. A ferramenta apresenta alto valor agregado e tem aplicabilidade clara em diversos processos de negócio da companhia. Sensacional! Com certeza, um dos melhores treinamentos que eu já fiz. O Maurício é um profissional extremamente gabaritado, experiente e didático. Recomendo a todos os entusiastas de BPM e da ferramenta Camunda.&#8221;</p><cite>Alexandre Ramos, Product Owner na Mongeral Aegon</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading"><strong>Você receberá</strong></h4>
+
+
+
+<p>Dezesseis horas de capacitação teórica e prática em cada módulo; material para anotações; conteúdo em meio digital na língua portuguesa; acesso a internet para baixar o software Open Source; guia de referência para modelar processos, casos e decisões com BPMN, CMMN e DMN; certificado.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>O que vim buscar, estou levando: conhecimento. A semana de imersão no Hands-On-Workshop utilizando o Camunda foi regada por muita aprendizagem ministrada de forma simples e complexa (o que é diferente de complicado). Hoje sou um profissional preparado para colaborar com as empresas que desejam automatizar e digitalizar os seus processos. Mais um momento disruptivo na minha carreira. Essa semana se resume em: gratidão. Obrigado Mauricio Bitencourt.</p><cite>Emerson Leandro Gregorio, Chief of Compliance Officer, Petrovina Sementes</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Benefícios</h4>
+
+
+
+<p>Com o uso da automação de decisões, você poderá obter maior&nbsp;<strong>velocidade, escalabilidade e confiabilidade</strong>&nbsp;dos serviços na entrega de valor aos clientes.</p>
+
+
+
+<p>Com base nos dados mais detalhados de execução dos processos, você poderá habilitar um monitoramento poderoso com capacidades analíticas próximas do tempo real e identificar novos pontos de melhoria dos&nbsp;<strong>processos digitizados</strong>.</p>
+
+
+
+<p>Com o conhecimento adquirido neste workshop, você poderá&nbsp;<strong>substituir progressivamente práticas ultrapassadas</strong>, como, por exemplo, trâmites manuais em papel e e-mails, controles em planilhas, sistemas obsoletos e atrasos por decisões que não necessitam de julgamento.</p>
+
+
+
+<p>Com a modelagem e a execução de casos adaptativos, você poderá descrever, capturar e automatizar o que os&nbsp;<strong>trabalhadores do conhecimento</strong>&nbsp;realizam.</p>
+
+
+
+<p>Comprovamos que o mapeamento, modelagem, análise e design de processos, casos e decisões São cada vez melhores à medida que se conhece mais sobre as&nbsp;<strong>execuções na prática</strong>.</p>
+
+
+
+<p>Conheça o&nbsp;<strong>potencial dos standards de BPM e tecnologias</strong>&nbsp;Open Source de automação para aproveitar componentes existentes que aumentam significativamente a produtividade de desenvolvimento e operação.</p>
+
+
+
+<p>Agilidade para obter&nbsp;<strong>software em funcionamento</strong>, documentação de negócio e cenários de testes.</p>
+
+
+
+<p>A modelagem e automação de decisões com base em regras de negócio é perfeita para produzir escalabilidade e precisão de ato administrativo&nbsp;<strong>vinculado</strong>&nbsp;sem julgamento. Por outro lado, a modelagem e automação de casos adaptativos são mais apropriados para ato administrativo&nbsp;<strong>discricionário</strong>&nbsp;que permite análise subjetiva a partir da valoração dos fatos, produzindo uma base de comportamentos e padrões ricos para o estabelecimento de novos processos e decisões.</p>
+
+
+
+<p>Iniciativas de documentação de processos, na maioria dos casos, levam à paralisia por análise. Em vez disso, utilize os conhecimentos práticos em&nbsp;<strong>DevOps</strong>&nbsp;destes workshops para estabilizar os processos, criar um pipeline de projetos com&nbsp;<strong>integração contínua (CI)</strong>&nbsp;e&nbsp;<strong>entrega contínua (CD)</strong>&nbsp;de processos, casos e decisões automatizados para obter o&nbsp;<em>feedback loop</em>&nbsp;de novas ideias de produto, alinhando estratégias e necessidades dos clientes.</p>
+
+
+
+<p>O gerenciamento de decisões permite criar&nbsp;<strong>uma única fonte de verdade</strong>&nbsp;da organização, habilita a transformação digital, simplifica o fluxo de valor, cria contexto para implementar o aprendizado de máquina (<em>Machine Learning</em>) e endereça de forma disruptiva a substituição das tarefas humanas dos processos.</p>
+
+
+
+<p>Incorpore tecnologias que&nbsp;<strong>impactam em ganhos significativos de produtividade</strong>&nbsp;para colher os benefícios de processos mais enxutos, eficazes, rápidos e baratos.</p>
+
+
+
+<p>Potencialize o&nbsp;<strong>estabelecimento de confiança com clientes e parceiros</strong>, orquestrando processos integrados a APIs de cadastros, tornando a experiência do usuário final mais fluída, eliminando papelada, verificações e burocracia.</p>
+
+
+
+<p>Processos e decisões automatizadas com o uso e ícones para visualização gráfica do contexto dos dados e algoritmos, garantem trilhas de auditoria e conformidade ao Artigo 20 da <strong>LGPD Lei Geral de Proteção de Dados</strong> (Artigo 22 da GDPR) garantindo ao titular dos dados o direito a solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Curso muito prático, mão na massa. Material didático claro e organizado. Realmente, saio com segurança para utilizar a solução em projetos produtivos. Das soluções que pude ter contato até o momento, a Camunda é a que se mostrou mais aderente às práticas ágeis e de DevOps atuais. O treinamento com o Maurício veio para confirmar a boa impressão que eu já tinha em relação à ferramenta, principalmente nos quesitos performance, escalabilidade, poder de representação e facilidade de uso.&#8221;</p><cite>Arthur Viñas dos Santos, Solutions Architect na NTConsult</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading"><strong>Formas de pagamento e inscrições</strong></h4>
+
+
+
+<p>Cartão de Crédito em até 3x via PayPal sem acréscimo ou em até 12x via plataforma&nbsp;<a href="https://www.sympla.com.br/projeler">Sympla</a>.</p>
+
+
+
+<p>A vista via depósito em conta corrente: BB, Ag 3537-8, Conta 15.386-9 CNPJ 08.044.990/0001-71</p>
+
+
+
+<p>Nota de Empenho ou Autorização de Fornecimento &#8211; utilize a ficha de inscrição do&nbsp;<a href="http://www.projeler.com.br/pdf/projeler-folder-hands-on-workshop.pdf">folder em PDF</a>.</p>
+
+
+
+<p><a href="http://www.projeler.com.br/contato/index.jsp">Clique aqui para entrar em contato e solicitar mais informações.</a></p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;O curso foi extremamente proveitoso e permitiu que eu pudesse rever alguns conceitos e experimentar na prática o que tem de mais atual em processos. Tudo isso proporcionado pela competência inigualável de Maurício.&#8221;</p><cite>Joaquim Francisco Ferreira Filho, CBPP®, Consultor na Integral Gestão por Processos</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Comentários nas Redes Sociais</h4>
+
+
+
+<p><strong>LinkedIn</strong></p>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6621033194059767809" height="631" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+
+<p><strong>Twitter</strong></p>
+
+
+<blockquote class="twitter-tweet">
+<p lang="pt" dir="ltr">Ano passado pude treinar diversas pessoas em quatro edições do Hands-On-Workshop para colocar a mão na massa e aprender na prática como ir da modelagem à execução de processos e decisões com técnicas e tecnologias modernas. </p>
+<p>Em 2020 teremos mais quatro e…<a href="https://t.co/7yIhu7Gc8A">https://t.co/7yIhu7Gc8A</a></p>
+<p>— Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/1215268241704017921?ref_src=twsrc%5Etfw">January 9, 2020</a></p></blockquote>
+<p> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>BPM Day Lima 2019</title>
+		<link>https://mauriciobitencourt.com/eventos/bpm-day-lima-2019/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Sat, 16 Nov 2019 17:28:19 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[ABPMP]]></category>
+		<category><![CDATA[BPM Day]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[DMN]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=1781</guid>
+
+					<description><![CDATA[Compartilho os slides da minha apresentação no evento BPM Day Lima 2019 do capítulo da ABPMP Perú. Haga clic aquí para descargar las diapositivas de la presentación &#8220;Porque usar Modelos distintos para automatizar Procesos y Decisiones&#8221; &#8211; Cómo la digitalización puede transformar los procesos y las decisiones de una organización para romper monolitos, orquestar microservicios [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p><p>Compartilho os slides da minha apresentação no evento BPM Day Lima 2019 do capítulo da ABPMP Perú.</p><span id="more-1781"></span></p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Modelos Distintos para Automatizar Processos e Decisões - BPMDay Lima 2019 - Maurício Bitencourt" width="700" height="394" src="https://www.youtube.com/embed/ohtOIOc0tbc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Porque usar Modelos Distintos para Automatizar Processos e Decisões<br><a href="https://youtu.be/ohtOIOc0tbc">https://youtu.be/ohtOIOc0tbc</a></figcaption></figure>
+
+
+
+<p><a href="https://mauriciobitencourt.com/wp-content/uploads/2019/11/2019-11-16-bpmday-lima-mauricio-bitencouurt-porque-usar-modelos-distintos-de-processos-e-decisoes-ES-PDF.pdf">Haga clic aquí para descargar las diapositivas de la presentación &#8220;Porque usar Modelos distintos para automatizar Procesos y Decisiones&#8221; </a>&#8211; Cómo la digitalización puede transformar los procesos y las decisiones de una organización para romper monolitos, orquestar microservicios y ofrecer un valor más rápido, mejor y más barato a los usuarios del servicios.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://mauriciobitencourt.com/wp-content/uploads/2019/11/2019-11-16-bpmday-lima-mauricio-bitencouurt-porque-usar-modelos-distintos-de-processos-e-decisoes-ES-PDF.pdf"><img decoding="async" src="https://mauriciobitencourt.com/wp-content/uploads/2019/11/Captura-de-Tela-2019-11-16-às-12.40.02-1024x577.png" alt="" class="wp-image-1786"/></a><figcaption>Porque usar Modelos distintos para automatizar Procesos y Decisiones</figcaption></figure></div>
+
+
+
+<p><a href="https://mauriciobitencourt.com/wp-content/uploads/2019/11/2019-11-16-bpmday-lima-mauricio-bitencouurt-porque-usar-modelos-distintos-de-processos-e-decisoes-PT-BR.pdf">Clique aqui para baixar os slides da apresentação &#8220;Porque usar modelos distintos para automatizar processos e decisões&#8221;</a> &#8211; Como a digitização pode transformar os processos e decisões da organização para quebrar monolitos, orquestrar de microsserviços e entregar valor mais rápido, melhor e mais barato aos usuários dos serviços.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter"><a href="https://mauriciobitencourt.com/wp-content/uploads/2019/11/2019-11-16-bpmday-lima-mauricio-bitencouurt-porque-usar-modelos-distintos-de-processos-e-decisoes-PT-BR.pdf"><img decoding="async" loading="lazy" width="1024" height="576" src="https://mauriciobitencourt.com/wp-content/uploads/2019/11/Captura-de-Tela-2019-11-16-às-12.41.37-1024x576.png" alt="" class="wp-image-1787" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/11/Captura-de-Tela-2019-11-16-às-12.41.37-1024x576.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/Captura-de-Tela-2019-11-16-às-12.41.37-300x169.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/Captura-de-Tela-2019-11-16-às-12.41.37-768x432.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/Captura-de-Tela-2019-11-16-às-12.41.37-700x394.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption> Porque usar modelos distintos para automatizar procesos e decisões</figcaption></figure></div>
+
+
+
+<p><a href="https://mauriciobitencourt.com/wp-content/uploads/2019/11/2019-11-16-bpmday-lima-mauricio-bitencouurt-porque-usar-modelos-distintos-de-processos-e-decisoes-EN.pdf">Click here to Download the presentation slides &#8220;Why use different models to automate processes and decisions&#8221;</a> &#8211; How digitization can transform an organization&#8217;s processes and decisions to break monoliths, orchestrate microservices, and deliver faster, better, and cheaper value to service users.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="574" src="https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-en-1024x574.png" alt="" class="wp-image-1820" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-en-1024x574.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-en-300x168.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-en-768x430.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-en-1536x861.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-en-2048x1148.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-en-700x392.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Why use different models to automate processes and decisions</figcaption></figure></div>
+
+
+
+<p>Mensagens nas redes sociais</p>
+
+
+
+<pre class="wp-block-preformatted"><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6601602798146596864" height="443" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></pre>
+
+
+
+<pre class="wp-block-preformatted"><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6601603363257765888" height="400" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></pre>
+
+
+
+<pre class="wp-block-preformatted"><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6602668366320676866" height="543" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></pre>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="548" height="707" src="https://mauriciobitencourt.com/wp-content/uploads/2019/11/gart-linkedin.png" alt="" class="wp-image-1814" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/11/gart-linkedin.png 548w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/gart-linkedin-233x300.png 233w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/gart-linkedin-543x700.png 543w" sizes="(max-width: 548px) 100vw, 548px" /><figcaption><a href="https://www.linkedin.com/posts/gartcapote_modelos-distintos-para-automatizar-processos-activity-6602694218702028800-WEhc/">https://www.linkedin.com/posts/gartcapote_modelos-distintos-para-automatizar-processos-activity-6602694218702028800-WEhc/</a></figcaption></figure>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="pt" dir="ltr">Saiba quando usar modelos distintos para automatizar processos e decisões &#8211; BPMDay Lima 2019 &#8211; <a href="https://t.co/zasJlpDETu">https://t.co/zasJlpDETu</a></p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/1196902740267540480?ref_src=twsrc%5Etfw">November 19, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h4 class="wp-block-heading">Chamada para o BPM Day Lima 2019</h4>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="BPM Day Lima 2019 - Maurício Bitencourt" width="700" height="525" src="https://www.youtube.com/embed/rh_km-J_sTI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Vídeo de chamada para o evento</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Fotos do evento</h2>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="768" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191116_193112-768x1024.jpg" alt="" class="wp-image-1827" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191116_193112-768x1024.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191116_193112-225x300.jpg 225w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191116_193112-1152x1536.jpg 1152w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191116_193112-1536x2048.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191116_193112-525x700.jpg 525w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191116_193112-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Pisco personalizado com o logo do evento.</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="768" src="https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_093721-1024x768.jpg" alt="" class="wp-image-1828" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_093721-1024x768.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_093721-300x225.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_093721-768x576.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_093721-1536x1152.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_093721-2048x1536.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_093721-700x525.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Orla de Lima, Perú</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="768" src="https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_132935-1024x768.jpg" alt="" class="wp-image-1829" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_132935-1024x768.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_132935-300x225.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_132935-768x576.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_132935-1536x1152.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_132935-2048x1536.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_132935-700x525.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A gastronomia de Lima é incrível. Uma explosão de novos sabores!</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="768" src="https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_135512-1024x768.jpg" alt="" class="wp-image-1830" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_135512-1024x768.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_135512-300x225.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_135512-768x576.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_135512-1536x1152.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_135512-2048x1536.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/IMG_20191117_135512-700x525.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Restaurante Tanta &#8211; Shopping Larcomar</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Mensagens na imprensa</h2>
+
+
+
+<p>&#8220;<em>Mauricio Bitencourt (BRA), con “Porque usar modelos distintos para automatizar procesos y decisiones” nos contó cómo la digitalización puede transformar los procesos y las decisiones de una organización para romper monolitos, orquestar microservicios y ofrecer valor más rápido, mejor y más barato a los usuarios de servicios. Utilizando: UX,orquestación, integraciones, BPMN como contexto de ejecución, análisis del mapa de calor, automatización de decisiones desde el modelado de decisiones con DMN hasta su ejecución.</em>&#8220;</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="504" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-a-504x1024.png" alt="" class="wp-image-1833" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-a-504x1024.png 504w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-a-148x300.png 148w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-a-345x700.png 345w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-a.png 753w" sizes="(max-width: 504px) 100vw, 504px" /><figcaption><a href="http://www.americasistemas.com.pe/bpm-day-2019-3/">http://www.americasistemas.com.pe/bpm-day-2019-3/</a></figcaption></figure>
+
+
+
+<figure class="wp-block-gallery aligncenter columns-1 is-cropped wp-block-gallery-1 is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" loading="lazy" width="504" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-b-504x1024.png" alt="" data-id="1834" data-full-url="https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-b.png" data-link="https://mauriciobitencourt.com/eventos/bpm-day-lima-2019/attachment/bpmday-lima-2019-b/" class="wp-image-1834" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-b-504x1024.png 504w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-b-148x300.png 148w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-b-345x700.png 345w, https://mauriciobitencourt.com/wp-content/uploads/2019/11/bpmday-lima-2019-b.png 753w" sizes="(max-width: 504px) 100vw, 504px" /></figure></li></ul><figcaption class="blocks-gallery-caption"><a href="http://www.americasistemas.com.pe/bpm-day-2019-3/">http://www.americasistemas.com.pe/bpm-day-2019-3/</a></figcaption></figure>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="BPM Day - Lima 2019: Porque usar Modelos distintos para automatizar Procesos, 10" width="700" height="394" src="https://www.youtube.com/embed/oicvs3GN4ZU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>BPM Day &#8211; Lima 2019: Porque usar Modelos distintos para automatizar Procesos</figcaption></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Camunda Meetup São Paulo #2</title>
+		<link>https://mauriciobitencourt.com/eventos/camunda-meetup-sao-paulo-2/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 26 Sep 2019 12:04:51 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[Creditas]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[meetup]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1704</guid>
+
+					<description><![CDATA[Temos o prazer de anunciar o nosso segundo encontro de usuários Camunda em São Paulo no dia 24 de setembro de 2019 das 19h às 21h na Creditas.
+
+18h30 Welcome coffee
+
+19h00 Boas vindas, por Regis Hattori, Software Engineer na Creditas e Stephan Aina, Head of International Sales na Camunda
+
+19h30 Estudo de Caso: Da validação a maturidade de processos, como medir e controlar suas hipóteses de negócios, por Leonardo Salles, Líder de Process Hacking na Creditas
+
+20h00 Novidades do evento CamundaCon que aconteceu neste mês em Berlim, por Maurício Bitencourt
+
+20h30 Lanches, bebidas e networking
+
+21h00 Encerramento]]></description>
+										<content:encoded><![CDATA[
+<p><p>No dia 24 de setembro ocorreu a segunda edição do Camunda Meetup no Brasil. O evento ocorreu na sede da Creditas, o mais novo cliente Enterprise Edition da Camunda no Brasil.</p><span id="more-1704"></span><br></p>
+
+
+
+<h2 class="wp-block-heading">Boas vindas da Creditas</h2>
+
+
+
+<p>Felipe Albuquerque apresentou as boas vindas aos participantes do Meetup e demonstrou o propósito da Creditas para oferecer produtos financeiros menos tóxicos aos clientes.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h00-camunda-meetup-sao-paulo-2-felipe-albuquerque-1.mp3"></audio><figcaption>Felipe Albuquerque</figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="576" src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_190844-1024x576.jpg" alt="" class="wp-image-1714" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_190844-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_190844-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_190844-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_190844-700x394.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A Creditas está contratando em <a href="https://jobs.kenoby.com/creditas/">https://jobs.kenoby.com/creditas/</a><br></figcaption></figure>
+
+
+
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2019/10/2019-09-24-19h00-camunda-meetup-sao-paulo-2-felipe-albuquerque.pdf">Clique aqui para fazer o download os slides da apresentação em PDF.</a></p>
+
+
+
+<h2 class="wp-block-heading">Da validação a maturidade: Como medir e controlar suas hipóteses de negócios.</h2>
+
+
+
+<p>Leonardo Salles apresentou o estudo de caso da Creditas utilizando Camunda para automação de processos e decisões com orquestração de microsserviços.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h10-camunda-meetup-sao-paulo-2-leonardo-salles.mp3"></audio><figcaption>Leonardo Salles</figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="471" src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193229-1024x471.jpg" alt="" class="wp-image-1713" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193229-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193229-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193229-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193229-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Questionamentos sobre os motivos da escolha da Creditas por Camunda</figcaption></figure>
+
+
+
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h00-camunda-meetup-sao-paulo-2-creditas-leonardo-salles.pdf">Clique aqui para fazer o download os slides da apresentação em PDF.</a></p>
+
+
+
+<h2 class="wp-block-heading">Best Practices for introducing Camunda</h2>
+
+
+
+<p>Stephan Aina apresentou a atuação da Camunda ao redor do globo e boas práticas para iniciar a utilização do Camunda Community Edition e a migração natural para serviços de suporte e funcionalidades extras da Enterprise Edition.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h30-camunda-meetup-sao-paulo-2-stephan-aina-a.mp3"></audio><figcaption>Stephan Aina 1/2</figcaption></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h30-camunda-meetup-sao-paulo-2-stephan-aina-b.mp3"></audio><figcaption>Stephan Aina 2/2</figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="471" src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193739-1024x471.jpg" alt="" class="wp-image-1712" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193739-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193739-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193739-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193739-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Atuação da Camunda ao redor do globo.</figcaption></figure>
+
+
+
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h30-camunda-meetup-sao-paulo-2-creditas-stephan-aina.pdf">Clique aqui para fazer o download da apresentação em PDF.</a></p>
+
+
+
+<h2 class="wp-block-heading">Cobertura do Evento CamundaCon 2019 em Berlim</h2>
+
+
+
+<p>Maurício Bitencourt e Leonardo Sales apresentaram alguns tópicos sobre as experiências vivenciadas no evento CamundaCon e estimularam os participantes do Meetup a participar com questionamento sobre o roadmap dos produtos e práticas vivenciadas no evento em Berlim de 12 a 13 de setembro de 2019.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-a.mp3"></audio><figcaption>Maurício Bitencourt 1/4</figcaption></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-b.mp3"></audio><figcaption>Maurício Bitencourt 2/4</figcaption></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-c.mp3"></audio><figcaption>Maurício Bitencourt 3/4</figcaption></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-d.mp3"></audio><figcaption>Maurício Bitencourt 4/4</figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="597" src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/Captura-de-Tela-2019-09-26-às-11.19.56-1024x597.png" alt="" class="wp-image-1715" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/09/Captura-de-Tela-2019-09-26-às-11.19.56-1024x597.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/Captura-de-Tela-2019-09-26-às-11.19.56-300x175.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/Captura-de-Tela-2019-09-26-às-11.19.56-768x448.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/Captura-de-Tela-2019-09-26-às-11.19.56-700x408.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/Captura-de-Tela-2019-09-26-às-11.19.56.png 1326w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Imagens do evento CamundaCon 2019</figcaption></figure>
+
+
+
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-creditas-mauricio-bitencourt.pdf">Clique aqui para fazer download da apresentação em PDF</a></p>
+
+
+
+<h2 class="wp-block-heading">Referências</h2>
+
+
+
+<p><a href="https://www.youtube.com/user/mbitencourt/">Canal de Maurício Bitencourt no YouTube com a cobertura de eventos</a></p>
+
+
+
+<p><a href="https://techbeacon.com/enterprise-it/can-open-source-camunda-disrupt-b">Artigo: Can open-source Camunda disrupt the BPMS market?</a></p>
+
+
+
+<p><a href="https://www.youtube.com/playlist?list=PLJG25HlmvsOWvVjF44qr5-xXG--cCuXnn&amp;utm_content=101741376&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-1246607455">Playlist CamundaCon 2019 no YouTube</a></p>
+
+
+
+<p><a href="https://www.slideshare.net/camunda/presentations">Apresentações do CamundaCon no SlideShare</a></p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=iYYX53bzXpY">Apresentação da Fundacred no BPM Day 2016: Transformação Digital na Gestão de Crédito por Nivio Junior Lewis Delgado e Jonas Queiroz Flach</a></p>
+
+
+
+<p><a href="http://mauriciobitencourt.com/eventos/camunda-meetup-em-sao-paulo/">Standards de BPM para governança no tratamento de dados pessoais, em conformidade com o Regulamento Geral de Proteção de Dados UE (GDPR) e Lei Geral de Proteção de Dados BR (LGPD) por Nivio Junior Lewis Delgado no primeiro Camunda Meetup São Paulo</a></p>
+
+
+
+<p><a href="http://www.projeler.com.br/workshop/index.jsp">Hands-On-Workshop para Modelar » Simular » Executar » Otimizar Processos, Casos e Decisões</a></p>
+
+
+
+<p><a href="http://mauriciobitencourt.com/eventos/ciab-febraban-2018/#more-1431">Lançamento do App Sicredi Woop no CIAB FEBRABAN 2018</a></p>
+
+
+
+<p><a href="https://blog.camunda.com/post/2019/09/camundacon-agility-innovation-and-bpmn/">CamundaCon 2019 &#8211; Agility, Innovation and BPMN</a></p>
+
+
+
+<h2 class="wp-block-heading">Mensagens nas redes sociais</h2>
+
+
+
+<h4 class="wp-block-heading">Meetup</h4>
+
+
+
+<figure class="wp-block-image"><a href="https://www.meetup.com/pt-BR/Camunda-User-Group-Brazil/" target="_blank" rel="noreferrer noopener"><img decoding="async" loading="lazy" width="233" height="300" src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/meetup-233x300.png" alt="" class="wp-image-1757" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/09/meetup-233x300.png 233w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/meetup-768x991.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/meetup-794x1024.png 794w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/meetup-543x700.png 543w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/meetup.png 1104w" sizes="(max-width: 233px) 100vw, 233px" /></a><figcaption>Camunda User Group Brazil</figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">WhatsApp</h4>
+
+
+
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="225" height="300" src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-25-at-09.57.40-225x300.jpeg" alt="" class="wp-image-1755" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-25-at-09.57.40-225x300.jpeg 225w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-25-at-09.57.40-768x1024.jpeg 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-25-at-09.57.40-525x700.jpeg 525w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-25-at-09.57.40.jpeg 960w" sizes="(max-width: 225px) 100vw, 225px" /><figcaption>&#8220;O Stephan Aina me presenteou com o livro no final do encontro.&#8221;, via grupo no WhatsApp</figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">LinkedIn</h4>
+
+
+
+<iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6580205418365100033" height="481" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
+
+<iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6582610913772257280" height="598" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h00-camunda-meetup-sao-paulo-2-felipe-albuquerque-1.mp3" length="0" type="audio/mpeg" />
+<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h10-camunda-meetup-sao-paulo-2-leonardo-salles.mp3" length="0" type="audio/mpeg" />
+<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h30-camunda-meetup-sao-paulo-2-stephan-aina-a.mp3" length="0" type="audio/mpeg" />
+<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h30-camunda-meetup-sao-paulo-2-stephan-aina-b.mp3" length="0" type="audio/mpeg" />
+<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-a.mp3" length="0" type="audio/mpeg" />
+<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-b.mp3" length="0" type="audio/mpeg" />
+<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-c.mp3" length="0" type="audio/mpeg" />
+<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-d.mp3" length="0" type="audio/mpeg" />
+
+			</item>
+	</channel>
+</rss>

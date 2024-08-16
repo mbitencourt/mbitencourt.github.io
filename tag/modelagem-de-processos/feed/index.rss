@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Modelagem de Processos &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/modelagem-de-processos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Tue, 05 Dec 2017 13:57:48 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>Modelagem de Processos &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>TDC 2017 Porto Alegre</title>
+		<link>https://mauriciobitencourt.com/eventos/tdc-2017-porto-alegre/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 16 Nov 2017 12:23:04 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[Modelagem de Casos]]></category>
+		<category><![CDATA[Modelagem de Decisões]]></category>
+		<category><![CDATA[Modelagem de Processos]]></category>
+		<category><![CDATA[Porto Alegre]]></category>
+		<category><![CDATA[Projeler]]></category>
+		<category><![CDATA[TDC]]></category>
+		<category><![CDATA[Transformação Digital]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1092</guid>
+
+					<description><![CDATA[Estive na edição de Porto Alegre do TDC The Developer&#8217;s Conference juntamente com Andreas Stange, Felix Müller e Stephan Aina vindos da sede da Camunda em Berlim. No estade da Camunda pudemos demonstrar ao vivo os produtos Cawemo para modelagem colaborativa na nuvem, o Camunda BPM 7.8 para automatizar workflows e decisões e a nova [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Estive na edição de Porto Alegre do <a href="http://www.thedevconf.com.br/tdc/2017/index.html">TDC The Developer&#8217;s Conference</a> juntamente com <a href="https://www.linkedin.com/in/andreas-stange-86a42026/">Andreas Stange</a>, <a href="https://www.linkedin.com/in/felix-m%C3%BCller-67866645/">Felix Müller</a> e <a href="https://www.linkedin.com/in/stephanaina/">Stephan Aina</a> vindos da sede da <a href="https://camunda.com/about/about-us/">Camunda</a> em Berlim.</p>
+<p><span id="more-1092"></span></p>
+<p>No estade da Camunda pudemos demonstrar ao vivo os produtos <a href="https://cawemo.com/">Cawemo</a> para modelagem colaborativa na nuvem, o <a href="https://vimeo.com/245696691">Camunda BPM 7.8</a> para automatizar <a href="https://camunda.com/products/bpmn-engine/">workflows</a> e <a href="https://camunda.com/products/dmn-engine/">decisões</a> e a nova versão do <a href="https://vimeo.com/226307880">Optimize</a> para analisar e otimizar processos a parir de dados das instancias executadas.</p>
+<p>Foi uma satisfação palestrar nas trilhas Transformação Digital, Análise de Negócios e Microserviços.</p>
+<h3>Transformação Digital de Processos, Casos e Decisões</h3>
+<p>Por Maurício Bitencourt</p>
+<h6>Resumo</h6>
+<p>A digitalização aumentou a velocidade dos negócios e o Gerenciamento de Processos e Decisões (BPM/BDM) estão no centro desta mudança de era, exigindo novas habilidades focadas no potencial dos indivíduos para a entrega contínua de ideias em software.<br />
+Demonstrarei novos paradigmas de desenvolvimento para endereçar a abrangência e a complexidade crescentes de sistemas não estáticos.<br />
+Serão abordadas arquiteturas, técnicas e tecnologias para ir da modelagem à execução de processos (BPMN), casos (CMMN) e decisões com base em regras de negócio (DMN) em software Open Source para ir além da especialização em determinadas partes para uma abordagem de melhoria e transformação do negócio de ponta a ponta.</p>
+<p>TAG: Digital Transformation of Processes, Cases and Decisions</p>
+<h6>Slides</h6>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-2017-porto-alegre-mauricio-bitencourt-trilha-transformacao-digital-email.pdf">Clique aqui para baixar os slides desta apresentação em PDF.</a></p>
+<p><iframe loading="lazy" src="https://www.slideshare.net/slideshow/embed_code/key/g45PS3wuBb4zQ6" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+<p>&nbsp;</p>
+<h3>Da Modelagem à Execução de Processos, Casos e Decisões com BPMN, CMMN e DMN</h3>
+<p>Por Maurício Bitencourt</p>
+<h6>Resumo</h6>
+<p>Na tríade de modelos e notações de BPM com BPMN, CMMN e DMN, utiliza-se muito de elementos gráficos, proporcionando mais inovação na entrega contínua de software com base em processos, casos e decisões, a partir de modelos mais simples, inteligentes, ágeis e inovadores.<br />
+Serão apresentadas técnicas e tecnologias abertas para a criação de modelos claros e objetivos, ricos em elementos gráficos e que permitam acelerar a criação e a implementação.<br />
+Demonstraremos processos, casos e decisões como ativos de conhecimento distintos e integrados, que permitem um aumento de comunicação, colaboração e transparência através de todo o ciclo de vida de aplicação.</p>
+<p>TAG: From modeling to the execution of the business process, dynamic case, and decisions based on business rules.</p>
+<h6>Slides</h6>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-2017-porto-alegre-mauricio-bitencourt-trilha-analise-de-negocios-email.pdf">Clique aqui para baixar os slides desta apresentação em PDF.</a></p>
+<p><iframe loading="lazy" src="https://www.slideshare.net/slideshow/embed_code/key/2frpdMf5AwVdeF" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+<p>&nbsp;</p>
+<h3>Orchestration of Microservices</h3>
+<p>Por Felix Müller</p>
+<h6>Resumo</h6>
+<p>How can you create an end-to-end business process using a bunch of decoupled microservices? How can you bring visibility to such workflow? How can you support long-running processes by not losing the advantages of decoupling and stateless? Within this talk, I want to answer all of these questions by using the open source workflow engine Camunda BPM in live coding examples with Spring Boot and Docker. Let&#8217;s orchestrate some microservices together!</p>
+<p>&nbsp;</p>
+<p>Mensagens nas redes sociais</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">I&#39;m looking forward to meeting the Camunda guys at TDC in Brazil. Warm passionate people with fantastic ambition for digital transformation. <a href="https://t.co/gksRjz5JUi">https://t.co/gksRjz5JUi</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/927575103596089346?ref_src=twsrc%5Etfw">November 6, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Visit us at Camunda&#39;s booth at UniRitter in Porto Alegre, Brazil <a href="https://t.co/Hlz1ZjoEK2">https://t.co/Hlz1ZjoEK2</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/928240469733183488?ref_src=twsrc%5Etfw">November 8, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="pt" dir="ltr">Compartilho a minha apresentação no TDC 2017 Porto Alegre &#8211; Transformação Digital de Processos, Casos e Decisões <a href="https://t.co/NEch0txGtn">https://t.co/NEch0txGtn</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/928652779287187456?ref_src=twsrc%5Etfw">November 9, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="pt" dir="ltr">Apresentação no TDC 2017 Porto Alegre Da Modelagem à Execução de Processos, Casos e Decisões com BPMN, CMMN e DMN. <a href="https://t.co/0vnKh06XVt">https://t.co/0vnKh06XVt</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/928650625172365314?ref_src=twsrc%5Etfw">November 9, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Excellent talk about Orchestration of Microservices <a href="https://t.co/Pt1GCbMNEP">https://t.co/Pt1GCbMNEP</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/929047278949629957?ref_src=twsrc%5Etfw">November 10, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="pt" dir="ltr"><a href="https://twitter.com/felixlmueller?ref_src=twsrc%5Etfw">@felixlmueller</a> drinking chimarrão at <a href="https://twitter.com/TheDevConf?ref_src=twsrc%5Etfw">@TheDevConf</a> Porto Alegre <a href="https://t.co/1Al1Fh4L77">pic.twitter.com/1Al1Fh4L77</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/929395060734603264?ref_src=twsrc%5Etfw">November 11, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<h6>Fotos</h6>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23405864_1612468302146875_9201605140165486732_o.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1101" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23405864_1612468302146875_9201605140165486732_o-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23467440_1612522235474815_6432151480864864140_o.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1102" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23467440_1612522235474815_6432151480864864140_o-150x150.jpg" alt="" width="150" height="150" /></a>  <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_141116785.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1105" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_141116785-150x150.jpg" alt="" width="150" height="150" /></a>  <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_143548620-2.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1106" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_143548620-2-150x150.jpg" alt="" width="150" height="150" /></a></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09.jpeg"><img decoding="async" loading="lazy" class="alignnone wp-image-1148 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-1024x576.jpeg" alt="" width="700" height="394" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-1024x576.jpeg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-300x169.jpeg 300w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-768x432.jpeg 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-700x394.jpeg 700w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09.jpeg 1280w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23659636_1622468871146818_4910652465680822182_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1152" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23659636_1622468871146818_4910652465680822182_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23754887_1622468634480175_1601398265486504848_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1153" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23754887_1622468634480175_1601398265486504848_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755048_1622468814480157_3129718196897981955_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1154" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755048_1622468814480157_3129718196897981955_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755210_1622476374479401_6353956654853572672_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1155" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755210_1622476374479401_6353956654853572672_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843594_1622476534479385_3147728402139287586_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1156" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843594_1622476534479385_3147728402139287586_n-150x150.jpg" alt="" width="150" height="150" /></a><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843418_1622458484481190_3602575137496733380_n-1.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1157" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843418_1622458484481190_3602575137496733380_n-1-150x150.jpg" alt="" width="150" height="150" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Mais fotos na <a href="https://www.facebook.com/TheDevelopersConference/photos/">página do TDC no Facebook</a></p>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook.jpeg"><img decoding="async" loading="lazy" class="alignnone wp-image-1108 size-full" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook.jpeg" alt="" width="720" height="1280" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook.jpeg 720w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook-169x300.jpeg 169w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook-576x1024.jpeg 576w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook-394x700.jpeg 394w" sizes="(max-width: 720px) 100vw, 720px" /></a></p>
+<p>&nbsp;</p>
+<p>A seguir alguns links para as gravações das palestras na Trilha Stadium:</p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-2/?rdst_srcid=997745">Sprints de Experimentação: um framework para a quarta revolução industrial &#8211; Paulo Caroli</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-10/?rdst_srcid=1004866">Produtividade Ninja no Android Studio &#8211; Ramon Ribeiro Rabello</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-11/?rdst_srcid=1002011">Demystifying Cloud Foundry: What, How and Why &#8211; Lucas Rosa Cruz Reginato</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-12/?rdst_srcid=1002004">Quando é lançar antes? &#8211; Daniel Wildt</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-13/?rdst_srcid=1001977">Review, demo e apresentações, o que de fato importa para o seu produto? &#8211; Guilherme Motta</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-1/">Lições aprendidas no código fonte do Roslyn &#8211; Elemar Rodrigues Severo Junior</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-3/?rdst_srcid=995903">Utilizando Golang para minerar moedas como o Bitcoin &#8211; Felipe Teixeira</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-4/">Infraestrutura imutável com mobykit (Moby, Linuxkit e Infrakit) &#8211; Wellington Figueira da Silva</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-5/">Acessibilidade no iOS &#8211; Gabriel Oliva</a></p>
+<p><a href="https://www.eventials.com/Globalcode/events/tdconline-porto-alegre-2017-stadium/?rdst_srcid=987319">E muito mais&#8230;</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Capacitação para profissionais de BPM em várias regiões do Brasil</title>
+		<link>https://mauriciobitencourt.com/cursos/capacitacao-para-profissionais-de-bpm-em-varias-regioes-do-brasil/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2015 02:07:37 +0000</pubDate>
+				<category><![CDATA[cursos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[Modelagem de Decisões]]></category>
+		<category><![CDATA[Modelagem de Processos]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=327</guid>
+
+					<description><![CDATA[Estou ministrando treinamentos abertos em várias cidades do Brasil. Agradeço aqui a oportunidade em poder compartilhar experiências, construir conhecimento em conjunto e conhecer muitas pessoas engajadas com o gerenciamento de processos. A excelente estrutura de salas da Regus faz eu me sentir em casa nesta fase nômade. As salas tem cadeiras Herman Miller Aeron, as mais [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Estou ministrando treinamentos abertos em várias cidades do Brasil. Agradeço aqui a oportunidade em poder compartilhar experiências, construir conhecimento em conjunto e conhecer muitas pessoas engajadas com o gerenciamento de processos.</p>
+<p><span id="more-327"></span>A excelente estrutura de salas da <a href="http://www.regus.com.br/">Regus</a> faz eu me sentir em casa nesta fase nômade. As salas tem cadeiras <a title="Herman Miller Aeron" href="http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html" target="_blank">Herman Miller Aeron</a>, as mais confortáveis que eu já experimentei para que os alunos possam ter dias de capacitação muito agradáveis. A maioria das salas comportam até 15 pessoas com mesas grandes para que <em><strong>aluno e professor sejam os protagonistas do processo de aprendizagem</strong></em>: construção e reconstrução do conhecimento.</p>
+<p><a href="http://www.projeler.com.br/capacitacao_sobre.jsp" target="_blank">Conheça aqui o programa completo de capacitação.</a></p>
+<p>&nbsp;</p>
+<p>A seguir a opinião de quem já participou:</p>
+<h6>Construção da Arquitetura de Processos (CAP)</h6>
+<p><em>“O Prof. Maurício demonstra muito conhecimento adquirido ao longo dos anos e com aplicação no mercado, trazendo cases de experiências interessantes e sempre disposto a acrescentar e melhorar seu próprio material didático.”</em> – <a href="https://br.linkedin.com/pub/acelino-gehlen-da-silva/21/507/b91" target="_blank">Acelino Gehlen da Silva</a>, Diretor do Departamento de Informações e Planejamento Institucional e Procurador Educacional Institucional na UFRGS &#8211; Universidade Federal do Rio Grande do Sul</p>
+<p><em>&#8220;Excelente curso. Amplia a visão da gestão de processos para o nível da governança corporativa.&#8221;</em> – <a href="https://br.linkedin.com/pub/elza-muzi-cbpp®/21/7b0/a0b" target="_blank">Elza Muzi</a>, Gerente do Escritório de Processos do Serpro</p>
+<p><em>&#8220;O Maurício conhece profundamente o assunto, tem uma alta capacidade de transmissão deste conhecimento, o que permite que mesmo os termos mais complicados sejam bem compreendidos. Seu curso é uma importante ajuda para qualquer empresa que trata seriamente a questão de processos de negócios.&#8221;</em> – <a href="https://br.linkedin.com/pub/rafael-benghi/6b/244/a14" target="_blank">Rafael Benghi</a>, ‪Analista de Processos no Serpro</p>
+<p><em>&#8220;O curso foi de grande importância para a reciclagem de conceitos e métodos. Recomendo!!! Ao Maurício um forte abraço e meus parabéns!&#8221;</em> – <a href="https://br.linkedin.com/pub/vicente-ramos/24/60/7a0" target="_blank">Vicente Ramos</a>, Diretor da I4D</p>
+<p><a href="http://www.projeler.com.br/cap/#opiniao" target="_blank">Clique aqui para mais testemunhos e informações.</a></p>
+<h6>Modelagem de Processos e Decisões com BPMN e DMN (MPD)</h6>
+<p><em>“Treinamento interessante, com ótimo material, instrutor foi muito paciente, com vivencia de mercado nos conceitos abordados. O treinamento me ajudou a ter noção de como trazer a modelagem de regras de negócio de forma mais organizada e produtiva para os enfoques em processos”</em> – <a href="https://br.linkedin.com/pub/sandra-alvarenga-oceb-cbpp/26/861/34" target="_blank">Sandra Silva de Alvarenga, OCEB, CBPP</a>, Professora da UniCEUB &#8211; Centro Universitário de Brasília</p>
+<p><em>“O Maurício é um excelente professor, além de uma pessoa muito agradável. Sempre dispostos a ajudar e ávido em transmitir o conhecimento.”</em> – <a href="https://br.linkedin.com/pub/patrick-silva-csm-cbpp/5/969/23a/pt" target="_blank">Patrick Laurindo Silva, CSM, CBPP</a>, BPM Team Manager Automation na CDS &#8211; Condomínio de Soluções</p>
+<p><em>“No decorrer do curso percebi a importância da novidade (DMN) como boas práticas e o ganho no resultado final, modelo clean e de fácil entendimento.”</em> – <a href="https://br.linkedin.com/pub/wellington-domingues-neves/a3/1bb/576" target="_blank">Wellington Domingues Neves</a>, Assessor &#8211; Analista de Processos na Emgea – Empresa Gestora de Ativos</p>
+<p><em>“O curso é maravilhoso, me fez ter uma nova visão sobre BPMN e quebrei alguns conceitos que para mim pareciam ser concretos e fechados, mas percebi que nem tudo é do jeito que eu imaginava. Quero muito levar todo o conhecimento que adquiri para meus colegas e para o Escritório de Processos e, principalmente, levar ao conhecimento deles os conceitos sobre a notação DMN para a modelagem de decisões”</em> – Vanessa Delemare Campos, Serpro</p>
+<p><em>“Nos livros sinto falta de exemplos práticos, de situações reais. Trazer exemplos de processos, seja diagrama, mapa ou modelo, de situações reais dá uma clareada e facilita a absorção. Gostei muito do curso direcionado para a notação BPMN e, principalmente de conhecer a notação DMN. Quando não trabalhamos com automatização/automação alguns elementos mais complexos fogem da memória e o curso serviu também como reciclagem.”</em> – <a href="https://br.linkedin.com/pub/cristiane-frança-gomes-cbpp/31/42/955" target="_blank">Cristiane França Gomes, CBPP</a>, Consultora pela FAURGS na Ministério do Esporte &#8211; SNELIS</p>
+<p><em style="line-height: 1.5;">“O curso de modelagem foi de extrema importância para uma reciclagem embasada em uma nova forma de ‘enxergar’ o processo como cadeia de valor. Ao instrutor Maurício, parabéns.”</em><span style="line-height: 1.5;"> – <a href="https://br.linkedin.com/pub/vicente-ramos/24/60/7a0" target="_blank">Vicente Ramos</a>, Diretor da I4D</span></p>
+<p><em>“Gostei muito do curso, em especial da aplicabilidade prática na empresa, pois foram demonstradas situações de trabalho que vivenciamos no dia a dia corporativo.”</em> – Norma de Fátima de Lorenzi, Emgea – Empresa Gestora de Ativos</p>
+<p><em>“Maurício tem vasto conhecimento e experiência na área, além de ser um incentivador de novas técnicas. É um treinamento indispensável para quem quer evoluir na gestão de decisões e regras de negócio atreladas a processos.”</em> – <a href="https://br.linkedin.com/pub/eduardo-lóes-schroden-cbpp-scrum-itil-cobit-mba/31/6a9/312" target="_blank">Eduardo Lóes Schroden, CBPP, SCRUM, ITIL, COBIT, MBA</a>, Consultor em Projetos na Agencia Brasileira de Desenvolvimento Industrial &#8211; ABDI</p>
+<p><a href="http://www.projeler.com.br/mpd/#opiniao" target="_blank">Clique aqui para mais testemunhos e informações.</a></p>
+<div id="attachment_328" style="width: 310px" class="wp-caption alignnone"><a href="http://mauriciobitencourt.com/wp-content/uploads/2015/04/IMG_20150415_131223897_HDR.jpg"><img aria-describedby="caption-attachment-328" decoding="async" loading="lazy" class="wp-image-328 size-medium" src="http://mauriciobitencourt.com/wp-content/uploads/2015/04/IMG_20150415_131223897_HDR-300x169.jpg" alt="IMG_20150415_131223897_HDR" width="300" height="169" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/04/IMG_20150415_131223897_HDR-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2015/04/IMG_20150415_131223897_HDR-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2015/04/IMG_20150415_131223897_HDR-700x394.jpg 700w" sizes="(max-width: 300px) 100vw, 300px" /></a><p id="caption-attachment-328" class="wp-caption-text">Cursos de BPM nas salas da Regus</p></div>
+<p>&nbsp;</p>
+<h6>Confira a agenda em 2015</h6>
+<table>
+<tbody>
+<tr>
+<td><strong><a href="http://www.projeler.com.br/cbpp/" target="_blank">BPM</a></strong></td>
+<td><strong><a href="http://www.projeler.com.br/cap/" target="_blank">CAP</a></strong></td>
+<td><strong><a href="http://www.projeler.com.br/mpd/" target="_blank">MPD</a></strong></td>
+<td><a href="http://www.projeler.com.br/capacitacao_sobre.jsp" target="_blank"><strong>Cidade / Educação a Distância</strong></a></td>
+</tr>
+<tr>
+<td><a href="http://www.projeler.com.br/cbpp/" target="_blank">03/03</a></td>
+<td></td>
+<td></td>
+<td>EAD</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="http://www.projeler.com.br/cap/" target="_blank">09/03</a></td>
+<td><a href="http://www.projeler.com.br/mpd/" target="_blank">11/03</a></td>
+<td>Porto Alegre</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="http://www.projeler.com.br/cap/" target="_blank">23/03</a></td>
+<td><a href="http://www.projeler.com.br/mpd/" target="_blank">25/03</a></td>
+<td>São Paulo</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="http://www.projeler.com.br/cap/" target="_blank">13/04</a></td>
+<td><a href="http://www.projeler.com.br/mpd/" target="_blank">15/04</a></td>
+<td>Brasília</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="http://www.projeler.com.br/cap/" target="_blank">18/05</a></td>
+<td><a href="http://www.projeler.com.br/mpd/" target="_blank">20/05</a></td>
+<td>Fortaleza</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="http://www.projeler.com.br/cap/" target="_blank">08/06</a></td>
+<td><a href="http://www.projeler.com.br/mpd/" target="_blank">10/06</a></td>
+<td>Porto Alegre</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="http://www.projeler.com.br/cap/" target="_blank">22/06 </a></td>
+<td><a href="http://www.projeler.com.br/mpd/" target="_blank">24/06</a></td>
+<td>São Paulo</td>
+</tr>
+<tr>
+<td><a href="http://www.projeler.com.br/cbpp/" target="_blank">18/08</a></td>
+<td><a href="http://www.projeler.com.br/cap/" target="_blank">06/07</a></td>
+<td><a href="http://www.projeler.com.br/mpd/" target="_blank">20/07</a></td>
+<td>EAD</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="http://www.projeler.com.br/cap/" target="_blank">10/08</a></td>
+<td><a href="http://www.projeler.com.br/mpd/" target="_blank">12/08</a></td>
+<td>Brasília</td>
+</tr>
+<tr>
+<td></td>
+<td><a href="http://www.projeler.com.br/cap/" target="_blank">14/09 </a></td>
+<td><a href="http://www.projeler.com.br/mpd/" target="_blank">16/09 </a></td>
+<td>Salvador</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Webinars gratuitos</title>
+		<link>https://mauriciobitencourt.com/eventos/webinars-gratuitos/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Wed, 11 Feb 2015 10:15:23 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[ABPMP]]></category>
+		<category><![CDATA[Agilidade]]></category>
+		<category><![CDATA[Arquitetura de Processos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Capacitação]]></category>
+		<category><![CDATA[CBPA]]></category>
+		<category><![CDATA[CBPP]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[Governança]]></category>
+		<category><![CDATA[Modelagem de Decisões]]></category>
+		<category><![CDATA[Modelagem de Processos]]></category>
+		<category><![CDATA[Proposta de Valor]]></category>
+		<category><![CDATA[Valor]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=186</guid>
+
+					<description><![CDATA[Gerenciamento de Processos de Negócio (BPM) Construção da Arquitetura de Processos Modelagem de Processos e Decisões com BPMN e DMN Gerenciamento de Processos de Negócio (BPM) e as Certificações CBPP® e CBPA® da ABPMP Quarta-feira, 25 de fevereiro de 2015, às 11h http://youtu.be/dYpaHLdeask http://goo.gl/rLPe5z Clique aqui se você estiver em rede com bloqueio de acesso [&#8230;]]]></description>
+										<content:encoded><![CDATA[<ul>
+<li><a href="http://www.projeler.com.br/cbpp/" target="_blank">Gerenciamento de Processos de Negócio (BPM)</a></li>
+<li><a href="http://www.projeler.com.br/cap/" target="_blank">Construção da Arquitetura de Processos</a></li>
+<li><a href="http://www.projeler.com.br/mpd/" target="_blank">Modelagem de Processos e Decisões com BPMN e DMN</a></li>
+</ul>
+<p><span id="more-186"></span></p>
+<h5>Gerenciamento de Processos de Negócio (BPM) e as Certificações CBPP® e CBPA® da ABPMP</h5>
+<p>Quarta-feira, 25 de fevereiro de 2015, às 11h<br />
+<iframe loading="lazy" src="//www.slideshare.net/slideshow/embed_code/45133502" width="420" height="300" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe><br />
+<a href="http://youtu.be/dYpaHLdeask" target="_blank">http://youtu.be/dYpaHLdeask</a><br />
+<a href="http://pt.slideshare.net/mbitencourt/webinar-sobre-gerenciamento-de-processos-de-negcio-bpm-e-as-certificaes-cbpp-e-cbpa-da-abpmp">http://goo.gl/rLPe5z</a><br />
+<a href="https://attendee.gotowebinar.com/recording/5010077928851763970" target="_blank">Clique aqui se você estiver em rede com bloqueio de acesso a sites de compartilhamento</a><br />
+<a href="http://www.projeler.com.br/cbpp/" target="_blank">Acesse aqui o conteúdo detalhado e faça sua inscrição no curso.</a></p>
+<h5>Arquitetura de Processos</h5>
+<p>Terça-feira, 03 de março de 2015, às 11h<br />
+<iframe loading="lazy" style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/45380739" width="420" height="300" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe><br />
+<a href="https://www.youtube.com/watch?v=yKJHWa3h6g4" target="_blank">http://youtu.be/yKJHWa3h6g4</a><br />
+<a href="http://pt.slideshare.net/mbitencourt/construo-da-arquitetura-de-processos-foco-na-proposta-de-valor-governana-e-agilidade">http://goo.gl/ZuCBTO</a><br />
+<a href="https://attendee.gotowebinar.com/recording/3435600367750339586" target="_blank">Clique aqui se você estiver em rede com bloqueio de acesso a sites de compartilhamento</a><br />
+<a href="http://www.projeler.com.br/cap/" target="_blank">Acesse aqui o conteúdo detalhado e faça sua inscrição no curso.</a></p>
+<h5>Modelagem de Processos e Decisões com BPMN e DMN</h5>
+<p>Quinta-feira, 05 de março de 2015, às 11h<br />
+<iframe loading="lazy" style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/45477800" width="420" height="300" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe><br />
+<a href="http://youtu.be/01iWBF2_snE" target="_blank">http://youtu.be/01iWBF2_snE</a><br />
+<a href="http://pt.slideshare.net/mbitencourt/webinar-sobre-modelagem-processos-e-decises-com-bpmn-e-dmn" target="_blank">http://goo.gl/Qkqzum</a><br />
+<a href="https://attendee.gotowebinar.com/recording/6758744520379031297" target="_blank">Clique aqui se você estiver em rede com bloqueio de acesso a sites de compartilhamento</a><br />
+<a href="http://www.projeler.com.br/mpd/" target="_blank">Acesse aqui o conteúdo detalhado e faça sua inscrição no curso.</a></p>
+<p>Veja mais informações em: <a href="http://www.projeler.com.br/quemsomos_noticias_2015.jsp#20150210">http://goo.gl/cCZ0Nj</a></p>
+<h5>Mais de 600 inscritos</h5>
+<p>O público inscrito foi equivalente a uma edição do evento BPM Day<br />
+<a href="http://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-02-28-às-17.29.29.png"><img decoding="async" loading="lazy" class="alignright size-full wp-image-211" src="http://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-02-28-às-17.29.29.png" alt="Captura de Tela 2015-02-28 às 17.29.29" width="1072" height="663" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-02-28-às-17.29.29.png 1072w, https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-02-28-às-17.29.29-300x186.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-02-28-às-17.29.29-1024x633.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-02-28-às-17.29.29-700x433.png 700w" sizes="(max-width: 1072px) 100vw, 1072px" /></a></p>
+<h5>Compartilhamento nas redes sociais</h5>
+<p><img decoding="async" loading="lazy" class="alignright wp-image-209 size-full" src="http://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-02-27-às-11.51.08.png" alt="" width="745" height="1133" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-02-27-às-11.51.08.png 745w, https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-02-27-às-11.51.08-197x300.png 197w, https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-02-27-às-11.51.08-673x1024.png 673w, https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-02-27-às-11.51.08-460x700.png 460w" sizes="(max-width: 745px) 100vw, 745px" /><br />
+<img decoding="async" loading="lazy" class="alignright size-full wp-image-215" src="http://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-03-às-14.56.46.png" alt="Captura de Tela 2015-03-03 às 14.56.46" width="1040" height="1064" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-03-às-14.56.46.png 1040w, https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-03-às-14.56.46-293x300.png 293w, https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-03-às-14.56.46-1001x1024.png 1001w, https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-03-às-14.56.46-684x700.png 684w" sizes="(max-width: 1040px) 100vw, 1040px" /></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-06-às-14.28.46.png"><img decoding="async" loading="lazy" class="alignright size-full wp-image-254" src="http://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-06-às-14.28.46.png" alt="Captura de Tela 2015-03-06 às 14.28.46" width="802" height="1179" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-06-às-14.28.46.png 802w, https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-06-às-14.28.46-204x300.png 204w, https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-06-às-14.28.46-697x1024.png 697w, https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-06-às-14.28.46-476x700.png 476w" sizes="(max-width: 802px) 100vw, 802px" /></a><a href="http://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-06-às-10.11.08.png"><img decoding="async" loading="lazy" class="alignright size-full wp-image-251" src="http://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-06-às-10.11.08.png" alt="Captura de Tela 2015-03-06 às 10.11.08" width="770" height="787" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-06-às-10.11.08.png 770w, https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-06-às-10.11.08-294x300.png 294w, https://mauriciobitencourt.com/wp-content/uploads/2015/02/Captura-de-Tela-2015-03-06-às-10.11.08-685x700.png 685w" sizes="(max-width: 770px) 100vw, 770px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cursos Presenciais e a Distância em 2015</title>
+		<link>https://mauriciobitencourt.com/cursos/2015/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 29 Jan 2015 11:37:22 +0000</pubDate>
+				<category><![CDATA[cursos]]></category>
+		<category><![CDATA[ABPMP]]></category>
+		<category><![CDATA[Arquitetura de Processos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[CBPA]]></category>
+		<category><![CDATA[CBPP]]></category>
+		<category><![CDATA[Curso Presencial]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[EAD]]></category>
+		<category><![CDATA[Modelagem de Decisões]]></category>
+		<category><![CDATA[Modelagem de Processos]]></category>
+		<category><![CDATA[Regras de Negócio]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=87</guid>
+
+					<description><![CDATA[Processos ponta a ponta e novas técnicas Atualizei por completo nosso programa de capacitação, acrescentando técnicas inovadoras, tais como, construção da proposta de valor e notação DMN 1.0 para modelar decisões, além de, simulados e exercícios em ferramentas na nuvem. Participe dos nossos cursos e obtenha uma visão ampla e prática sobre os conceitos, técnicas [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2 class="subtitle">Processos ponta a ponta e novas técnicas</h2>
+<p style="text-align: justify;">Atualizei por completo nosso programa de capacitação, acrescentando técnicas inovadoras, tais como, construção da proposta de valor e notação DMN 1.0 para modelar decisões, além de, simulados e exercícios em ferramentas na nuvem.</p>
+<p style="text-align: left;"><span id="more-87"></span></p>
+<p style="text-align: justify;"><a href="http://www.projeler.com.br/download/projeler_folder_bpm_cap_mpd_2015_1sem.pdf"><img decoding="async" loading="lazy" class="alignright size-full wp-image-112" src="http://mauriciobitencourt.com/wp-content/uploads/2015/01/icone_pdf_80x80.png" alt="icone_pdf_80x80" width="80" height="80" /></a></p>
+<p style="text-align: justify;">Participe dos nossos cursos e obtenha uma visão ampla e prática sobre os conceitos, técnicas e tecnologias necessárias para inovar, otimizar e sustentar os resultados das transformações nas organizações.</p>
+<p style="text-align: center;"><a href="http://mauriciobitencourt.com/wp-content/uploads/2015/01/campanha201501bpm.png"><img decoding="async" loading="lazy" class="alignright size-full wp-image-92" src="http://mauriciobitencourt.com/wp-content/uploads/2015/01/campanha201501bpm.png" alt="campanha201501bpm" width="1430" height="716" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/01/campanha201501bpm.png 1430w, https://mauriciobitencourt.com/wp-content/uploads/2015/01/campanha201501bpm-300x150.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2015/01/campanha201501bpm-1024x513.png 1024w" sizes="(max-width: 1430px) 100vw, 1430px" /></a></p>
+<p style="font-family: Arial, sans-serif; text-align: center; margin-top: 12px; margin-bottom: 4px;"><a style="color: #0a78a0;" href="http://www.projeler.com.br/cbpp">Acesse aqui o conteúdo detalhado e faça sua inscrição.</a></p>
+<p style="font-family: Arial, sans-serif; text-align: center; margin-top: 12px; margin-bottom: 4px;"><a href="http://mauriciobitencourt.com/wp-content/uploads/2015/01/campanha201501cap.png"><img decoding="async" loading="lazy" class="alignright size-full wp-image-94" src="http://mauriciobitencourt.com/wp-content/uploads/2015/01/campanha201501cap.png" alt="campanha201501cap" width="1423" height="693" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/01/campanha201501cap.png 1423w, https://mauriciobitencourt.com/wp-content/uploads/2015/01/campanha201501cap-300x146.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2015/01/campanha201501cap-1024x499.png 1024w" sizes="(max-width: 1423px) 100vw, 1423px" /></a></p>
+<p style="font-family: Arial, sans-serif; text-align: center; margin-top: 12px; margin-bottom: 4px;"><a style="color: #0a78a0;" href="http://www.projeler.com.br/cap">Acesse aqui o conteúdo detalhado e faça sua inscrição.</a></p>
+<p style="font-family: Arial, sans-serif; text-align: center; margin-top: 12px; margin-bottom: 4px;"><a href="http://mauriciobitencourt.com/wp-content/uploads/2015/01/campanha201501mpd.png"><img decoding="async" loading="lazy" class="alignright size-full wp-image-95" src="http://mauriciobitencourt.com/wp-content/uploads/2015/01/campanha201501mpd.png" alt="campanha201501mpd" width="1432" height="778" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/01/campanha201501mpd.png 1432w, https://mauriciobitencourt.com/wp-content/uploads/2015/01/campanha201501mpd-300x163.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2015/01/campanha201501mpd-1024x556.png 1024w" sizes="(max-width: 1432px) 100vw, 1432px" /></a></p>
+<p style="font-family: Arial, sans-serif; text-align: center; margin-top: 12px; margin-bottom: 4px;"><a style="color: #0a78a0;" href="http://www.projeler.com.br/mpd">Acesse aqui o conteúdo detalhado e faça sua inscrição.</a></p>
+<p>&nbsp;</p>
+<h4 style="font-family: Arial, sans-serif; text-align: center; margin-top: 12px; margin-bottom: 4px;">Aulas Demonstrativas</h4>
+<p>&nbsp;</p>
+<p style="font-family: Arial, sans-serif; text-align: center; margin-top: 12px; margin-bottom: 4px;"><a title="Webinars gratuitos" href="http://mauriciobitencourt.com/eventos/webinars-gratuitos/"><img decoding="async" loading="lazy" class=" size-full wp-image-107 aligncenter" src="http://mauriciobitencourt.com/wp-content/uploads/2015/01/bpm_campanha_201411.jpg" alt="bpm_campanha_201411" width="306" height="191" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/01/bpm_campanha_201411.jpg 306w, https://mauriciobitencourt.com/wp-content/uploads/2015/01/bpm_campanha_201411-300x187.jpg 300w" sizes="(max-width: 306px) 100vw, 306px" /></a></p>
+<p>&nbsp;</p>
+<p style="font-family: Arial, sans-serif; text-align: center; margin-top: 12px; margin-bottom: 4px;"><a title="Webinars gratuitos" href="http://mauriciobitencourt.com/eventos/webinars-gratuitos/"><img decoding="async" loading="lazy" class=" size-full wp-image-108 aligncenter" src="http://mauriciobitencourt.com/wp-content/uploads/2015/01/mpd_campanha_201411.png" alt="mpd_campanha_201411" width="334" height="211" srcset="https://mauriciobitencourt.com/wp-content/uploads/2015/01/mpd_campanha_201411.png 334w, https://mauriciobitencourt.com/wp-content/uploads/2015/01/mpd_campanha_201411-300x190.png 300w" sizes="(max-width: 334px) 100vw, 334px" /></a></p>
+<h4 style="text-align: center;">Programa completo de capacitação</h4>
+<p style="text-align: justify;">No segundo semestre de 2015, teremos edições abertas dos demais treinamentos e cobrir as etapas necessárias para o sucesso de iniciativas de BPM:</p>
+<ul>
+<li>Análise, Desenho, Simulação e Emulação de Processos e Regras de Negócio</li>
+<li>Automação de Processos e Regras de Negócio com BPMS e SOA</li>
+<li>Construção do Sistema de Indicadores (KPIs / PPIs) e Gerenciamento de Desempenho de Processos com BAM</li>
+</ul>
+<p style="font-family: Arial, sans-serif; text-align: center; margin-top: 12px; margin-bottom: 4px;"><a style="color: #0a78a0;" href="http://www.projeler.com.br/capacitacao_sobre.jsp">Acesse aqui o programa completo de capacitação.</a></p>
+<section id="opcoes">
+<h4 style="text-align: center;">Opinião de quem já participou</h4>
+<p style="font-family: Arial, sans-serif; text-align: center; margin-top: 12px; margin-bottom: 4px;"><a style="color: #0a78a0;" href="http://www.projeler.com.br/quemsomos_clientes_depoimentos_4.jsp">Acesse aqui para ver os comentários de quem já participou dos nossos cursos.</a></p>
+</section>
+<p>&nbsp;</p>
+<h4 style="text-align: center;">Descontos e parcelamentos</h4>
+<p style="font-family: Arial, sans-serif; text-align: center; margin-top: 12px; margin-bottom: 4px;"><a style="color: #0a78a0;" href="http://www.projeler.com.br/download/projeler_folder_bpm_cap_mpd_2015_1sem.pdf">Acesse aqui o PDF com as condições para desconto ou parcelamento.</a><br />
+Pagamentos com cartão de crédito via PagSeguro ou PayPal podem ser parcelados em 3x sem juros ou em até 18x com juros.</p>
+<h4 style="text-align: center;">Entre em contato</h4>
+<p style="font-family: Arial, sans-serif; text-align: center; margin-top: 12px; margin-bottom: 4px;"><a style="color: #0a78a0;" href="http://www.projeler.com.br/faleconosco.jsp">Clique aqui</a> para contatar via formulário do site, <a style="color: #0a78a0;" href="https://www.linkedin.com/in/mbitencourt">LinkedIn</a> ou pelo telefone (51) 2139 5920</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Modelagem de Processos e Decisões com BPMN e DMN</title>
+		<link>https://mauriciobitencourt.com/cursos/mpd/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Sun, 02 Nov 2014 11:37:40 +0000</pubDate>
+				<category><![CDATA[cursos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[EAD]]></category>
+		<category><![CDATA[Modelagem de Decisões]]></category>
+		<category><![CDATA[Modelagem de Processos]]></category>
+		<category><![CDATA[Regras de Negócio]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1</guid>
+
+					<description><![CDATA[Construa processos de negócio mais inteligentes e eficazes, integrando o modelo de decisão. Neste curso você aprenderá técnicas poderosas para modelar graficamente processos e regras de negócio, integrando decisões previamente estabelecidas aos pontos de desvios do fluxo do processo. Com BPMN 2.0 (Business Process Model and Notation) você poderá representar claramente os processos de negócio [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2 class="subtitle" style="text-align: justify;">Construa processos de negócio mais inteligentes e eficazes, integrando o modelo de decisão.</h2>
+<p style="text-align: justify;">Neste curso você aprenderá técnicas poderosas para modelar graficamente processos e regras de negócio, integrando decisões previamente estabelecidas aos pontos de desvios do fluxo do processo.</p>
+<p style="text-align: justify;"><span id="more-1"></span></p>
+<p style="text-align: justify;"><a href="http://mauriciobitencourt.com/wp-content/uploads/2014/11/Captura-de-Tela-2014-11-02-às-17.22.06.png"><img decoding="async" loading="lazy" class="alignright size-full wp-image-17" src="http://mauriciobitencourt.com/wp-content/uploads/2014/11/Captura-de-Tela-2014-11-02-às-17.22.06.png" alt="Captura de Tela 2014-11-02 às 17.22.06" width="225" height="116" /></a></p>
+<p style="text-align: justify;">Com BPMN 2.0 (<i>Business </i><i>Process</i> <i>Model</i> <i>and</i> <i>Notation</i>) você poderá representar claramente os processos de negócio de maneira completa e precisa sobre o seu estado atual e criar uma documentação para ser utilizada como base em treinamento, comunicação, discussão, medição, análise e identificação das oportunidades de melhoria no fluxo de valor.</p>
+<p style="text-align: justify;">Com DMN 1.0 (<i>Decision</i> <i>Model</i> <i>And</i> <i>Notation</i>) você poderá transformar regras de negócio em ativos de conhecimento para construir processos de negócio mais simples, inteligentes, ágeis e inovadores.</p>
+<h3 style="text-align: justify;">Benefícios para você e sua organização</h3>
+<p style="text-align: justify;"><strong>Modelos claros e objetivos:</strong> O uso conjunto de BPMN e DMN, ricas em elementos gráficos, permitem economizar em anotações, acelerar a criação e a interpretação de processos e decisões.</p>
+<p style="text-align: justify;"><strong>Independência de ferramenta:</strong> BPMN 2.0 e DMN 1.0 Beta são modelos intercambiáveis entre diferentes ferramentas que suportam estes padrões.</p>
+<p style="text-align: justify;"><strong>Exercícios práticos:</strong> Ao término do curso o participante deverá ser capaz de representar graficamente processos e regras de negócios propostos ou existentes.<br />
+<strong>Ir além dos diagramas e mapas:</strong> Obter modelos mais ricos em detalhes para possibilitar a automação dos processos e regras de negócio.</p>
+<p style="text-align: justify;"><iframe loading="lazy" src="//www.slideshare.net/slideshow/embed_code/41553612" width="640" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p style="text-align: justify;">Assista o vídeo da aula demonstrativa no <a href="http://youtu.be/pO1VQe9RRko">YouTube</a> ou no <a href="https://drive.google.com/file/d/0B4muaSaUnRHqZWdLZHozcGg3QTQ/view?usp=sharing">Google Drive</a></p>
+<p style="text-align: justify;">Acesse <a title="Modelagem de Processos e Decisões com BPMN e DMN" href="http://www.projeler.com.br/mpd/#inscricoes">http://www.projeler.com.br/mpd/</a> para mais informações e inscrições.</p>
+<h3 style="text-align: justify;">Público-alvo</h3>
+<p style="text-align: justify;">O curso destina-se a todos aqueles que desejam conhecer as boas práticas de modelagem de processos e regras de negócio, envolvidos com questões de análise e desenho de processos; projetos de transformação com a mentalidade de fora para dentro aplicados em mapeamento de fluxo de valor e modelos da jornada do cliente; atendimento a normas de conformidade, regulatórias e acreditação; assuntos correlatos ao Gerenciamento de Processos de Negócio (BPM) e Arquitetura Corporativa (EA); profissionais de Análise de Negócio (BA) e Tecnologia da Informação (TI) envolvidos com a otimização e automação de processos (BPMS), processamento de eventos complexos (CEP), regras de negócio (BRMS) e integração com serviços (SOA).</p>
+<p style="text-align: justify;">Não há pré-requisitos.</p>
+<h3 style="text-align: justify;">Opinião de quem participou</h3>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2014/11/Captura-de-Tela-2015-03-24-às-10.36.47.png"><img decoding="async" loading="lazy" class="alignright size-full wp-image-290" src="http://mauriciobitencourt.com/wp-content/uploads/2014/11/Captura-de-Tela-2015-03-24-às-10.36.47.png" alt="Captura de Tela 2015-03-24 às 10.36.47" width="754" height="1181" srcset="https://mauriciobitencourt.com/wp-content/uploads/2014/11/Captura-de-Tela-2015-03-24-às-10.36.47.png 754w, https://mauriciobitencourt.com/wp-content/uploads/2014/11/Captura-de-Tela-2015-03-24-às-10.36.47-192x300.png 192w, https://mauriciobitencourt.com/wp-content/uploads/2014/11/Captura-de-Tela-2015-03-24-às-10.36.47-654x1024.png 654w, https://mauriciobitencourt.com/wp-content/uploads/2014/11/Captura-de-Tela-2015-03-24-às-10.36.47-447x700.png 447w" sizes="(max-width: 754px) 100vw, 754px" /></a></p>
+<p style="text-align: justify;">Fonte: <a href="https://www.linkedin.com/nhome/updates?activity=5943787005291876352" target="_blank">LinkedIn</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

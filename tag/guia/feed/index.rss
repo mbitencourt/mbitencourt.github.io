@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>guia &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/guia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Wed, 10 May 2023 17:28:38 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>guia &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Guia de Referência para Modelagem de Processos e Regras de Decisão</title>
+		<link>https://mauriciobitencourt.com/teorias/guia-de-referencia-para-modelagem-de-processos-e-regras-de-decisao/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 20 Sep 2021 13:24:48 +0000</pubDate>
+				<category><![CDATA[teorias]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[guia]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2469</guid>
+
+					<description><![CDATA[Compartilho a nova versão da Guia de Referência para modelar processos e regras de decisão com os standards BPMN 2.0 e DMN 1.3. Clique aqui para baixar o PDF da nova versão da guia. Acesse aqui a versão anterior com os standards BPMN 2.0, CMMN 1.1 e DMN 1.1 Saiba mais sobre as novas edições [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Compartilho a nova versão da Guia de Referência para modelar processos e regras de decisão com os standards BPMN 2.0 e DMN 1.3.</p>
+
+
+
+<p><a href="https://mauriciobitencourt.com/wp-content/uploads/2021/09/guia-referencia-bpmn20-dmn13-mauricio-bitencourt-v2021-09-20.pdf" target="_blank" rel="noreferrer noopener">Clique aqui para baixar o PDF da nova versão da guia.</a></p>
+
+
+
+<span id="more-2469"></span>
+
+
+
+<p><a href="https://mauriciobitencourt.com/teorias/guia-de-referencia-bpmn-cmmn-dmn">Acesse aqui a versão anterior com os standards BPMN 2.0, CMMN 1.1 e DMN 1.1</a></p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://www.roadmap.com.br/inscricoes" target="_blank">Saiba mais sobre as novas edições dos cursos da Roadmap. </a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Guia de Referência para Modelar Processos, Casos e Decisões em BPMN, CMMN e DMN</title>
+		<link>https://mauriciobitencourt.com/teorias/guia-de-referencia-bpmn-cmmn-dmn/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Wed, 29 Mar 2017 17:08:44 +0000</pubDate>
+				<category><![CDATA[teorias]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[guia]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=891</guid>
+
+					<description><![CDATA[Criei uma guia de referência para modelar processos com BPMN 2.0, casos com CMMN 1.1 e decisões com DMN 1.1 em português para distribuição grátis. Acesse aqui o arquivo PDF para você imprimir como guia em folha tamanho A3 ou como poster em folha tamanho A0. Veja aqui o post no LinkedIn. O lançamento desta guia aconteceu [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Criei uma guia de referência para modelar processos com BPMN 2.0, casos com CMMN 1.1 e decisões com DMN 1.1 em português para distribuição grátis.</p>
+<p><span id="more-891"></span></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/04/guia-referencia-poster-bpmn20-cmmn11-dmn11-mauricio-bitencourt.pdf">Acesse aqui o arquivo PDF para você imprimir como guia em folha tamanho A3 ou como poster em folha tamanho A0</a>.</p>
+<p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6255347474668544000/">Veja aqui o post no LinkedIn.</a></p>
+<p>O lançamento desta guia aconteceu no evento <a href="http://mauriciobitencourt.com/eventos/103o-forum-consad/">103º Fórum CONSAD</a> em Goiânia onde todas guias impressas em tamanho A3 foram distribuídas. Acompanhe os posts no <a href="https://www.linkedin.com/hp/update/6253566177126215680">LinkedIn</a> e no <a href="https://www.facebook.com/shares/view?id=10212448564672273">Facebook</a>.</p>
+<p>Conheça o <a href="http://www.projeler.com.br/treinamentos/index.jsp">Programa de Educação Corporativa da Projeler</a> com abordagem das técnicas e tecnologias relacionadas às notações BPMN, CMMN e DMN.</p>
+<p><div id="attachment_915" style="width: 710px" class="wp-caption alignnone"><a href="http://www.projeler.com.br/ec/"><img aria-describedby="caption-attachment-915" decoding="async" class="wp-image-915 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec-785x1024.png" alt="" width="700" height="913" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec-785x1024.png 785w, https://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec-230x300.png 230w, https://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec-768x1001.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec-537x700.png 537w, https://mauriciobitencourt.com/wp-content/uploads/2017/03/projeler-ec.png 1169w" sizes="(max-width: 700px) 100vw, 700px" /></a><p id="caption-attachment-915" class="wp-caption-text">Educação Corporativa Projeler</p></div></p>
+<p>Exemplos de ferramentas para modelagem</p>
+<table cellspacing="10">
+<tbody>
+<tr>
+<td>Ferramenta</td>
+<td>Execução</td>
+<td>BPMN</td>
+<td>CMMN</td>
+<td>DMN</td>
+</tr>
+<tr>
+<td><a href="https://camunda.org/bpmn/tool/">Camunda</a></td>
+<td>Windows, Mac e Linux</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="https://cawemo.com/">Cawemo</a></td>
+<td>Nuvem</td>
+<td>✓</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://bpmn.io/">BPMN.io</a></td>
+<td>Nuvem</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="http://www.trisotech.com/">Trisotech</a></td>
+<td>Nuvem</td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="https://www.signavio.com/">Signavio</a></td>
+<td>Nuvem</td>
+<td>✓</td>
+<td></td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="https://www.bizagi.com/">Bizagi</a></td>
+<td>Windows</td>
+<td>✓</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="http://decisionsfirst.com/">DecisionFirst</a></td>
+<td>Nuvem</td>
+<td></td>
+<td></td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="https://community.tibco.com/wiki/bpm-modeling">TIBCO</a></td>
+<td></td>
+<td>✓</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="http://oracle.com/">Oracle</a></td>
+<td></td>
+<td>✓</td>
+<td>✓</td>
+<td>✓</td>
+</tr>
+<tr>
+<td><a href="http://ibm.com/">IBM</a></td>
+<td></td>
+<td>✓</td>
+<td>✓ *</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://rapidgen.com/">Rapigen</a></td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://www.sparklinglogic.com/">Sparkling [logic]</a></td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="http://openrules.com/">OpenRule</a></td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://goldmansachs.github.io/jdmn/">jDMN</a></td>
+<td></td>
+<td></td>
+<td>✓</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>(*) ODM (Semelhante a DMN, mas proprietária da IBM)</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

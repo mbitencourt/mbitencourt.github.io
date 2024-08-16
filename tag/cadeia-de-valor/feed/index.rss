@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cadeia de Valor &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/cadeia-de-valor/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Fri, 10 Mar 2023 19:20:04 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>Cadeia de Valor &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>A importância da Gestão de Processos nas Organizações: Exemplos Práticos de Cadeia de Valor (Value Chain) e Fluxo de Valor (Value Stream)</title>
+		<link>https://mauriciobitencourt.com/eventos/eprocday2022/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 10 Nov 2022 17:54:52 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[Cadeia de Valor]]></category>
+		<category><![CDATA[EPROC]]></category>
+		<category><![CDATA[Fluxo de Valor]]></category>
+		<category><![CDATA[value chain]]></category>
+		<category><![CDATA[Value Stream]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2771</guid>
+
+					<description><![CDATA[Compartilho minha apresentação no EPROC Day Florianópolis com exemplos práticos de Cadeia de Valor, Arquitetura de Processos e Fluxo de Valor do processo ponta a ponta &#8220;Da Custódia à Reinserção Social de Indivíduo Privado de Liberdade&#8221; na SAP Secretaria de Estado da Administração Prisional e Socioeducativa de SC. Estudo de Caso da SAP Secretaria de [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Compartilho minha apresentação no EPROC Day Florianópolis com exemplos práticos de Cadeia de Valor, Arquitetura de Processos e Fluxo de Valor do processo ponta a ponta &#8220;Da Custódia à Reinserção Social de Indivíduo Privado de Liberdade&#8221; na SAP Secretaria de Estado da Administração Prisional e Socioeducativa de SC.</p>
+
+
+
+<span id="more-2771"></span>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="A importância da Gestão de Processos nas Organizações: Exemplos de Cadeia de Valor e Fluxo de Valor" width="700" height="394" src="https://www.youtube.com/embed/nqQEFTnoiFk?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Vídeo com slides da apresentação.</figcaption></figure>
+
+
+
+<div class="wp-block-file"><object class="wp-block-file__embed" data="https://mauriciobitencourt.com/wp-content/uploads/2022/11/2022-11-10-14-00-eproc-day-mauricio-bitencourt.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Incorporado de Incorporado de 2022-11-10-14-00-eproc-day-mauricio-bitencourt.."></object><a id="wp-block-file--media-4f874f5e-c7b4-41bb-84ec-4c78185338db" href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/2022-11-10-14-00-eproc-day-mauricio-bitencourt.pdf">2022-11-10-14-00-eproc-day-mauricio-bitencourt</a><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/2022-11-10-14-00-eproc-day-mauricio-bitencourt.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-4f874f5e-c7b4-41bb-84ec-4c78185338db">Baixar</a></div>
+
+
+
+<h2 class="wp-block-heading">Estudo de Caso da SAP Secretaria de Estado da Administração Prisional e Socioeducativa de SC</h2>
+
+
+
+<h3 class="wp-block-heading">Cadeia de Valor <em>(Value Chain)</em></h3>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/sap-sc-cadeia-de-valor.png"><img decoding="async" loading="lazy" width="1024" height="724" src="https://mauriciobitencourt.com/wp-content/uploads/2022/11/sap-sc-cadeia-de-valor-1024x724.png" alt="" class="wp-image-2772" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/11/sap-sc-cadeia-de-valor-1024x724.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/sap-sc-cadeia-de-valor-300x212.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/sap-sc-cadeia-de-valor-768x543.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/sap-sc-cadeia-de-valor-1536x1086.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/sap-sc-cadeia-de-valor-700x495.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/sap-sc-cadeia-de-valor.png 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Cadeia de Valor da SAP Secretaria de Estado da Administração Prisional e Socioeducativa de SC</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Arquitetura de Processos <em>(Process Architecture)</em></h3>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/SAP-Secretaria-de-Estado-da-Administração-Prisional-e-Socioeducativa-de-SC.png"><img decoding="async" loading="lazy" width="1024" height="509" src="https://mauriciobitencourt.com/wp-content/uploads/2022/11/SAP-Secretaria-de-Estado-da-Administração-Prisional-e-Socioeducativa-de-SC-1024x509.png" alt="" class="wp-image-2779" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/11/SAP-Secretaria-de-Estado-da-Administração-Prisional-e-Socioeducativa-de-SC-1024x509.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/SAP-Secretaria-de-Estado-da-Administração-Prisional-e-Socioeducativa-de-SC-300x149.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/SAP-Secretaria-de-Estado-da-Administração-Prisional-e-Socioeducativa-de-SC-768x382.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/SAP-Secretaria-de-Estado-da-Administração-Prisional-e-Socioeducativa-de-SC-1536x764.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/SAP-Secretaria-de-Estado-da-Administração-Prisional-e-Socioeducativa-de-SC-2048x1019.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/SAP-Secretaria-de-Estado-da-Administração-Prisional-e-Socioeducativa-de-SC-700x348.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Arquitetura de Processos (parcial) da SAP Secretaria de Estado da Administração Prisional e Socioeducativa de SC&nbsp;<br></figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Fluxo de Valor <em>(Value Stream)</em></h3>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/da-custodia-a-reinsercao-social-de-individuo-privado-de-liberdade.png"><img decoding="async" loading="lazy" width="1024" height="445" src="https://mauriciobitencourt.com/wp-content/uploads/2022/11/da-custodia-a-reinsercao-social-de-individuo-privado-de-liberdade-1024x445.png" alt="" class="wp-image-2774" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/11/da-custodia-a-reinsercao-social-de-individuo-privado-de-liberdade-1024x445.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/da-custodia-a-reinsercao-social-de-individuo-privado-de-liberdade-300x130.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/da-custodia-a-reinsercao-social-de-individuo-privado-de-liberdade-768x334.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/da-custodia-a-reinsercao-social-de-individuo-privado-de-liberdade-1536x667.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/da-custodia-a-reinsercao-social-de-individuo-privado-de-liberdade-2048x889.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/da-custodia-a-reinsercao-social-de-individuo-privado-de-liberdade-700x304.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>21.1 Da Custódia à Reinserção Social de Indivíduo Privado de Liberdade</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Estudo de Caso Hipotético</h2>
+
+
+
+<h3 class="wp-block-heading">Do agendamento à coleta e distribuição de sangue</h3>
+
+
+
+<h2 class="wp-block-heading">Fluxo de Valor <em>(Value Stream)</em></h2>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/2022-11-10-14-00-eproc-day-mauricio-bitencourt.png"><img decoding="async" loading="lazy" width="960" height="540" src="https://mauriciobitencourt.com/wp-content/uploads/2022/11/2022-11-10-14-00-eproc-day-mauricio-bitencourt.png" alt="" class="wp-image-2788" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/11/2022-11-10-14-00-eproc-day-mauricio-bitencourt.png 960w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/2022-11-10-14-00-eproc-day-mauricio-bitencourt-300x169.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/2022-11-10-14-00-eproc-day-mauricio-bitencourt-768x432.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/2022-11-10-14-00-eproc-day-mauricio-bitencourt-700x394.png 700w" sizes="(max-width: 960px) 100vw, 960px" /></a><figcaption>Do agendamento à coleta e distribuição de sangue</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Diagrama BPMN</h2>
+
+
+<p><iframe src="https://cawemo.com/embed/a48eda30-8325-4bda-985f-ef8d8047af40" style="width:700px;height:500px;border:1px solid #ccc" allowfullscreen=""></iframe></p>
+
+
+
+<p><a href="https://cawemo.com/share/a48eda30-8325-4bda-985f-ef8d8047af40" target="_blank" rel="noreferrer noopener">Do agendamento à coleta e distribuição de sangue</a></p>
+
+
+
+<h2 class="wp-block-heading">Diagrama DMN</h2>
+
+
+
+<p><a href="https://cawemo.com/share/d65a90d8-cee3-4a88-98a2-a2c95cd488b5" target="_blank" rel="noreferrer noopener">Requisitos básicos para a doação de sangue</a></p>
+
+
+
+<h2 class="wp-block-heading">Referências</h2>
+
+
+
+<p><a href="https://agenciaal.alesc.sc.gov.br/index.php/radioal/noticia_single_radioal/alesc-sedia-evento-de-gestaeo-realizado-pelo-governo-do-estado" target="_blank" rel="noreferrer noopener">Alesc sedia evento de gestão realizado pelo Governo do Estado</a></p>
+
+
+
+<div class="wp-block-file"><a id="wp-block-file--media-edcf9ee6-3258-44fc-b1db-f5132bb6eb2d" href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/Eproc-101122.mp3">Eproc-101122</a><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/Eproc-101122.mp3" class="wp-block-file__button" download aria-describedby="wp-block-file--media-edcf9ee6-3258-44fc-b1db-f5132bb6eb2d">Baixar</a></div>
+
+
+
+<p><a href="https://agenciaal.alesc.sc.gov.br/index.php/tval/noticia_single_tval/evento-da-destaque-para-os-processos-nos-orgaeos-publicos" target="_blank" rel="noreferrer noopener">Evento dá destaque para os processos nos órgãos públicos</a></p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=oBGRb0rDIiA&amp;t=164s" target="_blank" rel="noreferrer noopener">É Notícia &#8211; Evento dá destaque para os processos nos órgãos públicos &#8211; 10/11/22</a></p>
+
+
+
+<p><a href="https://agenciaal.alesc.sc.gov.br/index.php/noticia_single/gestores-discutem-processos-que-melhorem-e-facilitem-acesso-a-orgaeos-publi" target="_blank" rel="noreferrer noopener">Gestores discutem processos que facilitem acesso a órgãos públicos</a></p>
+
+
+
+<h2 class="wp-block-heading">Fotos do Evento</h2>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/4b091593faa78e33fccd73b130a9f493eba9e2ef.jpg"><img decoding="async" loading="lazy" width="800" height="534" src="https://mauriciobitencourt.com/wp-content/uploads/2022/11/4b091593faa78e33fccd73b130a9f493eba9e2ef.jpg" alt="" class="wp-image-2811" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/11/4b091593faa78e33fccd73b130a9f493eba9e2ef.jpg 800w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/4b091593faa78e33fccd73b130a9f493eba9e2ef-300x200.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/4b091593faa78e33fccd73b130a9f493eba9e2ef-768x513.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/4b091593faa78e33fccd73b130a9f493eba9e2ef-700x467.jpg 700w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/099bb47e674212fe8204b1dda1bf59607d1a81df.jpg"><img decoding="async" loading="lazy" width="800" height="534" src="https://mauriciobitencourt.com/wp-content/uploads/2022/11/099bb47e674212fe8204b1dda1bf59607d1a81df.jpg" alt="" class="wp-image-2812" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/11/099bb47e674212fe8204b1dda1bf59607d1a81df.jpg 800w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/099bb47e674212fe8204b1dda1bf59607d1a81df-300x200.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/099bb47e674212fe8204b1dda1bf59607d1a81df-768x513.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/099bb47e674212fe8204b1dda1bf59607d1a81df-700x467.jpg 700w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/a4ba3bedacf1bf94374ebb9cdecb9c697d50209b-1.jpg"><img decoding="async" loading="lazy" width="800" height="534" src="https://mauriciobitencourt.com/wp-content/uploads/2022/11/a4ba3bedacf1bf94374ebb9cdecb9c697d50209b-1.jpg" alt="" class="wp-image-2813" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/11/a4ba3bedacf1bf94374ebb9cdecb9c697d50209b-1.jpg 800w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/a4ba3bedacf1bf94374ebb9cdecb9c697d50209b-1-300x200.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/a4ba3bedacf1bf94374ebb9cdecb9c697d50209b-1-768x513.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/a4ba3bedacf1bf94374ebb9cdecb9c697d50209b-1-700x467.jpg 700w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/b8b851451159f307575f063aac41e5b5e8d655a6.jpg"><img decoding="async" loading="lazy" width="800" height="534" src="https://mauriciobitencourt.com/wp-content/uploads/2022/11/b8b851451159f307575f063aac41e5b5e8d655a6.jpg" alt="" class="wp-image-2814" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/11/b8b851451159f307575f063aac41e5b5e8d655a6.jpg 800w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/b8b851451159f307575f063aac41e5b5e8d655a6-300x200.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/b8b851451159f307575f063aac41e5b5e8d655a6-768x513.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/b8b851451159f307575f063aac41e5b5e8d655a6-700x467.jpg 700w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/95a8e520adde71832d80d0eb6e5e5285aee64036.jpg"><img decoding="async" loading="lazy" width="800" height="534" src="https://mauriciobitencourt.com/wp-content/uploads/2022/11/95a8e520adde71832d80d0eb6e5e5285aee64036.jpg" alt="" class="wp-image-2815" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/11/95a8e520adde71832d80d0eb6e5e5285aee64036.jpg 800w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/95a8e520adde71832d80d0eb6e5e5285aee64036-300x200.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/95a8e520adde71832d80d0eb6e5e5285aee64036-768x513.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/95a8e520adde71832d80d0eb6e5e5285aee64036-700x467.jpg 700w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/efe4086fd061bc8aa62ab324fb46c1ea9830d2a5.jpg"><img decoding="async" loading="lazy" width="800" height="534" src="https://mauriciobitencourt.com/wp-content/uploads/2022/11/efe4086fd061bc8aa62ab324fb46c1ea9830d2a5.jpg" alt="" class="wp-image-2816" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/11/efe4086fd061bc8aa62ab324fb46c1ea9830d2a5.jpg 800w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/efe4086fd061bc8aa62ab324fb46c1ea9830d2a5-300x200.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/efe4086fd061bc8aa62ab324fb46c1ea9830d2a5-768x513.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/efe4086fd061bc8aa62ab324fb46c1ea9830d2a5-700x467.jpg 700w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/1c2aea6c7f6184375e9c00aef3c6217ee5840087.jpg"><img decoding="async" loading="lazy" width="800" height="534" src="https://mauriciobitencourt.com/wp-content/uploads/2022/11/1c2aea6c7f6184375e9c00aef3c6217ee5840087.jpg" alt="" class="wp-image-2817" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/11/1c2aea6c7f6184375e9c00aef3c6217ee5840087.jpg 800w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/1c2aea6c7f6184375e9c00aef3c6217ee5840087-300x200.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/1c2aea6c7f6184375e9c00aef3c6217ee5840087-768x513.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/1c2aea6c7f6184375e9c00aef3c6217ee5840087-700x467.jpg 700w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/65054e22be19aac7705e3b4a540a7da2f7fd3d35.jpg"><img decoding="async" loading="lazy" width="800" height="534" src="https://mauriciobitencourt.com/wp-content/uploads/2022/11/65054e22be19aac7705e3b4a540a7da2f7fd3d35.jpg" alt="" class="wp-image-2818" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/11/65054e22be19aac7705e3b4a540a7da2f7fd3d35.jpg 800w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/65054e22be19aac7705e3b4a540a7da2f7fd3d35-300x200.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/65054e22be19aac7705e3b4a540a7da2f7fd3d35-768x513.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/65054e22be19aac7705e3b4a540a7da2f7fd3d35-700x467.jpg 700w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
+
+
+
+<figure class="wp-block-image size-full"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/84890fdb3a7908d55c284523391501e2a80f118d.jpg"><img decoding="async" loading="lazy" width="800" height="534" src="https://mauriciobitencourt.com/wp-content/uploads/2022/11/84890fdb3a7908d55c284523391501e2a80f118d.jpg" alt="" class="wp-image-2819" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/11/84890fdb3a7908d55c284523391501e2a80f118d.jpg 800w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/84890fdb3a7908d55c284523391501e2a80f118d-300x200.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/84890fdb3a7908d55c284523391501e2a80f118d-768x513.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/84890fdb3a7908d55c284523391501e2a80f118d-700x467.jpg 700w" sizes="(max-width: 800px) 100vw, 800px" /></a></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="É Notícia - Evento dá destaque para os processos nos órgãos públicos - 10/11/22" width="700" height="394" src="https://www.youtube.com/embed/oBGRb0rDIiA?start=164&#038;feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h2 class="wp-block-heading">Redes Sociais</h2>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6998425023883436032" height="614" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/11/post.png"><img decoding="async" loading="lazy" width="465" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2022/11/post-465x1024.png" alt="" class="wp-image-2824" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/11/post-465x1024.png 465w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/post-136x300.png 136w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/post-768x1693.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/post-697x1536.png 697w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/post-929x2048.png 929w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/post-318x700.png 318w, https://mauriciobitencourt.com/wp-content/uploads/2022/11/post.png 1794w" sizes="(max-width: 465px) 100vw, 465px" /></a><figcaption><a href="https://www.linkedin.com/feed/update/urn:li:activity:6998426781129027584/" target="_blank" rel="noreferrer noopener">https://www.linkedin.com/feed/update/urn:li:activity:6998426781129027584/</a></figcaption></figure>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://mauriciobitencourt.com/wp-content/uploads/2022/11/Eproc-101122.mp3" length="6694768" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>Construção da Cadeia de Valor e Arquitetura de Processos</title>
+		<link>https://mauriciobitencourt.com/cursos/construcao-da-cadeia-de-valor-e-arquitetura-de-processos/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Fri, 18 Mar 2022 13:48:03 +0000</pubDate>
+				<category><![CDATA[cursos]]></category>
+		<category><![CDATA[Arquitetura de Processos]]></category>
+		<category><![CDATA[Cadeia de Valor]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2519</guid>
+
+					<description><![CDATA[Mais uma excelente oportunidade de construção de conhecimento ocorreu na segunda edição do curso de 14 a 24 de fevereiro de 2022. Com a participação remota de 36 profissionais de várias regiões do Brasil de organizações públicas e empresas privadas, pudemos exercitar o design lógico de processos a partir dos ciclos de vida dos clientes, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Mais uma excelente oportunidade de construção de conhecimento ocorreu na segunda edição do curso de 14 a 24 de fevereiro de 2022. </p>
+
+
+
+<p>Com a participação remota de 36 profissionais de várias regiões do Brasil de organizações públicas e empresas privadas, pudemos exercitar o design lógico de processos a partir dos ciclos de vida dos clientes, transformando a abordagem física de processos tradicional (#<em>WinApproach / #NewMindset -&gt; #GrowthMindset</em>), afastando-se dos silos e construindo processos de ponta a ponta para impulsionar o fluxo de valor com processos simplificados.</p>
+
+
+
+<p>Que tal participar das próximas edições? Acesse o site da <a href="https://www.roadmap.com.br/vc">Roadmap</a> para saber mais sobre as novas turmas abertas ou a possibilidade de turmas fechadas #<em>InCompany</em>.</p>
+
+
+
+<p>Realizei com muito orgulho o #<a href="https://www.roadmap.com.br/ma" data-type="URL" data-id="https://www.roadmap.com.br/ma">ManifestoRoadmap</a> em mais uma edição deste curso fantástico. Saiba mais sobre o feedback dos participantes nos posts do LinkedIn a seguir.</p>
+
+
+
+<span id="more-2519"></span>
+
+
+
+<h2 class="wp-block-heading">Compartilhamento de Certificados nas Redes Sociais</h2>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Dias atrás concluí o curso de &#8216;Construção da Cadeia de Valor e Arquitetura de Processos&#8217;, uma experiência incrível, acompanhada de uma turma fantástica de profissionais da área. Meu muito obrigada ao Maurício Bitencourt pela oportunidade de &#8220;mergulhar&#8221; nesse assunto com &#8220;O Melhor&#8221;! Vasto conhecimento e experiência compartilhada fizeram desse curso uma oportunidade única e extremamente enriquecedora. &#8220;Suas decisões determinam o seu destino&#8221; &#8211; Pâmela Carine Seibert, Work Process Coach &amp; Improvement na Corteva Agriscience</p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-pamela.png"><img decoding="async" loading="lazy" width="892" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-pamela-892x1024.png" alt="" class="wp-image-2521" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-pamela-892x1024.png 892w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-pamela-261x300.png 261w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-pamela-768x882.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-pamela-1338x1536.png 1338w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-pamela-1784x2048.png 1784w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-pamela-610x700.png 610w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-pamela.png 1984w" sizes="(max-width: 892px) 100vw, 892px" /></a><figcaption class="wp-element-caption"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6910284879154794496/">https://www.linkedin.com/feed/update/urn:li:activity:6910284879154794496/</a></figcaption></figure>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Treinamento de Construção de Cadeia de Valor e Arquitetura de Processos. Obrigada mestre&nbsp;<a href="https://www.linkedin.com/in/ACoAAAAMleYBGRhtEighS7JXcLTcBO6BCsNpE6M">Maurício Bitencourt</a>&nbsp;pelos ensinamentos! &#8211; Rachel Vital, MSc, Co-Founder of KIP4YOU</p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-raquel.png"><img decoding="async" loading="lazy" width="945" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-raquel-945x1024.png" alt="" class="wp-image-2522" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-raquel-945x1024.png 945w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-raquel-277x300.png 277w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-raquel-768x832.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-raquel-1417x1536.png 1417w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-raquel-1890x2048.png 1890w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-raquel-646x700.png 646w" sizes="(max-width: 945px) 100vw, 945px" /></a><figcaption class="wp-element-caption"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6907860869263560704">https://www.linkedin.com/feed/update/urn:li:activity:6907860869263560704</a></figcaption></figure>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Recentemente concluí o curso &#8216;Construção da Cadeia de Valor e Arquitetura de Processos&#8217;. Um pouco mais de bagagem sobre Gestão de Processos de Negócios. Super recomendo os cursos ministrados pelo Maurício Bitencourt! Muito conhecimento e experiências compartilhados. Muitíssimo agradecido! &#8211; Thiago Richter Bus. Admin. Mgr. | ID&amp;E Lead | PMO &amp; Program Mgmt. | Artificial Intelligence | PhD Student, Business Administration Manager &amp; Program Leader &#8211; Customer ServicesBusiness Administration Manager &amp; Program Leader &#8211; Customer Services Corteva Agriscience.</p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-thiago.png"><img decoding="async" loading="lazy" width="945" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-thiago-945x1024.png" alt="" class="wp-image-2523" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-thiago-945x1024.png 945w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-thiago-277x300.png 277w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-thiago-768x832.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-thiago-1417x1536.png 1417w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-thiago-1890x2048.png 1890w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-thiago-646x700.png 646w" sizes="(max-width: 945px) 100vw, 945px" /></a><figcaption class="wp-element-caption"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6909329513499762688/">https://www.linkedin.com/feed/update/urn:li:activity:6909329513499762688/</a></figcaption></figure>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Excelente curso ministrado por Maurício Bitencourt, grandes aprendizados e trocas muito enriquecedoras! &#8211; Guilherme Varanauskas OKRCP | Especialista de Portfólio | Business Intelligence | UX | Produtos Digitais na PagSeguro PagBank</p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-guilherme-1.png"><img decoding="async" loading="lazy" width="966" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-guilherme-1-966x1024.png" alt="" class="wp-image-2539" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-guilherme-1-966x1024.png 966w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-guilherme-1-283x300.png 283w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-guilherme-1-768x814.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-guilherme-1-1449x1536.png 1449w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-guilherme-1-661x700.png 661w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-guilherme-1.png 1876w" sizes="(max-width: 966px) 100vw, 966px" /></a><figcaption class="wp-element-caption"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6911687725733548033/">https://www.linkedin.com/feed/update/urn:li:activity:6911687725733548033/</a></figcaption></figure>
+
+
+
+<p></p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Adquirindo e renovando conhecimentos fundamentais. Excelente curso. &#8211; Douglas Monteiro, PMP, Process Improvement Manager na PagSeguro PagBank</p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-douglas.png"><img decoding="async" loading="lazy" width="923" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-douglas-923x1024.png" alt="" class="wp-image-2540" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-douglas-923x1024.png 923w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-douglas-270x300.png 270w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-douglas-768x852.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-douglas-1384x1536.png 1384w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-douglas-1845x2048.png 1845w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-douglas-631x700.png 631w, https://mauriciobitencourt.com/wp-content/uploads/2022/03/linkedin-douglas.png 1876w" sizes="(max-width: 923px) 100vw, 923px" /></a><figcaption class="wp-element-caption"><a href="https://www.linkedin.com/feed/update/urn:li:activity:6911683059956228097/">https://www.linkedin.com/feed/update/urn:li:activity:6911683059956228097/</a></figcaption></figure>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7026865043086454784" height="554" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p></p>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7025908539382505473" height="554" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7034611983253389312" height="1627" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<blockquote class="wp-block-quote">
+<p>Em qualquer estágio da carreira profissional é sempre importante desenvolver novas competências, trocar experiências ou revisitar e customizar seu modelo mental. Nessas duas últimas semanas tive a felicidade de participar do curso Construção da Cadeia de Valor e Arquitetura de Processos (VC &#8211; VALUE CHAIN) com o competentíssimo <a href="https://www.linkedin.com/in/ACoAAAAMleYBGRhtEighS7JXcLTcBO6BCsNpE6M">Maurício Bitencourt</a> Foi uma experiência muito rica pois o conteúdo programático está totalmente alinhado ao atual Ambiente de Negócios, que incluem hiper competitividade, transformação digital, conveniência e Foco &#8220;do&#8221; Cliente. Super recomendo </p>
+</blockquote>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7040026069357215744" height="499" width="504" frameborder="0" allowfullscreen="" title="Publicação incorporada"></iframe></p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2023/03/depoimento-josias.png"><img decoding="async" loading="lazy" width="896" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2023/03/depoimento-josias-896x1024.png" alt="" class="wp-image-2911" srcset="https://mauriciobitencourt.com/wp-content/uploads/2023/03/depoimento-josias-896x1024.png 896w, https://mauriciobitencourt.com/wp-content/uploads/2023/03/depoimento-josias-262x300.png 262w, https://mauriciobitencourt.com/wp-content/uploads/2023/03/depoimento-josias-768x878.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2023/03/depoimento-josias-612x700.png 612w, https://mauriciobitencourt.com/wp-content/uploads/2023/03/depoimento-josias.png 1090w" sizes="(max-width: 896px) 100vw, 896px" /></a></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

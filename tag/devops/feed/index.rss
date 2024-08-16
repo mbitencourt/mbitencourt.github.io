@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DevOps &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/devops/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Thu, 02 Feb 2023 12:50:00 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>DevOps &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Automação de Processos com Camunda 7 e 8: Matrículas abertas!</title>
+		<link>https://mauriciobitencourt.com/cursos/automacao-de-processos-com-camunda-7-e-8-matriculas-abertas/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 12 Dec 2022 22:22:00 +0000</pubDate>
+				<category><![CDATA[cursos]]></category>
+		<category><![CDATA[BizDevOps]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[DevOps]]></category>
+		<category><![CDATA[Roadmap]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2662</guid>
+
+					<description><![CDATA[Que tal colocar a mão na massa, para ir da modelagem à execução e operações de processos ponta a ponta no estudo caso de uma Fintech hipotética? Caso você tenha se identificado com alguma destas perguntas, eu convido você a encontrar as respostas na oitava edição dos cursos da Trilha de Aprendizagem Projetar » Automatizar [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Que tal colocar a mão na massa, para ir da modelagem à execução e operações de processos ponta a ponta no estudo caso de uma Fintech hipotética?</p>
+
+
+
+<ul>
+<li>Como repensar os processos de negócio na perspectiva dos clientes para alcançar a transformação digital?</li>
+
+
+
+<li>Como promover a colaboração entre áreas de Negócio e TI na construção de produtos digitais?</li>
+
+
+
+<li>Como alcançar necessidades crescentes de regulação, velocidade, escalabilidade e resiliência?</li>
+
+
+
+<li>Como orquestrar microsserviços, monitorar e resolver problemas no contexto do diagrama de processo?</li>
+
+
+
+<li>Como resolver até mesmo automações mais complexas de ponta a ponta utilizando plataformas em nuvem?</li>
+
+
+
+<li>Como integrar desenvolvedores Low-code e Pro-code na mesma plataforma para obter velocidade e agilidade, sem abrir mão de customização e personalização de serviços aos clientes?</li>
+</ul>
+
+
+
+<span id="more-2662"></span>
+
+
+
+<p>Caso você tenha se identificado com alguma destas perguntas, eu convido você a encontrar as respostas na oitava edição dos cursos da Trilha de Aprendizagem Projetar » Automatizar » Otimizar em <a href="https://www.roadmap.com.br/" target="_blank" rel="noreferrer noopener">https://www.roadmap.com.br/</a></p>
+
+
+
+<p>Começaremos no dia 13 de março, de segunda a quinta-feira das 19h às 21h. Cada módulo terá oito aulas ao vivo de conteúdo e exercícios práticos na plataforma Camunda 7 e 8.</p>
+
+
+
+<div class="wp-block-group is-vertical is-layout-flex wp-container-1">
+<p>Biz – 13 a 23/03/2023<br><a href="https://www.roadmap.com.br/pd"><strong>Design de Processos e Regras de Decisão com Modelos Executáveis</strong></a><br><em>Construa processos de negócio mais inteligentes e eficazes, usando os Standards de BPM.</em></p>
+
+
+
+<p>Dev &#8211; 03 a 13/04/2023<br><strong><a href="https://www.roadmap.com.br/pa">Desenvolvimento com Standards de BPM em Motores de Processos e Regras de Decisão</a></strong><br><em>Obtenha a agilidade, visibilidade e escalabilidade necessárias para alcançar a transformação digital.</em></p>
+</div>
+
+
+
+<p>Ops – 17 a 27/03/2023<br><strong><a href="https://www.roadmap.com.br/omhttps://www.roadmap.com.br/om">Operações e Monitoramento da Execução de Processos Automatizados</a></strong><br><em>Saiba como operar e monitorar fluxos de trabalho e decisões automatizadas em produção para garantir segurança, analisar e resolver problemas técnicos.</em></p>
+
+
+
+<p>Sem pré-requisitos. Não será necessário o conhecimento prévio de uma linguagem de programação, notação ou ferramenta. Os exercícios práticos serão aplicados nas ferramentas livres da Camunda. O conhecimento técnico de BizDevOps será gradual do básico ao avançado, para profissionais de áreas de negócio e desenvolvedores.</p>
+
+
+
+<p>Para cada inscrito, forneceremos acesso grátis e imediato ao curso de modelagem de processos e regras de decisão (16h) assíncrono para nivelamento e aquecimento.</p>
+
+
+
+<p>Curso remoto ao vivo, gravações e atividades assíncronas, vagas limitadas.</p>
+
+
+
+<p><strong><a href="https://www.roadmap.com.br/in">Descontos especiais dos lotes antecipados e combo da Trilha de Aprendizagem Projetar » Automatizar » Otimizar.</a></strong></p>
+
+
+<p><iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6990263310470275072" height="614" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6992818301231874048" height="764" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7025908539382505473" height="554" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7026865043086454784" height="554" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

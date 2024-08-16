@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Creditas &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/creditas/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Tue, 01 Oct 2019 13:13:42 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>Creditas &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Camunda Meetup São Paulo #2</title>
+		<link>https://mauriciobitencourt.com/eventos/camunda-meetup-sao-paulo-2/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 26 Sep 2019 12:04:51 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[Creditas]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[meetup]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1704</guid>
+
+					<description><![CDATA[Temos o prazer de anunciar o nosso segundo encontro de usuários Camunda em São Paulo no dia 24 de setembro de 2019 das 19h às 21h na Creditas.
+
+18h30 Welcome coffee
+
+19h00 Boas vindas, por Regis Hattori, Software Engineer na Creditas e Stephan Aina, Head of International Sales na Camunda
+
+19h30 Estudo de Caso: Da validação a maturidade de processos, como medir e controlar suas hipóteses de negócios, por Leonardo Salles, Líder de Process Hacking na Creditas
+
+20h00 Novidades do evento CamundaCon que aconteceu neste mês em Berlim, por Maurício Bitencourt
+
+20h30 Lanches, bebidas e networking
+
+21h00 Encerramento]]></description>
+										<content:encoded><![CDATA[
+<p><p>No dia 24 de setembro ocorreu a segunda edição do Camunda Meetup no Brasil. O evento ocorreu na sede da Creditas, o mais novo cliente Enterprise Edition da Camunda no Brasil.</p><span id="more-1704"></span><br></p>
+
+
+
+<h2 class="wp-block-heading">Boas vindas da Creditas</h2>
+
+
+
+<p>Felipe Albuquerque apresentou as boas vindas aos participantes do Meetup e demonstrou o propósito da Creditas para oferecer produtos financeiros menos tóxicos aos clientes.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h00-camunda-meetup-sao-paulo-2-felipe-albuquerque-1.mp3"></audio><figcaption>Felipe Albuquerque</figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" width="1024" height="576" src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_190844-1024x576.jpg" alt="" class="wp-image-1714" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_190844-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_190844-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_190844-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_190844-700x394.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A Creditas está contratando em <a href="https://jobs.kenoby.com/creditas/">https://jobs.kenoby.com/creditas/</a><br></figcaption></figure>
+
+
+
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2019/10/2019-09-24-19h00-camunda-meetup-sao-paulo-2-felipe-albuquerque.pdf">Clique aqui para fazer o download os slides da apresentação em PDF.</a></p>
+
+
+
+<h2 class="wp-block-heading">Da validação a maturidade: Como medir e controlar suas hipóteses de negócios.</h2>
+
+
+
+<p>Leonardo Salles apresentou o estudo de caso da Creditas utilizando Camunda para automação de processos e decisões com orquestração de microsserviços.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h10-camunda-meetup-sao-paulo-2-leonardo-salles.mp3"></audio><figcaption>Leonardo Salles</figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="471" src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193229-1024x471.jpg" alt="" class="wp-image-1713" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193229-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193229-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193229-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193229-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Questionamentos sobre os motivos da escolha da Creditas por Camunda</figcaption></figure>
+
+
+
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h00-camunda-meetup-sao-paulo-2-creditas-leonardo-salles.pdf">Clique aqui para fazer o download os slides da apresentação em PDF.</a></p>
+
+
+
+<h2 class="wp-block-heading">Best Practices for introducing Camunda</h2>
+
+
+
+<p>Stephan Aina apresentou a atuação da Camunda ao redor do globo e boas práticas para iniciar a utilização do Camunda Community Edition e a migração natural para serviços de suporte e funcionalidades extras da Enterprise Edition.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h30-camunda-meetup-sao-paulo-2-stephan-aina-a.mp3"></audio><figcaption>Stephan Aina 1/2</figcaption></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h30-camunda-meetup-sao-paulo-2-stephan-aina-b.mp3"></audio><figcaption>Stephan Aina 2/2</figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="471" src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193739-1024x471.jpg" alt="" class="wp-image-1712" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193739-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193739-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193739-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/IMG_20190924_193739-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Atuação da Camunda ao redor do globo.</figcaption></figure>
+
+
+
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h30-camunda-meetup-sao-paulo-2-creditas-stephan-aina.pdf">Clique aqui para fazer o download da apresentação em PDF.</a></p>
+
+
+
+<h2 class="wp-block-heading">Cobertura do Evento CamundaCon 2019 em Berlim</h2>
+
+
+
+<p>Maurício Bitencourt e Leonardo Sales apresentaram alguns tópicos sobre as experiências vivenciadas no evento CamundaCon e estimularam os participantes do Meetup a participar com questionamento sobre o roadmap dos produtos e práticas vivenciadas no evento em Berlim de 12 a 13 de setembro de 2019.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-a.mp3"></audio><figcaption>Maurício Bitencourt 1/4</figcaption></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-b.mp3"></audio><figcaption>Maurício Bitencourt 2/4</figcaption></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-c.mp3"></audio><figcaption>Maurício Bitencourt 3/4</figcaption></figure>
+
+
+
+<figure class="wp-block-audio"><audio controls src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-d.mp3"></audio><figcaption>Maurício Bitencourt 4/4</figcaption></figure>
+
+
+
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="1024" height="597" src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/Captura-de-Tela-2019-09-26-às-11.19.56-1024x597.png" alt="" class="wp-image-1715" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/09/Captura-de-Tela-2019-09-26-às-11.19.56-1024x597.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/Captura-de-Tela-2019-09-26-às-11.19.56-300x175.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/Captura-de-Tela-2019-09-26-às-11.19.56-768x448.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/Captura-de-Tela-2019-09-26-às-11.19.56-700x408.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/Captura-de-Tela-2019-09-26-às-11.19.56.png 1326w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Imagens do evento CamundaCon 2019</figcaption></figure>
+
+
+
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-creditas-mauricio-bitencourt.pdf">Clique aqui para fazer download da apresentação em PDF</a></p>
+
+
+
+<h2 class="wp-block-heading">Referências</h2>
+
+
+
+<p><a href="https://www.youtube.com/user/mbitencourt/">Canal de Maurício Bitencourt no YouTube com a cobertura de eventos</a></p>
+
+
+
+<p><a href="https://techbeacon.com/enterprise-it/can-open-source-camunda-disrupt-b">Artigo: Can open-source Camunda disrupt the BPMS market?</a></p>
+
+
+
+<p><a href="https://www.youtube.com/playlist?list=PLJG25HlmvsOWvVjF44qr5-xXG--cCuXnn&amp;utm_content=101741376&amp;utm_medium=social&amp;utm_source=twitter&amp;hss_channel=tw-1246607455">Playlist CamundaCon 2019 no YouTube</a></p>
+
+
+
+<p><a href="https://www.slideshare.net/camunda/presentations">Apresentações do CamundaCon no SlideShare</a></p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=iYYX53bzXpY">Apresentação da Fundacred no BPM Day 2016: Transformação Digital na Gestão de Crédito por Nivio Junior Lewis Delgado e Jonas Queiroz Flach</a></p>
+
+
+
+<p><a href="http://mauriciobitencourt.com/eventos/camunda-meetup-em-sao-paulo/">Standards de BPM para governança no tratamento de dados pessoais, em conformidade com o Regulamento Geral de Proteção de Dados UE (GDPR) e Lei Geral de Proteção de Dados BR (LGPD) por Nivio Junior Lewis Delgado no primeiro Camunda Meetup São Paulo</a></p>
+
+
+
+<p><a href="http://www.projeler.com.br/workshop/index.jsp">Hands-On-Workshop para Modelar » Simular » Executar » Otimizar Processos, Casos e Decisões</a></p>
+
+
+
+<p><a href="http://mauriciobitencourt.com/eventos/ciab-febraban-2018/#more-1431">Lançamento do App Sicredi Woop no CIAB FEBRABAN 2018</a></p>
+
+
+
+<p><a href="https://blog.camunda.com/post/2019/09/camundacon-agility-innovation-and-bpmn/">CamundaCon 2019 &#8211; Agility, Innovation and BPMN</a></p>
+
+
+
+<h2 class="wp-block-heading">Mensagens nas redes sociais</h2>
+
+
+
+<h4 class="wp-block-heading">Meetup</h4>
+
+
+
+<figure class="wp-block-image"><a href="https://www.meetup.com/pt-BR/Camunda-User-Group-Brazil/" target="_blank" rel="noreferrer noopener"><img decoding="async" loading="lazy" width="233" height="300" src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/meetup-233x300.png" alt="" class="wp-image-1757" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/09/meetup-233x300.png 233w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/meetup-768x991.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/meetup-794x1024.png 794w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/meetup-543x700.png 543w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/meetup.png 1104w" sizes="(max-width: 233px) 100vw, 233px" /></a><figcaption>Camunda User Group Brazil</figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">WhatsApp</h4>
+
+
+
+<figure class="wp-block-image"><img decoding="async" loading="lazy" width="225" height="300" src="http://mauriciobitencourt.com/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-25-at-09.57.40-225x300.jpeg" alt="" class="wp-image-1755" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-25-at-09.57.40-225x300.jpeg 225w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-25-at-09.57.40-768x1024.jpeg 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-25-at-09.57.40-525x700.jpeg 525w, https://mauriciobitencourt.com/wp-content/uploads/2019/09/WhatsApp-Image-2019-09-25-at-09.57.40.jpeg 960w" sizes="(max-width: 225px) 100vw, 225px" /><figcaption>&#8220;O Stephan Aina me presenteou com o livro no final do encontro.&#8221;, via grupo no WhatsApp</figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">LinkedIn</h4>
+
+
+
+<iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6580205418365100033" height="481" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
+
+<iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6582610913772257280" height="598" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+]]></content:encoded>
+					
+		
+		<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h00-camunda-meetup-sao-paulo-2-felipe-albuquerque-1.mp3" length="0" type="audio/mpeg" />
+<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h10-camunda-meetup-sao-paulo-2-leonardo-salles.mp3" length="0" type="audio/mpeg" />
+<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h30-camunda-meetup-sao-paulo-2-stephan-aina-a.mp3" length="0" type="audio/mpeg" />
+<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-19h30-camunda-meetup-sao-paulo-2-stephan-aina-b.mp3" length="0" type="audio/mpeg" />
+<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-a.mp3" length="0" type="audio/mpeg" />
+<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-b.mp3" length="0" type="audio/mpeg" />
+<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-c.mp3" length="0" type="audio/mpeg" />
+<enclosure url="http://mauriciobitencourt.com/wp-content/uploads/2019/09/2019-09-24-20h00-camunda-meetup-sao-paulo-2-mauricio-bitencourt-d.mp3" length="0" type="audio/mpeg" />
+
+			</item>
+	</channel>
+</rss>

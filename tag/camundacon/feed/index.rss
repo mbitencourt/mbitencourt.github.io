@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CamundaCon &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/camundacon/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Tue, 25 Oct 2022 16:30:26 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>CamundaCon &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>CamundaCon 2022</title>
+		<link>https://mauriciobitencourt.com/eventos/camundacon-2022/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 17:55:51 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[CamundaCon]]></category>
+		<category><![CDATA[Zeebe]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2614</guid>
+
+					<description><![CDATA[Cobertura do evento CamundaCon 2022 em Berlim]]></description>
+										<content:encoded><![CDATA[
+<p>Foi uma satisfação participar novamente do evento CamundaCon pessoalmente em Berlim. Registro aqui algumas fotos e posts para compartilhar com a comunidade de usuários Camunda no Brasil. Acesse a tag <em>#camundacon</em> no <a href="https://www.linkedin.com/feed/hashtag/?keywords=camundacon" target="_blank" rel="noreferrer noopener">LinkedIn</a> ou no <a href="https://twitter.com/search?q=camundacon">Twitter</a> para muito mais.</p>
+
+
+
+<span id="more-2614"></span>
+
+
+<p><iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6983415296560640000" height="386" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+
+<h1 class="wp-block-heading">Community Hackday 2022</h1>
+
+
+
+<p>Um dia antes do evento, <a rel="noreferrer noopener" href="https://www.linkedin.com/in/nialldeehan/" target="_blank">Niall Deehan</a> e <a rel="noreferrer noopener" href="https://www.linkedin.com/in/nele-uhlemann-268b68191/https://www.linkedin.com/in/nele-uhlemann-268b68191/" target="_blank">Nele Uhlemann</a> organizam o Hackday da Comunidade Camunda, um evento gratuito a todos que gostam de experimentar as tecnologias da Camunda, independentemente do nível de experiência. É uma boa oportunidade para ir o escritório da Camunda em Berlim para botar a mão na massa com pessoas de várias regiões do mundo.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_160557-1-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_160557-1-1024x471.jpg" alt="" class="wp-image-2635" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_160557-1-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_160557-1-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_160557-1-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_160557-1-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_160557-1-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_160557-1-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Neste ano todas as implementações foram realizadas no Camunda 8 na nuvem. </figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_165827-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_165827-1024x471.jpg" alt="" class="wp-image-2634" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_165827-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_165827-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_165827-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_165827-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_165827-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_165827-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Anúncio dos vencedores.</figcaption></figure>
+
+
+
+<h1 class="wp-block-heading">Primeiro Dia do Evento</h1>
+
+
+
+<p><a href="https://page.camunda.com/camundacon-2022-on-demand">Clique aqui para assistir a gravação das apresentações e ver as fotos do evento</a>.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/day1.png"><img decoding="async" loading="lazy" width="894" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/day1-894x1024.png" alt="" class="wp-image-2650" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/day1-894x1024.png 894w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/day1-262x300.png 262w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/day1-768x880.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/day1-1341x1536.png 1341w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/day1-1788x2048.png 1788w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/day1-611x700.png 611w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/day1.png 1886w" sizes="(max-width: 894px) 100vw, 894px" /></a><figcaption><a href="https://page.camunda.com/camundacon-2022-on-demand" target="_blank" rel="noreferrer noopener">On-Demand Recordings CamundaCon 2022 The Process Orchestration Conference &#8211; Day 1</a></figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">The Process Orchestration Handbook</h3>
+
+
+
+<p>Recebi no credenciamento do evento o <a href="https://camunda.com/process-orchestration/">The Process Orchestration Handbook</a>, um excelente material impresso com uma linguagem simples e direta. </p>
+
+
+
+<p>O Manual de Orquestração de Processos da Camunda aborda os tópicos:</p>
+
+
+
+<ul><li>Defina a orquestração de processos e porque ela é importante.</li><li>Entenda o que você precisa para uma orquestração de processos bem-sucedida.</li><li>Conheça alguns exemplos do mundo real.</li><li>Entenda como funciona um orquestrador de processo universal.</li></ul>
+
+
+
+<div class="wp-block-file"><object class="wp-block-file__embed" data="https://mauriciobitencourt.com/wp-content/uploads/2022/10/camunda-the-process-orchestration-handbook.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Incorporado de Incorporado de camunda-the-process-orchestration-handbook.."></object><a id="wp-block-file--media-f102ed4c-4ea1-45fb-af63-9f1c7863ee00" href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/camunda-the-process-orchestration-handbook.pdf">camunda-the-process-orchestration-handbook</a><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/camunda-the-process-orchestration-handbook.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-f102ed4c-4ea1-45fb-af63-9f1c7863ee00">Baixar</a></div>
+
+
+
+<h2 class="wp-block-heading">Opening Keynote com Jakob Freund</h2>
+
+
+
+<p>Tradicionalmente o primeiro dia é aberto por <a href="https://www.linkedin.com/in/jakob-freund-camunda/" target="_blank" rel="noreferrer noopener">Jakob Freund</a> trazendo conceitos de BPM com o entendimento da Camunda e exemplos de estudos de caso que aplicaram na prática que serão apresentados durante o evento.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132724-1-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132724-1-1024x471.jpg" alt="" class="wp-image-2680" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132724-1-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132724-1-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132724-1-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132724-1-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132724-1-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132724-1-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>Recomendo acessar a página com a gravação e acesso ao PDF da apresentação <a rel="noreferrer noopener" href="https://page.camunda.com/camundacon-2022-on-demand" target="_blank">neste link</a>.</p>
+
+
+
+<h2 class="wp-block-heading">&#8220;Abraçar a Complexidade&#8221;</h2>
+
+
+
+<p>Eu trabalho com plataformas de automação de processos desde 2006, mas quando eu comecei a trabalhar com a plataforma da Camunda em 2015, percebi o respeito pelos padrões, a cobertura de quase 100% de todos os elementos dos standards de BPM que permitem uma cobertura dos padrões mais complexos e, principalmente, implementar resiliência e resolver problemas no contexto do diagrama.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133214-1-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133214-1-1024x471.jpg" alt="" class="wp-image-2681" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133214-1-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133214-1-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133214-1-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133214-1-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133214-1-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133214-1-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">Colaboração</h3>
+
+
+
+<p>Desde o lançamento do Cawemo há uns cinco anos, a Design Colaborativo é um dos pontos fortes da solução, permitindo colaboração de times multidisciplinares nos diferentes níveis de detalhe dos diagramas de processo nos padrões ABPMP BPM CBOK / OMG OCEB: </p>
+
+
+
+<ul><li>Modelagem (AS-IS) &#8211; Diagrama / Nível Descritivo;</li><li>Design (TO-BE) &#8211; Mapa / Nível Analítico;</li><li>Automação (TO-RUN) Modelo / Nível Executável.</li></ul>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133407-1-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133407-1-1024x471.jpg" alt="" class="wp-image-2687" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133407-1-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133407-1-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133407-1-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133407-1-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133407-1-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_133407-1-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">Pro-Code e Low-Code</h3>
+
+
+
+<p>Os conectores são sem dúvida, o ponto onde fica evidente os tipos de desenvolvedores (Pro-Code/Low-Code). Pude obter um entendimento claro da Camunda quanto a este tema.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_135722-1-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_135722-1-1024x471.jpg" alt="" class="wp-image-2688" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_135722-1-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_135722-1-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_135722-1-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_135722-1-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_135722-1-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_135722-1-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">Networking</h3>
+
+
+
+<p>O evento presencial é fantástico porque proporciona acesso direto às pessoas ligadas ao roadmap e engenharia da plataforma. O pessoal é superacessível e muito receptivo a feedback construtivo.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-12-at-11.14.04.jpeg"><img decoding="async" loading="lazy" width="1024" height="640" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-12-at-11.14.04-1024x640.jpeg" alt="" class="wp-image-2628" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-12-at-11.14.04-1024x640.jpeg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-12-at-11.14.04-300x188.jpeg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-12-at-11.14.04-768x480.jpeg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-12-at-11.14.04-700x438.jpeg 700w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-12-at-11.14.04.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Trocando ideias com <a href="https://www.linkedin.com/in/bernd-ruecker/" target="_blank" rel="noreferrer noopener">Bernd Ruecker</a> sobre o uso de Process e Task Mining no Brasil durante a apresentação do Jakob Freund. Foto: <a rel="noreferrer noopener" href="https://page.camunda.com/hubfs/CamundaCon2022-photos/Day%201/0449-CamundaCON-10-2022.jpg" target="_blank">site da Camunda</a></figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Acesso ao que há de mais atual em Orquestração de Processos</h3>
+
+
+
+<p>É muito bom viajar para a Europa novamente, conhecer pessoas incríveis na mesma área de atuação e rever locais grandes lotados de pessoas.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132019-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132019-1024x471.jpg" alt="" class="wp-image-2701" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132019-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132019-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132019-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132019-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132019-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221005_132019-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">Live de cobertura do evento CamundaCon 2022 direto de Berlim &#8211; Dia 1</h3>
+
+
+
+<p>Encontrei brasileiros que estão colocando a mão na massa e fazendo a diferença na plataforma. Assista ao bate-papo descontraído com <a href="https://www.linkedin.com/in/giuliano-r-lima-36a973114/" target="_blank" rel="noreferrer noopener">Giuliano R. Lima</a>, Senior Software Engineer na Camunda em Berlim.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Cobertura do evento CamundaCon 2022 direto de Berlim - Dia 1" width="700" height="394" src="https://www.youtube.com/embed/cIYcHK21S9g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h1 class="wp-block-heading">Segundo Dia do Evento</h1>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/day2.png"><img decoding="async" loading="lazy" width="896" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/day2-896x1024.png" alt="" class="wp-image-2651" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/day2-896x1024.png 896w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/day2-263x300.png 263w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/day2-768x878.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/day2-1344x1536.png 1344w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/day2-1792x2048.png 1792w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/day2-613x700.png 613w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/day2.png 1890w" sizes="(max-width: 896px) 100vw, 896px" /></a><figcaption><a href="https://page.camunda.com/camundacon-2022-on-demand" target="_blank" rel="noreferrer noopener">On-Demand Recordings CamundaCon 2022 The Process Orchestration Conference &#8211; Day 2</a></figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Opening Keynote com Bernd Ruecker &amp; Daniel Meyer</h2>
+
+
+
+<p>Tradicionalmente, o segundo dia inicial com <a href="https://www.linkedin.com/in/bernd-ruecker/" target="_blank" rel="noreferrer noopener">Bernd Ruecker</a> e <a href="https://www.linkedin.com/in/daniel-meyer-a7713953/" target="_blank" rel="noreferrer noopener">Daniel Meyer</a> apresentando as novidades técnicas da plataforma e o direcionamento do roadmap. A seguir, algumas fotos minhas comentadas. <br>Recomendo acessar a página com a gravação e acesso ao PDF da apresentação <a rel="noreferrer noopener" href="https://page.camunda.com/camundacon-2022-on-demand" target="_blank">neste link</a>.</p>
+
+
+
+<h3 class="wp-block-heading">Process Orchestration for every endpoint</h3>
+
+
+
+<p>Integrações intuitivas e conectividade universal para a orquestração de processos para cada ponto é o grande diferencial da plataforma. Conectores prontos para uso permitem integrações simples, intuitivas e reutilizáveis para conectar-se a qualquer coisa, desde bots de RPA, IA ou serviços de IoT a CRM, ERP, sistemas de BI, plataformas de mensagens e sistemas legados. Além disso tudo, ter a liberdade de desenvolver os conectores personalizados e reutilizáveis usando sua linguagem de programação que preferir. </p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132402-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132402-1024x471.jpg" alt="" class="wp-image-2673" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132402-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132402-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132402-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132402-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132402-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132402-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">Connectors</h3>
+
+
+
+<p>O <a rel="noreferrer noopener" href="https://github.com/camunda/connectors-bundle" target="_blank">Camunda 8 Connectors Bundle</a> configurados na plataforma, tais como, J<em>ob Worker Runtime, AWS Lambda Connector, Google Drive Connector, HTTP JSON Connector (REST), SendGrid Connector, Slack Connector, SQS Connector</em>, dentre outros, estão sendo o foco da Camunda para atrair os usuários de Negócio low-code. A apresentação simulou um Connector Development implementando em Java para ser disponibilizado aos usuários de negócio com pouco código (<em>low-code</em>). Estes mesmos <em>Element Templates</em> já podem ser utilizados no modelador Desktop para desenvolvimento e testes de homologação <em>self-managed</em> (<em>on-premises</em>) antes de colocar em produção na nuvem.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132432-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132432-1024x471.jpg" alt="" class="wp-image-2672" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132432-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132432-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132432-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132432-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132432-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_132432-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">Web Modeler</h3>
+
+
+
+<p>Cada vez mais as funcionalidades do modelador Desktop estão migrando para o modelador Web herdando também as boas características do Cawemo.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133853-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133853-1024x471.jpg" alt="" class="wp-image-2670" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133853-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133853-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133853-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133853-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133853-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133853-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">Token Simulation</h3>
+
+
+
+<p>Agora o famoso plugin para simulação vem <em>out of the box </em>no modelador web e com melhorias.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133921-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133921-1024x471.jpg" alt="" class="wp-image-2669" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133921-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133921-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133921-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133921-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133921-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_133921-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">FEEL Editor</h3>
+
+
+
+<p>Estou muito contente com a padronização na linguagem <em>Friendly Enough Expression Language </em>(FEEL) para as expressões de diagramas de processos em BPMN (<em>Business Process Model and Notation</em>), a mesma utilizada nas tabelas de decisão em DMN (<em>Decision Model and Notation</em>). Agora com um editor FEEL diretamente na plataforma web eu já estou pensando em abandonar o VSCode que eu usava para scripts em JavaScript e Python.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134112-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134112-1024x471.jpg" alt="" class="wp-image-2668" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134112-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134112-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134112-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134112-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134112-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134112-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">Coming soon: Data Schemas</h3>
+
+
+
+<p>Nos meus cursos da <a href="https://www.roadmap.com.br/">Roadmap»</a> eu sempre me menciono que Algorítimos e Estruturas de Dados são a base para qualquer automação de processos e regras de decisão. O Camunda já combinava bem os standards de BPM (BPMN e DMN) com estruturas de dados. Acredito que teremos surpresas positivas neste ponto nas próximas versões da plataforma.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134151-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134151-1024x471.jpg" alt="" class="wp-image-2667" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134151-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134151-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134151-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134151-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134151-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134151-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">The Next Idea: Interactive Debugging</h3>
+
+
+
+<p>É realmente impressionante como a plataforma está cada vez mais fácil de usar. Eu particularmente gosto muito de utilizar scripts em vez de classes Java.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134223-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134223-1024x471.jpg" alt="" class="wp-image-2666" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134223-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134223-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134223-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134223-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134223-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134223-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">Low-code Form Builder</h3>
+
+
+
+<p>A versão 8.1 da plataforma será lançada em breve com boas novidades no editor de formulários para os usuários de negócio.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134426-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134426-1024x471.jpg" alt="" class="wp-image-2657" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134426-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134426-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134426-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134426-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134426-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221006_134426-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h2 class="wp-block-heading">A Truly Hybrid Event</h2>
+
+
+
+<p>O evento realmente foi híbrido, com uma TV na vertical para interagir com os palestrantes presentes no palco. Uma inovação pós-pandemia que veio para ficar.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/realmente-hibridas.png"><img decoding="async" loading="lazy" width="1024" height="584" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/realmente-hibridas-1024x584.png" alt="" class="wp-image-2652" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/realmente-hibridas-1024x584.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/realmente-hibridas-300x171.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/realmente-hibridas-768x438.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/realmente-hibridas-1536x876.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/realmente-hibridas-2048x1169.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/realmente-hibridas-700x399.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Excelente painel sobre Escritórios de Automação de Processos com um integrante remoto na TV ao lado dos demais.</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Camunda Champion Program</h3>
+
+
+
+<p>Participei da transmissão de 10 minutos no intervalo com <a rel="noreferrer noopener" href="https://www.linkedin.com/in/jan-galinski-331b3086/" target="_blank">Jan Galinski</a>, <a rel="noreferrer noopener" href="https://www.linkedin.com/in/markus-stahl-47385134/" target="_blank">Markus Stahl</a>, <a rel="noreferrer noopener" href="https://www.linkedin.com/in/marythengvall/" target="_blank">Mary Thengvall</a> e <a rel="noreferrer noopener" href="https://www.linkedin.com/in/luca-celine-buchholz-99829983/" target="_blank">Luca Celine Buchholz</a> para compartilhar experiências como Camunda Champion com o público remoto e incentivar mais pessoas para entrar no nosso time.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/2324-CamundaCON-10-2022-scaled.webp"><img decoding="async" loading="lazy" width="1024" height="683" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/2324-CamundaCON-10-2022-1024x683.webp" alt="" class="wp-image-2627" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/2324-CamundaCON-10-2022-1024x683.webp 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/2324-CamundaCON-10-2022-300x200.webp 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/2324-CamundaCON-10-2022-768x512.webp 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/2324-CamundaCON-10-2022-1536x1024.webp 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/2324-CamundaCON-10-2022-2048x1365.webp 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/2324-CamundaCON-10-2022-700x467.webp 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Participei da entrevista com os Camunda Champions para o público online no intervalo do evento. Foto: <a rel="noreferrer noopener" href="https://page.camunda.com/hubfs/CamundaCon2022-photos/Day%202/2324-CamundaCON-10-2022.jpg" target="_blank">site da Camunda</a></figcaption></figure>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="CamundaCon: Behind the Scenes - Part IV" src="https://player.vimeo.com/video/761064566?h=f550864f19&amp;dnt=1&amp;app_id=122963" width="700" height="394" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>CamundaCon: Behind the Scenes</figcaption></figure>
+
+
+<blockquote class="twitter-tweet">
+<p lang="en" dir="ltr">Had joy chatting about camunda champion program at the web-exclusive &#8220;behinds the scenes&#8221; with fellow community members in perfect <a href="https://twitter.com/hashtag/camundacon?src=hash&amp;ref_src=twsrc%5Etfw">#camundacon</a> scenery <a href="https://t.co/d7LJ7UDZ73">https://t.co/d7LJ7UDZ73</a></p>
+<p>— Markus Stahl (@DeNoordsestern) <a href="https://twitter.com/DeNoordsestern/status/1578025312515809285?ref_src=twsrc%5Etfw">October 6, 2022</a></p></blockquote>
+<p> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+
+
+<h2 class="wp-block-heading">Live de cobertura do evento CamundaCon 2022 direto de Berlim &#8211; Dia 2</h2>
+
+
+
+<p>No final do evento eu procurei reunir alguns dos usuários brasileiros no evento para um bate-papo com  <a rel="noreferrer noopener" href="https://www.linkedin.com/in/lucascasilva/" target="_blank">Lucas Carlos Almeida da Silva</a>, <a rel="noreferrer noopener" href="https://www.linkedin.com/in/emiliofoliveira/" target="_blank">Emilio Oliveira</a> e <a rel="noreferrer noopener" href="https://www.linkedin.com/in/tales-mello-paiva-119140115/" target="_blank">Tales Mello Paiva</a>. Lamento os problemas de internet no final. Não previmos que desligariam o sinal de Wi-Fi logo após concluir as palestras.</p>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" title="Cobertura do evento CamundaCon 2022 direto de Berlim - Dia 2" width="700" height="394" src="https://www.youtube.com/embed/U3BXub-II5g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<p><a href="https://www.linkedin.com/video/event/urn:li:ugcPost:6983811003129966592/">Cobertura do evento CamundaCon 2022 direto de Berlim &#8211; Dia 2 via LinkedIn</a></p>
+
+
+
+<h2 class="wp-block-heading">O CamundaCon do próximo ano será em Nova York</h2>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/camundacon2023-1.png"><img decoding="async" loading="lazy" width="1024" height="601" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/camundacon2023-1-1024x601.png" alt="" class="wp-image-2624" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/camundacon2023-1-1024x601.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/camundacon2023-1-300x176.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/camundacon2023-1-768x451.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/camundacon2023-1-1536x902.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/camundacon2023-1-700x411.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/camundacon2023-1.png 1839w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>CamundaCon 2023 New York  </figcaption></figure>
+
+
+
+<h1 class="wp-block-heading">Dicas Sobre Berlim</h1>
+
+
+
+<h3 class="wp-block-heading">Autobahn a mais de 200 km/h</h3>
+
+
+
+<p>Descobri que a segunda-feria antes do evento era feriado da unificação da Alemanha e tudo estaria fechado, por isso, decidi alugar um carro para visitar <a rel="noreferrer noopener" href="https://goo.gl/maps/Cq3JbXhStEqUmR2GA" target="_blank">Poznań na Polônia</a>. No domingo a noite a cidade tinha um bom agito no <a rel="noreferrer noopener" href="https://goo.gl/maps/NhR7XaNa5ANukfiM7" target="_blank">Old Town</a> com boas opções de restaurantes. A moeda da Polônia é o Złoty e os preços de alimentação e compas são muito mais baratos que outras regiões onde a moeda é Euro €.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/berlim-poznan.png"><img decoding="async" loading="lazy" width="1024" height="650" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/berlim-poznan-1024x650.png" alt="" class="wp-image-2645" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/berlim-poznan-1024x650.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/berlim-poznan-300x190.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/berlim-poznan-768x487.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/berlim-poznan-1536x975.png 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/berlim-poznan-2048x1300.png 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/berlim-poznan-700x444.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><figcaption>Trajeto de carro de Berlin, Alemanha até Poznań, Polônia</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Lembre-se de validar o ticket antes de subir nos transportes coletivos da cidade.</h3>
+
+
+
+<p>Compramos os tickets da BVG para 7 dias por €36/cada para as regiões AB de Berlin. Recomendo comprar tickets avulso para o trajeto do Aeroporto de Berlim-Brandemburgo (BER) até a Estação Central de Berlim (Berlin Hauptbahnhof) para evitar ter que comprar tickets de 7 dias nas regiões ABC. </p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/ticket-1.png"><img decoding="async" loading="lazy" width="944" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/ticket-1-944x1024.png" alt="" class="wp-image-2641" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/ticket-1-944x1024.png 944w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/ticket-1-277x300.png 277w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/ticket-1-768x833.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/ticket-1-646x700.png 646w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/ticket-1.png 996w" sizes="(max-width: 944px) 100vw, 944px" /></a></figure>
+
+
+
+<h3 class="wp-block-heading">Orientações Intuitivas nas Estações</h3>
+
+
+
+<p>Eu considero o sistema de transporte coletivo de Berlim muito bom. As estações possuem wi-fi aberto e gratuito. A frequência de trens, ônibus e tram é alta evitando a lotação dos vagões.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_153632-1-scaled.jpg"><img decoding="async" loading="lazy" width="471" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_153632-1-471x1024.jpg" alt="" class="wp-image-2637" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_153632-1-471x1024.jpg 471w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_153632-1-138x300.jpg 138w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_153632-1-768x1670.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_153632-1-707x1536.jpg 707w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_153632-1-942x2048.jpg 942w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_153632-1-322x700.jpg 322w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221004_153632-1-scaled.jpg 1178w" sizes="(max-width: 471px) 100vw, 471px" /></a><figcaption>Para ir ao escritório da Camunda no bairro de Kreuzberg a melhor estação é a Mehringdann da U6</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">#StandWithUkraine</h3>
+
+
+
+<p>Logo na chegada do aeroporto, fiquei impressionado com esta bandeira da Ucrânia na Estação Central de Berlim (Berlin Hauptbahnhof).</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221002_122334-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221002_122334-1024x471.jpg" alt="" class="wp-image-2642" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221002_122334-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221002_122334-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221002_122334-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221002_122334-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221002_122334-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221002_122334-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>E até fiz um post no LinkedIn e Twitter com bom alcance e Likes.</p>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:6982731270652854273" height="323" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+
+<h3 class="wp-block-heading">Ilha dos Museus em Berlim</h3>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_105134-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_105134-1024x471.jpg" alt="" class="wp-image-2706" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_105134-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_105134-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_105134-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_105134-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_105134-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_105134-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h2 class="wp-block-heading">Lufthansa, you are awesome!</h2>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_223835-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_223835-1024x471.jpg" alt="" class="wp-image-2704" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_223835-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_223835-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_223835-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_223835-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_223835-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221007_223835-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<p>Meu agradecimento especial à Lufthansa que após perdermos o voo para o Brasil por causa do atraso na conexão Berlin-Frankfurt nos forneceu estadia, jantar, café da manhã e deslocamentos de taxi sem custos para mim e minha esposa. <strong>Lufthansa, vocês são demais!</strong></p>
+
+
+
+<h3 class="wp-block-heading">Frankfurt am Main</h3>
+
+
+
+<p>O problema na conexão nos proporcionou mais um dia agradável na Alemanha. Lufthansa, obrigado mais uma vez.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221008_094548-scaled.jpg"><img decoding="async" loading="lazy" width="1024" height="471" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221008_094548-1024x471.jpg" alt="" class="wp-image-2705" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221008_094548-1024x471.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221008_094548-300x138.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221008_094548-768x353.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221008_094548-1536x707.jpg 1536w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221008_094548-2048x942.jpg 2048w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/IMG_20221008_094548-700x322.jpg 700w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></figure>
+
+
+
+<h2 class="wp-block-heading">Camunda Platform 7.18.0 e 8.1, Optimize 3.9.0 e Modeler 5.4.1</h2>
+
+
+
+<p>PS: Quando eu terminei de publicar este post, chegou por email o aviso da nova release 8.1. Agora vou verificar se as funcionalidades anunciadas no evento já estão liberadas nas versões anunciadas hoje. </p>
+
+
+
+<p><strong>Team Camunda, you rock!</strong>!<strong>!</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/10/release.png"><img decoding="async" loading="lazy" width="634" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2022/10/release-634x1024.png" alt="" class="wp-image-2715" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/10/release-634x1024.png 634w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/release-186x300.png 186w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/release-768x1240.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/release-951x1536.png 951w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/release-1268x2048.png 1268w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/release-433x700.png 433w, https://mauriciobitencourt.com/wp-content/uploads/2022/10/release.png 1594w" sizes="(max-width: 634px) 100vw, 634px" /></a></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
