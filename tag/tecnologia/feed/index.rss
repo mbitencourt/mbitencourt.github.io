@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tecnologia &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/tecnologia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Sun, 02 Aug 2020 11:57:54 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>Tecnologia &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Manifesto Roadmap</title>
+		<link>https://mauriciobitencourt.com/cursos/manifesto-roadmap/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Sun, 02 Aug 2020 11:57:52 +0000</pubDate>
+				<category><![CDATA[cursos]]></category>
+		<category><![CDATA[Educação Remota]]></category>
+		<category><![CDATA[Roadmap]]></category>
+		<category><![CDATA[Tecnologia]]></category>
+		<category><![CDATA[Transformação]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2148</guid>
+
+					<description><![CDATA[Educação Remota em Tecnologia e Transformação
+
+Somos uma plataforma de conteúdos exclusivos, organizados em trilhas de aprendizagem, acessível remotamente para profissionais das áreas de Negócio e TI que precisam adquirir novas formas de realizar a transformação digital agora.]]></description>
+										<content:encoded><![CDATA[
+<p>Nós acreditamos que a <strong>capacidade de aprendizado e adaptabilidade</strong> das pessoas está gerando disrupção na área educacional, tornando irrelevantes os modelos tradicionais. O tempo está cada vez mais escasso, e a quantidade de conhecimento circulando no mundo é cada vez maior. Por isso, faz-se necessário criar estratégias eficientes para aumentar essa capacidade de aprendizado em alta velocidade e com efetividade.</p>
+
+
+
+<p>Pensando nisso, criamos a <strong>Roadmap</strong>: uma plataforma de conteúdos exclusivos, organizados em <a href="https://www.roadmap.com.br/ta">trilhas</a> <a href="https://www.roadmap.com.br/ta">de</a> <a href="https://www.roadmap.com.br/ta">aprendizagem</a>, acessível remotamente para profissionais das áreas de Negócio e TI que precisam adquirir novos conhecimento para realizar a <strong>transformação digital</strong> agora.</p>
+
+
+
+<p><a href="https://www.roadmap.com.br/ma">https://www.roadmap.com.br/ma</a></p>
+
+
+
+<span id="more-2148"></span>
+
+
+
+<p>Nossa curadoria de conteúdo tem como base a aplicação prática em projetos de organizações públicas e privadas. Com esta experiência, organizamos as nossas Trilhas de Aprendizagem, respeitando a individualidade de cada pessoa, suas necessidades e perfis pessoais e profissionais de futuro relacionados à tecnologia e transformação, sabendo que cada indivíduo é único. Acreditamos na <strong>capacidade de discernimento</strong> das pessoas para fazerem suas escolhas entre alternativas e possibilidades de uma maneira lúcida e esclarecida, dentro de um contexto de hiperestímulo para escolher onde pretende aproveitar oportunidades e dedicar tempo, seja no trabalho ou na vida pessoal.</p>
+
+
+
+<p>Entendemos que a inovação está diretamente relacionada à <strong>capacidade de fazer conexões</strong>. Sendo assim, organizamos parte dos conteúdos numa visão horizontal mais ampla para você ser mais sagaz na composição de equipes multidisciplinares de alta performance com capacidades, virtudes, habilidades e conhecimento necessários. A outra parte dos conteúdos é ideal para profundidade e amplitude vertical de conhecimento em suas habilidades em T de uma área específica ou campo de atuação.</p>
+
+
+
+<p>Estamos num mundo cada vez mais complexo, exigindo dos profissionais a <strong>capacidade de abstração de modelos e elaboração de raciocínios complexos</strong>. Isso tudo pode ser entendido como a capacidade de olhar para informações à nossa volta que, muitas vezes, podem parecer desconexas e encontrar nexo nestas informações. Por exemplo, começamos as nossas trilhas de aprendizagem a partir da Jornada da Experiência do Cliente, por modelos abstratos de Cadeia de Valor e Fluxo de Valor, para, na sequência, partir para modelos físicos mais detalhados e complexos de automação de fluxos de trabalho, orquestração de microsserviços com monitoramento de ponta a ponta, mineração de processos e aprendizado de máquina com o uso de Inteligência Artificial.</p>
+
+
+
+<p>Sabemos que é possível ser bom em mais de um campo de conhecimento. E, ao mesmo tempo, não dá para ser sensacional e fantástico em absolutamente tudo que fazemos, mas algum nível de <strong>polivalência</strong> é necessário. Isso se traduz nas nossas vidas: temos que desenvolver estratégias para que possamos adquirir uma quantidade maior de <em>soft skills</em> para ter um portfólio de habilidades e capacidades que nos assegure a polivalência.</p>
+
+
+
+<p>Várias empresas, de todos os setores, já estão envolvidas na transformação de negócios. E, agora, estão envolvidas na <strong>transformação digital </strong>também, um processo de mudança fundamentalmente de pessoas, processos, sistemas e tecnologias para obter melhorias mensuráveis ​​em eficiência, eficácia, efetividade e satisfação do cliente. Como a transformação digital é habilitada e apoiada por tecnologias, o material didático foi concebido para, desde as primeiras disciplinas, dar ênfase na utilização de <strong>Tecnologias de BPM</strong> em todas as áreas de conhecimento.</p>
+
+
+
+<p>Para muitas organizações, a transformação digital já era uma realidade. Porém, para outras, a Covid-19 foi o empurrão que faltava para caírem de cabeça nessa realidade. Mudanças que durariam meses ou anos foram feitas em dias ou semanas, desde a adaptação ao trabalho remoto e digitalização de processos até a concepção de novos serviços. Com a transformação compulsória imposta pela pandemia, a Excelência Operacional tornou-se <strong>Resiliência Operacional</strong>, estabelecendo objetivos relevantes e alcançáveis, quebrando a complexidade, facilitando a colaboração, criando capacidade organizacional com medidas e ajustes adequados para este “novo normal” já estabelecido. E por mais que as empresas tenham vencido a primeira etapa do movimento, é preciso criar uma estrutura que suporte a empresa em longo prazo.</p>
+
+
+
+<p>As iniciativas de <strong>Gêmeo Digital de uma Organização</strong> <em>(DTO &#8211; Digital Twin of an Organization)</em> serão aceleradas para obter uma representação digital de um objeto ou sistema físico. Para digitalizar os fluxos de trabalho e decisões com base em regras de negócio, abordaremos técnicas de mapeamento dos processos, bem como técnicas mais avançadas de mineração de processos. Quanto mais um gêmeo digital puder duplicar o objeto físico, maior será a probabilidade de encontrar eficiências e outros benefícios em processos de alto valor para os clientes.</p>
+
+
+
+<p>No contexto das novas tecnologias que estão moldando vários setores, é natural que novas habilidades e novos empregos se tornem comuns. Compartilhamos nosso conhecimento prático essencial para você adquirir novas formas de pensar a transformação digital, o <strong>aperfeiçoamento profissional e a requalificação</strong> (<em>IT-BPM Upskilling/Reskilling</em>) de profissionais das áreas de Negócio que desejam melhorar suas perspectivas de carreira, concentrando-se nas habilidades de resolução de problemas complexos com o uso de algoritmos, raciocínio computacional e pensamento sistêmico.</p>
+
+
+
+<p>O aprimoramento da força de trabalho é fundamental para as organizações permanecerem à frente. Em diversos setores, cada vez mais competitivos, <strong>adaptar-se às tecnologias mais recentes</strong>, aperfeiçoar-se profissionalmente e requalificar-se são as chaves para um futuro melhor para as organizações e para os profissionais.</p>
+
+
+
+<p>Com a nossa abordagem de aprendizado baseada em desafios, você terá a mentoria para <strong>automatizar processos de ponta a ponta</strong>, da concessão à recuperação de crédito de uma <em>startup fintech hipotética</em>, modelo testado e aprovado em várias edições presenciais do <a href="http://www.projeler.com.br/workshop/index.jsp">Hands-On-Workshop Modelar » Simular » Executar » Otimizar Processos e Decisões</a> da Projeler.</p>
+
+
+
+<p>Este posicionamento ficará claro em quaisquer aulas que estejamos envolvidos e nos conteúdos que entregamos remotamente para <strong>você colocar a mão na massa e realmente aprender fazendo</strong> com o objetivo de transformar sua carreira e seus negócios.</p>
+
+
+
+<p>Acesse o site em <a href="https://www.roadmap.com.br/">https://www.roadmap.com.br/</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

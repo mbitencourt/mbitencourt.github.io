@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SP &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/sp/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Fri, 11 Oct 2019 16:29:46 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>SP &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ThorArch #17</title>
+		<link>https://mauriciobitencourt.com/eventos/thorarch-17/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 27 Jun 2019 15:36:52 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[Microsserviços]]></category>
+		<category><![CDATA[Orquestração]]></category>
+		<category><![CDATA[RPA]]></category>
+		<category><![CDATA[SP]]></category>
+		<category><![CDATA[Zeebe]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1640</guid>
+
+					<description><![CDATA[A convite do time de desenvolvimento do Itaú Unbanco, participei do evento ThorArch #17 no Auditório Jairo Cupertino. Acesse aqui o PDF dos slides da apresentação]]></description>
+										<content:encoded><![CDATA[
+<p>A convite do time de desenvolvimento do Itaú Unbanco, participei do evento ThorArch #17 no  Auditório Jairo Cupertino.</p>
+
+
+
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2019/06/2019-06-27-thorarch-17-camunda-mauricio-bitencourt.pdf">Acesse aqui o PDF dos slides da apresentação</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

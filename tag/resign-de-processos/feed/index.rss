@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Resign de Processos &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/resign-de-processos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Tue, 01 Dec 2020 14:29:29 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>Resign de Processos &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>BPMDay Lima 2020</title>
+		<link>https://mauriciobitencourt.com/eventos/bpmday-lima-2020/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 23 Nov 2020 14:41:35 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[ABPMP]]></category>
+		<category><![CDATA[bpmday]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[Resign de Processos]]></category>
+		<category><![CDATA[Roadmap]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2229</guid>
+
+					<description><![CDATA[Foi uma satisfação participar novamente do evento BPMDay do Capítulo da ABPMP no Peru. Compartilho neste post os slides em PDF da apresentação Design Colaborativo de Processos e Regras de Decisão da apresentação remota no evento. Mensagens nas redes sociais https://www.linkedin.com/posts/mbitencourt_design-colaborativo-de-processos-e-regras-activity-6735935016158679041-FAYk https://www.linkedin.com/posts/mbitencourt_designdeprocesso-processdesign-bpmn-activity-6735635903265427456-kLlG]]></description>
+										<content:encoded><![CDATA[
+<p>Foi uma satisfação participar novamente do evento BPMDay do Capítulo da ABPMP no Peru.</p>
+
+
+
+<span id="more-2229"></span>
+
+
+
+<p></p>
+
+
+
+<p>Compartilho neste post os slides em <a href="https://mauriciobitencourt.com/wp-content/uploads/2020/11/bpmday-lima-2020-design-colaborativo-de-processos-e-regras-de-decisao.pdf" target="_blank" rel="noreferrer noopener">PDF da apresentação Design Colaborativo de Processos e Regras de Decisão</a> da apresentação remota no evento.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="575" src="https://mauriciobitencourt.com/wp-content/uploads/2020/11/bpmday-lima-2020-mauricio-bitencourt-1024x575.jpeg" alt="" class="wp-image-2232" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/11/bpmday-lima-2020-mauricio-bitencourt-1024x575.jpeg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/11/bpmday-lima-2020-mauricio-bitencourt-300x169.jpeg 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/11/bpmday-lima-2020-mauricio-bitencourt-768x431.jpeg 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/11/bpmday-lima-2020-mauricio-bitencourt-700x393.jpeg 700w, https://mauriciobitencourt.com/wp-content/uploads/2020/11/bpmday-lima-2020-mauricio-bitencourt.jpeg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Apresentação na Sala 1</figcaption></figure>
+
+
+
+<h5 class="wp-block-heading">Mensagens nas redes sociais</h5>
+
+
+
+<p><a href="https://www.linkedin.com/posts/mbitencourt_design-colaborativo-de-processos-e-regras-activity-6735935016158679041-FAYk">https://www.linkedin.com/posts/mbitencourt_design-colaborativo-de-processos-e-regras-activity-6735935016158679041-FAYk</a></p>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6735935015420481537" height="539" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+
+<p><a href="https://www.linkedin.com/posts/mbitencourt_designdeprocesso-processdesign-bpmn-activity-6735635903265427456-kLlG">https://www.linkedin.com/posts/mbitencourt_designdeprocesso-processdesign-bpmn-activity-6735635903265427456-kLlG</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

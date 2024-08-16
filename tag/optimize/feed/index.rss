@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Optimize &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/optimize/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Thu, 25 Mar 2021 12:51:32 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>Optimize &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nota Técnica Camunda &#8211; Gestão</title>
+		<link>https://mauriciobitencourt.com/manual/nota-tecnica-camunda-gestao/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Tue, 23 Jun 2020 01:54:48 +0000</pubDate>
+				<category><![CDATA[manual]]></category>
+		<category><![CDATA[BAM]]></category>
+		<category><![CDATA[BPMS]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[Optimize]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2018</guid>
+
+					<description><![CDATA[Elaborei esta nota técnica sobre o Camunda BPM com o intuito de classificar o atendimento de requisitos de gestão orientada por dados de processos e regras de decisões automatizados com base na versão 7.13 do Camunda BPM e Optimize 3.0. Veja também:Nota Técnica Camunda – Desenvolvimento e OperaçõesNota Técnica Camunda – Modelagem Gestão Camunda Optimize [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Elaborei esta nota técnica sobre o Camunda BPM com o intuito de classificar o atendimento de requisitos de gestão orientada por dados de processos e regras de decisões automatizados com base na versão 7.13 do Camunda BPM e Optimize 3.0.</p>
+
+
+
+<p>Veja também:<br><a href="https://mauriciobitencourt.com/manual/nota-tecnica-camunda-devops/">Nota Técnica Camunda – Desenvolvimento e Operações</a><br><a href="https://mauriciobitencourt.com/manual/nota-tecnica-camunda-modelagem/">Nota Técnica Camunda – Modelagem</a></p>
+
+
+
+<span id="more-2018"></span>
+
+
+
+<h2 class="wp-block-heading">Gestão</h2>
+
+
+
+<h3 class="wp-block-heading">Camunda Optimize</h3>
+
+
+
+<p>O Camunda Optimize é um módulo analítico que captura todos os dados históricos de execução de processos e decisões para o monitoramento de atividades de negócios (BAM), relatórios, alertas e análises.</p>
+
+
+
+<h4 class="wp-block-heading">Monitoramento de Atividades de Negócio (BAM &#8211; Business Activity Monitoring)</h4>
+
+
+
+<p>O Camunda Optimize oferece suporte à melhoria contínua de processos e  tabelas de decisão, fornecendo transparência em seus fluxos de trabalho e regras de negócio automatizadas. Relatórios e painéis de negócios, bem como alertas, ajudam a identificar gargalos do processo e melhorar seu desempenho geral.</p>
+
+
+
+<h4 class="wp-block-heading">Relatórios</h4>
+
+
+
+<p>Com o Optimize, as partes interessadas da sua empresa podem criar e personalizar facilmente relatórios perspicazes.</p>
+
+
+
+<p>Por exemplo, eles podem exibir o número de instâncias do processo agrupadas por dias, a duração das instâncias do processo por hora.</p>
+
+
+
+<p>Os relatórios podem ser compartilhados com outras pessoas, mesmo que elas não tenham um login de usuário para o Optimize. E você pode incorporar um relatório em outros sites, como o Atlassian Confluence, para fornecer informações atualizadas às partes interessadas.</p>
+
+
+
+<p>Você também pode exportar os dados do relatório como arquivos CSV para abri-los em ferramentas como o Microsoft Excel.</p>
+
+
+
+<h4 class="wp-block-heading">Filtros Poderosos</h4>
+
+
+
+<p>Você pode filtrar convenientemente as instâncias de processo e avaliações de decisão que deseja incluir em seus relatórios.</p>
+
+
+
+<p>Por exemplo, você pode examinar especificamente instâncias de processo que:</p>
+
+
+
+<ul><li>estão em execução no momento, foram concluídas ou (não) canceladas.</li><li>iniciado ou finalizado em um intervalo de tempo definido, seja absoluto ou relativo, como nos últimos 7 dias ou 24 horas.</li><li>demorou mais do que um tempo de ciclo específico para concluir, o que permite identificar baixo desempenho.</li><li>contém variáveis com valores específicos que você pode selecionar convenientemente no campo de filtro.</li><li>consistem em etapas específicas que foram executadas para que você concentre seu relatório em determinadas variantes de processo.</li></ul>
+
+
+
+<h4 class="wp-block-heading">Painéis de Gerenciamento (Dashboards)</h4>
+
+
+
+<p>Organize seus relatórios em painéis para fornecer uma visão geral rápida. Se desejar, você pode até adicionar relatórios externos ao seu painel. Você pode criar quantos painéis desejar para compartilhar facilmente as informações corretas com diferentes partes interessadas.</p>
+
+
+
+<p>Como os relatórios, os painéis podem ser compartilhados com outras pessoas, mesmo que elas não tenham um login de usuário para o Optimize. E você pode incorporar um painel em outros sites, como o Atlassian Confluence, para fornecer informações atualizadas às partes interessadas.</p>
+
+
+
+<h4 class="wp-block-heading">Alertas</h4>
+
+
+
+<p>Os alertas são configurados com base em relatórios para informar as partes interessadas imediatamente quando determinados limites forem atingidos.</p>
+
+
+
+<p>Por exemplo, você pode definir um relatório que conte o número de instâncias do processo que foram iniciadas nas últimas 24 horas, mas que ainda não foram concluídas. Em seguida, você pode definir um alerta que verificará a cada minuto se esse número está acima de um limite definido, digamos 100 instâncias. Nesse caso, o alerta acionará um e-mail para o destinatário especificado, lembrando-o potencialmente em intervalos definidos e enviando uma notificação de correção assim que o número cair abaixo do limite definido.</p>
+
+
+
+<h4 class="wp-block-heading">Análise de Variantes de Processo</h4>
+
+
+
+<p>Como certas variantes do seu processo afetam os resultados dos negócios, é possível descobrir com a análise de ramificação selecionando um evento final do processo e um gateway de processo. </p>
+
+
+
+<p>O Optimize mostrará a probabilidade estatística de alcançar o respectivo evento final ao obter uma ramificação de gateway específica.</p>
+
+
+
+<h4 class="wp-block-heading">Referências:</h4>
+
+
+
+<p><a href="https://camunda.com/products/camunda-platform/optimize/">Camunda Optimize</a></p>
+
+
+
+<p></p>
+
+
+
+<p><a href="https://www.roadmap.com.br/om">Operações e Monitoramento da Execução de Processos Automatizados</a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

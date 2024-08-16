@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rio de Janeiro &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/rio-de-janeiro/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Thu, 23 Apr 2020 12:48:03 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>Rio de Janeiro &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hands-On-Workshop</title>
+		<link>https://mauriciobitencourt.com/cursos/hands-on-workshop/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2020 13:52:16 +0000</pubDate>
+				<category><![CDATA[cursos]]></category>
+		<category><![CDATA[Automação de Decisões]]></category>
+		<category><![CDATA[Automação de Processos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Brasília]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[Hands-On-Workshop]]></category>
+		<category><![CDATA[Motor de Regras]]></category>
+		<category><![CDATA[Porto Alegre]]></category>
+		<category><![CDATA[Regras de Negócio]]></category>
+		<category><![CDATA[Rio de Janeiro]]></category>
+		<category><![CDATA[São Paulo]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=1838</guid>
+
+					<description><![CDATA[Venha colocar a mão na massa para aprender como ir da modelagem à execução com técnicas e tecnologias modernas.
+
+Workshops práticos para automatizar processos e decisões com os Standards de BPM.
+
+Colocar a mão na massa para demonstrar como ir da modelagem à execução de processos e decisões, sempre utilizando a prática durante a apresentação de teoria.
+
+Em cada módulo com duração de 16 horas em dois dias, o condutor orientará e resolverá dúvidas para estimular a participação e a dinâmica dos envolvidos.]]></description>
+										<content:encoded><![CDATA[
+<p>Ano passado pude treinar diversas pessoas em quatro edições do Hands-On-Workshop para colocar a mão na massa e aprender na prática como ir da modelagem à execução de processos e decisões com técnicas e tecnologias modernas. </p>
+
+
+
+<span id="more-1838"></span>
+
+
+
+<h3 class="has-text-align-center wp-block-heading">Seja protagonista na implementação de soluções automatizadas.</h3>
+
+
+
+<p class="has-text-align-center"><em>Com os conhecimentos compartilhados neste workshop, você poderá ir além da melhoria dos processos. A partir de uma documentação clara, fácil de entender, acessar e usar você será capaz de saltar os obstáculos técnicos tradicionais e automatizar processos e decisões com orquestração de microsserviços, aumentando a colaboração entre as áreas de Negócio e TI, melhorando a eficiência e a precisão, obtendo soluções mais eficazes e promovendo a efetividade de uma liderança de sucesso.</em></p>
+
+
+
+<p class="has-text-align-center"><a href="http://www.projeler.com.br/pdf/projeler-folder-hands-on-workshop.pdf">Clique aqui para baixar o folder em PDF com o conteúdo completo.</a></p>
+
+
+
+<p>Em 2020 teremos mais quatro edições abertas em São Paulo (23 a 26/03), Rio de Janeiro (06 a 09/07), Brasília (19 a 22/10) e Porto Alegre (07 a 10/12).</p>
+
+
+
+<p class="has-text-align-center"><a href="http://www.projeler.com.br/workshop/index.jsp">Hands-On-Workshop Modelar » Simular » Executar » Otimizar Processos e Decisões</a></p>
+
+
+
+<p>Realizei também edições na modalidade presencial fechado (in company) do Hands-On-Workshop Executivo, mais compactas e personalizadas para auxiliar Product Owners (PO) formarem squads com pessoas de Área de Negócio e TI trabalhando em conjunto com os standards de BPM e tecnologias Open Source entregarem produtos digitais com agilidade na cultura DevOps.</p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Automação de Processos e Decisões na Prática" width="700" height="394" src="https://www.youtube.com/embed/rF2vAn35GY8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption><a href="https://www.linkedin.com/feed/update/urn:li:activity:6621033867883094016/">Automação de Processos e Decisões na Prática</a></figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">O quê</h4>
+
+
+
+<p>Workshops práticos para automatizar processos e decisões com os Standards de BPM.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;<em>Achei o conteúdo bastante abrangente e rico. O material com excelente nível de detalhamento e, sobretudo, a parte prática extremamente esclarecedora.</em>&#8220;</p><cite>Flávia Silva Azevedo, Administradora do SEI! &#8211; Sistema Eletrônico de Informações na Secretaria de Administração na ESMPU Escola Superior do Ministério Público da União</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Objetivo</h4>
+
+
+
+<p>Colocar a mão na massa para demonstrar como ir da modelagem à execução de processos e decisões, sempre utilizando a prática durante a apresentação da teoria.</p>
+
+
+
+<p>Em cada módulo &#8211; com duração de 16 horas em dois dias -, o condutor orientará e resolverá dúvidas para estimular a participação e a dinâmica dos envolvidos.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;<em>Como o nome sugere, o workshop prático entrega o que promete, pois ao final do dia, sempre temos um modelo executando construído por você.</em>&#8220;</p><cite>Rodrigo dos Santos Gomes, Product Owner do Projeto Maestro na Petrobras</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Público</h4>
+
+
+
+<p>Profissionais das áreas de Negócio e de TI envolvidos na melhoria e transformação de processos de negócio, casos adaptativos e decisões com base em regras de negócio.</p>
+
+
+
+<p>Product Owners, UX Designers, Scrum Masters, Release Train Engineers, Analistas de Negócios, Processos e/ou Requisitos, Gerentes de Projeto, Testadores, Desenvolvedores e demais profissionais que trabalhem com a criação de produtos digitais.</p>
+
+
+
+<p>Equipes ágeis na cultura DevOps que desejam integração e distribuição contínua (CI/CD), utilizando frameworks, de preferência com os standards de BPM e tecnologias Open Source para aumentar significativamente a produtividade de desenvolvimento e operação.</p>
+
+
+
+<p><strong>Sem pré-requisitos para o módulo básico.</strong>&nbsp;Não será necessário o conhecimento prévio de uma linguagem de programação, notação ou ferramenta.</p>
+
+
+
+<p>Conhecimento prático essencial para adquirir novas formas de pensar a transformação digital, o aperfeiçoamento profissional e a requalificação&nbsp;<em>(IT-BPM Upskilling / Reskilling)</em>&nbsp;de profissionais das áreas de Negócio que desejam melhorar suas perspectivas de carreira, concentrando-se nas habilidades de resolução de problemas complexos com o uso de algoritmos, raciocínio computacional e pensamento sistêmico.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;<em>O workshop entrega conhecimento detalhado e valioso para o desenvolvimento rápido de soluções de automação de processos em modelos executáveis na plataforma de BPM da Camunda.</em>&#8220;</p><cite>Aldinei Bastos, Analista de Sistemas na Petrobras</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading"><strong>Por que fazer?</strong></h4>
+
+
+
+<p>Você realmente aprenderá praticando os exercícios e tutoriais no seu notebook.</p>
+
+
+
+<p>Com a abordagem&nbsp;<em>Challenge Based Learning</em>&nbsp;(aprendizado baseado em desafios) durante o Workshop, você terá a mentoria para automatizar um processo de ponta a ponta para a concessão de crédito de uma fintech hipotética.</p>
+
+
+
+<p>Ao final, você estará apto para inovar na sua organização com fluxos de trabalho em formulários eletrônicos, casos, decisões automatizadas e informações integradas a microsserviços.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;<em>Participei deste Workshop Prático na edição de Porto Alegre, em dezembro do ano passado. Didática incrível e controle total sobre o conteúdo proposto. Investimento super bem feito, obrigado Maurício!</em>&#8220;</p><cite>Roger Gomes, Analista de BI na Fundacred</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading"><strong>Instrutor</strong></h4>
+
+
+
+<p>Maurício Bitencourt, certificado CBPP Red Seal, atua em várias organizações públicas e privadas como especialista de automação de processos e decisões com foco no fluxo de valor para criar produtos digitais com novas experiências relevantes na jornada dos usuários.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Maurício é focado no valor e em soluções que otimizam os recursos das empresas. É um cara que tem energia, que compartilha conhecimento e usa sua empolgação para motivar as pessoas. Fazer o curso de BPM Hands-On da Projeler é como se abraçar no foguete do conhecimento e ser levado rapidamente aos mais altos níveis profissionais. Ter a oportunidade de compartilhar o precioso tempo da vida com esse cara é uma honra pra mim.&#8221;</p><cite>Matheus Ximenes Assis, CTO na Companhia de Trânsito e Transporte de Macapá CTMAC.</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Investimento</h4>
+
+
+
+<p><a href="https://www.paypal.com/webapps/hermes?token=1H954702SE412181D&amp;useraction=commit&amp;rm=1&amp;mfid=1578929582693_6cb62915bfa53#/checkout/multistepsignup/multistepsignupaddcard">R$ 1.980,00 para o módulo básico (16h)</a> ou <a href="https://www.paypal.com/webapps/hermes?token=7PA909518B496030H&amp;useraction=commit&amp;rm=1&amp;mfid=1578929624306_ca2e1a8e05a44#/checkout/multistepsignup/multistepsignupaddcard">R$ 3.960,00 para os módulos básico e avançado (32h)</a>.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Considero o Maurício um excelente professor e profissional! O primeiro curso que fiz com ele foi em 2008, sobre BPMN e BPMS. O segundo, foi um pouco depois, na 1ª turma da ABPMP. Senti a necessidade de me atualizar com relação a DMN e CMMN, e este Workshop Hands-On caiu como uma luva!&#8221;</p><cite>Sidney Batista Filho, Analista de Sistema no SERPRO </cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Modalidade Presencial</h4>
+
+
+
+<p><strong>São Paulo, SP</strong><br>Av. Pres. Juscelino Kubitschek, 1.455<br>23 a 25/03/2020</p>
+
+
+
+<p><strong>Rio de Janeiro, RJ</strong><br>Rua do Passeio, 38<br>06 a 09/07/2020</p>
+
+
+
+<p><strong>Brasília, DF</strong><br>SCN Q 5 &#8211; Asa Norte<br>19 a 22/10/2020</p>
+
+
+
+<p><strong>Porto Alegre, RS</strong><br>Rua Mostardeiro, 366<br>07 a 10/12/2020</p>
+
+
+
+<h4 class="wp-block-heading"><strong>Carga horária</strong></h4>
+
+
+
+<p>Cada módulo do workshop terá carga horária de 16 horas, das 08h30 às 18h00.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Excelente treinamento. O nível de conhecimento do instrutor é altíssimo, o que nos deu motivação e segurança para prosseguir. A ferramenta apresenta alto valor agregado e tem aplicabilidade clara em diversos processos de negócio da companhia. Sensacional! Com certeza, um dos melhores treinamentos que eu já fiz. O Maurício é um profissional extremamente gabaritado, experiente e didático. Recomendo a todos os entusiastas de BPM e da ferramenta Camunda.&#8221;</p><cite>Alexandre Ramos, Product Owner na Mongeral Aegon</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading"><strong>Você receberá</strong></h4>
+
+
+
+<p>Dezesseis horas de capacitação teórica e prática em cada módulo; material para anotações; conteúdo em meio digital na língua portuguesa; acesso a internet para baixar o software Open Source; guia de referência para modelar processos, casos e decisões com BPMN, CMMN e DMN; certificado.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>O que vim buscar, estou levando: conhecimento. A semana de imersão no Hands-On-Workshop utilizando o Camunda foi regada por muita aprendizagem ministrada de forma simples e complexa (o que é diferente de complicado). Hoje sou um profissional preparado para colaborar com as empresas que desejam automatizar e digitalizar os seus processos. Mais um momento disruptivo na minha carreira. Essa semana se resume em: gratidão. Obrigado Mauricio Bitencourt.</p><cite>Emerson Leandro Gregorio, Chief of Compliance Officer, Petrovina Sementes</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Benefícios</h4>
+
+
+
+<p>Com o uso da automação de decisões, você poderá obter maior&nbsp;<strong>velocidade, escalabilidade e confiabilidade</strong>&nbsp;dos serviços na entrega de valor aos clientes.</p>
+
+
+
+<p>Com base nos dados mais detalhados de execução dos processos, você poderá habilitar um monitoramento poderoso com capacidades analíticas próximas do tempo real e identificar novos pontos de melhoria dos&nbsp;<strong>processos digitizados</strong>.</p>
+
+
+
+<p>Com o conhecimento adquirido neste workshop, você poderá&nbsp;<strong>substituir progressivamente práticas ultrapassadas</strong>, como, por exemplo, trâmites manuais em papel e e-mails, controles em planilhas, sistemas obsoletos e atrasos por decisões que não necessitam de julgamento.</p>
+
+
+
+<p>Com a modelagem e a execução de casos adaptativos, você poderá descrever, capturar e automatizar o que os&nbsp;<strong>trabalhadores do conhecimento</strong>&nbsp;realizam.</p>
+
+
+
+<p>Comprovamos que o mapeamento, modelagem, análise e design de processos, casos e decisões São cada vez melhores à medida que se conhece mais sobre as&nbsp;<strong>execuções na prática</strong>.</p>
+
+
+
+<p>Conheça o&nbsp;<strong>potencial dos standards de BPM e tecnologias</strong>&nbsp;Open Source de automação para aproveitar componentes existentes que aumentam significativamente a produtividade de desenvolvimento e operação.</p>
+
+
+
+<p>Agilidade para obter&nbsp;<strong>software em funcionamento</strong>, documentação de negócio e cenários de testes.</p>
+
+
+
+<p>A modelagem e automação de decisões com base em regras de negócio é perfeita para produzir escalabilidade e precisão de ato administrativo&nbsp;<strong>vinculado</strong>&nbsp;sem julgamento. Por outro lado, a modelagem e automação de casos adaptativos são mais apropriados para ato administrativo&nbsp;<strong>discricionário</strong>&nbsp;que permite análise subjetiva a partir da valoração dos fatos, produzindo uma base de comportamentos e padrões ricos para o estabelecimento de novos processos e decisões.</p>
+
+
+
+<p>Iniciativas de documentação de processos, na maioria dos casos, levam à paralisia por análise. Em vez disso, utilize os conhecimentos práticos em&nbsp;<strong>DevOps</strong>&nbsp;destes workshops para estabilizar os processos, criar um pipeline de projetos com&nbsp;<strong>integração contínua (CI)</strong>&nbsp;e&nbsp;<strong>entrega contínua (CD)</strong>&nbsp;de processos, casos e decisões automatizados para obter o&nbsp;<em>feedback loop</em>&nbsp;de novas ideias de produto, alinhando estratégias e necessidades dos clientes.</p>
+
+
+
+<p>O gerenciamento de decisões permite criar&nbsp;<strong>uma única fonte de verdade</strong>&nbsp;da organização, habilita a transformação digital, simplifica o fluxo de valor, cria contexto para implementar o aprendizado de máquina (<em>Machine Learning</em>) e endereça de forma disruptiva a substituição das tarefas humanas dos processos.</p>
+
+
+
+<p>Incorpore tecnologias que&nbsp;<strong>impactam em ganhos significativos de produtividade</strong>&nbsp;para colher os benefícios de processos mais enxutos, eficazes, rápidos e baratos.</p>
+
+
+
+<p>Potencialize o&nbsp;<strong>estabelecimento de confiança com clientes e parceiros</strong>, orquestrando processos integrados a APIs de cadastros, tornando a experiência do usuário final mais fluída, eliminando papelada, verificações e burocracia.</p>
+
+
+
+<p>Processos e decisões automatizadas com o uso e ícones para visualização gráfica do contexto dos dados e algoritmos, garantem trilhas de auditoria e conformidade ao Artigo 20 da <strong>LGPD Lei Geral de Proteção de Dados</strong> (Artigo 22 da GDPR) garantindo ao titular dos dados o direito a solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Curso muito prático, mão na massa. Material didático claro e organizado. Realmente, saio com segurança para utilizar a solução em projetos produtivos. Das soluções que pude ter contato até o momento, a Camunda é a que se mostrou mais aderente às práticas ágeis e de DevOps atuais. O treinamento com o Maurício veio para confirmar a boa impressão que eu já tinha em relação à ferramenta, principalmente nos quesitos performance, escalabilidade, poder de representação e facilidade de uso.&#8221;</p><cite>Arthur Viñas dos Santos, Solutions Architect na NTConsult</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading"><strong>Formas de pagamento e inscrições</strong></h4>
+
+
+
+<p>Cartão de Crédito em até 3x via PayPal sem acréscimo ou em até 12x via plataforma&nbsp;<a href="https://www.sympla.com.br/projeler">Sympla</a>.</p>
+
+
+
+<p>A vista via depósito em conta corrente: BB, Ag 3537-8, Conta 15.386-9 CNPJ 08.044.990/0001-71</p>
+
+
+
+<p>Nota de Empenho ou Autorização de Fornecimento &#8211; utilize a ficha de inscrição do&nbsp;<a href="http://www.projeler.com.br/pdf/projeler-folder-hands-on-workshop.pdf">folder em PDF</a>.</p>
+
+
+
+<p><a href="http://www.projeler.com.br/contato/index.jsp">Clique aqui para entrar em contato e solicitar mais informações.</a></p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;O curso foi extremamente proveitoso e permitiu que eu pudesse rever alguns conceitos e experimentar na prática o que tem de mais atual em processos. Tudo isso proporcionado pela competência inigualável de Maurício.&#8221;</p><cite>Joaquim Francisco Ferreira Filho, CBPP®, Consultor na Integral Gestão por Processos</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Comentários nas Redes Sociais</h4>
+
+
+
+<p><strong>LinkedIn</strong></p>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6621033194059767809" height="631" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+
+<p><strong>Twitter</strong></p>
+
+
+<blockquote class="twitter-tweet">
+<p lang="pt" dir="ltr">Ano passado pude treinar diversas pessoas em quatro edições do Hands-On-Workshop para colocar a mão na massa e aprender na prática como ir da modelagem à execução de processos e decisões com técnicas e tecnologias modernas. </p>
+<p>Em 2020 teremos mais quatro e…<a href="https://t.co/7yIhu7Gc8A">https://t.co/7yIhu7Gc8A</a></p>
+<p>— Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/1215268241704017921?ref_src=twsrc%5Etfw">January 9, 2020</a></p></blockquote>
+<p> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

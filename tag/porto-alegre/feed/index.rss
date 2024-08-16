@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Porto Alegre &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/porto-alegre/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Thu, 23 Apr 2020 12:48:03 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>Porto Alegre &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hands-On-Workshop</title>
+		<link>https://mauriciobitencourt.com/cursos/hands-on-workshop/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 13 Jan 2020 13:52:16 +0000</pubDate>
+				<category><![CDATA[cursos]]></category>
+		<category><![CDATA[Automação de Decisões]]></category>
+		<category><![CDATA[Automação de Processos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Brasília]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[Hands-On-Workshop]]></category>
+		<category><![CDATA[Motor de Regras]]></category>
+		<category><![CDATA[Porto Alegre]]></category>
+		<category><![CDATA[Regras de Negócio]]></category>
+		<category><![CDATA[Rio de Janeiro]]></category>
+		<category><![CDATA[São Paulo]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=1838</guid>
+
+					<description><![CDATA[Venha colocar a mão na massa para aprender como ir da modelagem à execução com técnicas e tecnologias modernas.
+
+Workshops práticos para automatizar processos e decisões com os Standards de BPM.
+
+Colocar a mão na massa para demonstrar como ir da modelagem à execução de processos e decisões, sempre utilizando a prática durante a apresentação de teoria.
+
+Em cada módulo com duração de 16 horas em dois dias, o condutor orientará e resolverá dúvidas para estimular a participação e a dinâmica dos envolvidos.]]></description>
+										<content:encoded><![CDATA[
+<p>Ano passado pude treinar diversas pessoas em quatro edições do Hands-On-Workshop para colocar a mão na massa e aprender na prática como ir da modelagem à execução de processos e decisões com técnicas e tecnologias modernas. </p>
+
+
+
+<span id="more-1838"></span>
+
+
+
+<h3 class="has-text-align-center wp-block-heading">Seja protagonista na implementação de soluções automatizadas.</h3>
+
+
+
+<p class="has-text-align-center"><em>Com os conhecimentos compartilhados neste workshop, você poderá ir além da melhoria dos processos. A partir de uma documentação clara, fácil de entender, acessar e usar você será capaz de saltar os obstáculos técnicos tradicionais e automatizar processos e decisões com orquestração de microsserviços, aumentando a colaboração entre as áreas de Negócio e TI, melhorando a eficiência e a precisão, obtendo soluções mais eficazes e promovendo a efetividade de uma liderança de sucesso.</em></p>
+
+
+
+<p class="has-text-align-center"><a href="http://www.projeler.com.br/pdf/projeler-folder-hands-on-workshop.pdf">Clique aqui para baixar o folder em PDF com o conteúdo completo.</a></p>
+
+
+
+<p>Em 2020 teremos mais quatro edições abertas em São Paulo (23 a 26/03), Rio de Janeiro (06 a 09/07), Brasília (19 a 22/10) e Porto Alegre (07 a 10/12).</p>
+
+
+
+<p class="has-text-align-center"><a href="http://www.projeler.com.br/workshop/index.jsp">Hands-On-Workshop Modelar » Simular » Executar » Otimizar Processos e Decisões</a></p>
+
+
+
+<p>Realizei também edições na modalidade presencial fechado (in company) do Hands-On-Workshop Executivo, mais compactas e personalizadas para auxiliar Product Owners (PO) formarem squads com pessoas de Área de Negócio e TI trabalhando em conjunto com os standards de BPM e tecnologias Open Source entregarem produtos digitais com agilidade na cultura DevOps.</p>
+
+
+
+<figure class="wp-block-embed-youtube aligncenter wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Automação de Processos e Decisões na Prática" width="700" height="394" src="https://www.youtube.com/embed/rF2vAn35GY8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption><a href="https://www.linkedin.com/feed/update/urn:li:activity:6621033867883094016/">Automação de Processos e Decisões na Prática</a></figcaption></figure>
+
+
+
+<h4 class="wp-block-heading">O quê</h4>
+
+
+
+<p>Workshops práticos para automatizar processos e decisões com os Standards de BPM.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;<em>Achei o conteúdo bastante abrangente e rico. O material com excelente nível de detalhamento e, sobretudo, a parte prática extremamente esclarecedora.</em>&#8220;</p><cite>Flávia Silva Azevedo, Administradora do SEI! &#8211; Sistema Eletrônico de Informações na Secretaria de Administração na ESMPU Escola Superior do Ministério Público da União</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Objetivo</h4>
+
+
+
+<p>Colocar a mão na massa para demonstrar como ir da modelagem à execução de processos e decisões, sempre utilizando a prática durante a apresentação da teoria.</p>
+
+
+
+<p>Em cada módulo &#8211; com duração de 16 horas em dois dias -, o condutor orientará e resolverá dúvidas para estimular a participação e a dinâmica dos envolvidos.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;<em>Como o nome sugere, o workshop prático entrega o que promete, pois ao final do dia, sempre temos um modelo executando construído por você.</em>&#8220;</p><cite>Rodrigo dos Santos Gomes, Product Owner do Projeto Maestro na Petrobras</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Público</h4>
+
+
+
+<p>Profissionais das áreas de Negócio e de TI envolvidos na melhoria e transformação de processos de negócio, casos adaptativos e decisões com base em regras de negócio.</p>
+
+
+
+<p>Product Owners, UX Designers, Scrum Masters, Release Train Engineers, Analistas de Negócios, Processos e/ou Requisitos, Gerentes de Projeto, Testadores, Desenvolvedores e demais profissionais que trabalhem com a criação de produtos digitais.</p>
+
+
+
+<p>Equipes ágeis na cultura DevOps que desejam integração e distribuição contínua (CI/CD), utilizando frameworks, de preferência com os standards de BPM e tecnologias Open Source para aumentar significativamente a produtividade de desenvolvimento e operação.</p>
+
+
+
+<p><strong>Sem pré-requisitos para o módulo básico.</strong>&nbsp;Não será necessário o conhecimento prévio de uma linguagem de programação, notação ou ferramenta.</p>
+
+
+
+<p>Conhecimento prático essencial para adquirir novas formas de pensar a transformação digital, o aperfeiçoamento profissional e a requalificação&nbsp;<em>(IT-BPM Upskilling / Reskilling)</em>&nbsp;de profissionais das áreas de Negócio que desejam melhorar suas perspectivas de carreira, concentrando-se nas habilidades de resolução de problemas complexos com o uso de algoritmos, raciocínio computacional e pensamento sistêmico.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;<em>O workshop entrega conhecimento detalhado e valioso para o desenvolvimento rápido de soluções de automação de processos em modelos executáveis na plataforma de BPM da Camunda.</em>&#8220;</p><cite>Aldinei Bastos, Analista de Sistemas na Petrobras</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading"><strong>Por que fazer?</strong></h4>
+
+
+
+<p>Você realmente aprenderá praticando os exercícios e tutoriais no seu notebook.</p>
+
+
+
+<p>Com a abordagem&nbsp;<em>Challenge Based Learning</em>&nbsp;(aprendizado baseado em desafios) durante o Workshop, você terá a mentoria para automatizar um processo de ponta a ponta para a concessão de crédito de uma fintech hipotética.</p>
+
+
+
+<p>Ao final, você estará apto para inovar na sua organização com fluxos de trabalho em formulários eletrônicos, casos, decisões automatizadas e informações integradas a microsserviços.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;<em>Participei deste Workshop Prático na edição de Porto Alegre, em dezembro do ano passado. Didática incrível e controle total sobre o conteúdo proposto. Investimento super bem feito, obrigado Maurício!</em>&#8220;</p><cite>Roger Gomes, Analista de BI na Fundacred</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading"><strong>Instrutor</strong></h4>
+
+
+
+<p>Maurício Bitencourt, certificado CBPP Red Seal, atua em várias organizações públicas e privadas como especialista de automação de processos e decisões com foco no fluxo de valor para criar produtos digitais com novas experiências relevantes na jornada dos usuários.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Maurício é focado no valor e em soluções que otimizam os recursos das empresas. É um cara que tem energia, que compartilha conhecimento e usa sua empolgação para motivar as pessoas. Fazer o curso de BPM Hands-On da Projeler é como se abraçar no foguete do conhecimento e ser levado rapidamente aos mais altos níveis profissionais. Ter a oportunidade de compartilhar o precioso tempo da vida com esse cara é uma honra pra mim.&#8221;</p><cite>Matheus Ximenes Assis, CTO na Companhia de Trânsito e Transporte de Macapá CTMAC.</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Investimento</h4>
+
+
+
+<p><a href="https://www.paypal.com/webapps/hermes?token=1H954702SE412181D&amp;useraction=commit&amp;rm=1&amp;mfid=1578929582693_6cb62915bfa53#/checkout/multistepsignup/multistepsignupaddcard">R$ 1.980,00 para o módulo básico (16h)</a> ou <a href="https://www.paypal.com/webapps/hermes?token=7PA909518B496030H&amp;useraction=commit&amp;rm=1&amp;mfid=1578929624306_ca2e1a8e05a44#/checkout/multistepsignup/multistepsignupaddcard">R$ 3.960,00 para os módulos básico e avançado (32h)</a>.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Considero o Maurício um excelente professor e profissional! O primeiro curso que fiz com ele foi em 2008, sobre BPMN e BPMS. O segundo, foi um pouco depois, na 1ª turma da ABPMP. Senti a necessidade de me atualizar com relação a DMN e CMMN, e este Workshop Hands-On caiu como uma luva!&#8221;</p><cite>Sidney Batista Filho, Analista de Sistema no SERPRO </cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Modalidade Presencial</h4>
+
+
+
+<p><strong>São Paulo, SP</strong><br>Av. Pres. Juscelino Kubitschek, 1.455<br>23 a 25/03/2020</p>
+
+
+
+<p><strong>Rio de Janeiro, RJ</strong><br>Rua do Passeio, 38<br>06 a 09/07/2020</p>
+
+
+
+<p><strong>Brasília, DF</strong><br>SCN Q 5 &#8211; Asa Norte<br>19 a 22/10/2020</p>
+
+
+
+<p><strong>Porto Alegre, RS</strong><br>Rua Mostardeiro, 366<br>07 a 10/12/2020</p>
+
+
+
+<h4 class="wp-block-heading"><strong>Carga horária</strong></h4>
+
+
+
+<p>Cada módulo do workshop terá carga horária de 16 horas, das 08h30 às 18h00.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Excelente treinamento. O nível de conhecimento do instrutor é altíssimo, o que nos deu motivação e segurança para prosseguir. A ferramenta apresenta alto valor agregado e tem aplicabilidade clara em diversos processos de negócio da companhia. Sensacional! Com certeza, um dos melhores treinamentos que eu já fiz. O Maurício é um profissional extremamente gabaritado, experiente e didático. Recomendo a todos os entusiastas de BPM e da ferramenta Camunda.&#8221;</p><cite>Alexandre Ramos, Product Owner na Mongeral Aegon</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading"><strong>Você receberá</strong></h4>
+
+
+
+<p>Dezesseis horas de capacitação teórica e prática em cada módulo; material para anotações; conteúdo em meio digital na língua portuguesa; acesso a internet para baixar o software Open Source; guia de referência para modelar processos, casos e decisões com BPMN, CMMN e DMN; certificado.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>O que vim buscar, estou levando: conhecimento. A semana de imersão no Hands-On-Workshop utilizando o Camunda foi regada por muita aprendizagem ministrada de forma simples e complexa (o que é diferente de complicado). Hoje sou um profissional preparado para colaborar com as empresas que desejam automatizar e digitalizar os seus processos. Mais um momento disruptivo na minha carreira. Essa semana se resume em: gratidão. Obrigado Mauricio Bitencourt.</p><cite>Emerson Leandro Gregorio, Chief of Compliance Officer, Petrovina Sementes</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Benefícios</h4>
+
+
+
+<p>Com o uso da automação de decisões, você poderá obter maior&nbsp;<strong>velocidade, escalabilidade e confiabilidade</strong>&nbsp;dos serviços na entrega de valor aos clientes.</p>
+
+
+
+<p>Com base nos dados mais detalhados de execução dos processos, você poderá habilitar um monitoramento poderoso com capacidades analíticas próximas do tempo real e identificar novos pontos de melhoria dos&nbsp;<strong>processos digitizados</strong>.</p>
+
+
+
+<p>Com o conhecimento adquirido neste workshop, você poderá&nbsp;<strong>substituir progressivamente práticas ultrapassadas</strong>, como, por exemplo, trâmites manuais em papel e e-mails, controles em planilhas, sistemas obsoletos e atrasos por decisões que não necessitam de julgamento.</p>
+
+
+
+<p>Com a modelagem e a execução de casos adaptativos, você poderá descrever, capturar e automatizar o que os&nbsp;<strong>trabalhadores do conhecimento</strong>&nbsp;realizam.</p>
+
+
+
+<p>Comprovamos que o mapeamento, modelagem, análise e design de processos, casos e decisões São cada vez melhores à medida que se conhece mais sobre as&nbsp;<strong>execuções na prática</strong>.</p>
+
+
+
+<p>Conheça o&nbsp;<strong>potencial dos standards de BPM e tecnologias</strong>&nbsp;Open Source de automação para aproveitar componentes existentes que aumentam significativamente a produtividade de desenvolvimento e operação.</p>
+
+
+
+<p>Agilidade para obter&nbsp;<strong>software em funcionamento</strong>, documentação de negócio e cenários de testes.</p>
+
+
+
+<p>A modelagem e automação de decisões com base em regras de negócio é perfeita para produzir escalabilidade e precisão de ato administrativo&nbsp;<strong>vinculado</strong>&nbsp;sem julgamento. Por outro lado, a modelagem e automação de casos adaptativos são mais apropriados para ato administrativo&nbsp;<strong>discricionário</strong>&nbsp;que permite análise subjetiva a partir da valoração dos fatos, produzindo uma base de comportamentos e padrões ricos para o estabelecimento de novos processos e decisões.</p>
+
+
+
+<p>Iniciativas de documentação de processos, na maioria dos casos, levam à paralisia por análise. Em vez disso, utilize os conhecimentos práticos em&nbsp;<strong>DevOps</strong>&nbsp;destes workshops para estabilizar os processos, criar um pipeline de projetos com&nbsp;<strong>integração contínua (CI)</strong>&nbsp;e&nbsp;<strong>entrega contínua (CD)</strong>&nbsp;de processos, casos e decisões automatizados para obter o&nbsp;<em>feedback loop</em>&nbsp;de novas ideias de produto, alinhando estratégias e necessidades dos clientes.</p>
+
+
+
+<p>O gerenciamento de decisões permite criar&nbsp;<strong>uma única fonte de verdade</strong>&nbsp;da organização, habilita a transformação digital, simplifica o fluxo de valor, cria contexto para implementar o aprendizado de máquina (<em>Machine Learning</em>) e endereça de forma disruptiva a substituição das tarefas humanas dos processos.</p>
+
+
+
+<p>Incorpore tecnologias que&nbsp;<strong>impactam em ganhos significativos de produtividade</strong>&nbsp;para colher os benefícios de processos mais enxutos, eficazes, rápidos e baratos.</p>
+
+
+
+<p>Potencialize o&nbsp;<strong>estabelecimento de confiança com clientes e parceiros</strong>, orquestrando processos integrados a APIs de cadastros, tornando a experiência do usuário final mais fluída, eliminando papelada, verificações e burocracia.</p>
+
+
+
+<p>Processos e decisões automatizadas com o uso e ícones para visualização gráfica do contexto dos dados e algoritmos, garantem trilhas de auditoria e conformidade ao Artigo 20 da <strong>LGPD Lei Geral de Proteção de Dados</strong> (Artigo 22 da GDPR) garantindo ao titular dos dados o direito a solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados pessoais.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;Curso muito prático, mão na massa. Material didático claro e organizado. Realmente, saio com segurança para utilizar a solução em projetos produtivos. Das soluções que pude ter contato até o momento, a Camunda é a que se mostrou mais aderente às práticas ágeis e de DevOps atuais. O treinamento com o Maurício veio para confirmar a boa impressão que eu já tinha em relação à ferramenta, principalmente nos quesitos performance, escalabilidade, poder de representação e facilidade de uso.&#8221;</p><cite>Arthur Viñas dos Santos, Solutions Architect na NTConsult</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading"><strong>Formas de pagamento e inscrições</strong></h4>
+
+
+
+<p>Cartão de Crédito em até 3x via PayPal sem acréscimo ou em até 12x via plataforma&nbsp;<a href="https://www.sympla.com.br/projeler">Sympla</a>.</p>
+
+
+
+<p>A vista via depósito em conta corrente: BB, Ag 3537-8, Conta 15.386-9 CNPJ 08.044.990/0001-71</p>
+
+
+
+<p>Nota de Empenho ou Autorização de Fornecimento &#8211; utilize a ficha de inscrição do&nbsp;<a href="http://www.projeler.com.br/pdf/projeler-folder-hands-on-workshop.pdf">folder em PDF</a>.</p>
+
+
+
+<p><a href="http://www.projeler.com.br/contato/index.jsp">Clique aqui para entrar em contato e solicitar mais informações.</a></p>
+
+
+
+<blockquote class="wp-block-quote"><p>&#8220;O curso foi extremamente proveitoso e permitiu que eu pudesse rever alguns conceitos e experimentar na prática o que tem de mais atual em processos. Tudo isso proporcionado pela competência inigualável de Maurício.&#8221;</p><cite>Joaquim Francisco Ferreira Filho, CBPP®, Consultor na Integral Gestão por Processos</cite></blockquote>
+
+
+
+<h4 class="wp-block-heading">Comentários nas Redes Sociais</h4>
+
+
+
+<p><strong>LinkedIn</strong></p>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6621033194059767809" height="631" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+
+<p><strong>Twitter</strong></p>
+
+
+<blockquote class="twitter-tweet">
+<p lang="pt" dir="ltr">Ano passado pude treinar diversas pessoas em quatro edições do Hands-On-Workshop para colocar a mão na massa e aprender na prática como ir da modelagem à execução de processos e decisões com técnicas e tecnologias modernas. </p>
+<p>Em 2020 teremos mais quatro e…<a href="https://t.co/7yIhu7Gc8A">https://t.co/7yIhu7Gc8A</a></p>
+<p>— Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/1215268241704017921?ref_src=twsrc%5Etfw">January 9, 2020</a></p></blockquote>
+<p> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>TDC 2017 Porto Alegre</title>
+		<link>https://mauriciobitencourt.com/eventos/tdc-2017-porto-alegre/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 16 Nov 2017 12:23:04 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[Modelagem de Casos]]></category>
+		<category><![CDATA[Modelagem de Decisões]]></category>
+		<category><![CDATA[Modelagem de Processos]]></category>
+		<category><![CDATA[Porto Alegre]]></category>
+		<category><![CDATA[Projeler]]></category>
+		<category><![CDATA[TDC]]></category>
+		<category><![CDATA[Transformação Digital]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1092</guid>
+
+					<description><![CDATA[Estive na edição de Porto Alegre do TDC The Developer&#8217;s Conference juntamente com Andreas Stange, Felix Müller e Stephan Aina vindos da sede da Camunda em Berlim. No estade da Camunda pudemos demonstrar ao vivo os produtos Cawemo para modelagem colaborativa na nuvem, o Camunda BPM 7.8 para automatizar workflows e decisões e a nova [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Estive na edição de Porto Alegre do <a href="http://www.thedevconf.com.br/tdc/2017/index.html">TDC The Developer&#8217;s Conference</a> juntamente com <a href="https://www.linkedin.com/in/andreas-stange-86a42026/">Andreas Stange</a>, <a href="https://www.linkedin.com/in/felix-m%C3%BCller-67866645/">Felix Müller</a> e <a href="https://www.linkedin.com/in/stephanaina/">Stephan Aina</a> vindos da sede da <a href="https://camunda.com/about/about-us/">Camunda</a> em Berlim.</p>
+<p><span id="more-1092"></span></p>
+<p>No estade da Camunda pudemos demonstrar ao vivo os produtos <a href="https://cawemo.com/">Cawemo</a> para modelagem colaborativa na nuvem, o <a href="https://vimeo.com/245696691">Camunda BPM 7.8</a> para automatizar <a href="https://camunda.com/products/bpmn-engine/">workflows</a> e <a href="https://camunda.com/products/dmn-engine/">decisões</a> e a nova versão do <a href="https://vimeo.com/226307880">Optimize</a> para analisar e otimizar processos a parir de dados das instancias executadas.</p>
+<p>Foi uma satisfação palestrar nas trilhas Transformação Digital, Análise de Negócios e Microserviços.</p>
+<h3>Transformação Digital de Processos, Casos e Decisões</h3>
+<p>Por Maurício Bitencourt</p>
+<h6>Resumo</h6>
+<p>A digitalização aumentou a velocidade dos negócios e o Gerenciamento de Processos e Decisões (BPM/BDM) estão no centro desta mudança de era, exigindo novas habilidades focadas no potencial dos indivíduos para a entrega contínua de ideias em software.<br />
+Demonstrarei novos paradigmas de desenvolvimento para endereçar a abrangência e a complexidade crescentes de sistemas não estáticos.<br />
+Serão abordadas arquiteturas, técnicas e tecnologias para ir da modelagem à execução de processos (BPMN), casos (CMMN) e decisões com base em regras de negócio (DMN) em software Open Source para ir além da especialização em determinadas partes para uma abordagem de melhoria e transformação do negócio de ponta a ponta.</p>
+<p>TAG: Digital Transformation of Processes, Cases and Decisions</p>
+<h6>Slides</h6>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-2017-porto-alegre-mauricio-bitencourt-trilha-transformacao-digital-email.pdf">Clique aqui para baixar os slides desta apresentação em PDF.</a></p>
+<p><iframe loading="lazy" src="https://www.slideshare.net/slideshow/embed_code/key/g45PS3wuBb4zQ6" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+<p>&nbsp;</p>
+<h3>Da Modelagem à Execução de Processos, Casos e Decisões com BPMN, CMMN e DMN</h3>
+<p>Por Maurício Bitencourt</p>
+<h6>Resumo</h6>
+<p>Na tríade de modelos e notações de BPM com BPMN, CMMN e DMN, utiliza-se muito de elementos gráficos, proporcionando mais inovação na entrega contínua de software com base em processos, casos e decisões, a partir de modelos mais simples, inteligentes, ágeis e inovadores.<br />
+Serão apresentadas técnicas e tecnologias abertas para a criação de modelos claros e objetivos, ricos em elementos gráficos e que permitam acelerar a criação e a implementação.<br />
+Demonstraremos processos, casos e decisões como ativos de conhecimento distintos e integrados, que permitem um aumento de comunicação, colaboração e transparência através de todo o ciclo de vida de aplicação.</p>
+<p>TAG: From modeling to the execution of the business process, dynamic case, and decisions based on business rules.</p>
+<h6>Slides</h6>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-2017-porto-alegre-mauricio-bitencourt-trilha-analise-de-negocios-email.pdf">Clique aqui para baixar os slides desta apresentação em PDF.</a></p>
+<p><iframe loading="lazy" src="https://www.slideshare.net/slideshow/embed_code/key/2frpdMf5AwVdeF" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+<p>&nbsp;</p>
+<h3>Orchestration of Microservices</h3>
+<p>Por Felix Müller</p>
+<h6>Resumo</h6>
+<p>How can you create an end-to-end business process using a bunch of decoupled microservices? How can you bring visibility to such workflow? How can you support long-running processes by not losing the advantages of decoupling and stateless? Within this talk, I want to answer all of these questions by using the open source workflow engine Camunda BPM in live coding examples with Spring Boot and Docker. Let&#8217;s orchestrate some microservices together!</p>
+<p>&nbsp;</p>
+<p>Mensagens nas redes sociais</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">I&#39;m looking forward to meeting the Camunda guys at TDC in Brazil. Warm passionate people with fantastic ambition for digital transformation. <a href="https://t.co/gksRjz5JUi">https://t.co/gksRjz5JUi</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/927575103596089346?ref_src=twsrc%5Etfw">November 6, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Visit us at Camunda&#39;s booth at UniRitter in Porto Alegre, Brazil <a href="https://t.co/Hlz1ZjoEK2">https://t.co/Hlz1ZjoEK2</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/928240469733183488?ref_src=twsrc%5Etfw">November 8, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="pt" dir="ltr">Compartilho a minha apresentação no TDC 2017 Porto Alegre &#8211; Transformação Digital de Processos, Casos e Decisões <a href="https://t.co/NEch0txGtn">https://t.co/NEch0txGtn</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/928652779287187456?ref_src=twsrc%5Etfw">November 9, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="pt" dir="ltr">Apresentação no TDC 2017 Porto Alegre Da Modelagem à Execução de Processos, Casos e Decisões com BPMN, CMMN e DMN. <a href="https://t.co/0vnKh06XVt">https://t.co/0vnKh06XVt</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/928650625172365314?ref_src=twsrc%5Etfw">November 9, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Excellent talk about Orchestration of Microservices <a href="https://t.co/Pt1GCbMNEP">https://t.co/Pt1GCbMNEP</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/929047278949629957?ref_src=twsrc%5Etfw">November 10, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="pt" dir="ltr"><a href="https://twitter.com/felixlmueller?ref_src=twsrc%5Etfw">@felixlmueller</a> drinking chimarrão at <a href="https://twitter.com/TheDevConf?ref_src=twsrc%5Etfw">@TheDevConf</a> Porto Alegre <a href="https://t.co/1Al1Fh4L77">pic.twitter.com/1Al1Fh4L77</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/929395060734603264?ref_src=twsrc%5Etfw">November 11, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<h6>Fotos</h6>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23405864_1612468302146875_9201605140165486732_o.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1101" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23405864_1612468302146875_9201605140165486732_o-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23467440_1612522235474815_6432151480864864140_o.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1102" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23467440_1612522235474815_6432151480864864140_o-150x150.jpg" alt="" width="150" height="150" /></a>  <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_141116785.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1105" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_141116785-150x150.jpg" alt="" width="150" height="150" /></a>  <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_143548620-2.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1106" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_143548620-2-150x150.jpg" alt="" width="150" height="150" /></a></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09.jpeg"><img decoding="async" loading="lazy" class="alignnone wp-image-1148 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-1024x576.jpeg" alt="" width="700" height="394" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-1024x576.jpeg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-300x169.jpeg 300w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-768x432.jpeg 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-700x394.jpeg 700w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09.jpeg 1280w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23659636_1622468871146818_4910652465680822182_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1152" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23659636_1622468871146818_4910652465680822182_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23754887_1622468634480175_1601398265486504848_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1153" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23754887_1622468634480175_1601398265486504848_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755048_1622468814480157_3129718196897981955_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1154" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755048_1622468814480157_3129718196897981955_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755210_1622476374479401_6353956654853572672_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1155" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755210_1622476374479401_6353956654853572672_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843594_1622476534479385_3147728402139287586_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1156" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843594_1622476534479385_3147728402139287586_n-150x150.jpg" alt="" width="150" height="150" /></a><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843418_1622458484481190_3602575137496733380_n-1.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1157" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843418_1622458484481190_3602575137496733380_n-1-150x150.jpg" alt="" width="150" height="150" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Mais fotos na <a href="https://www.facebook.com/TheDevelopersConference/photos/">página do TDC no Facebook</a></p>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook.jpeg"><img decoding="async" loading="lazy" class="alignnone wp-image-1108 size-full" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook.jpeg" alt="" width="720" height="1280" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook.jpeg 720w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook-169x300.jpeg 169w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook-576x1024.jpeg 576w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook-394x700.jpeg 394w" sizes="(max-width: 720px) 100vw, 720px" /></a></p>
+<p>&nbsp;</p>
+<p>A seguir alguns links para as gravações das palestras na Trilha Stadium:</p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-2/?rdst_srcid=997745">Sprints de Experimentação: um framework para a quarta revolução industrial &#8211; Paulo Caroli</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-10/?rdst_srcid=1004866">Produtividade Ninja no Android Studio &#8211; Ramon Ribeiro Rabello</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-11/?rdst_srcid=1002011">Demystifying Cloud Foundry: What, How and Why &#8211; Lucas Rosa Cruz Reginato</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-12/?rdst_srcid=1002004">Quando é lançar antes? &#8211; Daniel Wildt</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-13/?rdst_srcid=1001977">Review, demo e apresentações, o que de fato importa para o seu produto? &#8211; Guilherme Motta</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-1/">Lições aprendidas no código fonte do Roslyn &#8211; Elemar Rodrigues Severo Junior</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-3/?rdst_srcid=995903">Utilizando Golang para minerar moedas como o Bitcoin &#8211; Felipe Teixeira</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-4/">Infraestrutura imutável com mobykit (Moby, Linuxkit e Infrakit) &#8211; Wellington Figueira da Silva</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-5/">Acessibilidade no iOS &#8211; Gabriel Oliva</a></p>
+<p><a href="https://www.eventials.com/Globalcode/events/tdconline-porto-alegre-2017-stadium/?rdst_srcid=987319">E muito mais&#8230;</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

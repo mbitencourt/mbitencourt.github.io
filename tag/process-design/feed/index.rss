@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>process design &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/process-design/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Mon, 30 May 2022 13:45:31 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>process design &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Novas Edições dos Cursos da Roadmap</title>
+		<link>https://mauriciobitencourt.com/cursos/novas-edicoes-dos-cursos-da-roadmap/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 22 Nov 2021 18:33:29 +0000</pubDate>
+				<category><![CDATA[cursos]]></category>
+		<category><![CDATA[process design]]></category>
+		<category><![CDATA[value chain]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2492</guid>
+
+					<description><![CDATA[EXPLORAR » MAPEAR » TRANSFORMAR 
+Esta trilha de aprendizagem aborda o pensamento de fora para dentro da organização, explorando todos os aspectos da experiência do cliente, as cadeias de valor e as transformações dos processos internos para a entrega plena de valor aos clientes.
+
+PROJETAR » AUTOMATIZAR » OTIMIZAR
+Esta trilha de aprendizagem aborda a modelagem de fluxos de trabalho e regras de negócio, o desenvolvimento e operações (DevOps), o monitoramento das atividades do negócio e a otimização de processos e decisões automatizados.]]></description>
+										<content:encoded><![CDATA[
+<p>Aproveite para se capacitar nas novas edições dos cursos da Roadmap » em fevereiro, março e abril.</p>
+
+
+
+<p>Saiba mais sobre a opinião de quem já participou de outras edições dos cursos neste post.</p>
+
+
+
+<span id="more-2492"></span>
+
+
+
+<h2 class="wp-block-heading" id="exo">Construção da Cadeia de Valor e Arquitetura de Processos</h2>
+
+
+
+<h4 class="wp-block-heading" id="exo">VC &#8211; VALUE CHAIN</h4>
+
+
+
+<p><strong>Foco na gestão de portfólio para qualificar escolhas, gerir e sustentar entrega de valor.</strong></p>
+
+
+
+<p id="exo">Entregue valor aos clientes com mais agilidade para inovar e otimizar recursos.</p>
+
+
+
+<p id="exo">Realize o mapeamento de processos em alto nível para orientar o negócio ao que os clientes e usuários dos serviços realmente desejam.</p>
+
+
+
+<p id="exo">Obtenha sucesso com um bom mapeamento de processos, passo que antecede a automação de processos e decisões, a robotização de tarefas humanas com RPA e a integração com aprendizado de máquina.</p>
+
+
+
+<p id="exo">Crie condições para que a transformação no ambiente externo da organização impulsione mudanças internas com mais velocidade.</p>
+
+
+
+<p id="exo">Entenda o escopo de processos ponta a ponta e priorize iniciativas de transformação e projetos de melhoria.</p>
+
+
+
+<p id="exo">Crie uma linguagem comum a partir da cadeia de valor para a execução da estratégia via processos e mantenha as pessoas mais alinhadas com o propósito da organização e um nível mais alto de colaboração entre as áreas funcionais.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.roadmap.com.br/vc"><img decoding="async" width="960" height="720" src="https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-vc.png" alt="" class="wp-image-2494" srcset="https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-vc.png 960w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-vc-300x225.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-vc-768x576.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-vc-700x525.png 700w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure>
+
+
+
+<p><a href="https://www.roadmap.com.br/vc">Saiba mais.</a></p>
+
+
+
+<h2 class="wp-block-heading" id="exo">Design de Processos e Regras de Decisão com Modelos Executáveis</h2>
+
+
+
+<h4 class="wp-block-heading" id="exo">PD &#8211; PROCESS DESIGN</h4>
+
+
+
+<p><strong>Construa processos de negócio mais inteligentes e eficazes, usando os Standards de BPM.</strong></p>
+
+
+
+<p id="exo">Neste curso você aprenderá técnicas poderosas para modelar graficamente processos de negócio em BPMN e regras de decisão em DMN.</p>
+
+
+
+<p id="exo">Com BPMN 2.0&nbsp;<em>(Business Process Model and Notation)</em>&nbsp;você poderá representar claramente os processos de negócio de maneira completa e precisa sobre o seu estado atual ou proposto e criar uma documentação para ser utilizada como base em treinamento, comunicação, discussão, medição, análise, identificação das oportunidades de melhoria, automação e transformação no fluxo de valor.</p>
+
+
+
+<p id="exo">Com DMN 1.3&nbsp;<em>(Decision Model and Notation)</em>&nbsp;você poderá transformar regras de negócio em ativos de conhecimento executáveis para construir processos de negócio mais simples, inteligentes, ágeis e inovadores.</p>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped wp-block-gallery-1 is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-pd.png"><img decoding="async" loading="lazy" width="960" height="720" src="https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-pd.png" alt="" data-id="2495" data-full-url="https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-pd.png" data-link="https://mauriciobitencourt.com/?attachment_id=2495" class="wp-image-2495" srcset="https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-pd.png 960w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-pd-300x225.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-pd-768x576.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-pd-700x525.png 700w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure></li></ul></figure>
+
+
+
+<p><a href="https://www.roadmap.com.br/pd">Saiba mais.</a></p>
+
+
+
+<h2 class="wp-block-heading" id="exo">Desenvolvimento com Standards de BPM em Motores de Processos e Regras de Decisão</h2>
+
+
+
+<h4 class="wp-block-heading" id="exo">PA &#8211; PROCESS AUTOMATION</h4>
+
+
+
+<p><strong>Obtenha a agilidade, visibilidade e escalabilidade necessárias para alcançar a transformação digital.</strong></p>
+
+
+
+<p id="exo-justificado">Descubra como implementar a cultura de automação de processos e decisões na sua empresa em poucas semanas.</p>
+
+
+
+<p id="exo-justificado">Integre pessoas, processos, decisões e tecnologia BPMS para promover fluxo contínuo de criação de valor aos clientes.</p>
+
+
+
+<p id="exo-justificado">Melhore seus processos com soluções rápidas e flexíveis de gestão de processos de negócios e integração.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://www.roadmap.com.br/pa"><img decoding="async" loading="lazy" width="960" height="720" src="https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-pa.png" alt="" class="wp-image-2496" srcset="https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-pa.png 960w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-pa-300x225.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-pa-768x576.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/roadmap-twitter-cards-pa-700x525.png 700w" sizes="(max-width: 960px) 100vw, 960px" /></a></figure>
+
+
+
+<p><a href="https://www.roadmap.com.br/pa">Saiba mais.</a></p>
+
+
+
+<h2 class="wp-block-heading" id="exo">Operações e Monitoramento da Execução de Processos Automatizados</h2>
+
+
+
+<h4 class="wp-block-heading" id="exo">OM &#8211; OPERATIONS AND MONITORING</h4>
+
+
+
+<p><strong>Saiba como operar e monitorar fluxos de trabalho e decisões automatizadas em produção para garantir segurança, analisar e resolver problemas técnicos.</strong></p>
+
+
+
+<p id="exo">Identifique pontos de melhorias nos processos em um monitoramento instantâneo das atividades com precisão e capacidades analíticas em tempo real.</p>
+
+
+
+<p id="exo">Analise e transforme processos mais inovadores para prover melhores serviços aos clientes com escalabilidade exponencial.</p>
+
+
+
+<p id="exo">Crie equipes mais eficientes com a cultura&nbsp;DevOps, que enfatiza valores como propriedade e responsabilidade. A colaboração mais próxima de equipes de desenvolvedores e operações, proporciona um ambiente de compartilhamento de responsabilidades, combinando fluxos de trabalho para a economia de tempo, redução de desperdícios e ineficiências.</p>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading">Opinião de quem já participou</h2>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-marcelo.png"><img decoding="async" loading="lazy" width="915" height="788" src="https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-marcelo.png" alt="" class="wp-image-2504" srcset="https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-marcelo.png 915w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-marcelo-300x258.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-marcelo-768x661.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-marcelo-700x603.png 700w" sizes="(max-width: 915px) 100vw, 915px" /></a><figcaption><a href="https://www.linkedin.com/feed/update/urn:li:activity:6868526008253915137/" target="_blank" rel="noreferrer noopener">https://www.linkedin.com/feed/update/urn:li:activity:6868526008253915137/</a></figcaption></figure>
+
+
+
+<p>&#8220;<em>Finalizado mais um treinamento em Gestão de Processos com&nbsp;<a href="https://www.linkedin.com/in/ACoAAAAMleYBGRhtEighS7JXcLTcBO6BCsNpE6M">Maurício Bitencourt</a>. Obrigado Maurício pelo ensinamentos, com certeza fazem toda a diferença para a melhoria da gestão.<br>&#8220;Bora&#8221; encarar mais esse desafio de implantar esses conhecimentos na Gestão Pública&#8230;.</em>&#8221; &#8211; Marcelo Eduardo Schubert, Gerente do Escritório de Processos na Secretaria de Administração do Estado de Santa Catarina.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-erick.png"><img decoding="async" loading="lazy" width="910" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-erick-910x1024.png" alt="" class="wp-image-2507" srcset="https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-erick-910x1024.png 910w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-erick-267x300.png 267w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-erick-768x865.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-erick-622x700.png 622w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-erick.png 915w" sizes="(max-width: 910px) 100vw, 910px" /></a><figcaption><a rel="noreferrer noopener" href="https://www.linkedin.com/feed/update/urn:li:activity:6867257590158647296/" target="_blank">https://www.linkedin.com/feed/update/urn:li:activity:6867257590158647296/</a></figcaption></figure>
+
+
+
+<p><em>&#8220;It&#8217;s with great pride that I share my certificate for one more skill that I like and have been working with a lot, BPM. Thank you very much master&nbsp;<a href="https://www.linkedin.com/in/ACoAAAAMleYBGRhtEighS7JXcLTcBO6BCsNpE6M">Maurício Bitencourt</a>!<br>&#8212;<br>É com muito orgulho que compartilho o certificado de mais uma skill que tenho gostado e trabalhado muito, BPM. Muito obrigado mestre&nbsp;<a href="https://www.linkedin.com/in/ACoAAAAMleYBGRhtEighS7JXcLTcBO6BCsNpE6M">Maurício Bitencourt</a>!&#8221;</em> &#8211; Erick Keller, Senior Software Engineer at BairesDev</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-cantarutti.jpg"><img decoding="async" loading="lazy" width="714" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-cantarutti-714x1024.jpg" alt="" class="wp-image-2513" srcset="https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-cantarutti-714x1024.jpg 714w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-cantarutti-209x300.jpg 209w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-cantarutti-768x1101.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-cantarutti-488x700.jpg 488w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-cantarutti.jpg 840w" sizes="(max-width: 714px) 100vw, 714px" /></a><figcaption><a href="https://www.linkedin.com/feed/update/urn:li:activity:6867143343718072320/">https://www.linkedin.com/feed/update/urn:li:activity:6867143343718072320/</a></figcaption></figure>
+
+
+
+<p>&#8220;A alegria que se tem em pensar e aprender faz-nos pensar e aprender ainda mais.&#8221; Aristóteles</p>
+
+
+
+<p>Obrigado&nbsp;<a href="https://www.linkedin.com/in/ACoAAAAMleYBGRhtEighS7JXcLTcBO6BCsNpE6M">Maurício Bitencourt</a>&nbsp;pela oportunidade que você proporcionou nesta jornada de aprendizagem, esse curso mudou paradigmas e estrutura de um cara como eu, com muitos anos de experiência em desenvolvimento de software, gestão de projetos.<br>Parabéns também a Equipe da&nbsp;<a href="https://www.linkedin.com/company/camunda/">Camunda</a>&nbsp;que construiu essa ferramenta fantástica!<br><a href="https://www.linkedin.com/feed/hashtag/?keywords=bpmn&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6867143343718072320">#bpmn</a><a href="https://www.linkedin.com/feed/hashtag/?keywords=camunda&amp;highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6867143343718072320">#camunda</a></p>
+
+
+
+<p>&#8220;The joy in thinking and learning makes us think and learn even more.&#8221; Aristotle</p>
+
+
+
+<p>Thank you Maurício Bitencourt for the opportunity you provided in this learning journey, this course changed paradigms and structure of a guy like me, with many years of experience in software development, project management.</p>
+
+
+
+<p>Congratulations also to the Camunda Team who built this fantastic tool!</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-nicolle.png"><img decoding="async" loading="lazy" width="473" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-nicolle-473x1024.png" alt="" class="wp-image-2516" srcset="https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-nicolle-473x1024.png 473w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-nicolle-139x300.png 139w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-nicolle-323x700.png 323w, https://mauriciobitencourt.com/wp-content/uploads/2021/11/opiniao-nicolle.png 701w" sizes="(max-width: 473px) 100vw, 473px" /></a><figcaption><a href="https://www.linkedin.com/posts/nicolledd_tecnologia-negaejcios-bpmn-activity-6870965403825250304-b05A/" target="_blank" rel="noreferrer noopener">https://www.linkedin.com/posts/nicolledd_tecnologia-negaejcios-bpmn-activity-6870965403825250304-b05A/</a></figcaption></figure>
+
+
+
+<p>É com muito prazer que compartilho o certificado de conclusão da Trilha de Aprendizagem Projetar » Automatizar » Otimizar, ministrada pelo&nbsp;<a href="https://www.linkedin.com/in/ACoAAAAMleYBGRhtEighS7JXcLTcBO6BCsNpE6M">Maurício Bitencourt</a>.</p>
+
+
+
+<p>A didática somada à massiva experiência do Mauricio fez com que: o conhecimento que eu já tinha trabalhando com o&nbsp;<a href="https://www.linkedin.com/company/camunda/">Camunda</a>&nbsp;no último ano passasse a contar com melhores práticas; o que eu não conhecia passou a fazer parte da minha realidade e tudo se encaixando prefeitamente dados os exemplos e exercícios práticos.</p>
+
+
+
+<p>Com o público sendo tanto a área de negócios quanto a área de tecnologia, quando eu não estava lá com o Google aberto na telinha do lado me familiarizando com termos novos (ou futricando alguma coisa relacionada, pra falar a verdade), estava compartilhando com meus colegas situações vividas na&nbsp;<a href="https://www.linkedin.com/company/zazvendas/">ZAZ Vendas</a>&nbsp;e como o tema abordado foi descoberto ou tratado por aqui. Ou seja, absolutamente todo o conteúdo foi aproveitado.</p>
+
+
+
+<p>Recomendo o curso para:<br>&#8211; Quem já trabalha com Camunda: acredite, boas práticas encurtam o seu ciclo de aprendizagem e fazem com que você quebre menos a cara lá na frente;<br>&#8211; Quem trabalha com BPMN: uma coisa é mapear o teu processo num lindo mapa colorido que ninguém lembra, outra é vê-lo vivo e sendo executado pela empresa toda;<br>&#8211; Quem programa: teu código tecnicamente impecável pode sim ter um toque de processos de negócio e ficar ainda melhor, afinal, você pode dar na mão do seu cliente o poder de controlar as regras de negócio sem quebrar tudo, já pensou? <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br>&#8211; Quem está pensando em implantar automação de processos na sua empresa: se você já está pensando nisso então a resposta provavelmente seja &#8220;vá fundo!&#8221; mas apesar de todo mundo achar que entende um fluxograma, o curso abrange muito mais do que isso então sugiro fortemente escolher um time multidisciplinar engajado e colocá-los todos no mesmo barco pra poder maximizar a absorção do conteúdo do curso voltado à realidade do seu negócio.</p>
+
+
+
+<p>Por fim, saio dessa Trilha já de olho nas próximas. <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f440.png" alt="👀" class="wp-smiley" style="height: 1em; max-height: 1em;" />. &#8211; <strong>Nicolle Deangelis Diniz</strong>, Analista de Produtos &#8211; Automação de Processos na ZAZ Vendas</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-juliano.png"><img decoding="async" loading="lazy" width="649" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-juliano-649x1024.png" alt="" class="wp-image-2544" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-juliano-649x1024.png 649w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-juliano-190x300.png 190w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-juliano-768x1212.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-juliano-974x1536.png 974w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-juliano-1298x2048.png 1298w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-juliano-444x700.png 444w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-juliano.png 1762w" sizes="(max-width: 649px) 100vw, 649px" /></a><figcaption><a href="https://www.linkedin.com/feed/update/urn:li:activity:6936411625411260416/" data-type="URL" data-id="https://www.linkedin.com/feed/update/urn:li:activity:6936411625411260416/">https://www.linkedin.com/feed/update/urn:li:activity:6936411625411260416/</a></figcaption></figure>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>&#8220;Acabei de conquistar o certificado do curso de &#8220;#Camunda #BPMN Platform&#8221; e já estou aplicando os conhecimentos adquiridos de imediato. Obrigado projessor Maurício Bitencourt por compartilhar um pouco dos seus conhecimentos.&#8221;</p></blockquote></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-pamela.png"><img decoding="async" loading="lazy" width="591" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-pamela-591x1024.png" alt="" class="wp-image-2546" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-pamela-591x1024.png 591w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-pamela-173x300.png 173w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-pamela-768x1331.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-pamela-886x1536.png 886w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-pamela-1182x2048.png 1182w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-pamela-404x700.png 404w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-pamela.png 1762w" sizes="(max-width: 591px) 100vw, 591px" /></a><figcaption><a href="https://www.linkedin.com/feed/update/urn:li:activity:6936418559396872192/" data-type="URL" data-id="https://www.linkedin.com/feed/update/urn:li:activity:6936418559396872192/">https://www.linkedin.com/feed/update/urn:li:activity:6936418559396872192/</a></figcaption></figure>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>&#8220;Mês passado concluí o curso de &#8216;Design de Processos e Regras de Decisão com Modelos Executáveis&#8217;. Mais uma super experiência com a Roadmap. Muito obrigada Maurício Bitencourt por mais essa oportunidade. Mergulhar com você e suas turmas incríveis, me traz cada vez mais e mais conhecimento e experiência. Suas aulas são excelentes!&#8221;</p></blockquote></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-ricardo.png"><img decoding="async" loading="lazy" width="591" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-ricardo-591x1024.png" alt="" class="wp-image-2548" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-ricardo-591x1024.png 591w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-ricardo-173x300.png 173w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-ricardo-768x1331.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-ricardo-886x1536.png 886w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-ricardo-1182x2048.png 1182w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-ricardo-404x700.png 404w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-ricardo.png 1762w" sizes="(max-width: 591px) 100vw, 591px" /></a><figcaption>https://www.linkedin.com/feed/update/urn:li:activity:6934482921823043584/</figcaption></figure>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Foram seis semanas de muito conteúdo, aprendizado, troca de experiências e no meu caso: mudança de mindset. Obrigado Maurício Bitencourt por compartilhar seu vasto conhecimento sobre BPM e Camunda conosco. Saiba que o aprendizado adquirido já está resultando em bons frutos nos desafios que temos no curtíssimo prazo!</p></blockquote></figure>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-gabriel-1.png"><img decoding="async" loading="lazy" width="591" height="1024" src="https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-gabriel-1-591x1024.png" alt="" class="wp-image-2551" srcset="https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-gabriel-1-591x1024.png 591w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-gabriel-1-173x300.png 173w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-gabriel-1-768x1331.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-gabriel-1-886x1536.png 886w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-gabriel-1-1182x2048.png 1182w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-gabriel-1-404x700.png 404w, https://mauriciobitencourt.com/wp-content/uploads/2022/05/roadmap-edicao-8-gabriel-1.png 1762w" sizes="(max-width: 591px) 100vw, 591px" /></a><figcaption><a href="https://www.linkedin.com/feed/update/urn:li:activity:6934294683195965440/" data-type="URL" data-id="https://www.linkedin.com/feed/update/urn:li:activity:6934294683195965440/">https://www.linkedin.com/feed/update/urn:li:activity:6934294683195965440/</a></figcaption></figure>
+
+
+
+<figure class="wp-block-pullquote"><blockquote><p>Um aprendizado incrível com Maurício Bitencourt. &#8220;De passo em passo, buscando a excelência &#8211; Melhoria Contínua&#8221;</p></blockquote></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

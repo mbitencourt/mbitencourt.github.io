@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TDC &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/tdc/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Wed, 20 Nov 2019 18:21:54 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>TDC &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>TDC 2017 Porto Alegre</title>
+		<link>https://mauriciobitencourt.com/eventos/tdc-2017-porto-alegre/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 16 Nov 2017 12:23:04 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<category><![CDATA[Modelagem de Casos]]></category>
+		<category><![CDATA[Modelagem de Decisões]]></category>
+		<category><![CDATA[Modelagem de Processos]]></category>
+		<category><![CDATA[Porto Alegre]]></category>
+		<category><![CDATA[Projeler]]></category>
+		<category><![CDATA[TDC]]></category>
+		<category><![CDATA[Transformação Digital]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1092</guid>
+
+					<description><![CDATA[Estive na edição de Porto Alegre do TDC The Developer&#8217;s Conference juntamente com Andreas Stange, Felix Müller e Stephan Aina vindos da sede da Camunda em Berlim. No estade da Camunda pudemos demonstrar ao vivo os produtos Cawemo para modelagem colaborativa na nuvem, o Camunda BPM 7.8 para automatizar workflows e decisões e a nova [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Estive na edição de Porto Alegre do <a href="http://www.thedevconf.com.br/tdc/2017/index.html">TDC The Developer&#8217;s Conference</a> juntamente com <a href="https://www.linkedin.com/in/andreas-stange-86a42026/">Andreas Stange</a>, <a href="https://www.linkedin.com/in/felix-m%C3%BCller-67866645/">Felix Müller</a> e <a href="https://www.linkedin.com/in/stephanaina/">Stephan Aina</a> vindos da sede da <a href="https://camunda.com/about/about-us/">Camunda</a> em Berlim.</p>
+<p><span id="more-1092"></span></p>
+<p>No estade da Camunda pudemos demonstrar ao vivo os produtos <a href="https://cawemo.com/">Cawemo</a> para modelagem colaborativa na nuvem, o <a href="https://vimeo.com/245696691">Camunda BPM 7.8</a> para automatizar <a href="https://camunda.com/products/bpmn-engine/">workflows</a> e <a href="https://camunda.com/products/dmn-engine/">decisões</a> e a nova versão do <a href="https://vimeo.com/226307880">Optimize</a> para analisar e otimizar processos a parir de dados das instancias executadas.</p>
+<p>Foi uma satisfação palestrar nas trilhas Transformação Digital, Análise de Negócios e Microserviços.</p>
+<h3>Transformação Digital de Processos, Casos e Decisões</h3>
+<p>Por Maurício Bitencourt</p>
+<h6>Resumo</h6>
+<p>A digitalização aumentou a velocidade dos negócios e o Gerenciamento de Processos e Decisões (BPM/BDM) estão no centro desta mudança de era, exigindo novas habilidades focadas no potencial dos indivíduos para a entrega contínua de ideias em software.<br />
+Demonstrarei novos paradigmas de desenvolvimento para endereçar a abrangência e a complexidade crescentes de sistemas não estáticos.<br />
+Serão abordadas arquiteturas, técnicas e tecnologias para ir da modelagem à execução de processos (BPMN), casos (CMMN) e decisões com base em regras de negócio (DMN) em software Open Source para ir além da especialização em determinadas partes para uma abordagem de melhoria e transformação do negócio de ponta a ponta.</p>
+<p>TAG: Digital Transformation of Processes, Cases and Decisions</p>
+<h6>Slides</h6>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-2017-porto-alegre-mauricio-bitencourt-trilha-transformacao-digital-email.pdf">Clique aqui para baixar os slides desta apresentação em PDF.</a></p>
+<p><iframe loading="lazy" src="https://www.slideshare.net/slideshow/embed_code/key/g45PS3wuBb4zQ6" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+<p>&nbsp;</p>
+<h3>Da Modelagem à Execução de Processos, Casos e Decisões com BPMN, CMMN e DMN</h3>
+<p>Por Maurício Bitencourt</p>
+<h6>Resumo</h6>
+<p>Na tríade de modelos e notações de BPM com BPMN, CMMN e DMN, utiliza-se muito de elementos gráficos, proporcionando mais inovação na entrega contínua de software com base em processos, casos e decisões, a partir de modelos mais simples, inteligentes, ágeis e inovadores.<br />
+Serão apresentadas técnicas e tecnologias abertas para a criação de modelos claros e objetivos, ricos em elementos gráficos e que permitam acelerar a criação e a implementação.<br />
+Demonstraremos processos, casos e decisões como ativos de conhecimento distintos e integrados, que permitem um aumento de comunicação, colaboração e transparência através de todo o ciclo de vida de aplicação.</p>
+<p>TAG: From modeling to the execution of the business process, dynamic case, and decisions based on business rules.</p>
+<h6>Slides</h6>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-2017-porto-alegre-mauricio-bitencourt-trilha-analise-de-negocios-email.pdf">Clique aqui para baixar os slides desta apresentação em PDF.</a></p>
+<p><iframe loading="lazy" src="https://www.slideshare.net/slideshow/embed_code/key/2frpdMf5AwVdeF" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></p>
+<p>&nbsp;</p>
+<h3>Orchestration of Microservices</h3>
+<p>Por Felix Müller</p>
+<h6>Resumo</h6>
+<p>How can you create an end-to-end business process using a bunch of decoupled microservices? How can you bring visibility to such workflow? How can you support long-running processes by not losing the advantages of decoupling and stateless? Within this talk, I want to answer all of these questions by using the open source workflow engine Camunda BPM in live coding examples with Spring Boot and Docker. Let&#8217;s orchestrate some microservices together!</p>
+<p>&nbsp;</p>
+<p>Mensagens nas redes sociais</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">I&#39;m looking forward to meeting the Camunda guys at TDC in Brazil. Warm passionate people with fantastic ambition for digital transformation. <a href="https://t.co/gksRjz5JUi">https://t.co/gksRjz5JUi</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/927575103596089346?ref_src=twsrc%5Etfw">November 6, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Visit us at Camunda&#39;s booth at UniRitter in Porto Alegre, Brazil <a href="https://t.co/Hlz1ZjoEK2">https://t.co/Hlz1ZjoEK2</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/928240469733183488?ref_src=twsrc%5Etfw">November 8, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="pt" dir="ltr">Compartilho a minha apresentação no TDC 2017 Porto Alegre &#8211; Transformação Digital de Processos, Casos e Decisões <a href="https://t.co/NEch0txGtn">https://t.co/NEch0txGtn</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/928652779287187456?ref_src=twsrc%5Etfw">November 9, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="pt" dir="ltr">Apresentação no TDC 2017 Porto Alegre Da Modelagem à Execução de Processos, Casos e Decisões com BPMN, CMMN e DMN. <a href="https://t.co/0vnKh06XVt">https://t.co/0vnKh06XVt</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/928650625172365314?ref_src=twsrc%5Etfw">November 9, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="en" dir="ltr">Excellent talk about Orchestration of Microservices <a href="https://t.co/Pt1GCbMNEP">https://t.co/Pt1GCbMNEP</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/929047278949629957?ref_src=twsrc%5Etfw">November 10, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true">
+<p lang="pt" dir="ltr"><a href="https://twitter.com/felixlmueller?ref_src=twsrc%5Etfw">@felixlmueller</a> drinking chimarrão at <a href="https://twitter.com/TheDevConf?ref_src=twsrc%5Etfw">@TheDevConf</a> Porto Alegre <a href="https://t.co/1Al1Fh4L77">pic.twitter.com/1Al1Fh4L77</a></p>
+<p>&mdash; Maurício Bitencourt (@mbitencourt) <a href="https://twitter.com/mbitencourt/status/929395060734603264?ref_src=twsrc%5Etfw">November 11, 2017</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>&nbsp;</p>
+<h6>Fotos</h6>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23405864_1612468302146875_9201605140165486732_o.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1101" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23405864_1612468302146875_9201605140165486732_o-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23467440_1612522235474815_6432151480864864140_o.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1102" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23467440_1612522235474815_6432151480864864140_o-150x150.jpg" alt="" width="150" height="150" /></a>  <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_141116785.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1105" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_141116785-150x150.jpg" alt="" width="150" height="150" /></a>  <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_143548620-2.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1106" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/IMG_20171110_143548620-2-150x150.jpg" alt="" width="150" height="150" /></a></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09.jpeg"><img decoding="async" loading="lazy" class="alignnone wp-image-1148 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-1024x576.jpeg" alt="" width="700" height="394" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-1024x576.jpeg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-300x169.jpeg 300w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-768x432.jpeg 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09-700x394.jpeg 700w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/WhatsApp-Image-2017-11-08-at-23.17.09.jpeg 1280w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23659636_1622468871146818_4910652465680822182_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1152" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23659636_1622468871146818_4910652465680822182_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23754887_1622468634480175_1601398265486504848_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1153" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23754887_1622468634480175_1601398265486504848_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755048_1622468814480157_3129718196897981955_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1154" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755048_1622468814480157_3129718196897981955_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755210_1622476374479401_6353956654853572672_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1155" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23755210_1622476374479401_6353956654853572672_n-150x150.jpg" alt="" width="150" height="150" /></a> <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843594_1622476534479385_3147728402139287586_n.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1156" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843594_1622476534479385_3147728402139287586_n-150x150.jpg" alt="" width="150" height="150" /></a><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843418_1622458484481190_3602575137496733380_n-1.jpg"><img decoding="async" loading="lazy" class="alignnone size-thumbnail wp-image-1157" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/23843418_1622458484481190_3602575137496733380_n-1-150x150.jpg" alt="" width="150" height="150" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Mais fotos na <a href="https://www.facebook.com/TheDevelopersConference/photos/">página do TDC no Facebook</a></p>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook.jpeg"><img decoding="async" loading="lazy" class="alignnone wp-image-1108 size-full" src="http://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook.jpeg" alt="" width="720" height="1280" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook.jpeg 720w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook-169x300.jpeg 169w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook-576x1024.jpeg 576w, https://mauriciobitencourt.com/wp-content/uploads/2017/11/tdc-facebook-394x700.jpeg 394w" sizes="(max-width: 720px) 100vw, 720px" /></a></p>
+<p>&nbsp;</p>
+<p>A seguir alguns links para as gravações das palestras na Trilha Stadium:</p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-2/?rdst_srcid=997745">Sprints de Experimentação: um framework para a quarta revolução industrial &#8211; Paulo Caroli</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-10/?rdst_srcid=1004866">Produtividade Ninja no Android Studio &#8211; Ramon Ribeiro Rabello</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-11/?rdst_srcid=1002011">Demystifying Cloud Foundry: What, How and Why &#8211; Lucas Rosa Cruz Reginato</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-12/?rdst_srcid=1002004">Quando é lançar antes? &#8211; Daniel Wildt</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sexta-13/?rdst_srcid=1001977">Review, demo e apresentações, o que de fato importa para o seu produto? &#8211; Guilherme Motta</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-1/">Lições aprendidas no código fonte do Roslyn &#8211; Elemar Rodrigues Severo Junior</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-3/?rdst_srcid=995903">Utilizando Golang para minerar moedas como o Bitcoin &#8211; Felipe Teixeira</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-4/">Infraestrutura imutável com mobykit (Moby, Linuxkit e Infrakit) &#8211; Wellington Figueira da Silva</a></p>
+<p><a href="https://www.eventials.com/Globalcode/tdc-poa-2017-stadium-sabado-5/">Acessibilidade no iOS &#8211; Gabriel Oliva</a></p>
+<p><a href="https://www.eventials.com/Globalcode/events/tdconline-porto-alegre-2017-stadium/?rdst_srcid=987319">E muito mais&#8230;</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>TDC 2017 São Paulo</title>
+		<link>https://mauriciobitencourt.com/eventos/tdc-2017-sao-paulo/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 24 Jul 2017 14:14:10 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[São Paulo]]></category>
+		<category><![CDATA[TDC]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=973</guid>
+
+					<description><![CDATA[Estive na edição de São Paulo do TDC The Developers Conference juntamente com Andreas Stange e Niall Deehan vindos da sede da Camunda em Berlim. #Camunda is in Brazil! #TheDevConf may be a little cold but so far its good fun. pic.twitter.com/WPXnEf9OJl — Niall Deehan (@NiallDeehan) 18 de julho de 2017 Enquanto eu e Andreas fizemos [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Estive na edição de São Paulo do <a href="http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilhas">TDC The Developers Conference</a> juntamente com Andreas Stange e Niall Deehan vindos da sede da <a href="https://camunda.com/">Camunda</a> em Berlim.</p>
+<p><span id="more-973"></span></p>
+<blockquote class="twitter-tweet" data-lang="pt">
+<p dir="ltr" lang="en"><a href="https://twitter.com/hashtag/Camunda?src=hash">#Camunda</a> is in Brazil! <a href="https://twitter.com/hashtag/TheDevConf?src=hash">#TheDevConf</a> may be a little cold but so far its good fun. <a href="https://t.co/WPXnEf9OJl">pic.twitter.com/WPXnEf9OJl</a></p>
+<p>— Niall Deehan (@NiallDeehan) <a href="https://twitter.com/NiallDeehan/status/887289349733273601">18 de julho de 2017</a></p></blockquote>
+<p><script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Enquanto eu e Andreas fizemos as voas vindas do público ao estande distribuindo o <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-poster-pt-br-print-1.pdf">poster</a>, <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/07/estudo-de-caso-projeler-fundacred-a4-duas-paginas.pdf">estudo de caso</a>, <a href="http://mauriciobitencourt.com/teorias/guia-de-referencia-bpmn-cmmn-dmn/">guia,</a> <a href="https://mauriciobitencourt.com/wp-content/uploads/2019/11/projeler-camunda-bpm-enterprise-edition.pdf">apresentação</a> e o <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-bpm-em-compraracao-com-alternativas.pdf">folder</a>, Niall demonstrou exemplos incríveis de como ir da modelagem à execução, inclusive, os novos produtos <a href="https://vimeo.com/224155176">Cawemo</a> e <a href="https://vimeo.com/222632284">Camunda Optimize</a>.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-tdc-ecosystem.png"><img decoding="async" loading="lazy" class="aligncenter wp-image-976 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-tdc-ecosystem-1024x728.png" alt="" width="700" height="498" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-tdc-ecosystem-1024x728.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-tdc-ecosystem-300x213.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-tdc-ecosystem-768x546.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-tdc-ecosystem-700x497.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-tdc-ecosystem.png 1811w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Além de participar de todos os dias do vento, Niall Deehan ministrou a palestra <em><a href="http://www.thedevelopersconference.com.br/tdc/2017/saopaulo/trilha-microservicos">How decentralized services can be beautifully orchestrated</a></em> na trilha Microserviços.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-tdc-postcard.png"><img decoding="async" loading="lazy" class="aligncenter wp-image-977 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-tdc-postcard-1024x728.png" alt="" width="700" height="498" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-tdc-postcard-1024x728.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-tdc-postcard-300x213.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-tdc-postcard-768x546.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-tdc-postcard-700x497.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/camunda-tdc-postcard.png 1811w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>A palestra na trilha Microserviços teve sala cheia e excelentes perguntas dos participantes.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/07/IMG_20170719_153018301.jpg"><img decoding="async" loading="lazy" class="aligncenter wp-image-978 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/07/IMG_20170719_153018301-1024x576.jpg" alt="" width="700" height="394" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/07/IMG_20170719_153018301-1024x576.jpg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/IMG_20170719_153018301-300x169.jpg 300w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/IMG_20170719_153018301-768x432.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/IMG_20170719_153018301-700x394.jpg 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Parabéns ao TDC pelas trilhas TDC4KIDS no sábado onde meu filho de oito anos também participou e conheceu um pouco mais sobre robótica.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/07/tdc4kids.jpeg"><img decoding="async" loading="lazy" class="aligncenter wp-image-979 size-medium" src="http://mauriciobitencourt.com/wp-content/uploads/2017/07/tdc4kids-169x300.jpeg" alt="" width="169" height="300" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/07/tdc4kids-169x300.jpeg 169w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/tdc4kids-576x1024.jpeg 576w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/tdc4kids-394x700.jpeg 394w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/tdc4kids.jpeg 648w" sizes="(max-width: 169px) 100vw, 169px" /></a></p>
+<p>Agora é hora de comemorar os resultados de uma semana intensa em São Paulo.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2017/07/tdc-sp-comemoracao.jpeg"><img decoding="async" loading="lazy" class="aligncenter wp-image-980 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2017/07/tdc-sp-comemoracao-1024x576.jpeg" alt="" width="700" height="394" srcset="https://mauriciobitencourt.com/wp-content/uploads/2017/07/tdc-sp-comemoracao-1024x576.jpeg 1024w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/tdc-sp-comemoracao-300x169.jpeg 300w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/tdc-sp-comemoracao-768x432.jpeg 768w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/tdc-sp-comemoracao-700x394.jpeg 700w, https://mauriciobitencourt.com/wp-content/uploads/2017/07/tdc-sp-comemoracao.jpeg 1280w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Estaremos novamente juntos no próximo <a href="http://www.thedevelopersconference.com.br/tdc/2017/index.html">TDC 2017 Porto Alegre</a> a partir do dia 8 de novembro com um <a href="https://camunda.com/news/meet.php?id=1465">estande da Camunda</a> na UniRitter Laureate International Universities.</p>
+<blockquote class="twitter-tweet" data-lang="pt">
+<p dir="ltr" lang="en">Our team is back from <a href="https://twitter.com/hashtag/Brazil?src=hash">#Brazil</a> &amp; had a great time practicing their Portuguese, sharing their <a href="https://twitter.com/hashtag/BPM?src=hash">#BPM</a> stories &amp; meeting everyone at <a href="https://twitter.com/hashtag/TheDevConf?src=hash">#TheDevConf</a> <a href="https://t.co/d0pn3KKzIp">pic.twitter.com/d0pn3KKzIp</a></p>
+<p>— Camunda BPM (@CamundaBPM) <a href="https://twitter.com/CamundaBPM/status/889865588755005440">25 de julho de 2017</a></p></blockquote>
+<p><script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>workshop &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/workshop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Fri, 27 Sep 2019 00:05:32 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>workshop &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hands-On-Workshop para Modelar » Simular » Executar » Otimizar Processos, Casos e Decisões</title>
+		<link>https://mauriciobitencourt.com/workshop/da-modelagem-a-execucao/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 27 Sep 2018 02:43:17 +0000</pubDate>
+				<category><![CDATA[workshop]]></category>
+		<category><![CDATA[BPMN]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[CMMN]]></category>
+		<category><![CDATA[DMN]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1477</guid>
+
+					<description><![CDATA[Objetivo Demonstrar como ir da modelagem à execução de processos, casos e decisões, sempre utilizando a prática durante a apresentação de teoria. Em cada módulo com duração de 8 horas em um único dia, o condutor orientará e resolverá dúvidas para estimular a participação e a dinâmica dos envolvidos. Público Profissionais de Áreas de Negócio [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h6>Objetivo</h6>
+<p>Demonstrar como ir da modelagem à execução de processos, casos e decisões, sempre utilizando a prática durante a apresentação de teoria.</p>
+<p>Em cada módulo com duração de 8 horas em um único dia, o condutor orientará e resolverá dúvidas para estimular a participação e a dinâmica dos envolvidos.</p>
+<p><span id="more-1477"></span></p>
+<h6>Público</h6>
+<p>Profissionais de Áreas de Negócio e de TI envolvidos na melhoria e transformação de processos de negócio, casos adaptativos e decisões com base em regras de negócio.</p>
+<p>Product Owners, UX Designers, Scrum Masters, Release Train Engineers, Analistas de Negócios, Processos e/ou Requisitos, Gerentes de Projeto, Testadores, Desenvolvedores e demais profissionais que trabalhem com a criação de produtos digitais.</p>
+<p>Equipes ágeis na cultura DevOps que desejam integração e distribuição contínua (CI/CD), utilizando frameworks de preferência com os standards de BPM e tecnologias Open Source para aumentar significativamente a produtividade de desenvolvimento e operação.</p>
+<p>Sem pré-requisitos. Não será necessário o conhecimento prévio de uma linguagem de programação, notação ou ferramenta.</p>
+<h6>Por que fazer?</h6>
+<p>Aprenda a construir processos de negócio mais inteligentes e eficazes, integrados a casos e ao modelo de decisão com o uso de técnicas e tecnologias atuais no Camunda Community Platform.</p>
+<h6>Como</h6>
+<p>Você realmente aprenderá praticando os exercícios e tutoriais no seu notebook.</p>
+<p>Ao final dos workshops você estará apto para inovar na sua organização com fluxos de trabalho em formulários eletrônicos, casos, decisões automatizadas e informações integradas a microserviços.</p>
+<h6>Instrutor</h6>
+<p>Maurício Bitencourt, certificado CBPP Red Seal, especialista em integração contínua de processos, casos e decisões automatizados, com foco no fluxo de valor para reduzir a fragmentação organizacional e criar novas experiências relevantes na jornada e nos momentos da vida dos clientes.</p>
+<h6>Investimento</h6>
+<p>R$ 990,00 para cada módulo de 8 horas.</p>
+<h6>Formas de Pagamento</h6>
+<p>Cartão de Crédito em até 3x de R$ 330,00 via <a href="http://www.projeler.com.br/workshop/index.jsp#inscricoes">PayPal</a> ou em 12x via plataforma <a href="https://www.sympla.com.br/workshop-pratico-modelar--simular--executar--otimizar-processos-casos-e-decisoes__463693">Sympla</a>.</p>
+<p>A vista via depósito em conta corrente: BB, Ag 3537-8, Conta 15.386-9 CNPJ 08.044.990/0001-71.</p>
+<p>Nota de Empenho ou Autorização de Fornecimento &#8211; utilize a ficha de inscrição do <a href="http://www.projeler.com.br/pdf/projeler-folder-wmap-wmac-wmad.pdf">folder em PDF</a>.</p>
+<h6>Carga horária</h6>
+<p>Cada módulo do workshop terá carga horária de 8 horas das 9h00 às 18h00.</p>
+<h6>Você receberá</h6>
+<p>Oito horas de capacitação teórica e prática; material para anotações; conteúdo em meio digital na língua portuguesa; acesso a internet para baixar o software Open Source; guia de referência para modelar processos, casos e decisões com BPMN, CMMN e DMN; certificado.</p>
+<h6>Benefícios</h6>
+<p>Com o uso da automação de decisões você poderá obter maior <strong>velocidade, escalabilidade, confiabilidade</strong> dos serviços na entrega de valor aos clientes.</p>
+<p>Com base nos dados mais detalhados de execução dos processos, você poderá habilitar um monitoramento poderoso com capacidades analíticas em tempo real e identificar novos pontos de melhoria dos <strong>processos digitizados</strong>.</p>
+<p>Com o conhecimento adquirido neste workshop, você poderá <strong>substituir progressivamente práticas ultrapassadas</strong>, por exemplo, trâmites manuais em papel e e-mails, controles em planilhas, sistemas obsoletos e atrasos por decisões que não necessitam de julgamento.</p>
+<p>Com a modelagem e a execução de casos adaptativos, você poderá descrever, capturar e automatizar o que os <strong>trabalhadores do conhecimento</strong> realizam.</p>
+<p>Comprovamos que o mapeamento, modelagem, análise e design de processos, casos e decisões é cada vez melhor a medida que se conhece mais sobre a <strong>execução na prática</strong>.</p>
+<p>Conheça o <strong>potencial dos standards de BPM e tecnologias de automação</strong> para aproveitar componentes existentes que aumentam significativamente a produtividade de desenvolvimento e operação.</p>
+<p>Agilidade para obter <strong>software em funcionamento</strong>, documentação de negócio e cenários de testes.</p>
+<p>A modelagem e automação de decisões com base em regras de negócio é perfeita para produzir escalabilidade e precisão de ato administrativo <strong>vinculado</strong> sem julgamento, por outro lado, a modelagem e automação de casos adaptativos são mais apropriados para ato administrativo <strong>discricionário</strong> que permite análise subjetiva através da valoração dos fatos, produzindo uma base de comportamentos e padrões ricos para o estabelecimento de novos processos e decisões.</p>
+<p>Iniciativas de documentação de processos, na maioria dos casos, levam a paralisia por análise, em vez disso, utilize os conhecimentos práticos em <strong>DevOps</strong> destes workshops para estabilizar os processos, criar um pipeline de projetos em com <strong>integração contínua (CI)</strong> e <strong>entrega contínua (CD)</strong> de processos, casos e decisões automatizados e obter o feedback loop de novas idéias de produto, alinhando estratétégias e necessidades dos clientes.</p>
+<p>O gerenciamento de decisões permite criar <strong>uma única fonte de verdade</strong> da organização, habilita a transformação digital, simplifica o fluxo de valor, cria contexto para implementar o aprendizado de máquina (ML) e endereça de forma disruptiva a substituição tarefas humanas dos processos.</p>
+<h6>Observações</h6>
+<p>Cada participante deverá trazer o seu próprio computador para praticar os exercícios.</p>
+<h6>Informações e Inscrições</h6>
+<p><a href="http://www.projeler.com.br/workshop/">www.projeler.com.br/workshop/</a></p>
+<p><a href="https://www.sympla.com.br/projeler">www.sympla.com.br/projeler</a></p>
+<p><a href="http://www.projeler.com.br/pdf/projeler-folder-hands-on-workshop.pdf">Folder em PDF</a></p>
+<h6>Opinião de quem já participou</h6>
+<blockquote>
+<p>Achei o conteúdo bastante abrangente e rico. O material com excelente nível de detalhamento e, sobretudo, a parte prática extremamente esclarecedora.</p>
+</blockquote>
+<p><em>Flávia Silva Azevedo, Administradora do SEI! &#8211; Sistema Eletrônico de Informações na Secretaria de Administração na ESMPU Escola Superior do Ministério Público da União &#8211; Participante da edição de Brasília do Workshop Prático para Modelar, Simular, Executar e Otimizar Processos, Casos e Decisões nos dias 02, 03 e 04 de outubro de 2018.</em></p>
+<blockquote>
+<p>Como o nome sugere o workshop prático entrega o que promete, pois ao final do dia sempre temos um modelo executando construído por você.</p>
+</blockquote>
+<p><em>Rodrigo dos Santos Gomes, Product Owner do Projeto Maestro na Petrobras &#8211; Participante da edição de Brasília do Workshop Prático para Modelar, Simular, Executar e Otimizar Processos, Casos e Decisões nos dias 02, 03 e 04 de outubro de 2018.</em></p>
+<blockquote>
+<p>O workshop entrega conhecimento detalhado e valioso para o desenvolvimento rápido de soluções de automação de processos em modelos executáveis na plataforma de BPM da Camunda.</p>
+</blockquote>
+<p>Aldinei Bastos, Analista de Sistemas na Petrobras &#8211; Participante da edição de Porto Alegre do Workshop Prático para Modelar, Simular, Executar e Otimizar Processos, Casos e Decisões nos dias 18, 19 e 20 de dezembro de 2018.</p>
+<blockquote>
+<p>Participei deste Workshop Prático na edição de Porto Alegre, em Dezembro do ano passado. Didática incrível e controle total sobre o conteúdo proposto. Investimento super bem feito, obrigado Maurício!</p>
+</blockquote>
+<p>Roger Gomes, Analista de BI na Fundacred, via <a href="https://www.linkedin.com/feed/update/urn:li:activity:6506217971990437888?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6506217971990437888%2C6514193698086014976%29">LinkedIn</a> &#8211; Participante da edição de Porto Alegre do Workshop Prático para Modelar, Simular, Executar e Otimizar Processos, Casos e Decisões nos dias 18, 19 e 20 de dezembro de 2018.</p>
+<blockquote>
+<p>Excelente treinamento. O nível de conhecimento do instrutor é altíssimo, o que nos deu motivação e segurança para prosseguir. A ferramenta possui alto valor agregado e tem aplicabilidade clara em diversos processos de negócio da Companhia. Sensacional! Com certeza, um dos melhores treinamentos que eu já fiz. O Maurício é um profissional extremamente gabaritado, experiente e didático. Recomendo a todos os entusiastas de BPM e da ferramenta Camunda.</p>
+</blockquote>
+<p>Alexandre Ramos, Product Owner na Mongeral Aegon &#8211; Participante da edição presencial fechada no Rio de Janeiro em agosto de 2019.</p>
+<p> </p>
+<p>Redes Sociais</p>
+<p><a href="https://www.linkedin.com/feed/update/urn:li:activity:6506217971990437888">LinkedIn</a></p>
+<h6>Fotos de outras edições</h6>
+
+
+<figure class="wp-block-image"><img decoding="async" width="768" height="1024" src="http://mauriciobitencourt.com/wp-content/uploads/2019/03/IMG_20181218_161009-768x1024.jpg" alt="" class="wp-image-1551" srcset="https://mauriciobitencourt.com/wp-content/uploads/2019/03/IMG_20181218_161009-768x1024.jpg 768w, https://mauriciobitencourt.com/wp-content/uploads/2019/03/IMG_20181218_161009-225x300.jpg 225w, https://mauriciobitencourt.com/wp-content/uploads/2019/03/IMG_20181218_161009-525x700.jpg 525w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>Edição do Workshop em Porto Alegre &#8211; Dezembro de 2018</figcaption></figure>
+
+
+
+<p>Vídeo sobre a ferramenta utilizada</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe loading="lazy" width="700" height="394" src="https://www.youtube.com/embed/9WLiPHVZwSE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div><figcaption>Exemplo de Simulação de Processo com BPMN no Camunda Modeler</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

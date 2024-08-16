@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tutorial &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/tutorial/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Wed, 24 Feb 2021 12:33:04 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>Tutorial &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Da modelagem à execução com BPMN e DMN &#8211; Parte 1</title>
+		<link>https://mauriciobitencourt.com/tutorial/da-modelagem-a-execucao-com-bpmn-e-dmn-parte-1/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 13 Jul 2020 18:04:43 +0000</pubDate>
+				<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2052</guid>
+
+					<description><![CDATA[Modelagem e Automação de Fluxos de Trabalho e Decisões - Exercícios Práticos com a Plataforma Camunda BPM]]></description>
+										<content:encoded><![CDATA[
+<p>Veja aqui a primeira parte do passo a passo para colocar a&nbsp;<em>mão na massa</em>&nbsp;e automatizar um fluxo de trabalho simples em plataforma BPMS Open Source.</p>
+
+
+
+<span id="more-2052"></span>
+
+
+
+<p>O objetivo deste tutorial será partir de processos muito simples a situações mais complexas para cobrir todos os elementos dos standards de BPM na&nbsp;<a href="https://mauriciobitencourt.com/teorias/guia-de-referencia-bpmn-cmmn-dmn/">Guia de Referência para Modelar Processos, Casos e Decisões em BPMN, CMMN e DMN</a>. </p>
+
+
+
+<p>Este trabalho é resultado de <em>feedback</em> das pessoas que receberam a guia impressa em eventos que participei ou se cadastraram no meu blog para receber pelos Correios.</p>
+
+
+
+<p>Este exercício prático poderá auxiliar você a repensar seus processos, se aprofundar mais tecnicamente nos standards de BPM e acelerar a Transformação Digital na sua organização com a diminuição da fragmentação do trabalho para um contexto de medição de entrega plena de resultados, menores custos, mais velocidade aos processos e, consequentemente, proporcionar melhores experiências para os usuários (clientes ou beneficiários).</p>
+
+
+
+<h3 class="wp-block-heading">Enunciado do exercício</h3>
+
+
+
+<p>Nesta primeira parte, vamos atender alguns itens do enunciado a seguir. Os outros itens serão endereçados nos próximos posts.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="573" src="https://mauriciobitencourt.com/wp-content/uploads/2020/07/Captura-de-Tela-2018-05-11-às-15.46.55-1024x573-1.png" alt="" class="wp-image-2145" srcset="https://mauriciobitencourt.com/wp-content/uploads/2020/07/Captura-de-Tela-2018-05-11-às-15.46.55-1024x573-1.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2020/07/Captura-de-Tela-2018-05-11-às-15.46.55-1024x573-1-300x168.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2020/07/Captura-de-Tela-2018-05-11-às-15.46.55-1024x573-1-768x430.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2020/07/Captura-de-Tela-2018-05-11-às-15.46.55-1024x573-1-700x392.png 700w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Enunciado do exercício</figcaption></figure>
+
+
+
+<p>* Este slide é parte do material de capacitação da&nbsp;<a href="http://www.projeler.com.br/ec/">Projeler</a>.</p>
+
+
+
+<h3 class="wp-block-heading">Modelagem colaborativa do processo</h3>
+
+
+
+<p>Acesse a plataforma <a href="https://cawemo.com/" target="_blank" rel="noreferrer noopener">Cawemo</a> &#8211; Camunda Web Modeler para fazer login social conforme a imagem animada a seguir:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1280" height="720" src="https://mauriciobitencourt.com/wp-content/uploads/2020/07/01-cawemo-signup.gif" alt="" class="wp-image-2056"/><figcaption>Login social</figcaption></figure>
+
+
+
+<p>Crie um novo projeto chamado &#8220;Tutorial&#8221; e um novo diagrama BPMN chamado &#8220;Publicar Notícia&#8221;.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1280" height="720" src="https://mauriciobitencourt.com/wp-content/uploads/2020/07/02-cawemo-novo-projeto-novo-diagrama.gif" alt="" class="wp-image-2057"/><figcaption>Novo projeto e diagrama</figcaption></figure>
+
+
+
+<p>Adicione três tarefas de usuário e um evento final.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1280" height="720" src="https://mauriciobitencourt.com/wp-content/uploads/2020/07/04-tarefas.gif" alt="" class="wp-image-2060"/><figcaption>Eventos e tarefas</figcaption></figure>
+
+
+
+<p>Adicione os textos em todos os elementos</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1280" height="720" src="https://mauriciobitencourt.com/wp-content/uploads/2020/07/05-caminho-feliz.gif" alt="" class="wp-image-2062"/><figcaption>Descrições dos eventos e tarefas</figcaption></figure>
+
+
+
+<p>Adicione uma piscina ao processo</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1280" height="720" src="https://mauriciobitencourt.com/wp-content/uploads/2020/07/06-piscina.gif" alt="" class="wp-image-2063"/><figcaption>Piscina do processo</figcaption></figure>
+
+
+
+<p>No próximo post <a href="https://mauriciobitencourt.com/tutorial/da-modelagem-a-execucao-com-bpmn-e-dmn-parte-2/">Da modelagem à execução com BPMN e DMN – Parte 2</a> saiba como fazer a instalação do servidor e da ferramenta de modelagem.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Modelagem e Automação de Fluxos de Trabalho e Decisões &#8211; Exercícios Práticos com a Plataforma Camunda BPM &#8211; Parte 1</title>
+		<link>https://mauriciobitencourt.com/tutorial/modelagem-e-automacao-de-fluxos-de-trabalho-e-decisoes-exercicios-praticos-com-a-plataforma-camunda-bpm-parte-1/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Wed, 02 May 2018 03:39:34 +0000</pubDate>
+				<category><![CDATA[tutorial]]></category>
+		<category><![CDATA[Automação de Processos]]></category>
+		<category><![CDATA[Camunda]]></category>
+		<category><![CDATA[Tutorial]]></category>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=1244</guid>
+
+					<description><![CDATA[Veja aqui a primeira parte do passo a passo para colocar a mão na massa e automatizar um fluxo de trabalho simples numa plataforma BPMS Open Source completa. O objetivo destes exercícios será partir de processos muito simples a situações mais complexas para cobrir todos os elementos dos standards de BPM na Guia de Referência para Modelar [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Veja aqui a primeira parte do passo a passo para colocar a <em>mão na massa</em> e automatizar um fluxo de trabalho simples numa plataforma BPMS Open Source completa.</p>
+<p>O objetivo destes exercícios será partir de processos muito simples a situações mais complexas para cobrir todos os elementos dos standards de BPM na <a href="http://mauriciobitencourt.com/teorias/guia-de-referencia-bpmn-cmmn-dmn/">Guia de Referência para Modelar Processos, Casos e Decisões em BPMN, CMMN e DMN</a>. Este trabalho é resultado de feedback das pessoas que receberam a guia impressa em eventos que participei ou se cadastraram no meu blog para receber pelos Correios.</p>
+<p>Este exercício prático poderá auxiliar você a repensar seus processos, se aprofundar mais técnicamente nos standards de BPM e acelerar a Transformação Digital na sua organização com a diminuição da fragmentação do trabalho para um contexto de medição de entrega plena de resultados, menores custos, mais velocidade aos processos e, consequentemente, proporcionar melhores experiências para os usuários (clientes ou beneficiários).</p>
+<p><span id="more-1244"></span></p>
+<h6>Enunciado do exercício</h6>
+<p>Nesta primeira parte, vamos atender alguns itens do enunciado a seguir. Os outros itens serão endereçados nos próximos posts.</p>
+<p>&nbsp;</p>
+<p><div id="attachment_1365" style="width: 710px" class="wp-caption alignnone"><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-11-às-15.46.55.png"><img aria-describedby="caption-attachment-1365" decoding="async" loading="lazy" class="wp-image-1365 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-11-às-15.46.55-1024x573.png" alt="" width="700" height="392" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-11-às-15.46.55-1024x573.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-11-às-15.46.55-300x168.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-11-às-15.46.55-768x429.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-11-às-15.46.55-700x391.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a><p id="caption-attachment-1365" class="wp-caption-text">Enunciado no exercício</p></div></p>
+<p>* Este slide é parte do material de capacitação da <a href="http://www.projeler.com.br/ec/">Projeler</a> ministrado por mim em turmas abertas e fechadas (<em>in company</em>).</p>
+<h6>Arquitetura da solução</h6>
+<p>Utilizaremos os componentes a seguir para atingirmos os objetivos de cobertura de todos elementos das Técnicas BPMN, CMMN e DMN e das Tecnologias de BPM.</p>
+<p><div id="attachment_1318" style="width: 710px" class="wp-caption alignnone"><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-03-às-16.16.42.png" target="_blank" rel="https://camunda.com/products/ noopener"><img aria-describedby="caption-attachment-1318" decoding="async" loading="lazy" class="wp-image-1318 size-large" title="The Camunda Stack: Powerful execution engines for BPMN workflows and DMN decisions paired with essential applications for process automation projects." src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-03-às-16.16.42-1024x560.png" alt="Powerful execution engines for BPMN workflows and DMN decisions paired with essential applications for process automation projects." width="700" height="383" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-03-às-16.16.42-1024x560.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-03-às-16.16.42-300x164.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-03-às-16.16.42-768x420.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-03-às-16.16.42-700x383.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a><p id="caption-attachment-1318" class="wp-caption-text">The Camunda Stack &#8211; camunda.com/products</p></div></p>
+<p>&nbsp;</p>
+<h6>Baixar o Camunda Modeler</h6>
+<p>Acesse <a href="https://camunda.com/download/modeler/">Download Camunda Modeler</a> e faça o download da sua plataforma de preferência: <a href="https://camunda.org/release/camunda-modeler/1.14.0/camunda-modeler-1.14.0-darwin-x64.tar.gz">Mac OS</a>, <a href="https://camunda.org/release/camunda-modeler/1.14.0/camunda-modeler-1.14.0-win32-x64.zip">Windows</a> ou <a href="https://camunda.org/release/camunda-modeler/1.14.0/camunda-modeler-1.14.0-linux-x64.tar.gz">Linux</a> ou acesse a <a href="https://camunda.org/release/camunda-modeler/nightly/">última distribuição</a>.</p>
+<p><div id="attachment_1247" style="width: 710px" class="wp-caption alignnone"><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-21.35.15.png" target="_blank" rel="https://camunda.com/download/modeler/ noopener"><img aria-describedby="caption-attachment-1247" decoding="async" loading="lazy" class="wp-image-1247 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-21.35.15-1024x704.png" alt="" width="700" height="481" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-21.35.15-1024x704.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-21.35.15-300x206.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-21.35.15-768x528.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-21.35.15-700x481.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a><p id="caption-attachment-1247" class="wp-caption-text">Download Camunda Modeler &#8211; camunda.com/download/modeler</p></div></p>
+<p>Agora é só descompactar o arquivo e executar a ferramenta e verificar a versão instalada.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-21.43.03.png"><img decoding="async" loading="lazy" class="wp-image-1248 size-medium aligncenter" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-21.43.03-300x223.png" alt="" width="300" height="223" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-21.43.03-300x223.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-21.43.03-768x570.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-21.43.03-700x520.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-21.43.03.png 792w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h6>Modelar o &#8220;caminho feliz&#8221; processo</h6>
+<p>O caminho feliz (<em>happy path</em>) ou também chamado de <em>STP &#8211; Straight Through Processing</em> é o caminho da configuração padrão de instância, sem retrabalhos e exceções com o mínimo de intervenção humana para tramitar de ponta a ponta (do evento que inicia a instância à entrega de resultado do processo).</p>
+<p>Para mais informações, acesse este assunto a partir do slide 90 da apresentação <a href="http://mauriciobitencourt.com/wp-content/uploads/2017/11/bpmday-2017-mato-grosso-mauricio-bitencourt-transformacao-digital-email.pdf">Transformação Digital de Procesoss, Casos e Decisões</a> em PDF.</p>
+<p>Use a opção File / New File / BPMN Diagram e crie o diagrama publicar-noticia.bpmn a seguir:</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.01.30.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1251 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.01.30-1024x653.png" alt="" width="700" height="446" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.01.30-1024x653.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.01.30-300x191.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.01.30-768x489.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.01.30-700x446.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Após modelar o processo de negócio, você já pode fazer uma primeira simulação simples.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.21.31.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1266 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.21.31-1024x653.png" alt="" width="700" height="446" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.21.31-1024x653.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.21.31-300x191.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.21.31-768x489.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.21.31-700x446.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Para mais informações de como instalar o plugin, acesse <a href="http://mauriciobitencourt.com/teoria/simulacao-de-processo-com-bpmn/">Simulação de processo com BPMN</a>.</p>
+<h6>Mapeamento de propriedades para execução</h6>
+<p>Clique na aba lateral &#8220;Properties Panel&#8221; para apresentar as propriedades de cada contexto do processo.</p>
+<p>Clique em qualquer lugar em branco fora dos eventos e e tarefas para inserir as propriedades do processo, conforme imagem a seguir:</p>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.27.30.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1253 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.27.30-1024x653.png" alt="" width="700" height="446" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.27.30-1024x653.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.27.30-300x191.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.27.30-768x489.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.27.30-700x446.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>As propriedades da seção <em>General</em> serão necessárias para atribuir um identificador único ao processo de negócio, apresentar um rótulo descritivo nas interfaces do Tasklist e Cockpit.</p>
+<p>Clique no evento e altere as propriedades conforme imagem a seguir:</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.29.26.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1254 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.29.26-1024x653.png" alt="" width="700" height="446" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.29.26-1024x653.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.29.26-300x191.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.29.26-768x489.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.29.26-700x446.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Na aba General, altere o Id da tarefa para StartEvent_SolicitacaoDePublicacaoDeNoticiaRecebida ou utilize o <a href="https://github.com/camunda/camunda-modeler-plugins">plugin que renomeia os elementos</a> automaticamente.</p>
+<p>Informe nomeUsuarioInicioInstancia no campo Initiator da seção Details para criar a variável com o nome do usuário que iniciou a instância de processo. Esta variável será utilizada via expressões para atribuir tarefas a este mesmo usuário que iniciou a instância.</p>
+<p>Formulários das tarefas humanas gerados automaticamente</p>
+<p>Para testes de protótipo do processo, utilizaremos as propriedades dos campos do formulários para <a href="https://docs.camunda.org/manual/7.6/user-guide/task-forms/#generated-task-forms">Generated Task Forms</a> que fará a geração de formulários simples a partir do mapeamento de dados.</p>
+<p>Mantendo o contexto no evento de início, selecione a aba Forms e adicione [+] dois campos na seção Form Fields conforme imagens a seguir:</p>
+<p>Campo Título da Notícia</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.49.51.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1256 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.49.51-1024x653.png" alt="" width="700" height="446" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.49.51-1024x653.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.49.51-300x191.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.49.51-768x489.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.49.51-700x446.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Campo Texto da Notícia</p>
+<p>&nbsp;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.53.11.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1257 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.53.11-1024x653.png" alt="" width="700" height="446" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.53.11-1024x653.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.53.11-300x191.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.53.11-768x489.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-22.53.11-700x446.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Adicione estes mesmos campos para as outras três tarefas humanas: Revisar a notícia, Publicar a notícia no site e Informar notícia publicada. Você poderá fazer isso pela aba de propriedades ou copiar/colar parte do XML para as outras tarefas.</p>
+<pre>&lt;bpmn:extensionElements&gt;
+  &lt;camunda:formData&gt;
+    &lt;camunda:formField id="tituloNoticia" label="Título" type="string"&gt;
+      &lt;camunda:validation&gt;
+        &lt;camunda:constraint name="required" /&gt;
+      &lt;/camunda:validation&gt;
+    &lt;/camunda:formField&gt;
+    &lt;camunda:formField id="textoNoticia" label="Texto" type="string"&gt;
+      &lt;camunda:validation&gt;
+        &lt;camunda:constraint name="required" /&gt;
+      &lt;/camunda:validation&gt;
+    &lt;/camunda:formField&gt;
+  &lt;/camunda:formData&gt;
+&lt;/bpmn:extensionElements&gt;</pre>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.00.37.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1258 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.00.37-1024x653.png" alt="" width="700" height="446" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.00.37-1024x653.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.00.37-300x191.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.00.37-768x489.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.00.37-700x446.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Na tarefa &#8216;Revisar a notícia&#8217; altere o Id para UserTask_RevisarANoticia e informe o grupo candidato (<em>Candidate Groups</em>) como &#8216;revisor&#8217;.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.05.59.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1260 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.05.59-1024x653.png" alt="" width="700" height="446" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.05.59-1024x653.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.05.59-300x191.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.05.59-768x489.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.05.59-700x446.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Na tarefa &#8216;Publicar notícia no site&#8217; altere o Id para UserTask_PublicarANoticiaNoSite e informe o grupo candidato (<em>Candidate Groups</em>) como &#8216;ti&#8217;.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.08.46.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1262 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.08.46-1024x653.png" alt="" width="700" height="446" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.08.46-1024x653.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.08.46-300x191.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.08.46-768x489.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.08.46-700x446.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Na tarefa &#8216;Informar notícia publicada&#8217; altere o Id para UserTask_InformarNoticiaPublicada e informe o usuário responsável (<em>Assignee</em>) com a expressão &#8216;${nomeUsuarioInicioInstancia}&#8217; que fará a substituição em tempo de execução pelo conteúdo da variável do usuário que iniciou a instância (<em>instantiator</em>).</p>
+<p>Em todas as tarefas de usuário, adicione a expressão ${tituloNoticia} ao rótulo das tarefas para ser apresentado o conteúdo do título da notícia na lista de tarefas.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.48.01.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1273 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.48.01-1024x653.png" alt="" width="700" height="446" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.48.01-1024x653.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.48.01-300x191.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.48.01-768x489.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.48.01-700x446.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a>Se preferir, use as teclas Shift+Enter para quebrar o texto em uma nova linha.</p>
+<p>Na primeira tarefa, adicione uma descrição: &#8216;O usuário com o papel de revisor deverá dar a sua decisão e o parecer sobre a notícia.&#8217;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.58.20.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1277 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.58.20-1024x653.png" alt="" width="700" height="446" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.58.20-1024x653.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.58.20-300x191.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.58.20-768x489.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.58.20-700x446.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>* O indicador em amarelo do canto da tarefa com uma letra &#8216;D&#8217; é o resultado do plugin que pode ser instalado a partir do<a href="https://github.com/camunda/camunda-modeler-plugins"> repositório do GitHub</a>.</p>
+<p>Agora salve o diagrama.</p>
+<h6>Implantar o diagrama</h6>
+<p>Na barra de ícones, selecione &#8216;Deploy Current Diagram&#8217; para fazer a implantação do processo no servidor do motor de processos.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.15.03.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1264 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.15.03-1024x147.png" alt="" width="700" height="100" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.15.03-1024x147.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.15.03-300x43.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.15.03-768x110.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.15.03-700x101.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.15.03.png 1574w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Na modal de diálogo informe &#8216;publicar-noticia&#8217; no campo &#8216;Deployment Name&#8217; e clique no botão &#8216;Deploy&#8217;.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.17.48.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1265 size-medium" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.17.48-300x133.png" alt="" width="300" height="133" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.17.48-300x133.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.17.48-768x342.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.17.48-1024x455.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.17.48-700x311.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.17.48.png 1196w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Pronto, o seu diagrama já está disponível para ser executado.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.03.08.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1279 size-medium" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.03.08-300x152.png" alt="" width="300" height="152" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.03.08-300x152.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.03.08-768x389.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.03.08-1024x518.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.03.08-700x354.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.03.08.png 1186w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<h6>Execução do fluxo de trabalho</h6>
+<p>No post anterior <a href="http://mauriciobitencourt.com/manual/plataforma-camunda-bpm-pt-br/">Como instalar a plataforma Camunda BPM com a tradução para o Português Brasileiro</a> você terá as informações para criar o ambiente de execução que será utilizado.</p>
+<h6>Habilitar a distribuição de novas versões do projeto no Tomcat</h6>
+<p>Antes de iniciar o servidor Tomcat, altere o arquivo ${CAMUNDA_HOME}<span class="s1">/server/apache-tomcat-9.0.5/conf/</span><span class="s1">tomcat-users.xml adicionando as linhas a seguir:</span></p>
+<pre><span class="s1">&lt;role rolename="manager-gui"/&gt;
+&lt;role rolename="manager-script"/&gt;
+&lt;user username="admin" password="admin123" roles="manager-gui, manager-script"/&gt;</span></pre>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-19.13.12.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1245 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-19.13.12-1024x657.png" alt="" width="700" height="449" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-19.13.12-1024x657.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-19.13.12-300x193.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-19.13.12-768x493.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-19.13.12-700x449.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<h6>Iniciar o servidor</h6>
+<p>Se você estiver em Windows, execute start-camunda.bat</p>
+<p>Se você estiver em Linux ou MacOSX, execute start-camunda.sh</p>
+<h6>Rodar o fluxo de trabalho (<em>workflow</em>)</h6>
+<p>Abra o seu navegador preferido e acesse o <a href="http://localhost:8080/camunda/app/tasklist">Camunda Tasklist</a> com o usuário &#8216;demo&#8217; / senha &#8216;demo&#8217;.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.27.13.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1268 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.27.13-1024x602.png" alt="" width="700" height="412" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.27.13-1024x602.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.27.13-300x176.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.27.13-768x451.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.27.13-700x411.png 700w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.27.13.png 1978w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Na opção de menu no canto superior direito, clique em &#8216;Iniciar processo&#8217; e selecione o processo &#8216;Publicar notícia&#8217;.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.35.02.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1269 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.35.02-1024x440.png" alt="" width="700" height="301" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.35.02-1024x440.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.35.02-300x129.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.35.02-768x330.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.35.02-700x301.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Preencha os campos um título e texto de exemplo e clique no botão &#8216;Iniciar&#8217;.</p>
+<pre>BPMN 2.0 agora é um padrão ISO
+A OMG dá um grande passo para a BPMN se tornar um padrão de fato como notação e modelo para representar e executar de processos de negócio.
+A versão 2.0.2 da Business Process Model and Notation (BPMN) foi publicada como um padrão ISO / IEC 19510:2013.</pre>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.44.41.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1272 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.44.41-1024x453.png" alt="" width="700" height="310" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.44.41-1024x453.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.44.41-300x133.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.44.41-768x340.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.44.41-700x310.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Clique no filtro &#8216;All Tasks (1)&#8217; para selecionar a tarefa &#8216;Revisar a notícia BPMN 2.0 agora é um padrão ISO&#8217;</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.52.50.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1275 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.52.50-1024x498.png" alt="" width="700" height="340" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.52.50-1024x498.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.52.50-300x146.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.52.50-768x374.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.52.50-700x341.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Como a tarefa foi assinalada para o grupo &#8216;revisor&#8217; você terá que se apropriar desta tarefa clicando em &#8216;Assumir&#8217;.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.54.38.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1276 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.54.38-1024x498.png" alt="" width="700" height="340" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.54.38-1024x498.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.54.38-300x146.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.54.38-768x374.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-01-às-23.54.38-700x341.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Perceba que agora a tarefa está disponível para edição e pode ser completada.</p>
+<p>Clique no [x] ao lado do nome do usuário e assuma novamente.</p>
+<p>Clique na aba &#8216;Histórico&#8217; para perceber que todas as operações com a tarefa são auditadas.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.07.23.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1280 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.07.23-1024x498.png" alt="" width="700" height="340" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.07.23-1024x498.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.07.23-300x146.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.07.23-768x374.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.07.23-700x341.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Clique na aba &#8216;Diagrama&#8217; para ver o contexto da tarefa na instância de processo.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.09.11.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1281 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.09.11-1024x489.png" alt="" width="700" height="334" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.09.11-1024x489.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.09.11-300x143.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.09.11-768x366.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.09.11-700x334.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Clique na aba &#8216;Descrição&#8217; para ter acesso as informações sobre a tarefa.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.10.12.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1282 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.10.12-1024x498.png" alt="" width="700" height="340" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.10.12-1024x498.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.10.12-300x146.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.10.12-768x374.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.10.12-700x341.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Retorne para a aba &#8216;Formulário&#8217; e clique no botão &#8216;Completar&#8217;.</p>
+<p>O fluxo de trabalho agora está na tarefa seguinte.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.11.53.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1283 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.11.53-1024x498.png" alt="" width="700" height="340" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.11.53-1024x498.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.11.53-300x146.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.11.53-768x374.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.11.53-700x341.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Clique novamente em &#8216;Assumir&#8217; e clique no botão &#8216;Completar&#8217; na aba &#8216;Formulário&#8217;.</p>
+<p>Perceba que a próxima tarefa aparece agora no filtro My Tasks (1). Você poderá alterar este filtro para &#8216;Minhas Tarefas&#8217; clicando no lápis ao lado.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.15.42.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1284 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.15.42-1024x498.png" alt="" width="700" height="340" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.15.42-1024x498.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.15.42-300x146.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.15.42-768x374.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.15.42-700x341.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Perceba que esta tarefa, ao invés de ser assinalada para o grupo de usuários (papel), ela foi assinalada automaticamente para o usuário que iniciou a instância (solicitante).</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.17.59.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1285 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.17.59-1024x492.png" alt="" width="700" height="336" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.17.59-1024x492.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.17.59-300x144.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.17.59-768x369.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.17.59-700x336.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<h6>Inspecionar a instância de processo</h6>
+<p>Clique no ícone da casa no canto superior direito e troque a visualização para o Camunda Cockpit.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.21.36.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1287 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.21.36-1024x653.png" alt="" width="700" height="446" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.21.36-1024x653.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.21.36-300x191.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.21.36-768x489.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.21.36-700x446.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>No meu superior, clique em &#8216;Processos&#8217; para vermos os processos e volume de instâncias.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.23.44.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1288 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.23.44-1024x432.png" alt="" width="700" height="295" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.23.44-1024x432.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.23.44-300x127.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.23.44-768x324.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.23.44-700x295.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Ao clicar no processo &#8220;Publicar notícia&#8217; veremos as instâncias em execução.<a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.25.00.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1289 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.25.00-1024x432.png" alt="" width="700" height="295" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.25.00-1024x432.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.25.00-300x127.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.25.00-768x324.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.25.00-700x295.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Clique na Id correspondente a uma instância.</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.26.56.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1290 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.26.56-1024x536.png" alt="" width="700" height="366" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.26.56-1024x536.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.26.56-300x157.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.26.56-768x402.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.26.56-700x367.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Podemos perceber o ponto onde a instância está parada, a variável com o nome do usuário que iniciou a instância e o conteúdo das variáveis de formulários neste ponto.</p>
+<p>Na versão Camunda BPM Platform Enterprise Edition é possível analisar dados históricos das instâncias e o Mapa de Calor (Heat Map).</p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.30.22.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1291 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.30.22-1024x536.png" alt="" width="700" height="366" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.30.22-1024x536.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.30.22-300x157.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.30.22-768x402.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.30.22-700x367.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p><a href="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.32.27.png"><img decoding="async" loading="lazy" class="alignnone wp-image-1292 size-large" src="http://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.32.27-1024x521.png" alt="" width="700" height="356" srcset="https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.32.27-1024x521.png 1024w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.32.27-300x153.png 300w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.32.27-768x391.png 768w, https://mauriciobitencourt.com/wp-content/uploads/2018/05/Captura-de-Tela-2018-05-02-às-00.32.27-700x356.png 700w" sizes="(max-width: 700px) 100vw, 700px" /></a></p>
+<p>Espero que você tenha gostado deste primeiro post Modelagem e Automação de Fluxos de Trabalho e Decisões &#8211; Exercícios Práticos com a Plataforma Camunda BPM &#8211; Parte 1. Pudemos conhecer um pouco mais sobre como modelar, implantar, executar e inspecionar uma instância de um processo muito simples.</p>
+<p>No próximo post Modelagem e Automação de Fluxos de Trabalho e Decisões &#8211; Exercícios Práticos com a Plataforma Camunda BPM &#8211; Parte 2 vou apresentar como desenvolver formulários mais elaborados para as tarefas humanas, utilizar o Git e o Maven no Eclipse para controle de versões e implantação da aplicação com um pacote de distribuição e começar o fluxo de entregas contínuas BizDevOps, ou apenas DevOps.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

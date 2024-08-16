@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Process Orchestration &#8211; Maur&iacute;cio Bitencourt</title>
+	<atom:link href="https://mauriciobitencourt.com/tag/process-orchestration/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Tue, 24 Jan 2023 23:49:42 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://mauriciobitencourt.com/wp-content/uploads/2020/01/cropped-mauricio-bitencourt-512x512-1-1-32x32.png</url>
+	<title>Process Orchestration &#8211; Maur&iacute;cio Bitencourt</title>
+	<link>https://mauriciobitencourt.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gestão do Fluxo de Valor e Orquestração de Processos</title>
+		<link>https://mauriciobitencourt.com/eventos/gestao-do-fluxo-de-valor-e-orquestracao-de-processos/</link>
+		
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2023 12:41:31 +0000</pubDate>
+				<category><![CDATA[eventos]]></category>
+		<category><![CDATA[Fluxo de Valor]]></category>
+		<category><![CDATA[Gestão do Fluxo de Valor]]></category>
+		<category><![CDATA[Orquestração de Processos]]></category>
+		<category><![CDATA[Process Orchestration]]></category>
+		<category><![CDATA[Value Stream]]></category>
+		<category><![CDATA[Value Stream Management]]></category>
+		<category><![CDATA[vsm]]></category>
+		<guid isPermaLink="false">https://mauriciobitencourt.com/?p=2872</guid>
+
+					<description><![CDATA[O software é o diferencial competitivo que impulsiona todos os negócios, em todos os setores, de uma forma ou de outra. Toda empresa deve evoluir seus processos de negócio e o desenvolvimento e entrega de software para competir neste novo mundo, ou enfrentar a perspectiva de se tornar obsoleta e ser ultrapassada pelos concorrentes. Com [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>O software é o diferencial competitivo que impulsiona todos os negócios, em todos os setores, de uma forma ou de outra. Toda empresa deve evoluir seus processos de negócio e o desenvolvimento e entrega de software para competir neste novo mundo, ou enfrentar a perspectiva de se tornar obsoleta e ser ultrapassada pelos concorrentes. Com essa mudança de foco, surgem os desafios de acelerar a entrega de software para atender às metas de negócios da empresa, obter informações sobre a eficiência dos processos para impulsionar a melhoria contínua e medir o valor que entrega para levar o negócio adiante.</p>
+
+
+
+<span id="more-2872"></span>
+
+
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="Gestão do Fluxo de Valor e Orquestração de Processos - UFRGS" width="700" height="394" src="https://www.youtube.com/embed/AXUrMowvsNg?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div><figcaption class="wp-element-caption">Gestão do Fluxo de Valor e Orquestração de Processos</figcaption></figure>
+
+
+
+<p><a rel="noreferrer noopener" href="https://drive.google.com/file/d/1yHm4AVZ90qsTDH5ucjG3cuxKaE5xpc65/view?usp=sharing" target="_blank">Clique aqui para baixar o PDF da apresentação.</a></p>
+
+
+
+<p>O surgimento de metodologias BizDevOps trouxe a mudança de pensamento de transformação ou melhoria contínua dos processos de negócio com os benefícios da entrega de automação de processos de maneira mais ágil juntamente com mudanças culturais nas equipes compostas por áreas de Negócio e TI.</p>
+
+
+
+<p>Felizmente, a combinação das técnicas de <strong><em>Value Stream Management</em></strong> e <strong><em>Process Orchestration</em></strong> abriu um mercado a ser explorado por organizações com a visão de capacitar equipes com ferramentas, governança e análise para ultrapassar seus concorrentes que se concentram em aprimoramentos mínimos, fragmentados e incrementais na sua Cadeia de Valor.<br>Compreender os principais desafios, identificar práticas essenciais de gerenciamento de fluxos de valor na entrega de software e escolher um bom motor de automação de processos e regras de decisão, utilizando menor esforço e menos código (para não reinventar componentes de software especializados já disponíveis), pode garantir que uma organização seja capaz de criar produtos digitais melhores, mais baratos e mais rápidos do que nunca.</p>
+
+
+
+<h2 class="wp-block-heading">Orquestração de Processos</h2>
+
+
+
+<p>Muitas empresas buscam alcançar a verdadeira automação de ponta a ponta, onde os processos são executados perfeitamente entre pessoas, sistemas e dispositivos. Quando você está construindo do zero como uma startup, esse nível de automação de processos é mais fácil de alcançar do que se você estiver enfrentando sistemas legados.</p>
+
+
+
+<p>No entanto, para a maioria das empresas, lidar com sistemas legados é outra realidade. Uma pesquisa da Tata Consultancy Services e da AWS descobriu que 70% das empresas globais listam a modernização do legado como uma das principais prioridades estratégicas de negócios. Mas remover e substituir esses sistemas é prejudicial e caro. Além dos sistemas legados sozinhos, a quantidade ou diversidade microsserviços, complexidade do processo e trabalho fragmentado/especialista em silos podem contribuir para desafios com automação pontual ou ineficaz. É aí que entra a orquestração de processos.</p>
+
+
+
+<p>O que é orquestração de processos? A orquestração de processos coordena vários componentes de um processo de negócios e, às vezes, até une vários outros processos. A orquestração de processos ajuda você a trabalhar com as pessoas, sistemas e dispositivos que você já possui – enquanto alcança até mesmo as metas mais ambiciosas em relação à automação de processos de ponta a ponta para garantir a entrega plena de resultado para os clientes.</p>
+
+
+
+<h3 class="wp-block-heading">Diversidade de pequenos serviços independentes</h3>
+
+
+
+<p>Todo processo consiste em tarefas. Para executar o processo, você precisa coordenar a execução de suas tarefas. O software de orquestração de processos executa o processo, mas não executa as tarefas. Em vez disso, as tarefas são executadas por microsserviços, que podem ser pessoas, sistemas de software ou dispositivos físicos.</p>
+
+
+
+<p>Quanto mais diversificados forem esses pequenos serviços independentes (endpoints), mas você precisará de um poderoso motor de orquestração de processos que permita integrar esses endpoints de maneira rápida e flexível. Por exemplo, as pessoas podem estar trabalhando com diferentes dispositivos front-end ou diferentes aplicativos que executam suas tarefas quando invocados por meio de uma API (derivada da expressão inglesa Application Programming Interface que, traduzida para o português, pode ser compreendida como uma interface de programação de aplicação).</p>
+
+
+
+<h3 class="wp-block-heading">Complexidade do processo</h3>
+
+
+
+<p>Para coordenar a execução de suas tarefas é necessário um algoritmo que expressa a lógica do mundo real que raramente é apenas uma sequência direta de etapas. A lógica do processo geralmente é muito mais complexa e precisa ser descrita por padrões de fluxo de trabalho avançados e standards de BPM como a notação e modelo BPMN 2.0.</p>
+
+
+
+<p>Para lidar com a complexidade dos processos, necessitamos endereçar grandes desafios:</p>
+
+
+
+<p>Alinhamento: Projetar, operar e melhorar processos complexos de ponta a ponta requer colaboração entre as partes interessadas técnicas e não técnicas. Isso é difícil de conseguir porque devemos integrar desenvolvedores Low-Code e Pro-Code no mesmo time (também chamados de squads ou jornadas) e no mesmo ritmo de integração e entregas contínuas (CI/CD).</p>
+
+
+
+<p>Escalabilidade e resiliência: a execução de processos em endpoints precisa acontecer de maneira confiável e escalável. Por exemplo, um fornecedor de comércio eletrônico pode ter um aumento nos pedidos online que requer processamento entre sistemas/pessoas. Um orquestrador de instâncias de processos precisa lidar com picos de transação. Ou deve oferecer alta disponibilidade; por exemplo, permitindo que a lógica de orquestração seja executada em uma implantação redundante em vários datacenters.</p>
+
+
+
+<h3 class="wp-block-heading">Padrões avançados de fluxo de trabalho para o mundo real</h3>
+
+
+
+<p>Uma plataforma de orquestração de processos que usa um conjunto reduzido de elementos dos padrões básicos de fluxo de trabalho (etapas em uma sequência, ramificações para processos baseados em if/then/else ou execução paralela de etapas), pode ser suficiente para automação de tarefas locais (como o trabalho que um usuário de aplicativo faz na interface do usuário, que pode ser automatizado por RPA) ou fluxos de integração simples (para mover dados de um aplicativo para outro usando uma ferramenta iPaaS). Na maioria dos processos não é tão simples e requer padrões avançados de fluxo de trabalho.</p>
+
+
+
+<p>A maioria desses padrões envolve a reação a eventos ou a manipulação de lógica complexa de processos de negócios em vários endpoints. Padrões de modelagem de processos como BPMN foram criados para projetar e executar esses fluxos de trabalho avançados. Ferramentas de modelagem que suportam BPMN permitem uma colaboração muito mais efetiva entre os diferentes interessados e envolvidos de um processo, como usuários de negócios e desenvolvedores. Além disso, as ferramentas de execução que suportam BPMN garantem uma orquestração confiável e escalável do processo de ponta a ponta, apesar de sua complexidade.</p>
+
+
+
+<p>A combinação do padrão BPMN para a automação dos processos com o padrão DMN a automação de regras de decisão com base em dados, habilitam a hiperautomação para obter operações autônomas e resilientes que elevam a maturidade operacional das organizações.</p>
+
+
+
+<h2 class="wp-block-heading">Conclusões</h2>
+
+
+
+<p>Para resumir, a tecnologia de orquestração de processos faz mais sentido quando seus processos de negócios abrangem um conjunto diversificado de endpoints de processo e são descritos por uma lógica mais complexa do que apenas uma simples sequência de etapas. Com isso dito, processos complexos não requerem tecnologia complexa. Um orquestrador de processo universal Open Source pode ser poderoso, amigável ao desenvolvedor e demonstrar o retorno de investimento rapidamente.<br>Aproveitar a orquestração de processos pode ajudar sua equipe a tirar o máximo proveito da automação – e alcançar os níveis de eficiência exponenciais.</p>
+
+
+
+<p>Adaptado de <a href="https://camunda.com/process-orchestration/">The Process Orchestration Handbook</a></p>
+
+
+
+<h3 class="wp-block-heading">Links para os Estudos de Caso Mencionados na Apresentação</h3>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=dNGR5Z7Nn0Y" target="_blank" rel="noreferrer noopener">Camunda como Orquestrador na Originação de Clientes e Venda de Produtos Financeiros no Banco Agi por Jean Robert Alves, Software Architect Expert at Agi e Camunda Champion.</a></p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=pAy_a8Wxcik" target="_blank" rel="noreferrer noopener">Escalabilidade ao máximo com observabilidade e operações na orquestração de processos. Mesa Redonda com o Time do Itaú Unibanco no Camunda User Group Brazil Hybrid Meetup São Paulo.</a></p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=V-OBIMG51K4" target="_blank" rel="noreferrer noopener">Grandes desafios de picos de escalabilidade na orquestração de microsserviços da Jornada de Vendas do GloboPlay. Mesa Redonda com o Time da GloboPlay no Camunda User Group Brazil -Rio de Janeiro Hybrid Meetup #12</a></p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=HMM_vBl4h6U" target="_blank" rel="noreferrer noopener">Velocidade e agilidade de desenvolvimento de fluxos de trabalho sem abrir mão de customização e personalização de serviços aos clientes. &#8211; Mesa Redonda com o Time do BRB Banco de Brasília no Camunda User Group Brazil &#8211; Hybrid Meetup #10</a></p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=BlmMFWxH7Zg" target="_blank" rel="noreferrer noopener">Estudo de Caso do TCE-PI sobre decisões vinculadas automatizadas em DMN e modelos treinados com aprendizado de máquina (machine learning) em Python para decisões discricionárias.</a></p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=BWjWCiVht-4" target="_blank" rel="noreferrer noopener">Estudo de Caso da Câmara de Deputados em Brasília sobre testes automatizados, integração e distribuição contínua (CI/CD) na orquestração de processos de negócio e regras de decisão.</a></p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=PPwHytEx46g" target="_blank" rel="noreferrer noopener">Celeridade e precisão no Processo de Emissão de Licenciamento Ambiental Digital com Camunda Community Edition Open Source Free Camunda Platform na Integração e Orquestração da Emissão de Licenciamento Ambiental Digital na SEMA Secretaria do Meio Ambiente do Mato Grosso.</a></p>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=ITzfJ3zywkg" target="_blank" rel="noreferrer noopener">Orquestração do Processo da Solicitação à Análise e Concessão de Benefício com Regras de Negócio Automatizadas. Estudo de Caso da MAG Seguros (Mongeral Eagon) no Camunda User Group Brazil &#8211; Remote Meetup.</a></p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<h2 class="wp-block-heading">Mensagens nas Redes Sociais</h2>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7016545942845702144" height="526" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+
+
+<p><iframe loading="lazy" src="https://www.linkedin.com/embed/feed/update/urn:li:share:7022009185668087808" height="431" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
