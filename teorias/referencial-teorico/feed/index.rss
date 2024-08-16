@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: Referencial teórico	</title>
+	<atom:link href="https://mauriciobitencourt.com/teorias/referencial-teorico/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciobitencourt.com/teorias/referencial-teorico/</link>
+	<description>Process and Decision Automation with Microservices Orchestration, CBPP Red Seal</description>
+	<lastBuildDate>Mon, 23 Oct 2017 21:02:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		Por: Maurício Bitencourt		</title>
+		<link>https://mauriciobitencourt.com/teorias/referencial-teorico/#comment-21</link>
+
+		<dc:creator><![CDATA[Maurício Bitencourt]]></dc:creator>
+		<pubDate>Mon, 23 Oct 2017 21:01:56 +0000</pubDate>
+		<guid isPermaLink="false">http://mauriciobitencourt.com/?p=226#comment-21</guid>
+
+					<description><![CDATA[Dica: BPM books – 2017 reading list
+
+http://bpmtips.com/bpm-books-2017-reading-list/]]></description>
+			<content:encoded><![CDATA[<p>Dica: BPM books – 2017 reading list</p>
+<p><a href="http://bpmtips.com/bpm-books-2017-reading-list/" rel="nofollow ugc">http://bpmtips.com/bpm-books-2017-reading-list/</a></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
